@@ -1,5 +1,5 @@
 ---
-title: "FLT Text Processer"
+title: "FLT Text Processor"
 author: "Erin M. Buchanan"
 date: "11/22/2019"
 output: html_document
@@ -9,22 +9,162 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Libraries
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r}
+library(stringr)
+library(data.table)
+library(stringi)
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
+## Read in the Files
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+- This section reads in the raw text files of the 3722 words we collected for the Buchanan et al. 2013 and 2019 papers. We will combine these with the other norms later for the full dataset. 
+
+- If you check out https://github.com/doomlab/Word-Norms-2 you can download these files for yourself - this folder is the .5 raw words folder. The 0 word lists folder has the data in a bunch of different formats. This folder has the data in single text files for each word. 
+
+- Please note the `word_con.txt` file is the word `con` but you can't name a file `con.txt` on windows machines. 
+
+```{r}
+##find the files
+the_file_path <- "/Users/buchanan/GitHub/46 Word-Norms-2/0.5 raw words"
+list.filenames <- list.files(path = the_file_path)
+
+##create empty list to store stuff
+list.data <- list()
+
+##open all the files 
+for (i in 1:length(list.filenames)){
+  list.data[[i]] <- readLines(paste(the_file_path, "/", list.filenames[i], sep = ""))
+}
+
+##give them names
+names(list.data) <- list.filenames
+
+##create the final data frame
+final_data <- data.frame(unlist(list.data))
+final_data$cue <- rownames(final_data)
+colnames(final_data)[1] <- "participant_answer"
+final_data$participant_answer <- as.character(final_data$participant_answer)
+
+##clean up the cue names
+##find participant number with the file number that is appended 
+final_data$participant_num <- str_extract(final_data$cue, 
+                                          pattern = "\\d+")
+
+##take the numbers .txt out of the cue
+final_data$cue <- str_replace_all(final_data$cue,
+                                  pattern = "\\d+|.txt|word_",
+                                  replacement = "")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Remove symbols
+
+- Practically, we need to remove symbols first, as they interfere with the ability of processing the rest of the data (i.e., counting, searching, etc.). 
+
+```{r}
+final_data$participant_answer <- stri_trans_general(str = final_data$participant_answer,
+                   id = "Latin-ASCII")
+```
+
+## Remove Wikipedia articles
+
+- When using MTurk participants, we had several participants who copied from Wikipedia and/or Synonyms Pages as their answer. 
+
+```{r}
+final_data$character_num <- nchar(final_data$participant_answer)
+hist(final_data$character_num, breaks = 100)
+
+bad_character_count = 150
+
+##remove all empties
+no_zero <- subset(final_data, character_num > 0)
+nrow(final_data) - nrow(no_zero)
+
+##remove all duplicates over bad_character_count characters
+no_zero$duplicate <- duplicated(no_zero$participant_answer) & no_zero$character_num > bad_character_count
+
+no_duplicates <- subset(no_zero, duplicate == FALSE)
+nrow(no_zero) - nrow(no_duplicates)
+
+##remove long answers that start with " 1) or (1) over bad_character_count characters
+no_duplicates$problem <-  str_detect(no_duplicates$participant_answer, 
+           pattern = "^1\\)|^\\(1\\)|^\"") & no_duplicates$character_num > bad_character_count
+no_wiki <- subset(no_duplicates, problem == FALSE)
+nrow(no_duplicates) - nrow(no_wiki)
+```
+
+## Check for copy and paste
+
+- This analysis checks for plagiarism in participant answers with at least 200 characters. Because we are checking with an online tool, these were run in batches slowly to not crash or upset the IP address holders. 
+
+```{r plag_check, eval = F}
+
+wiki_to_check <- subset(no_wiki, character_num > 200)
+
+library(RSelenium)
+
+#open firefox 
+rD <- rsDriver(browser = "firefox")
+
+##connect the driver client
+remDr <- rD[["client"]]
+
+##create a place to store the answers
+wiki_to_check$plag_check <- NA
+
+for (i in 1:500){  #length(wiki_to_check)
+
+  ##go to plag_detector 
+  remDr$navigate("https://freeplagiarismchecker.pro")
+  
+  ##find the typing box
+  webElem <- remDr$findElement(using = "name","text")
+  
+  ##put in your words you want to translate 
+  webElem$sendKeysToElement(list(wiki_to_check$participant_answer[i], "\uE007"))
+  
+  ##find the button 
+  webElem <- remDr$findElement(using = "class name","btn-start-check")
+  
+  ##click the button
+  webElem$clickElement()
+  
+  ##read in the answers
+  webpage <-remDr$getPageSource()
+  
+  ##find the number
+  answers <- webpage %>% 
+    unlist() %>% 
+    read_html() %>% 
+    html_nodes("div") %>% 
+    html_text() 
+  
+  ##save the answer
+  wiki_to_check$plag_check[i] <- answers[str_detect(answers, "^\\d+%")][1]
+  
+  ##sys sleep to pause
+  Sys.sleep(runif(1,2,10))
+}
+
+## close the remote after you are done, make sure to give everything above time to run
+remDr$close()
+# stop the selenium server
+rD[["server"]]$stop()
+```
+
+
+
+## Expand to long format 
+
+
+
+## Expand contractions
+
+## Spelling
+
+## Lemmatize
+
+## Remove StopWords
+
