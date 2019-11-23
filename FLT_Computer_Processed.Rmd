@@ -152,6 +152,8 @@ for (i in 1:500){  #length(wiki_to_check)
 remDr$close()
 # stop the selenium server
 rD[["server"]]$stop()
+
+write.csv(wiki_to_check, "wiki_to_check.csv", row.names = F)
 ```
 
 
