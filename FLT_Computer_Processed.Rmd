@@ -114,7 +114,7 @@ remDr <- rD[["client"]]
 ##create a place to store the answers
 #wiki_to_check$plag_check <- NA
 
-for (i in 1501:1525){  #length(wiki_to_check)
+for (i in 1526:length(wiki_to_check)){  #length(wiki_to_check)
 
   ##go to plag_detector 
   remDr$navigate("https://freeplagiarismchecker.pro")
@@ -159,10 +159,6 @@ rD[["server"]]$stop()
 
 write.csv(wiki_to_check, "./output_data/wiki_to_check.csv", row.names = F)
 ```
-
-## Wikipedia check
-
-- since this doesn't actually catch the wiki ones and maybe the synonyms page  
 
 ## Expand to long format 
 
