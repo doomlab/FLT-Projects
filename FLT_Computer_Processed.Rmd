@@ -68,7 +68,7 @@ final_data$participant_answer <- stri_trans_general(str = final_data$participant
                    id = "Latin-ASCII")
 ```
 
-## Remove Wikipedia articles
+## Remove copied articles
 
 - When using MTurk participants, we had several participants who copied from Wikipedia and/or Synonyms Pages as their answer. 
 
@@ -112,9 +112,9 @@ rD <- rsDriver(browser = "firefox")
 remDr <- rD[["client"]]
 
 ##create a place to store the answers
-wiki_to_check$plag_check <- NA
+#wiki_to_check$plag_check <- NA
 
-for (i in 501:1000){  #length(wiki_to_check)
+for (i in 1501:1525){  #length(wiki_to_check)
 
   ##go to plag_detector 
   remDr$navigate("https://freeplagiarismchecker.pro")
@@ -131,6 +131,9 @@ for (i in 501:1000){  #length(wiki_to_check)
   ##click the button
   webElem$clickElement()
   
+  #pause so the page doesn't freak out 
+  Sys.sleep(2)
+  
   ##read in the answers
   webpage <-remDr$getPageSource()
   
@@ -139,13 +142,14 @@ for (i in 501:1000){  #length(wiki_to_check)
     unlist() %>% 
     read_html() %>% 
     html_nodes("div") %>% 
-    html_text() 
+    html_text() %>% 
+    str_trim()
   
   ##save the answer
-  wiki_to_check$plag_check[i] <- answers[str_detect(answers, "^\\d+%")][1]
+  wiki_to_check$plag_check[i] <- answers[str_detect(answers, "^\\d+%|^0\n\nSimilarities")][1]
   
   ##sys sleep to pause
-  Sys.sleep(runif(1,10,15))
+  Sys.sleep(runif(1,10,11))
 }
 
 ## close the remote after you are done, make sure to give everything above time to run
@@ -153,14 +157,14 @@ remDr$close()
 # stop the selenium server
 rD[["server"]]$stop()
 
-write.csv(wiki_to_check, "wiki_to_check2.csv", row.names = F)
+write.csv(wiki_to_check, "./output_data/wiki_to_check.csv", row.names = F)
 ```
 
+## Wikipedia check
 
+- since this doesn't actually catch the wiki ones and maybe the synonyms page  
 
 ## Expand to long format 
-
-
 
 ## Expand contractions
 
