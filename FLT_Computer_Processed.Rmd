@@ -93,6 +93,8 @@ no_duplicates$problem <-  str_detect(no_duplicates$participant_answer,
            pattern = "^1\\)|^\\(1\\)|^\"") & no_duplicates$character_num > bad_character_count
 no_wiki <- subset(no_duplicates, problem == FALSE)
 nrow(no_duplicates) - nrow(no_wiki)
+
+write.csv(no_wiki, "./output_data/wiki_to_check.csv", row.names = F)
 ```
 
 ## Check for copy and paste
@@ -101,7 +103,10 @@ nrow(no_duplicates) - nrow(no_wiki)
 
 ```{r plag_check, eval = F}
 
-#wiki_to_check <- subset(no_wiki, character_num > 200)
+no_wiki <- read.csv("./output_data/wiki_to_check.csv", 
+                          stringsAsFactors = F)
+
+#wiki_to_check <- subset(no_wiki, character_num > 400)
 
 library(RSelenium)
 
@@ -157,7 +162,7 @@ remDr$close()
 # stop the selenium server
 rD[["server"]]$stop()
 
-write.csv(wiki_to_check, "./output_data/wiki_to_check.csv", row.names = F)
+write.csv(wiki_to_check, "./output_data/screened_answers.csv", row.names = F)
 ```
 
 ## Expand to long format 
