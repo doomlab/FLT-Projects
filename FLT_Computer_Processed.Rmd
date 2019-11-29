@@ -184,7 +184,7 @@ checked_wiki <- rbind(
 checked_wiki$percent <- str_extract(checked_wiki$plag_check, 
                                    pattern = "\\d+")
 checked_wiki$where <- str_detect(checked_wiki$plag_check, 
-                                 pattern = "wiki|quizlet|diction|answer")
+                                 pattern = "wiki|quizlet|diction|answer|course")
 
 #anything marked true
 #anything over 50% 
