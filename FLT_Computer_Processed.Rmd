@@ -102,6 +102,7 @@ write.csv(no_wiki, "./output_data/wiki_to_check.csv", row.names = F)
 ## Check for copy and paste
 
 - This analysis checks for plagiarism in participant answers with at least 200 characters. Because we are checking with an online tool, these were run in batches slowly to not crash or upset the IP address holders. 
+- This analysis does not run when you knit, but could be used code-wise for other entries.
 
 ```{r plag_check, eval = F}
 
@@ -152,7 +153,7 @@ for (i in 1:nrow(wiki_to_check)){
     html_nodes("div") %>% 
     html_text() %>% 
     str_trim()
-  
+
   ##save the answer
   wiki_to_check$plag_check[i] <- answers[str_detect(answers, "^\\d+%|^0\n\nSimilarities")][1]
   
@@ -169,6 +170,29 @@ write.csv(wiki_to_check, "./output_data/screened_answers_300.csv", row.names = F
 
 #write.csv(wiki_to_check, "./output_data/screened_answers_400.csv", row.names = F)
 ```
+
+## Clear out bad entries
+
+- These saved files were updated to fix the ~ seven entries that came up as NA in the web scraping. 
+- We will reimport them and use them to do a final wikipedia/dictionary filter. 
+
+```{r}
+checked_wiki <- rbind(
+  read.csv("./output_data/screened_answers_300.csv", stringsAsFactors = F),
+  read.csv("./output_data/screened_answers_400.csv", stringsAsFactors = F))
+
+checked_wiki$percent <- str_extract(checked_wiki$plag_check, 
+                                   pattern = "\\d+")
+checked_wiki$where <- str_detect(checked_wiki$plag_check, 
+                                 pattern = "wiki|quizlet|diction|answer")
+
+#anything marked true
+#anything over 50% 
+
+#pull out of the original data 
+
+```
+
 
 ## Expand to long format 
 
