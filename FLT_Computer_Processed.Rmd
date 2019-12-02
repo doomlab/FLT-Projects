@@ -19,6 +19,7 @@ library(dplyr)
 library(rvest)
 library(tidytext)
 library(textclean)
+library(hunspell)
 ```
 
 
@@ -289,16 +290,35 @@ write.csv(no_contractions, "./output_data/text_no_contractions.csv", row.names =
 
 ## Spelling
 
+- In this section, we are finding all the unique words (tokens) and figuring out what to do about spelling. 
+- This section requires the most hand-editing. `hunspell` provides a great first start, but we will have to check its suggestions for accuracy by hand. 
+
 ```{r}
 #can read in the no_contractions file if you need to
 
 # Extract a list of words
 tokens <- unnest_tokens(tbl = no_contractions, output = token, input = participant_answer)
 wordlist <- unique(tokens$token)
+
 # Spell check the words
 spelling.errors <- hunspell(wordlist)
 spelling.errors <- unique(unlist(spelling.errors))
 spelling.sugg <- hunspell_suggest(spelling.errors, dict = dictionary("en_US"))
+
+# Take all the suggestions
+spelling.sugg <- t(sapply(spelling.sugg, "length<-", max(lengths(spelling.sugg))))
+
+# Combine them together
+spelling.dict <- as.data.frame(cbind(spelling.errors,spelling.sugg))
+
+#write that out and edit it
+write.csv(spelling.dict, "./output_data/spelling_dict.csv", row.names = F)
+```
+
+- Next, we will read in the edited spelling dictionary and replace the data. 
+
+```{r}
+
 ```
 
 
