@@ -17,6 +17,8 @@ library(data.table)
 library(stringi)
 library(dplyr)
 library(rvest)
+library(tidytext)
+library(textclean)
 ```
 
 
@@ -187,20 +189,121 @@ checked_wiki$where <- str_detect(checked_wiki$plag_check,
                                  pattern = "wiki|quizlet|diction|answer|course")
 
 #anything marked true
+table(checked_wiki$where)
 #anything over 50% 
+checked_wiki$percent <- as.numeric(checked_wiki$percent)
+hist(checked_wiki$percent)
+table(checked_wiki$percent > 50)
 
 #pull out of the original data 
+bad_answers <- subset(checked_wiki, 
+                      where == TRUE | percent > 50)
+nrow(bad_answers)
 
+#no wiki is the last real dataset before checking section
+no_bad_answers <- subset(no_wiki,
+                         !(participant_answer %in% bad_answers$participant_answer))
+
+nrow(no_wiki) - nrow(no_bad_answers)
 ```
-
 
 ## Expand to long format 
 
+- This section drops the duplicate and problem columns that were used to check for wikipedia and other issues.
+- Then, we use unnest_tokens to separate out participants answers from one large dataset until more traditional cue-feature responses (no perfect but some good guesses based on tabs, commas, and semi-colons).
+- Finally, extra spaces are trimmed out. 
+
+```{r}
+no_bad_answers <- 
+  no_bad_answers %>% 
+  select(-duplicate, -problem, -character_num) %>% 
+  unnest_tokens(output = participant_answer, 
+                input = participant_answer, 
+                token = stringr::str_split, 
+                        pattern = "  |\\, |\\.|\\,|\\;")
+no_bad_answers$participant_answer <- trimws(no_bad_answers$participant_answer, 
+                       which = c("both", "left", "right"), 
+                       whitespace = "[ \t\r\n]")
+
+##remove empty answers
+no_bad_answers <- subset(no_bad_answers, 
+                         nchar(participant_answer) > 0)
+```
+
 ## Expand contractions
+
+- Next, we will expand all contractions using the contractions dictionary in `textclean`. You can edit this dictionary if interested or we are missing some. 
+
+```{r}
+##fix any issues with the type of contraction symbol
+no_bad_answers$participant_answer <- str_replace_all(no_bad_answers$participant_answer, 
+                                                     pattern = "’", 
+                        replacement = "'")
+
+##lower case just in case
+no_bad_answers$participant_answer <- tolower(no_bad_answers$participant_answer)
+
+##expand the contractions lexicon 
+contractions <- lexicon::key_contractions
+contractions$contraction <- tolower(contractions$contraction)
+contractions$expanded <- tolower(contractions$expanded)
+
+##find all ' with word boundaries 
+used_apostrophe <- unique(unlist(str_extract_all(no_bad_answers$participant_answer, 
+                pattern = "\\b\\w+\'\\w+\\b",
+                simplify = F)))
+
+used_apostrophe <- used_apostrophe[!(used_apostrophe %in% contractions$contraction)]
+
+##add contractions
+new_contract <- c("b'day", "dip'n", "doens't", "does'nt", "does't", 
+                  "dosn't", "gov't", "hadn't", "haven't", "needn't", 
+                  "rock'n", "	theyr'e", "toys'r", "y'all", "your'e")
+new_expand <- c("birthday", "dip and", "does not", "does not", "does not", 
+                "does not", "government", "had not", "have not", "need not",
+                "rock and", "they are", "toys r", "you all", "you are")
+new_together <- cbind(new_contract, new_expand)
+colnames(new_together) <- colnames(contractions)
+contractions <- rbind(contractions, new_together)
+write.csv(contractions, "./output_data/contraction_dict.csv", row.names = F)
+
+##replace contractions
+no_contractions <- no_bad_answers
+no_contractions$participant_answer <- replace_contraction(no_contractions$participant_answer, 
+                                       contraction.key = contractions,
+                                       ignore.case = T)
+
+##take off 's possessives
+no_contractions$participant_answer <- str_replace_all(no_contractions$participant_answer, 
+                                                      pattern = "\\'s", 
+                                                      replacement = "")
+
+##replace all other symbols
+no_contractions$participant_answer <- str_replace_all(no_contractions$participant_answer, 
+                                                      pattern = "[:punct:]", 
+                                                      replacement = "")
+
+##write it out
+write.csv(no_contractions, "./output_data/text_no_contractions.csv", row.names = F)
+```
 
 ## Spelling
 
+```{r}
+#can read in the no_contractions file if you need to
+
+# Extract a list of words
+tokens <- unnest_tokens(tbl = no_contractions, output = token, input = participant_answer)
+wordlist <- unique(tokens$token)
+# Spell check the words
+spelling.errors <- hunspell(wordlist)
+spelling.errors <- unique(unlist(spelling.errors))
+spelling.sugg <- hunspell_suggest(spelling.errors, dict = dictionary("en_US"))
+```
+
+
 ## Lemmatize
 
-## Remove StopWords
+## Remove Stopwords
 
+## Bag of Words processing 
