@@ -315,7 +315,10 @@ spelling.dict <- as.data.frame(cbind(spelling.errors,spelling.sugg))
 write.csv(spelling.dict, "./output_data/spelling_dict.csv", row.names = F)
 ```
 
-- Next, we will read in the edited spelling dictionary and replace the data. 
+- Next, we will read in the edited spelling dictionary and replace the data. - Note: sometimes people used different forms of words that aren't technically spelled correctly:
+  - `abled` - meaning able-bodied or able-past tense
+  - `abandoner` - meaning a person who abandons
+- These were corrected to the closest "real" spelling, which can be found in the spelling dictionary. In the original paper, we corrected these by going back to the lemma form, then using a special tag. Since this analysis is to simply convert back to the lemma, this approach seemed appropriate. 
 
 ```{r}
 
