@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00842
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Mon, 12 Jul 2010 12:37:41 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00842
+Practice:
+zebra an animal, stripes, black and white,
+house my room, where I live, building, shelter, comfort
+Experimental:
+1 fudge chocolate, icecream, sweet 
+2 girls boys, females, males, ladies, women 
+3 tree branch, bark, green and brown, apple tree, the park 
+4 string ribbon, party, tie stuff with 
+5 spice herbs, hot, tasty food, Indian food 
+6 surgery blood, Grey's anatomy, doctors, brain surgery, hospitals 
+7 turtle shell, green, hid, the beach, hard, slow 
+8 branch tree, brown, trail, park 
+9 emergency 911, help, police, ambulance, car accident 
+
+10 amuse happy, funny, cheerful, being with friends 
+11 schedule classes, outline, school, work 
+12 patient wait, calm, annoying 
+13 shoe love love love shoes, heels, pumps, feet, passion 
+14 lost found, the show lost, cant find, my phone 
+15 strange new, awkward, weird 
+16 temple hindu, building, white 
+17 dull sharp, not boring, gray 
+18 conference meeting, waste of time, big convention, banquet room
+19 sunset sunrise, sun, pretty, yellow and orange
+20 doll barbie, my little sister, toy 
+21 simple plain, complicated, easy, kinda boring 
+22 puke vomit, hang over, nasty 
+23 south north, direction, Mississippi 
+24 am pm, morning, night 
+25 wound heal, pain, hurt 
+26 tape duck tape, hold things together, clear, paper tape 
+27 achieve succeed, success, accomplish, goal  
+28 road travel, highway, interstate
+29 cave cave man, geico, bats
+30 ladder chutes and ladders, roof
+31 find found, lost
+32 tissue kleenx, cold, napkins
+33 ashtray smoke, smell, second hand smoke
+34 film movie, film stars
+35 beast kobe bryant, beauty and the beast 
+36 meat chicken, deer, beef, cow
+37 zero number, nothing, empty 
+38 ship boat, titanic, cruise, lake, river
+39 fragile be careful, watch out, dont drop
+40 die live, death, old 
+41 question answer
+42 pancakes syrup, ihop, 
+43 vomit puke, throw up, sick 
+44 sword weapon, dragons, 
+45 slip fall, wet, accident,
+46 syrup pancakes
+47 bother sister, sibling
+48 wimp weak, skinny
+49 it thing 
+50 male female, boy, man, men 
+51 empty full, nothing 
+52 tupperware cookware
+53 gloves latex gloves, sanitary, clean
+54 ax Charlotte's web, kill, wood 
+55 small big, little, tiny
+56 cabbage green, vegetable, walmart
+57 feet toes, shoes, walking 
+58 quiet silent, peaceful
+59 search found, google, looking for
+60 rock hard, rock paper scissors, 
+

@@ -1,0 +1,79 @@
+Subject:
+SEMANTICS S00521
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Tue, 16 Feb 2010 12:43:50 -0600 (CST)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data S00521
+Practice:
+sing Artist,fun,difficult,music,done at church,in the car,in the shower
+hammer nails,powerful,steel,can hurt body parts, requires coordination,hits hard
+Experimental:
+lungs helps you breathe,dedicate,vital,
+crescent can be shape of the moon,is a part not the whole, can be the shape of a cookie
+colon part of the body,can be two dots,can separate things, is made of tissue
+spaghetti can be eaten,requires noodles,sauce and meat,a lot of carbs,make you feel full
+rays some are x-rays, some are sting rays,some are sun rays,can give you sun burn, can sting you,can swim
+snow a type of weather,is white,can be fun, is soft, can melt, can be wet
+indoor inside,under a roof,no extreme temperature,no rain, no snow,comfortable
+stack can be large, can be pancakes, can be money,contains many of the same things,saves space
+handrail can hold onto,can help you walk,can help keep balance,steel or wood,near stairs
+where location,question,answer,figurative speech
+hitchhike catch a ride,side of the road,stranger,
+patriot football team,fought for one\'s country,loves one\'s country,ready to defend,brave
+jewel nice,can be worn,valuable,treasure,
+wacky stupid,crazy,behavior,type of person,funny
+mystical unknown,hard to find,fantasy,can be made up,not fully known
+browse look up,internet,store,not buying,
+scandalous will take,drama,wrong,betray,in the news,gossip
+spam email,advertise,spray,clogs email
+shortcoming fail,flaw,an attempt,negative,
+tulips flower,nasty,smells good,fragile
+wake come out of sleep,from a boat,early,late
+townspeople people of a city,common,the norm
+overbear too much,control,heavy,confine
+lifeblood necessary,of a group,can be one or many
+pinwheel spins,can be colorful,needs wind,
+omega the end,greek,name,
+warmup heat up,prepare,stretch,drills
+wrong invalid,bad,an act,adjective
+leap jump,pass over,a year,requires strong legs
+financial money,advice,planning,smart
+suffer bad,hurts,need help
+tyrannosaurus big,scare,big feet
+retain hold,cannot go,held 
+psycho crazy,scare,stupid
+ghetto hood,drugs,guns
+brown color,name,dirt
+uncle name,person,man
+grease food,cook,pan
+traumatic exciting,fun,
+primate two legs,mammal,thumbs
+goblet name,person,
+next go on,line,year
+peek look,sneek
+eyeliner can be big,can long,can hurt
+cancel dont do, do go,
+unlock open,requires a keys,used at door
+senator works with the senate,helps the president,respected
+fury intense angry,scary,dangerous
+strung requires strings,need by guitar
+education can be fun or not fun
+nerd name of a toy,
+
+compassionate kind,nice,one that cares
+waltz name,dance,old
+mangle disform,mash-up,painful
+flasher blink,bright,can hurt eyes
+peanut food, can grow,good taste
+stockbroker keeps stocks,priceing on stocks
+nightmare bad,scare, dream, not real
+him he,boy,man,
+moneymaker makes alot of money,involes maoney
+
+

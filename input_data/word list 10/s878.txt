@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00878
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 28 Jul 2010 20:44:33 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00878
+Practice:
+zebra black, white, stripes, Africa, wild, zoo, 
+house home, mom, dad, sister, pets, clean, clorox, neighborhood, spices, food, North Carolina, Kappa Delta, porch
+Experimental:
+1 fudge chocolate, sugar, soft, melt
+2 girls prissy, gossip, pink, lady, woman, menstrual, breasts
+3 tree leaves, bark, brown, big, tall, forest, nature
+4 string rope, long, short
+5 spice hot
+6 surgery heart, doctor, kidney, hospital, emergency, blood, red
+7 turtle slow, shell, snap, shy
+8 branch tree, leave, brown, bark
+9 emergency surgery, blood, ambulance, hospital, help
+10 amuse funny, laugh, smile, smirk, teeth
+11 schedule school, teacher, homework, agenda
+12 patient wait, doctor, waiting room, sick, content
+13 shoe sock, hard, sneaker, pump
+14 lost found, worried, panic, distraught, woods
+15 strange weird, unusual
+16 temple Egypt, dark, creepy, scary, black, musty 
+17 dull boring
+18 conference phone call, meeting, people, chairs, tables, lunch, coffee, suits
+19 sunset pink, orange, blue, pretty, sky, clouds, sun, yellow, purple, peaceful, beautiful, ending, horizon
+20 doll plastic, new, eyes, dress, barbie, ken, pink, hard, soft, hair, smile, blink
+21 simple easy
+22 puke green, brown, mushy, pungent, toilet, trash can, beer, alcohol, dinner
+23 south hot, humid, sticky, mississippi, segregation, southern, hospitality, mimosa, mint julep, antebellum home, elvis
+24 am morning, coffee, sleep, alarm, snooze, tired, class
+25 wound blood, emergency, band aid, cut, sticky, rubbing alcohol
+26 tape packing, boxes, package, present, surgical, 
+27 achieve dream, accomplish
+28 road long, black, lines, gravel, rubber, pavement, concrete, travel, go, leave, coming, going
+29 cave dark, musty, rocky, gravel, diamonds, gems, hard
+30 ladder tall, long, steps, roof, house, tree, tree house, window, gutter 
+31 find lost, see
+32 tissue crying, snot, tears, cold, upset, goodbye, hello, puffs, soft, scar, wound
+33 ashtray cigarette, ash, smoke, lighter, bar
+34 film movie, actor, film strip, theater, popcorn, candy, dark, cold, long, short, commercial, trailer 
+35 beast Disney, Beauty, bear, forest, scary, big, intimidate, teeth 
+36 meat steak, chicken, mexican
+37 zero none, gone, zip, none, nada, finito, without, alone
+38 ship sail, boat, lake, ocean, titanic, sink, cruise, big
+39 fragile careful, shipping, breakable
+40 die death, funeral, visitation, old, coffin, dirt, burry, family, sick, cancer, heart, attack, sad, lonely, deserted
+41 question ask, answer, confused, school, homework, math
+42 pancakes soft, syrup, sugar, stove, pan, butter
+43 vomit green, brown, mushy, pungent, bars, alcohol, gross
+44 sword sharp, king, blood, fight, army, point, careful, heavy 
+45 slip fall, water, wet, soap
+46 syrup pancakes, waffles, sugar, sticky, messy, warm
+47 bother sister, mother, father, family, home
+48 wimp weak, strong, flimsy, muscles, skinny, little, small
+49 it was, is, happened, thing, stuff, people
+50 male female, jeans, suit, gentleman, football, basketball, sports, egotistical 
+51 empty gone, trash
+52 tupperware plastic, party, food, store, refrigerator 
+53 gloves clean, cleaner, clorox, nasty, mushy, gross, sick
+54 ax chop, tree, split, wood
+55 small big, snail, dust, lent 
+56 cabbage rabbit, green, lettuce, salad,
+57 feet stinky, gross, skin, toe, clamy
+58 quiet loud, soft
+59 search look, google, find
+60 rock hard, stone, crystal, diamond, dirty
+

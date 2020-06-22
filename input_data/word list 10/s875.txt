@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00875
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 28 Jul 2010 17:03:44 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00875
+Practice:
+zebra black and white stripes, 
+house home, where i live
+Experimental:
+1 fudge chocolate
+2 girls different body features
+3 tree leaves
+4 string violin
+5 spice spicy sauce
+6 surgery surgent
+7 turtle amphibian
+8 branch tree
+9 emergency 911
+10 amuse suprised
+11 schedule time and dates
+12 patient work
+13 shoe protection
+14 lost tv series
+15 strange weird
+16 temple building
+17 dull boring
+18 conference meeting
+19 sunset sunrise
+20 doll toy
+21 simple complex
+22 puke throw up
+23 south north
+24 am pm
+25 wound healthy
+26 tape record
+27 achieve success
+28 road yellow lines
+29 cave dark
+30 ladder steps
+31 find lost
+32 tissue organ
+33 ashtray cigarettes
+34 film movie
+35 beast terrible
+36 meat chicken
+37 zero ten
+38 ship airplane
+39 fragile tough
+40 die live
+41 question answer
+42 pancakes banana
+43 vomit sick
+44 sword dagger
+45 slip slide
+46 syrup ketchup
+47 bother chill
+48 wimp wamp
+49 it thing
+50 male female
+51 empty full
+52 tupperware container
+53 gloves rubber
+54 ax knife
+55 small big
+56 cabbage lettuce
+57 feet toes
+58 quiet loud
+59 search find
+60 rock nature
+

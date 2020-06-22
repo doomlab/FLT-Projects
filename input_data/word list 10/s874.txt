@@ -1,0 +1,79 @@
+Subject:
+SEMANTICS 500874
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Mon, 26 Jul 2010 15:22:11 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 500874
+Practice:
+zebra black and white color, hairy, animal, walks, runs like horse, zoo animal
+house bricks, where you live, family, cement, windows, doors, tv, beds, cook, sleep
+Experimental:
+1 fudge chocolate, vanilla, brown, with nuts, hard or chewy
+2 girls long hair, petite, blonde, make-up, dresses, heels, shop, dramatic, emotional
+
+3 tree tall, leaves, brown, green, treehouse, birds live there, sap, pine, oak, rope swing
+4 string shoe string, tie, white
+5 spice food, hot, mexican, flavoring
+6 surgery doctor, nurse, patient, cuts, bones
+
+7 turtle shell, green, slow
+8 branch tree, bats, leaves, 
+9 emergency room, ambulance, 911, rush, run, fast
+10 amuse funny, entertaining, jokes, comedian, interested
+11 schedule school, classes, organized, tasks, 
+12 patient sickness, doctor, hospital, diagnose
+13 shoe foot, run, walk, heels, sandals, tennis shoes, dress up, 
+14 lost found, scared
+15 strange awkward, odd, weird
+16 temple head, tall, towers
+17 dull plain, brown, ugly, boring
+18 conference meeting, work, office, suits, business men and women, coffee
+19 sunset sun, water, blue, yellow, pink, clouds, pretty
+20 doll house, barbie, girls,babies
+21 simple easy, small
+22 puke gross, vomit, sick, alchohal, food
+23 south dixie, country, redneck, racist, southern hospitality, nice, sweet tea, fried foods,
+24 am morning, alarm clock, tired, bath, sunrise
+25 wound together, intertwined, hurt, pain, scratch, blood, 
+26 tape sticky, double sided, tape worms, 
+27 achieve finish, accomplished, final, done, happy, proud, congratulations
+28 road pavement, cars, travel, dirt, rocks, destination
+29 cave bear, bats, gold, dark, scary, cave men, homes, hybernate
+30 ladder steps, climb, painting, tall, reach
+31 find found, lost, missing, 
+32 tissue paper, crying, sneeze, runny nose, sick, bathroom
+33 ashtray cigarette, smoke, ashes, cancer, stick, nasty, fire
+34 film tape, movie, video, record
+35 beast beauty, large, mean, muscular
+36 meat ham, food, animals, 
+37 zero nothing, number, money, math
+38 ship boat, water, cruise, travel
+39 fragile small, thin, girl, breakable, 
+40 die death, live, alive, sick
+41 question answer, quiz, test, wondering, curious
+42 pancakes food, breakfast, syrup, tasteful, sweet
+43 vomit puke, gross, nasty, food, sick, 
+44 sword pirate, sharp, fight, horses
+45 slip fall, wet, slimy, trip, clumsy
+46 syrup sweet, pancakes, breakfast, maple, honey, 
+47 bother annoying, obnoxious, unecessary
+48 wimp scared, nerd, small, 
+49 it is, something, 
+50 male female, big, muscles, football, working
+51 empty full, alone, nothing
+52 tupperware food, organization, dishes, holds, stores
+53 gloves baseball, football, softball, cold, winter, warm, clothes
+54 ax sword, wood, cold, cut, murder
+55 small big, tiny, fragile
+56 cabbage food, vegetable, salty, green, steamed
+57 feet shoes, stink, run, walk, stand, two
+58 quiet shy, scared, deprived
+59 search find, look, ponder
+60 rock hard, mountain, boulder, water, driveway
+

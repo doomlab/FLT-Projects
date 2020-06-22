@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00540
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Sun, 21 Feb 2010 00:41:55 -0600 (CST)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data S00540
+Practice:
+sing loud, soprano, bass, opera, concert, song, music, poem
+hammer nail, tool, construction, wall, roof, painting, repair
+Experimental:
+lungs air, breath, chest, ribs, diving, pressure, calm, count, ten
+crescent moon, rolls, sliver, night, butter, Muslim, star, sun
+colon semicolon, period, pause, list, rectum, intestines, digestion, stomach
+spaghetti noodles, sauce, butter, cheese, Italy, pasta, lasagna, colander, strain, water, boil, chef
+rays x-rays, radiation, fracture, sunshine, technician, ultraviolet, microwave, sunglasses
+snow ice, water, cold, white, flake, angels, snowmen, snowballs, snowplow, black ice
+indoor outdoor, cat, dog, allergies, couch, air conditioning, television, relax
+stack library, books, shelves, librarian, students, research, dictionary
+handrail handicapped, stairs, trip, fall, stumble, germs, safety, subway
+where who, what, when, why, how, place, location, scene, crime, address
+hitchhike car, on the road, dean, thumb, danger, cross country, trip, landscape, grass, street
+patriot Mel Gibson, country, honor, soldier, war, battle, injury, revolutionary, America
+jewel stone, rock, diamond, topaz, ruby, opal, emerald, ring, necklace, bracelet
+wacky crazy, nuts, silly, weird, different, strange, people, abnormal
+mystical magical, witches, spell, potion, charm, unseen, secret, coven, good, evil
+browse look, see, glance, view, internet, shopping, women, window, clothes
+scandalous risque, sketchy, dirty, girls, clothing, trendy, midriff, gossip, teenager
+spam email, inbox, message, filter, folder, junk mail, scam, mass, forward
+shortcoming weakness, failure, not enough, fall short, man, people, habits
+tulips flowers, spring, red, yellow, field, meadow, roses, lilies, gift, Easter
+wake boat, wave, jet ski, ship, ocean, lake, water, rough, swim, life jacket
+townspeople villagers, torches, judgment, gossip, meetings, citizens, friends
+overbear mother, father, boyfriend, judgment, rude, harsh, ruling, controlling
+lifeblood hemoglobin, red, blue, heart, circulation, pump, platelets
+pinwheel wind, shiny, circle, spin, fourth of July, celebration, kids, fun
+omega alpha, end, ohm, God, beginning, final, Greek, alphabet, abbreviation
+warmup practice, ready, runner, Olympian, exercise, athlete, sport
+wrong right, incorrect, fight, argument, decision, choice, way, road, direction
+leap year, frog, jump, long, track, athlete, sand, fly, sprint, land, legs
+financial aid, disperse, state, school, scholarship, loan, money, student, college
+suffer torment, cry, sad, mean, vote, women, rights, relationship, love
+tyrannosaurus rex, dinosaur, ancient, big, food, arms, claws, meteor, crater, cavemen, museum
+retain water, bloat, hold, keep, stop, boat, ocean, ship, women, refrain
+psycho crazy, hospital, sick, psyche, psychology, doctor, patient, treatment
+ghetto Jews, Warsaw, war, Nazi, Hitler, contain, Harlem, black, danger, urban
+brown bear, tree, dirt, mud, woods, camping, earth, land, chocolate
+uncle aunt, cousin, mother, father, sister, brother, family, relationship
+grease monkey, car, oil, screwdriver, rag, sweat, auto, mechanic, service
+traumatic event, emergency, doctor, surgery, torture, experience, victim
+primate monkey, chimpanzee, baboon, thumb, sign language, tree, banana, zoologist
+goblet fire, harry potter, holy grail, Jesus, crusade, Indiana Jones, chalice, gold
+next after, following, quiz, button, before, previous, phase, step
+peek look, tom, sneak, dirty, rude, cheat, see, boy, risque, tree, corner, hole
+eyeliner makeup, brown, black, blue, girl, boy, emotional, difference, pretty, woman
+cancel end, quit, change, wedding, appointment, alter, school
+unlock lock, key, code, digits, turn, safe, box, hide, protect, open, secret
+senator governor, state, politics, office, letter, bill, law, legislature
+fury anger, mad, evil, dangerous, yell, shout, unleash, reveal, fight
+strung high, low, guitar, string, tuner, instrument, out, drugs, wasted
+education learning, teacher, school, college, class, books, homework, test
+nerd geek, smart, glasses, pocket protector, suspenders, annoying, shy
+compassionate caring, nice, empathetic, loving, nurse, mother, friend, confidant
+waltz dance, music, orchestra, cello, romantic, slow, square, step, shoes, prince, ball
+mangle shred, tear, destroy, dog, shoe, clothes, car, wreck, left, remains
+flasher car, turn, signal, left, right, bright, lights, truck, road, driver
+peanut allergy, cookies, butter, cashew, farmer, ground, dirt, boiled, shell, baseball
+stockbroker stocks, bonds, money, investment, buy, sell, wall street, exchange, new york
+nightmare elm street, danger, yell, scream, run, chase, mask, evil, scared, bed, sleep
+him her, boy, man, brother, boyfriend, husband, she, band, guy
+moneymaker song, girl, butt, rear, shake, music, dance, stripper, cash
+
+

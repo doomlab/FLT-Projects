@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00668
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Mon, 12 Apr 2010 10:26:08 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00668
+Practice:
+sing song, choir, alto, soprano, tenor, bass, musicals, radio, lyrics, voice, high pitch, low pitch, music
+hammer a tool, beating, nails, hits, construction work, constructions works, wood grip
+Experimental:
+erupt abrupt, explode, crack
+wild crazy, out of control, uncontained, outside, nature, wildlife, forest, jungles, not following the rules
+hint a clue, a step to solving something, imply
+nervous scared, fidgeting, shaky, anxious, an emotion, unknown outcome 
+business job, work, a building, employees, a boss, rules, codes, wall street
+path a trail, walking in nature, biking, outside
+bride a girl in white, a wedding, wedding rings, fiance, flowers, bells, church, smiling, joy
+squirrel an animal, furry, brown, furry tail, collects nuts, wild, small creature, in trees
+pizza a food, round, cheese, pepperoni, tomato sauce, order out, delivery guy
+tense an emotion, stress, anxiety, fear, anger
+beg an action, pleading, wanting, not giving up, not accepting \'no\'
+belt something you wear on your waist, leather, buckle
+offense football, defense
+washington the first president, white hair, a location, home of the White House
+smile joy, happy, laughter, good, pleasant
+leather tough, worn, belts, fabric, texture, brown color
+ski snow, cold, slopes, vacation, ice
+real true, non-fiction, absolute, tangable, the ability to possess
+no opposite of yes, wrong, impossible, deny
+sting insects, pinch, hurt, pain, hornets
+closing ending, shutting down
+camp outdoors, tents, fires, smores, boy scouts, parks
+annoying obsessive, perisitant, rude
+satin smooth, silky, fabric, clothing, soft, clean
+thursday a day of the week, almost Friday, starts with T, end of the week
+prince Charming, fairytales, Disney, royalty, Henry, Charles, William
+gas fuel for cars, expensive, gas stations, pumps, automobiles
+fall school, leaves changing, brisk weather, follows summer, before winter
+garden home, flowers, butterflies, gloves, tools
+husband male, man, working, has a wife, provider
+never not going to happen, ever
+cocaine drug, illegal, coke, smoke
+frightened an emotion, scared, startled, unexpected, fear
+animal creature, furry, can\'t speak
+glue sticky, white, smelly, art, super
+hole dig, ripped, imperfect, empty
+cheap easy, poor quality, inexpensive
+sports basketball, baseball, football, soccer, bowling, cheering, tennis, golf, track
+drugs medication, bad, addictive, doctor, pain, sleep agent
+orgasm experience, pleasure, good, joy, romance
+camera film, object, pictures
+nephew boy, young
+on touching, close to, turned on
+dumb stupid, unintelligent, lazy
+crash collide, impact, negative
+environment outside, the world, around you, weather, location
+shampoo hair, soap, smell, shower, clean, bubbles
+answer question, completed
+confess explain, regret, guilt, tell all
+concert band, music, loud, lights, fans (people), outside, tickets, food, songs
+arrogant smart, conceited, rude, blunt, too sure
+quart drink, milk, measurement, size
+storage boxes, organization, store, closet, basement
+catholic religion, christian, communion, mass, Priest, Pope, confession, sin, God
+prisoner jail, crime, jumpsuit, hand cuffs, cell, bars, dark
+rip tear, break, pieces
+young immature, wild, vibrant, needs guidance
+sky blue, up, sun, clouds, air
+rule order, guidelines, protocal
+bath tub, water, soap, bubbles, relaxing, towel
+
+

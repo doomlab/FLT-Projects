@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS MONTANA S00001
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Tue, 15 Jun 2010 13:52:10 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL11 MONTANA S00001
+Practice:
+zebra Used to pick up food, pronged, pointy, used with knife and spoon. Made of metal. Made of plastic.
+house Made of fabric. Put on seats. Put on couches. Soft. Stuffed. Comfortable.
+Experimental:
+1 team Contains players. Sports. Competition. Athletic.
+2 grand Elegant. Pianos. Large buildings. Fancy. Antique.
+3 eat Food. Messy. Utensils. With mouth. Tasting. Chewing.
+4 brother Family. Related. Boy. Video games.
+5 hypnotize Coins, hypnotist, Drowzee, chain, watching, sleepy, training, conditioning.
+6 shirt Wearing, torso, comfortable, soft, wear on the body, required to get into stores.
+7 explode Chaos, disaster, loud noises, scary, disorienting, fire, particle matter flying everywhere, chemicals, smoke.
+8 Sunday Lazy, call mom, relaxing, last day before going back to class, weekend, picnics.
+9 ten Number, two digits, kindergarden, Fingers, toes.
+10 female Critical, bossy, spiteful, beautiful, gossip, anger, mean, whiny, no common sense.
+11 whole Pie, Pizza, America, fat people.
+12 fighter Strong, fast, muscles, built, endurance, men.
+13 muscle Strength, Men, strong, hard, weights, sports.
+14 penny Shiny, copper, Lincoln, Lincoln memorial, year, money, coin, heads up good luck.
+15 train Busy, crowded, metro, smelly, diesel, dirty, packed, businessmen.
+16 glasses Smart, mom, read a lot, on the face, frames, lenses, for eyes.
+17 nurse Caring, helping, nuturing, tending to patients, scrubs.
+18 jesus Fake, myth, story, man, cross, Christianity, carpenter, cults.
+19 money Wealth, rich, poor, paper bills, coins, mint, government, needed.
+20 shoelace Keeps shoes on feet, strings, sneakers, tennis shoes, plastic ends.
+21 cabinet Storage, kitchen, handles, rectangles, boxes, drawers, windows.
+22 goal Something you try to get a ball in, ambition, desire, perserverence, sports, dreams.
+23 work Office, construction, labor, cubicals, jobs, money, repairing houses.
+24 allow Trust, enable, let someone do.
+25 coat Warmth, snow, cold weather, covering, wool, rain.
+26 hall Doorways, long, scary in the dark, leads to somewhere.
+27 who Unknown, Dr.Seuss, The Grinch.
+28 thirsty Parched, liquid, refreshment, water, desert, working out.
+29 words Sentences, thought, language, communication.
+30 secret Hidden, trust the person telling to, embarrassing, mysterious.
+31 liberty Bell, freedom, death, America.
+32 home Where the heart is, family, happy, comfortable.
+33 wagon Covered, pioneers, Westerns, Spoke wheels, wood.
+34 painting Art, brushes, walls, furniture, Artists, canvas.
+35 basketball Sport, black people, dunking, lay-ups, coaches, players, shots, court, drug-testing.
+36 pen Ink, shaft, tip, writing, paper, cartrige.
+37 object Anything, noun.
+38 opening Looking in, door, mouth, enables you to see inside.
+39 against Don't want to do it, grudge, prejudice, discrimination.
+40 print Printers, paper, ink, handwriting.
+41 stream Water, small, Korea, mountains, flowing.
+42 motel Cheap, dirty, unattractive, uneasy, uncomfortable, loud ac.
+43 faith George Micheal, religion, practice, music.
+44 start Beginning, race, match, athletes, tests.
+45 radio Car, music, stations, Djs, stereos.
+46 cabin Log, lumberjacks, windows, wood, house, in the woods, forests, rustic, cozy.
+47 balloon Rubber, filled with air, given to kids, celebrations, birthdays, clowns.
+48 title Heading, essay, book, writing.
+49 pick Choose, break off of plant, vegetables, fruit, pine cones, flowers.
+50 thief Breaks in, steals, makes a profit, dispicable, wrecks homes and cars, broken glass.
+51 agreement Conclusions, coming to a consensus, document, contracts, signing.
+52 property A house, possesions, belonging, insurance, taxes.
+53 innocent Cute, harmless, virginal, fragile, not guilty.
+54 grave Death, sadness, loss, stone, dirt, buried, corpse.
+55 neutron No charge, atom, nucleus.
+56 bum Poor, broke, no job, couch hopper, lazy, does nothing, dirty.
+57 fraternity Parties, beer, drinking, games, events, guys.
+58 tag Put on an object. paper, string, label, luggage.
+59 obstacle Overcome, blocking, hurdles.
+60 speech Inspire, words, sentences, emotion, business, public figures.
+

@@ -1,0 +1,66 @@
+Semantic Data s00390
+Practice:
+finger hand, human, person, palm, has a nail, grabs things, wears a ring, bends, bones, skin
+couch house, living room, pillows, cushions, can sit on, can lay on, nap, comfortable, 
+Experimental:
+acoustic guitar, strings, music, soft, not harsh, 
+ageless never getting old, no wrinkles, can stand time, never dies
+alkaline base, compound, pH, higher than 7
+assault hurt, beat up, abusing another person, harming someone
+award reward for something good, prize, surprise, outcome of a good deed
+beautician makeup, hair, makes people pretty, nails, skin, 
+bicep muscle, arm, strong, body, huge, work out
+bitterness no flavor, not sweet, not enjoyable to taste, 
+bonehead not smart, dumb, idiot, airhead, doesnt make sense
+brigade party, military, ritual, 
+bronco horse, car, fast, big, untrained, wild
+buoy lake, floatable, creating a zone, placed in a body of water, have a significant meaning
+burned fire, hurt, singed, painful, ruined, cannot go back to orginial state
+butter put on food, sweet, enhances flavors, yellow
+chevron gas station, blue, cars, pumps, food, candy, bathroom
+chromium steel, hard, grey, strong, element, periodic table of elements
+concern worry, unsure, very puzzeled over something
+confusion not making sense, cant comprehend, not understandable,
+consume eat up, digest, overtake, food, energy taken away, overcome
+cultural ethnicities, countrys, different habits, different ways of living
+direction map, car, north, south, east west, compass rose
+eavesdrop listening in, secrets, confidential, not supposed to be heard, 
+exhale breathe out, lose bad air, function of the lungs
+facet flat, polished, diamond, stone, smooth, pretty, expensive
+fbi secret workers, stern, larger, strong, have lots of power
+feint fall down, lose conciousness temporarily, dizzy, not feeling well, 
+finalize finish, final part, competely done, over, never have to go back,
+handlebars bike, hair, can hold on to, steer
+held hold, child, hold up, having to wait, risen up, 
+immortal not alive, dead, unhuman, alien, from another world
+indication inkling, an idea that something will happen, 
+investor one who invests, looks into things, checks things out, puts money into
+japan East, country, white and red flag, korea, china,
+juice apple, orange, grape, children, sweet, colorful
+jump bounce, leap, sky dive, diving board
+lie not the truth, wrong, white lie, 
+lock key, door, safe, closed, secret, protection
+lovesick misses a spouse, misses family, homesick, very in love
+manipulative power, changing anothers mind, control, negative thoughts
+monotone all equal pitch, not enjoyable to hear, unemotional
+offstage backstage, cant be scene, behind the scenes, 
+ostracize exclude, do away with, exile, unkind, judgemental, 
+panorama huge, video, nteresting to see, 
+pocketbook purse, holds things, woman, girl, handbag, wallet, useful, 
+profound sticking out, extended, well seen, well known
+promote next step, higher job, higher pay, moving up on the ladder
+prospect expected, possibly, probably will happen, going to happen
+recliner leaned back, chair, house, relaxing, comfortable,
+right turn, answer, correct, positive, not wrong, 
+robust strong, hercules, never fails, large, 
+santa Claus, children, christmas, toys, presents, excitement, red, big
+shut be quiet, close the door, not opened, closed, 
+slangy speech, teenagers, casual talk, unknown to outsiders
+suppose thinking, might happen, wonder, day dream, imagine
+surprise unexpected, party, excitement, happiness, had no idea beforehand
+surreal not real, imagination, not fathomable, 
+torch bright, fire, can guide to see, wood, burning
+tout votes, horses, bets
+transformer can transform, movie, children\'s toy, machine, huge
+typescript type, written on a computer, printed, printed copy
+

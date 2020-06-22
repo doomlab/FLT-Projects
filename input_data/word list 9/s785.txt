@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00785
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Tue, 27 Apr 2010 15:19:59 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00785
+Practice:
+sing bird, person
+hammer nail, construction
+Experimental:
+erupt volcano, lava, explode, bomb
+wild horse, game
+hint clue, advice
+nervous scared, flustered
+business money, retail
+path trail, clearing
+bride dress, white clothing
+squirrel nuts, fur
+pizza pepperoni, crust
+tense tight, not fluent 
+beg wish, want, need
+belt leather, buckle, vinyard vine
+offense goals, forward movement
+washington capital, president
+smile teeth, laughter
+leather belt, boots, cows
+ski skis, lifts, snow, water
+real true, not fiction, pure
+no cannot, deny
+sting bee, wasp
+closing door, window
+camp fire, tents, sleeping bag, bugs
+annoying kids, tickets
+satin soft, smooth, dress, clothing
+thursday sun, day before friday and weekend
+prince crown, robe, money
+gas cars, pump, hose, station
+fall leaves, trees, rakes, bags
+garden flowers, fruit, vegetables, soil
+husband ring, wife, house, family
+never quit, don\'t do \"\"
+cocaine cowboys, drugs, white, powder
+frightened shakes, sweating, alarmed
+animal deer, squirrel, pig, horse, dog, cat
+glue elmers, white, paste
+hole black, circle, golf
+cheap nosebleed, thriftiness
+sports football, basketball, baseball, soccer, tennis, lacrosse, wrestling(NCAA)
+drugs cocaine, pot, LSD, meth, hallucinogens
+orgasm sex, women, girl
+camera flash, glass, plastic, small screen
+nephew family, kid, same age almost
+on switch, button
+dumb stupid, kids, people, animals
+crash car, metal, dents, money
+environment green, safe, important
+shampoo hair, suds, bubbles
+answer question, correct, incorrect, teacher, student
+confess admit, cooperate, crime
+concert music, instruments, singers
+arrogant fighter, boxer, guys, spoiled
+quart 1/4, milk, orange juice
+storage pod, bin, shed, junk
+catholic crucifix, pope, cardinals, vatican
+prisoner chains, bars, cell
+rip tear, scrape, clothe
+young kid, child, baby
+sky clouds, stars,sun,birds,planes,trees
+rule king, domain, laws
+bath water, soap, shampoo, drain
+
+

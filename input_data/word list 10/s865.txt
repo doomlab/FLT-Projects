@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00865
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 23 Jul 2010 09:24:54 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00865
+Practice:
+zebra safari, stripes, black, white, 4-legs,  prey,eat grass, horse family
+house live, bath, sink, kitchen, television, garage, garden, pool, bedroom, dining room, den, living room, stove, refrigerator, washer, dryer, countertop, decoration, window, door, floor, wood floor, tile, towels, glasses, cups, plates, forks, spoons, telephone, internet, pet, storage, closet, couch, bed, pillow, blanket 
+Experimental:
+1 fudge brownies, creamy, brown, tasty, thick, smooth, homemade
+2 girls daughter, sister, cheerleaders, talkative, gossip, girlfriends, group, pretty, ugly
+3 tree pasture, branch, bark, oak, dogwood, leaves, season fall, rake, roots, stump, insects
+4 string guitar, shoe
+5 spice deodorant, taste, 
+6 surgery doctor, ER, stitches, body, recovery, cut, blood, sedation, hospital, clinic, nurse, IV
+7 turtle slow, hard shell, ninja, ocean, eggs, sand, 
+8 branch tree, politics, CEO organization
+9 emergency ER, 911, police, neighbors, accident, homicide, suicide, altercation, domestic, weapon
+10 amuse amusement park, happy
+11 schedule classes, work, concert, tv show
+12 patient help, medication, doctor visit, ER
+13 shoe Nike, Reebok, Jordan, basketball, tennis, cheerleader, cushion, shoe strings, all colors, hi top, low top, mid top
+14 lost found, compass, direction, sun, 
+15 strange unusual
+16 temple church
+17 dull not sharp, pencil, color
+18 conference meeting, president, business, manager, employees, intermission
+19 sunset sunrise, dark, sleep, rest, dinner
+20 doll baby, girl, name, barbie, ken
+21 simple easy
+22 puke liquor, food poison, gag, vomit, nasty, unpleasant smell
+23 south Mississippi, Texas, Florida, Georgia, Arkansas, Alabama, South Carolina, Louisiana, Tennessee, beach, civil war, north, slavery
+24 am 
+25 wound knife, blood, gun, doctor, medical attention, pain, burning
+26 tape cassette, VCR, Christmas, homicide, decorate, school, office
+27 achieve goal, win, 
+28 road highway, mailbox, gravel, asphalt, car, destination, homes
+29 cave bat, dark, hiding, 
+30 ladder Climb, Metal, Wood, steps
+31 find lost
+32 tissue bathroom, nose, body
+33 ashtray smoke, cigarettes, car, truck, vehicle, home
+34 film movie, theater, all sports,
+35 beast beauty, monster
+36 meat eat, cook, raw, seasoned
+37 zero tolerance, number, goose egg
+38 ship water, ocean, fish, cruise, army, navy, marine
+39 fragile break, glass, shipping, bone, careful
+40 die live, funeral, ambulance, coroner
+41 question answer, test, information
+42 pancakes breakfast, syrup, 
+43 vomit nasty, puke, liquor, food poison
+44 sword knight, ninja, stab, sharp, slice, cut
+45 slip fall, wet, leak
+46 syrup food, pancake, biscuit
+47 bother worrisome
+48 wimp scared, punk, cry
+49 it 
+50 male female, dad, brother, uncle, sports, job
+51 empty full, stomach, pool, glass, gas tank
+52 tupperware kitchen, food
+53 gloves baseball, football, doctor, nurse, construction
+54 ax lumber, fire wood, tree
+55 small large, big, 
+56 cabbage veggie, green, cook
+57 feet size, toes, tattoo, shoe, smelly, sock, sandals, walk, kick
+58 quiet loud, mouse
+59 search 
+60 rock hard, boulder, gravel, band, concert, singer
+

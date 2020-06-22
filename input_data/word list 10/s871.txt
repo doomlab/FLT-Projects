@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00871
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Mon, 26 Jul 2010 21:42:09 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00871
+Practice:
+zebra animal, big, black, white, different color.
+house family, pretty, made of bricks, nice. 
+Experimental:
+1 fudge chocolate that you eat
+2 girls human being
+3 tree a nonliving item that is grown
+4 string somthign made out of cotton with different color
+5 spice a type of season that is used on food
+6 surgery done by a health professional whenever need
+7 turtle a animal, green, and move slow
+8 branch an item that be on the tree usaully brown or green in color
+9 emergency whenever you need immediate attention
+10 amuse entertaining, funny
+11 schedule making sure things is done on time, priority
+12 patient being under the care of others, healthcare, hospital
+13 shoe something you use to walk in, big, small, humans wear it
+14 lost hard to find, missing
+15 strange not knowing where you at, distant, mistaking
+16 temple anger, upset, mad, going off on people
+17 dull plain, empty, skinny
+18 conference talking to someone over the phone or via television
+19 sunset a time of the day when the sun set on the east, almost dark
+20 doll a item that childern usually play with, girls, pretty
+21 simple plain, easy to intimate
+22 puke a rude word, mean, boys
+23 south a direction, where I live
+24 am a time of day, morning
+25 wound cut, hurt
+26 tape something you use in order to make things stay on walls, clear, white, cheap
+27 achieve high expectation, good work, rewards
+28 road travel, car usually used in order to go places
+29 cave a house for animals, made of rocks
+30 ladder climb, tall, reach
+31 find locate, people, items
+32 tissue bathroom, face
+33 ashtray something you use to put ashes in, smoke, color, hard
+34 film pictures, memory, everlasting, good
+35 beast a type of animal, wild, brown
+36 meat something you eat, delicious, animals, red, hard
+37 zero number, circle, 
+38 ship travel, direction, package
+39 fragile carefully, glass, easy to break
+40 die black, white, hard, dots, craps
+41 question asking someone something, mouth, not understood
+42 pancakes circle, eat in the morning, brown, delicious
+43 vomit upset stomach, sick, drunk
+44 sword knife, sharp, something used to cut people with, big, long
+45 slip fall, hurt, cry
+46 syrup eat, brown, breakfast, good
+47 bother nerve, don't want to be messed with, upset
+48 wimp a person I don't like, scary, weak
+49 it things, animals, nonliving things
+50 male color, dependent, hard headed, bad
+51 empty not full, gas, stomach, heart
+52 tupperware house, microwave, plastic, hard, soft, everlasting
+53 gloves plastic, cautions, clean up mess, work
+54 ax cut, wood, dangerous, wilderness, hunters
+55 small size, sister hair, car, house, baby
+56 cabbage green, good, eatable, cooked
+57 feet body, walk, big, skinny, fat, small, color
+58 quiet whisper, quiet time, hoarse
+59 search looking for, people, hiding
+60 rock something made of crystle, color
+

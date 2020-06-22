@@ -1,0 +1,84 @@
+Subject:
+SEMANTICS S0083
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Thu, 8 Jul 2010 12:02:31 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S0083
+Practice:
+zebra stripes, hooves, four legs, wild
+house bed, chair, living room, kitchen, tv
+Experimental:
+1 fudge chocolate, square, delicious, peanuts, oven, bake, brown, 
+2 girls dresses, pink, high heels, make-up, shopping, skirts, unity, feminism
+3 tree green, brown, big, photosynthesis, carbon, forest, leaves, stems, roots 
+4 string long, smooth, thread, dental floss, line
+5 spice ginger, sugar, everything nice, Spice Girls, 
+6 surgery pain, anesthetic, white gloves, sharp tools, needles, doctors, nurses
+7 turtle shell, slow, stinky, green, claws, water, hidden, 
+8 branch tree, stick, leaves, sturdy, brown, winter, 
+9 emergency 911, police car, fire truck, ambulance, red, hurry, people, blood
+10 amuse funny, smile, occupied, hilarious, 
+11 schedule planner, times, dates, events, planning, class, school, 
+
+
+
+
+
+
+
+12 patient waiting, magazine, bored person, nervous, doctors, offices
+13 shoe 8, foot, white, heels, person, girl, boy, socks, tennis, sports, fit, sandal, warm, 
+14 lost found, clothes, boy, man, girl, missing, searching, books
+15 strange weird, unique, different, random, out of the ordinary, sketch
+16 temple shirley, red hair, curls, church, quiet, worship, God, bible, ancient, scriptures, priest, saints
+17 dull boring, lame, quiet, uninteresting, sleepy, unemotional, not exciting,
+18 conference people, groups, business, phone calls, big buildings, suits, 
+19 sunset afternoon, east, couples, beaches, romance, love, dates, 
+20 doll girl, doll clothes, doll cars, barbie, pretty, stores, wal mart, toy section, valuable
+21 simple easy, not hard, understandable, kids, animals, 
+22 puke throw up, bile, guts, nasty, acid, sick, 
+23 south Ole Miss, blues, bbq, heat, funny accents, gardens, country, trees, old people, music, food
+24 am I, was, be, adjective, pronoun, english, grammar
+25 wound hurt, scar, blood, bruise, bandage, animals, 
+26 tape sticky, signs, circle, walls, doors, 
+27 achieve academic, goals, smart people, happiness, congrats, 
+28 road long, black, yellow, car, bus, traveling, leaving, path, directions
+29 cave dark, whole, animals, black, lost, hidden, warm, shelter,
+30 ladder climb, long, useful, tall, silver, steps, construction, paint
+31 find lost, look for, found, happy, 
+32 tissue white, soft, bathroom, nose, toilet, trash, 
+33 ashtray cigarette, smoke, ash, second hand smoke, addiction, nicotine, fire,
+34 film movie, theater, feature presentation, acting, singing, chairs, people, darkness
+35 beast wild, evil, strong, beauty, ugly, big, huge, monster
+36 meat red, chicken, beef, cow, pig, protein, dinner, meal, food
+37 zero none, nothing, Holes, hair, number, circle, round, 
+38 ship water, boat, people, fancy, cruise, rich people, fun, 
+39 fragile weak, easily broken, sensitive, vase, glass, small children
+40 die roll, white, black dots, gambling, funeral, people in black, sadness, flowers, grave
+41 question ?, wonder, asking, student, knowledge, class, answer
+42 pancakes milk, eggs, flour, syrup, good, breakfast, eggs, sausage, Waffle House, Huddle House
+43 vomit throw up, bile, nasty, vomit kit, Martin Hall, drinking, alcohol, acidic, smelly
+44 sword long, silver, strong, Lord of the Rings, sharp, blood, war, fighting, Medieval, 
+45 slip fall, water, paper, wet floor sign, hurt
+46 syrup pancakes, waffles, sweet, wal mart, aunt jemima, grandma, molasses, thick
+47 bother annoy, brother, disrupt, ignorance, anger, consistent worry, frustration
+48 wimp sissy, feminine girl, no courage, give up, wimpy, fragile
+49 it thing, animal, noun, a movie, 
+50 male female, masculinity, muscles, testosterone, cars, cologne, manly
+51 empty sad, wishful, wanting, unfufilled, hungry, thirsty
+52 tupperware plastic, Glad, bowls, food, 
+53 gloves white, latex, warm, winter, scarf, lab, snow,
+54 ax sharp, Lizzie Borden, weapon, tree, steel, heavy, wood
+55 small tiny, little, not big, compact, size 0, 
+56 cabbage greens, bowling, water, mom, cooking, cornbread, grandma
+57 feet toes, socks, ankle, shoes, toenails, sandals
+58 quiet shhhh!, no noise, quiet game, silence, 
+59 search find, look for, found, lost, wonder, 
+60 rock music, guitar, drums, band, people, lights, alcohol, fun, free
+

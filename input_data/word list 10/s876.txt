@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS s00876
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 28 Jul 2010 17:33:10 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 s00876
+Practice:
+zebra is black and white stripes, has a mane, lives in the wild
+house bedroom, bathroom, kitchen, dining room, garage, laundry room, family 
+Experimental:
+1 fudge chocolate, brown, sweet, baked, 
+2 girls intimidating, high heels, drama, come in packs
+3 tree nature, assorted leaves, brown trunk, fruits, squirrels, birds
+4 string yarn, bracelet, colors, mittens, cats
+5 spice flavor, food, cooking
+6 surgery stitches, anestisia, metal, hospital, life changing event
+7 turtle green, snapping, roads, 
+8 branch nest, owls, swing set
+9 emergency surgery, death, ambulance, doctors, nurses
+10 amuse laughter, circus,
+11 schedule order, day by day, on time, no lazy
+12 patient steady, cooking, traffic
+13 shoe garder, sandle, flip flop, boots
+14 lost misplaced, stolen
+15 strange 
+16 temple 
+17 dull 
+18 conference 
+19 sunset 
+20 doll 
+21 simple 
+22 puke 
+23 south 
+24 am 
+25 wound 
+26 tape 
+27 achieve 
+28 road 
+29 cave 
+30 ladder climbing, heights
+31 find lost, stolen
+32 tissue tears, funeral, flu
+33 ashtray cigs, blunts
+34 film movie, moments
+35 beast lion, movie, tiger
+36 meat steak, chicken
+37 zero nothing, failure
+38 ship boat, sail, sea, ocean
+39 fragile breakable, glass
+40 die death, 
+41 question answer, 
+42 pancakes breakfast, morning
+43 vomit drunk, 
+44 sword knife, sharp, metal
+45 slip fall, hurt
+46 syrup pancakes, sweet, yummy, waffles
+47 bother boy
+48 wimp pussy, pip squeak
+49 it no name
+50 male boy, guy, 
+51 empty filled without, horrible feeling, lost
+52 tupperware plastic, microwavable
+53 gloves dying hair, cleaning, rubber, latex
+54 ax blood, murder, sharp, metal
+55 small little, 
+56 cabbage green, vegetable, nasty
+57 feet toe nails, smelly, gross
+58 quiet hush, silence
+59 search find, looking
+60 rock stone, song, pebble
+

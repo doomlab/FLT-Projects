@@ -1,0 +1,140 @@
+Semantic Data S00052
+Practice:
+finger nails, round, fat, thin, long, short, clean, dirty
+couch cozy, soft, lounge, chill, sit
+Experimental:
+before premeditated, well-thought, planned, knowing, willing
+dangerous harmful, guns, disaster, disobedience, bomb
+stolen keep, dishonest, sneak, take, rob, night
+crackers thin, light, flaky, crispy, salty, edible
+complicated
+cruel mean, dirty, harsh, terrible, beating
+nervous scared, anxious, sweating, trembling, shaking
+abnormal weird, alien, monster, foreign
+burnt food, toast, oven, fire
+cloudy sky, mucus, urine
+controls experiment, remote, buttons, people
+broke
+backward standstill, counter-clockwise
+seldom rarely, maybe, sometimes, not often,
+conscious aware, feelings, happy, sad, right, wrong
+cute pretty, girls, boys, children, clothes, shoes, adorable
+after finished, done, after-shock
+dense cosy,soft, lounge, chill, sit
+asleep dumb, heavy
+crunchy chips, candy,
+cooked food, vegetables, meats
+downstairs living room, kitchen, bathroom, bedroom
+naive stupid, ignorant, shy, young, teenager, child, inexperienced
+anxious ready, can\'t wait, anticipating
+numerous many, emminent, plentiful, abundance, plethora, siblings, schools, parks
+genuine true, real, earnest
+cheerful happy, joyful, loving, content
+cheap people, clothes, discount, clearance, sale, retail, salvage
+adorable teddy bear, baby, puppy, kitten, cub
+ahead thinking, looking, watchful
+strict firm, hard, mean, teachers, parents, family members, advisors, principal, rules, army, navy
+bumps acne, rash, irritation, infection, hinder,
+creative imagination, Disney world, fun, think
+arrogant cocky, self-assured, rude
+aware knowledgeable, smart, educated, student, graduate
+blinds curtains, wall, window
+difficult work, challenging
+absurd unthinkable, non-acceptable
+cents change, coin star, dimes, pennies, nickels, quarters, money, exchangeable, currency
+deadly death, illness, cancer, AIDS, violence, toxins
+crafts ceramics, art, jewelry, necklace, bracelet, painting, drawing, color, stickers
+formal gown, tux, dress, tie, suite, hills, presentable, special, occasion, decorations, prom, wedding, reception, pin-ups, hair-cut
+joyous leaping, excitement
+delicate soft, gentle, fragile
+misses
+needy parasitic, clingy, wanting
+crops plants, cabbage, tomatoes, greens, squash, lettuce
+cups drink, alcohol, beverage, slushy, icee, solo, mug, shots, beer, vodka, kool-aid, soda, coffee, water
+baked desserts, cookies, cakes, pies, brownies, oven, chicken
+medieval old, out-dated, ancient, past
+components factors, aspects, math, numbers
+bright sun, light, colors, neon
+priceless MasterCard, love, life, laughter, moments, family, friends, surroundings, feelings, emotions, times, living
+always consistent, God, never-ending
+crooked thief, stealer
+alone lonely, solitude, ostracized, alienated, single
+excited happy, joyful, cheerful, ready, birthday, Christmas, date
+brilliant genius, Einstein, prodigy
+around environment, surrounding, vicinity, area, perimeter
+ahoy captain, spongebob, pirate, greeting
+
+Practice:
+finger nails, round, fat, thin, long, short, clean, dirty
+couch cozy, soft, lounge, chill, sit
+
+Experimental:
+before premeditated, well-thought, planned, knowing, willing
+dangerous harmful, guns, disaster, disobedience, bomb
+stolen keep, dishonest, sneak, take, rob, night
+crackers thin, light, flaky, crispy, salty, edible
+
+complicated
+cruel mean, dirty, harsh, terrible, beating
+nervous scared, anxious, sweating, trembling, shaking
+abnormal weird, alien, monster, foreign
+
+burnt food, toast, oven, fire
+cloudy sky, mucus, urine
+controls experiment, remote, buttons, people
+
+broke
+backward standstill, counter-clockwise
+seldom rarely, maybe, sometimes, not often,
+conscious aware, feelings, happy, sad, right, wrong
+cute pretty, girls, boys, children, clothes, shoes, adorable
+after finished, done, after-shock
+dense cosy,soft, lounge, chill, sit
+asleep dumb, heavy
+crunchy chips, candy,
+cooked food, vegetables, meats
+downstairs living room, kitchen, bathroom, bedroom
+naive stupid, ignorant, shy, young, teenager, child, inexperienced
+anxious ready, can\'t wait, anticipating
+numerous many, emminent, plentiful, abundance, plethora, siblings, schools, parks
+genuine true, real, earnest
+cheerful happy, joyful, loving, content
+cheap people, clothes, discount, clearance, sale, retail, salvage
+
+adorable teddy bear, baby, puppy, kitten, cub
+ahead thinking, looking, watchful
+strict firm, hard, mean, teachers, parents, family members, advisors, principal, rules, army, navy
+
+bumps acne, rash, irritation, infection, hinder,
+creative imagination, Disney world, fun, think
+arrogant cocky, self-assured, rude
+aware knowledgeable, smart, educated, student, graduate
+blinds curtains, wall, window
+difficult work, challenging
+absurd unthinkable, non-acceptable
+cents change, coin star, dimes, pennies, nickels, quarters, money, exchangeable, currency
+
+deadly death, illness, cancer, AIDS, violence, toxins
+crafts ceramics, art, jewelry, necklace, bracelet, painting, drawing, color, stickers
+formal gown, tux, dress, tie, suite, hills, presentable, special, occasion, decorations, prom, wedding, reception, pin-ups, hair-cut
+
+joyous leaping, excitement
+delicate soft, gentle, fragile
+misses
+needy parasitic, clingy, wanting
+crops plants, cabbage, tomatoes, greens, squash, lettuce
+
+cups drink, alcohol, beverage, slushy, icee, solo, mug, shots, beer, vodka, kool-aid, soda, coffee, water
+baked desserts, cookies, cakes, pies, brownies, oven, chicken
+medieval old, out-dated, ancient, past
+components factors, aspects, math, numbers
+bright sun, light, colors, neon
+priceless MasterCard, love, life, laughter, moments, family, friends, surroundings, feelings, emotions, times, living
+always consistent, God, never-ending
+crooked thief, stealer
+alone lonely, solitude, ostracized, alienated, single
+excited happy, joyful, cheerful, ready, birthday, Christmas, date
+brilliant genius, Einstein, prodigy
+around environment, surrounding, vicinity, area, perimeter
+
+ahoy captain, spongebob, pirate, greeting

@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00691
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 14 Apr 2010 19:26:28 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00691
+Practice:
+sing alto, tenor, choir, loud, quiet, opera, broadway
+hammer heavy, red, wood, metal, workman, bob the builder
+Experimental:
+erupt explosion, gases, volcanoes, geology, lava, hawaii, hot, melting, dead trees
+wild animals, parties, Africa, zoo, jail, alcohol, extinct, rain forrest
+hint guessing, hide and seek, prompting, teachers, parents, Blue\'s Clues
+nervous anxious, waiting, finger taping, pacing, crying, sweaty palms, shaking
+business wardrobes, files, staplers, computers, secretaries, bosses, elevators, taxes, products
+path road, destination, woods, rocks, spirituality, riding fourwheelers, camping, hunting
+bride wedding, white, flowers, church, groom, something blue, sparkles, pictures, white teeth, cake
+squirrel scary, they jump out at people, harry, nutts, tree\'s, climbing, beady eyed, movies 
+pizza dominos, papa johns, delivery boys, exercising, beer, parties, super bowl, food, caleroies
+tense heightened shoulders, flustered, fighting, auditions, beauty pageants, awkward situations
+beg dogs, mononlogues, relationship problems, candy stores, resterants, ice cream, chores
+belt hurt, pain, anger, frustration, pants, jeans, waist, shirts tucked in, solar system, jupiter
+offense all sports, touchdowns, cheerleading, baskets, buzzors, bleachers, fans, concession stands
+washington state, president, white house, monuments, tourist, trains, business suits, briefcases
+smile happines, little kids, braces, crooked teeth, dentist, traveling, lips, operation smile
+leather cow, brown, black, couches, belts, purses, bikers, saloons
+ski snow, mountains, falling, trees, ski lift, Colorado, water, lakes, boats
+real not fake, touchable, see it, examine, observe, TV shows, smells, tastes
+no opposite of yes, not being able to do something, voting, not acceptable, parents, grounding
+sting pain, bee\'s, wasps, medicine, bandaids, itch cream, ice pack, care
+closing shutting of doors, windows, running out of business, store hours, no customers
+camp fun, exciting, adventerous, time to grow as a person, bad food, counselors, bunk beds
+annoying younger siblings, roommates, parents, teachers, bothering, pests, barking dogs, crying babies
+satin devil, hell, bible, God, red, bad, hot, devil on the shoulder, good vs evil, scary
+thursday classes, almost friday, exercising, date night, movies, end of the week, bars, alcohol
+prince Disney movies, England, happily ever after, princesses, castles, kings and queens
+gas expensive, resource, needed to operate vehicles, lawn mowers, pumps, deisel
+fall leaves, changing leaves, football games, Grove, cool weather, nightime is earlier
+garden different flowers, vegetables, dirt, bugs, sunshine, rain, working, dirty, shovel
+husband spouse, loving, compassionate, supporter, listener, partner
+never impossible, eventually, trying something to acheive the goal, infinity, giving up
+cocaine drugs, bad, substance abuse, hospitals, high, police, arrests
+frightened thunderstorms, scary movies, jumpy, yelling, trembling, mouse
+animal exotic, playful, cute, loveable, furry, wet nose, treats, parks
+glue sticky, kindergarten, homemade projects, crafts, crayola, wal-mart
+hole sewing machine, needle, patch work, thread, outside, snakes
+cheap falling apart, not sturdy, good deal, prices, dollar general/store
+sports exercising, fast, in-shape, work outs, diets, training, coaches, bed times
+drugs not healthy, stimulants, passing out, relaxation, social time, smoke
+orgasm electrifying, sex, intimate others, warm sensation, being close to someone
+camera pictures, videos, capturing moments, candids, facebook, parties, formals
+nephew sports, playing outside, adolescents, school, friends, dogs, pizza
+on not off, lights, shower, approperiate timing, radio, computer
+dumb stupid, failing, grades, retardation, blonde moment, ignorant
+crash cars, hospital, surgery, car insurance, seat belts, scars, wounds
+environment going green, mother earth, trees and flowers, animals, polluting, recyling
+shampoo cleaniness, wet, smells good, bubbly, massaging, conditioner, shower
+answer speaking, telling the truth, doing equations, searching
+confess admiting, not lying, sinners, explaining situations, catholic churchs
+concert loud, bright, crowds, wardrobe of all kinds, beer, music, drums, guitar, cameras
+arrogant stuck up, thinks they are better than anyone else, your way or the highway, know-it-all
+quart measuring system, milk, math, equations, recipes, not big
+storage large, small, dark, light, temperatures, filled with cob webs, stairs, boxes
+catholic confession, priest, standing, sitting, reciting, long weddings, long funerals, religion
+prisoner jail, drugs, alcohol, abuse, court, police, orange/stripes, gross food, dirty toliets
+rip tear, holes, snagging, loose fabric, half, rest in peace, graves
+young babies, teenagers, innocence, cartoons, driving, petty drama, high school, junior high
+sky blue, cloudy, beautiful, shapes, forever, gazing, starry, no fears
+rule guidlines, steps for following orders, detention, breaking the law, time-outs, obeying
+bath splashy, toys, relaxing, bubble, soaking, enjoyment, water
+
+

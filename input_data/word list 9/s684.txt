@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00684
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 14 Apr 2010 13:54:20 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00684
+Practice:
+sing loud, soft, bad, good, noise
+hammer loud, annoying, pressure, pressing, wood, metal
+Experimental:
+erupt explode, lava, loud, boom, dangerous
+wild crazy, unpredictable, untamable, nature
+hint clue, password
+nervous nerves,jittery, anxious, trembling
+business stern, strict, profit, rules, business suits
+path stones, follow, direction
+bride beautiful, blushing, white gown, vail, happy
+squirrel fast, road kill, eats nuts, bushy tail
+pizza yummy, saucy, cheesy, dipping sauce
+tense hard, stressed out, outward
+beg plead, on your knees, desire desperatly, folding hands
+belt seat belt, safety belt, protection, constrainment
+offense sports, aggressive
+washington D.C., the state, far away
+smile happy, teeth, outward sign of joy
+leather hard, brown
+ski snow, fast, legs
+real just, righteous, raw
+no stopped, not good
+sting ouch, hurts, an attack
+closing shutting, the end
+camp an area of woods, wilderness
+annoying painful, stupid, obnoxious
+satin hell, bad, anti-christ
+thursday almost friday, thirsty thursday, good day of the week
+prince charming, stunning, desirable
+gas expensive, smelly, necessary
+fall leaves, cool clothes, brown, dark
+garden flowers, pretty, colorful, happy
+husband good, loving, manly
+never not once
+cocaine bad, stupid, crazy
+frightened scared, disturbed, unexpected
+animal wild
+glue sticky, holds things together, white
+hole an empty space, puncture, a wound
+cheap falling apart, inexpensive, poorly made
+sports fun, exercise, hard
+drugs bad for the body, unexpected consequences
+orgasm shaking
+camera flash, capturing
+nephew cute, little
+on good
+dumb stupid, unaware, ignorant
+crash loud, booming, two things collide
+environment good, green, needs saving
+shampoo smells good, clean
+answer yes, no, maybe
+confess tell the truth
+concert loud, fun, drunk, music
+arrogant immature, snobby
+quart soda, science projects
+storage crates, garage
+catholic holy, no meat on fridays of lent, rich
+prisoner bad, dirty
+rip tear, slice, make two 
+young cute, fun, ignorant
+sky blue, clouds, changing
+rule a law
+bath good, clean, healthy
+
+

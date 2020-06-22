@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00675
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Mon, 19 Apr 2010 13:14:15 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00675
+Practice:
+sing a bird can sing, a human can sing, a musician can sing, a choir sings, a band sings
+hammer Hammer goes with nails, hammer can nail stuff into sufaces, construction workers use hammers, remodeling requires a hammer
+Experimental:
+erupt appear, belch, blow up, throw off, touch off, rupture vent, vomit
+wild untamed, barbaric, fierce, free, neglect, natural
+hint suggest, indicate, glimmering, help, idea, implication
+nervous anxious, fearful, fidgety, bothered, basket case, high-strung, annoyed, fitful
+business biz, calling, career, vocation, trade, specialty, occupation, pursuit
+path aisle, artery, avenue, beat, pathway, groove, highway
+bride helpmate, newly married, old woman, newly wed
+squirrel aquire, amass, by up, cache, collect, deposit, garner, gather, collect
+pizza cheese, tomatoe, toppings, vegetables, meats, bread, thin, or thick
+tense close, firm, rigid, stiff
+beg adjure, woo, worry, petition, entreat
+belt cincture, cummerbund, girdle, ribbon, ring
+offense breach, crime, fault, lapse
+washington uncle sam, empire, execution, rule, union
+smile gracious, beam, grin, laugh
+leather felt, fleece, oxhide, 
+ski one of a pair of long, slender runners made of wood, plastic, or metal used in gliding over snow
+real xisting or occurring as fact; actual rather than imaginary, ideal, or fictitious
+no nix, no way, not at all, not by any means
+sting needle, pique, poke, prickle
+closing shut, shut off, shutter, slam, stop up, stopper, stuff, turn off
+camp far out, in, mannered, mod, ostentatious, pop, posturing, wild
+annoying  tease, tick off, trouble, turn off, vex, work on, worry
+satin dull, raised, rough, ungroomed, unkempt
+thursday week of the day, day before the weekend, day before friday
+prince raja, rajah, royalty, ruler, sovereign
+gas a liquid is a fluid with a fixed volume, and a gas is a fluid that can expand indefinitely
+fall plummet, plunge, pratfall, recession, reduction, slant, slip, slope, slump, spill, tumble
+garden oasis, patch, patio, plot, terrace
+husband monogamist, monogynist, other half, partner, spouse
+never at no time, don\'t hold your breath, forget it, nevermore, no way, not at all, not ever, not in any way
+cocaine blow, coke, controlled substance, crack, crystal, freebase, happy dust
+frightened strike terror into, terrify, terrorize, unhinge, unnerve
+animal beastly, bestial, bodily, brute, brutish, corporeal, earthly, earthy, feral, fleshy, mammalian
+glue cement, gum, gunk, mucilage, paste, plaster,
+hole space, split, tear, tunnel, vacuity, vent, void, window
+cheap at a bargain, bargain, bargain-basement, bargain-counter
+sports action, amusement, athletics, ball, disport, diversion, exercise
+drugs biologic, cure, depressant, dope
+orgasm acme, apex, apogee, ascendancy, capsheaf, capstone, climacteric
+camera 35mm, Kodak, Polaroid, camcorder, video camera
+nephew beau, boyfriend, brother, father, fellow, gentleman, grandfather, guy
+on dvanced, advancing, ahead, along, ante, antecedently, at an advantage
+dumb at a loss for words, inarticulate, incoherent, mousy, mum, mute
+crash  sound, thunder, thunderclap, wham
+environment surroundings, terrain, territory, turf, zoo
+shampoo wash, whisk, winnow, wipe
+answer thank-you note, the ticket, topper, vindication, wisecrack
+confess spill the beans, spit out, squeal, tip hand, unload, vent, wease
+concert musicale, recital, rockfest, selections, show
+arrogant swaggering, uppity, vain, wise guy
+quart US liquid measure, cup, gallon, gill, liquid unit, pint
+storage ambry, arcade, argosy, arsenal
+catholic universal, unprejudiced, unsectarian, whole, wide, world-wide
+prisoner captive, chain gang member
+rip cleavage, gash, hole, laceration, rent, slash, slit, split
+young unripe, unseasoned, untried, unversed, vernal, youthful
+sky vault of heaven, welkin, wild blue yonder
+rule statute, tenet, test, the book, the numbers, truism
+bath ablution, cleansing, dip, douche, dousing, gargle, laving, scrubbing
+
+

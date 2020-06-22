@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00837
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Thu, 8 Jul 2010 22:16:42 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00837
+Practice:
+zebra animal, mammal, stripes, live in zoos, live in the wild, live in africa, horse-like, funky mane, weird tail, move in packs.
+house home, cement, brick, wood, doors, rooms, windows, roof, family, guestroom, beds, bathroom, closets, desks, kitchen, cars, laundry room, food, memories, clothes, desks, couch, sofa, t.v.
+Experimental:
+1 fudge chocolate, brown, tasty, coffee, energy, flavor, bad breath, yellow teeth, cake, icing, hot fudge sundae
+2 girls periods, pregnancy, moody, hairspray, makeup, vaginas, breasts, fashion, hourglass body, masturbation, porn, smell good. 
+3 tree tall, branches, leaves, stump, climb, green, grass, fresh air, outside, breathe, sap, bark, nests, birds, monkeys, squirrels, pine cones
+4 string yarn, tampon, arts and crafts, ribbons, bedsheets, Irish pennants, shoe strings, hanging, thin, spaghetti, bikini, G-string, thongs
+5 spice India, spicegirls, food, culture, taste, Chicken marsala, Indian food, Columbus, curry, tony's, herbs, spice rack, cabinets, kitchen, stomach ulcers
+6 surgery doctors, ouch, fascinating, cut, scar, injury, scalpel, face mask, sterilizer, blue, blood, scrubs, death, family, accident, fear, God, miracles, nurses, anesthesia, hospitals
+7 turtle animal, slow, hard shell, turtle pie, ocean, big turtles, small turtles, snapping turtles, squirtle the pokemon, reptiles, 
+8 branch tree, brown, strong, monkeys hanging, treestand, family tree, avatar the movie, holy trees, Nicodemus sitting in the tree branch, small, big, ninjas, lightening, fruit
+9 emergency 911, police, ambulance, stroke, heart attack, panic attack, robbery, gunshot, paramedics, EMT, fire, firefighters, smoke alarm, shooting, breaking and entering
+10 amuse laughter, comedy, happiness, stupid people, funny people, music, dancing, funny, children, family, comedians, jokes, preachers, pranks, youtube, 
+11 schedule classes, times, organization, school, bell, busy, tired, work, backpack, purse, phone, notebooks, pagers, pens, buildings, meetings, professors 
+12 patient calm, serene, relaxed, tolerant, fresh breath of air, no headache, marijuana, religions, stoplight, virtue
+13 shoe feet, comfort, heels, sores, blisters, toes, toenails, peep-toes, wedges, clean, dirty, mud, street, pumps, boots, sandals, flip-flops, tennis shoes, sneakers, cultural, floor, ground, arch, gel inserts, dr. scholls
+14 lost LOST the tv show, found, child, walmart help desk, in the desert, IDs, keys, no phone, no service, alone, scary movies, gps, maps, scared, night, dark, animals, howling
+15 strange eccentric, murderer, weird, lady gaga, emo people, socially awkward people, different food, teachers, cockroaches, anteaters, mold
+16 temple Holy, religion, church, Mass, the sikh temple, God, Jews, Muslims, Body is a temple, Israel, conflict, sin, pillars
+17 dull boring, bland, stick in the mud, grey, nude, not shiny,  flavorless, monotonous, history, silence, blah, cauliflower, eggplants, vegetables
+18 conference meeting, professionals, stock market, brief case, suits, men, computers, desks, long tables, portfolio, skyscrapers, shiny chairs, water, phones, phones ringing, beepers, powerpoint presentation, screens, windows
+19 sunset beautiful, romantic, pretty pollution, walk on the shoreline, beach, kissing, skirts, sand, feet, paintings, tropical, vacation, 3 in the morning, breezy, hair flowing, the end of movie, books, or day
+20 doll little girls, barbie, ken, toy story 1 2 and 3, creepy toys, babies, miniature people with miniature clothes, fake hair, fake homes, plastic, can't move, G-I Joe, childhood, past, memories, gifts
+21 simple simple is smart, natural, cheap, not complex, average,  plain, straight forward, basic, effortless, solid, typical, life is simple (sarcasm), understood
+22 puke acid reflux, throw up, regurgitate, pregnancy, sickness, flu, vomit, gag, yellow teeth, nasty smell, smell that makes others gag, spit up, nausea, barf, hurl, upchuck, babies
+23 south rednecks, confederates, accent, fried food, Ole Miss, overalls, tractors, Antarctica, dogs, cows, barns, horses, rodeos, agriculture, chicken houses, hay, south pole
+24 am I am, exist, alive, morning, breakfast, me myself and i, wheel of fortune, description, quotes, Bible verses, I am what I am and that is something you'll never be, a periodic element 
+25 wound healing, band aids, neosporin, gunshot, blood, war, lesion, casualties, hurt, pain, medicine, abrasion
+26 tape sticky, duck tape, paper, strong, durable, handy, binding, adhesive, cassette tape, music, old times, a track, round and round, vinyl
+27 achieve success, graduation, awards, goals, completion, accomplish, satisfaction, happiness, smiles, fulfillment, win
+28 road roadtrip, endless, travel, adventure, desert, people, cars, horses, vacation, convertible, scarves, hair, sunshine, nascar, 
+29 cave cave jumping, fire, behemoths, prehistoric, bears, shelter, rain, dragons, dark, pointy rocks
+30 ladder roof, man, toolbox, falling, climbing, wooden, metal, not sturdy, safety, accidents, head trauma, heat, painting, reaching something, height, home improvement
+31 find lost, search, locate, panic, obtain, discover, Christianity, metal detectors, detectives, pinpoint, spot
+32 tissue cold, boogers, nose, soft, spills, hypoallergenic, hankies, puffs, Kleenex, face 
+33 ashtray smoke, cough, cigarette, second hand smoke, heart attack, lung cancer, grey matter, disgusting smell, stains, dryness, addiction
+34 film movies, theaters, tickets, westerns, roll, cinema, projector, record, coating, layer, pictures
+35 beast beauty and the beast, bears, lions, tigers, beast from the middle east, football players, muscular, creature, brute, savage, dangerous, fear
+36 meat red meat, ham, sausage, turkey, roast beef, meatballs, fat, unhealthy, chicken , grease, friend food, southern living, farms, slaughter houses
+37 zero none, nada, nothing, without, no, empty, missing, diddly-squat, double zero, real number, skinny size, jerseys, loss
+38 ship sail, waters, oceans, pirates, wood, cannons, trade, historic, import, sailors, pilgrims, submarines, steamboats, navy
+39 fragile breakable, teenage girls, glass, windows, emotions, hearts, love, dancers, flimsy, delicate, flowers, vases, babies
+40 die sadness, funeral homes, caskets, morgues, elderly people, hospitals, family gathering, pass away, graves, disease, deceased, tears, autopsy
+41 question curiosity, answers, knowledge, tests, learning, life, college, school, students, teachers, words, inquiry, doubt, interrogation
+42 pancakes syrup, I-HOP, waffles, smooth, food, breakfast, dad, butter, strawberries, memories, flour, forks, knives, plates, table
+43 vomit throw up, school, stomach virus, rash, pimples, nasty smells, gag, reflex, bathroom, toilets, chunks
+44 sword Zelda, king arthur, knights, jousting, tall dark and handsome, black horse, fantasy, white horse, cinderella, blade
+45 slip fall, stairs, trip, banana peels, slide, wet, slip n slide, ground, muddy, rainy, no grip
+46 syrup thick, molasses, sugar, pancakes, sweetness, amber color, fatty, sticky, stain
+47 bother young siblings, troublesome, disturb, pester, parents, teenagers, inconvenient, busy, work
+48 wimp bully, frail, thin, small, high school, jocks, fear, scared, coward, pansy, glasses, nerd, acne
+49 it things, places, noun, everything, anything, thinagamabob, over there, here, object, pronoun, third person, item, doohickey
+50 male testosterone, penis, balls, masculinity, muscles, manliness, father figure, boys, adam, power, brothers, fathers, sons
+51 empty without, withheld, gone, vacant, absent, missing, used up, finished, empty the trash, done, unoccupied, incomplete
+52 tupperware food, plastic, parties, containers, storage, packaging, clear, useful, leftovers, cooking, kitchen, refrigerator, bowls, lids
+53 gloves safety, precaution, crime scene, gardeners, washing dishes, cleaning, protection, mitten, warmth, winter, wool, leather
+54 ax hatchet, lumberjack, murder, fired, end, terminate, sharp, metal, wood, outdoors, timber, dangerous, heavy, strength, man, plaid
+55 small little, compact, tiny, child, miniature, mustard seed, termites, microscopic, baby, mini-cooper, short, petite, peanuts, elf, midget
+56 cabbage cabbage patch kids, healthy, green, purple,  vegetable, cole slaw, garden, food, salad, leaves, dolls
+57 feet nasty, smelly, shoes, heels, rough, cracks, sore, blisters, swollen, ugly, toes, toe-nails, athlete's foot, flip-flops, fungus, pedicure
+58 quiet silent, serene, pond, hush, calm, night, suspicion, golden, shy, mute, peace, tranquil, still
+59 search rescue, lost, young children, police, search warrant, hunt, seek, want, examine, looking for
+60 rock black, heavy, not living, The Rock the wrestler, hard, pebble, flintstones, gravel, road, rocky mountains, cement, adventure, traveling, mountains, sturdy, mount rushmore
+

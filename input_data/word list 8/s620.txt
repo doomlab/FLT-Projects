@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00620
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Mon, 29 Mar 2010 00:31:18 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data WL8S00620
+Practice:
+sing beautifully, loud, entertaining, high, low, pitch, vocal, soft
+hammer tool, heavy, metal, wood, useful, brown
+Experimental:
+relationship boy, girl, functional, lifelong, happiness, marriage, children, wedding
+see sight, eyes, colors, observe, sense
+judge people, court, authority, robe, decisions, judgemental
+night dark, late, stars, moon, black
+knowledge smart, wisdom, school, work, intelligent, useful, common sense
+crooked not straight, uneven, off centered, messed up
+college school, work, friends, happy, fun, difficult, enjoyable, experiences
+newspaper article, informational, interesting, topics, stories, useful
+three number, addition, one, two, third
+flirt boy, girl, dating, relationship, boyfriend, girlfriend, talking
+bacon breakfast, pig, tasty, food, greasy, pig, meat
+pyramid egyptians, math, smart, food, triangle
+organize straigten, clean, sort, fix, gather, responsible
+wander lost, search, walk, stray
+maze game, fun, lost, bushes, corn
+continent africa, antartica, big, asia, europe
+monk nun, religion, secluded, alone
+nut peanut, small, round, food, tasty, salty, brown
+wood tree, fire, brown, heavy
+ill mad, annoyed, sick, fed up
+joke playful, not serious, funny, comedian
+away far, elsewhere, go, mileage
+purpose meaning, reason, why
+touch feel, respond, poke, rub, stroke, pet
+sweat exercise, water, hot, sun, phsycial activity
+second two, after one, number, place
+needle pointy, metal, thread, sewing, small, silver
+push shove, painful, punch, poke, violence
+violin instrument, musical, beautiful, soothing, small, wooden
+thin small, skinny, stick, infant
+lawsuit sue, lawyer, trouble, fine, punishment
+reel bring in, fishing, pole, fish, water, boat
+dust dirty, dust pan, clean, dirt
+chaos crazy, confusion, annoying, loud, obnoxious
+hold tight, grab, strong
+appear see, watch, happen
+spine back, bone, long, flexible
+yard grass, trees, flowers, bushes, big, small, fence
+welcome inviting, appreciative, card, balloons
+alligator scary, big, mean, teeth, violent, green
+drug dangerous, helpful, pills, medicine
+peak look, sneak, hide
+tighten pull, tight, squeeze
+choose pick, select, obtain
+baby cry, small, diapers, bottle, babysit
+view see, look, watch
+jewish religion, strict, Jesus, denomination
+grab get, select, obtain, pick
+dill herb, spice, ingredient, pickle
+log wood, big, brown, heavy, tree
+excited feeling, emotion, happy, joyful
+wash clean, water, soap
+empire important, authority, big
+biology subject, science, human, body
+president authority, Obama, white house, decision
+sleep night, important, unconscious, pillow, bed, eight hours
+crime criminal, mean, bad, action, jail, court
+stairs concrete, wooden, steep, exercise
+force make, push, pull, physics
+spring flowers, sunny, pretty, happy, rain, trees
+
+

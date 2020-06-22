@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS 449
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 23 Apr 2010 21:29:22 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 449
+Practice:
+sing is an activity, using voice to express melody, a way of entertaining and show, a talent with voice.
+hammer is a tool, push the nail, also used to cut trees, useful in the forest
+Experimental:
+erupt to spread something liquid, to explode, to emerge violently, to force out, to release something
+wild is not tamed, is furious, is something that belongs to the nature, uncivilized, barbarous, is not domesticated
+hint to give a clue, to make known or indicate something in an indirect way, a slight indication
+nervous is restless, is worried, easily distressed or agitated, having a feeling of unease
+business the occupation, work, trade, a commercial enterprise, one\'s rightful or interest.
+path a road, a way, a track made for a particular purpose, a route of a journey or travel.
+bride a woman who is about to marry or recently has been married
+squirrel an animal, a kind of rodent living in a wild.
+pizza a very popular Italian food, a thick or thin bread covered by meat, cheese, mushrooms and so on.
+tense nervous tension, suspend, tightly stretched, taut.
+beg to ask for a charity, to ask deeply and earnestly, to entreat
+belt a flexible band, is made by leather, is worn around the waist to support clothing, is part of fashion style.
+offense the act of causing anger, resentment, displeasure, is a violation of a moral or social code.
+washington a state of United States, is located in the Northwest of United State, is admitted as the 42nd state in 1889
+smile a facial expression characterized by an upward carving of the mouth, is indicating pleasure, joy and happiness.
+leather dress, animal, fur, hair, cover
+ski glide, ice, sport, winter, mountain, snow, board, athlete
+real true, valuable, worth, reality, actual, existence.
+no disagreement, denial, not, negative
+sting bite, prick, pain, bees, poke, hurt, injure, wound, needle
+closing close, obstruct, seal, block, exclude, lock, congest
+camp outdoor, outside, tent, boyscout, forest, campfire, campground, encampment
+annoying irritate, upset, agitate, abrade, badger, disturb, nag, nudge, trouble
+satin sleek, smooth, glossy, shiny, lustrous, polished, silken, silky
+thursday is the fourth day of the week, is before Friday, is after Wednesday
+prince is the King\'s son, royal person, monarch, royalty, kingdom, sovereign
+gas is something not liquid or solid, fumes, smoke, vapor, volatile, aerial
+fall autumn, waterfall, descent, drop, lowering, drop, downward slope, down
+garden plants, backyard, front yard, flowers, field, greenhouse, conservatory, green.
+husband married man, bridegroom, companion, partner, spouse, mate, groom
+never not at any time, nevermore, no way, disagree, deny
+cocaine narcotics, illegal, drug dealers, gangster, coca leaves, addiction
+frightened afraid, nervous, anxious, worried, troubled
+animal wild, tamed, forest, nature, fur, cage, conservation, protection, endangered, carnivore, omnivore
+glue stick, stationery, to fasten, adhesive, paste
+hole dug, shovel, burrow, opening, golf, cave, crack, claft
+cheap not expensive, discount, bargain, buy, cut-price, low price
+sports activity, adventure, competition, health, gymnasium, racket, field, fitness
+drugs medicine, doctor, gangster, medication, cure, pharmaceutic, narcotic, physic, dope, biologic
+orgasm climax, peak, culmination, sex, ultra, zenith
+camera lens, photo, photography, photographer, Polaroid, model, light
+nephew relative, little child, sister, brother, candy
+on light, about, approaching, electronics.
+dumb stupid, brain, academic, stupidity, dull, unintelligent, foolish, moronic 
+crash bang, blast, boom, car, plane, accident, incident, crack, clash, fire
+environment nature, neighbor, neighborhood, surroundings, atmosphere
+shampoo hair, woman, wet, water, beauty, liquid, shower
+answer questions, examination, reply, response, acknowledgment, comment
+confess admit, affirm, assert, concede, confide, say, come clean, blurt out.
+concert music, performance, singer, show, audiences, clap, seat, ticket, VIP
+arrogant attitude, aloof, assuming, audacious, autocratic, bossy, scornful, high-handed
+quart unit, capacity, liquid, gallon, gill, cup, pint
+storage arcade, food, wine, trade, basement, house, soil, winter
+catholic Jesus Christ, religion, Pope, saint, cathedral, church, communion, Vatican City, Rome
+prisoner outlaw, jail, prison, police, officer, penalty, death penalty, Alcatraz
+rip tear, cut, cleavage, gash, hole, rent, slash, split
+young age, active, healthy, adolescent, immature, little, juvenile
+sky clouds, blue, white, heaven, atmosphere, airplane, fly, bird, flight, satelite
+rule kingdom, sovereign, president, leader, country, king, queen, regulation, government, people, democracy, politics
+bath shower, water, soap, bubble, cleansing, douche, sponge, tub, wash
+
+

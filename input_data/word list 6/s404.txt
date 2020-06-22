@@ -1,0 +1,65 @@
+Theme Data  S00404
+Practice:
+finger ring,skinny,fat,five
+couch comfy,sofa,living room,nap
+Experimental:
+acute angle,math,school,textbook
+adolescence teenager,immature,highschool,
+airshaft airplane,air,hole,sky,blue
+arc circle,noah
+attach stroller,cabinet,wagon,trailer
+been vegetable,store,park
+beware scared,dog,danger,fear,haunted house
+chalkboard school,teacher,homework,math,
+charm cereal,bracelet,friend
+climate weather,cold,hot,sun,rain,snow
+clockwise clock,time,track
+collect toys,dolls,baseball cards,trading cards
+compound chemistry,problem,cake,air
+constant variable,math,chemistry
+cutthroat violence,knife,strangle,man
+cylinder round,pipe,smoke
+daytime sunny,school,practice,park,walk
+dessert fat,ice cream,cake,brownie,pie
+detail signature,word,name
+disciple Jesus, 12 disciples,christian,Gospel,friend
+done heaven,Jesus,school,work
+earring ear,jewelry,fashion,statement,rich,
+emote television,note,refrigerator
+energy food,sports,water
+eureka vacuum,commercial,clean,housework,mom
+fiance pure,marriage,love,covenant
+floorshow stage,actor,actress,curtain
+folder homework,organized,paper,documents
+freestyle song,dance,rap,music
+heave vomit,sick,temperature
+heaven Jesus,streets of gold,angels,feast,trumpets,hymns,songs,rejoice,happy
+jabber knife,violence,gun
+leery baby,scared,owl
+mall shop,store,sale,holiday
+manager boss,responsibility,money,
+menace killer,gun,shooter
+nickname friend,son,daughter,name
+olympics athlete,sports,best,event,world,michael phelps
+pedigree dog,food,healthy,brand,bag,heavy
+plus shampoo,gas station
+puff marshmellow,fire,smore,pillow
+reasonable problem,child,parent
+retrograde 80\'s,parents,
+rogue store,watch,clothes
+secure house,bank account,money,self,safety
+shade tree,canopy,park,lake
+snatch baby,toy,fight,siblings
+soup hot,winter,cracker,grilled cheese
+spasm cramp,muscle
+swimmer michael phelps,olympics,athlete,pool,diving board
+tabloids celebrity,jon&kateplus8,tv,tv show,hollywood
+thick cheeseburger,fat,hair
+tier cake,wedding,birthday
+transpire sweat, deodorant,garbage,trash can
+troll animal,cartoon,toy,boy,television
+unify team,workplace,friends
+wallop gallop,laugh,kick,punch,violent
+windmill arizona,energy,conserve
+wonderful life,friends,food
+wrath God,sin,anger

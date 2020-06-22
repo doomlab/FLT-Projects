@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00864
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Sun, 25 Jul 2010 20:03:45 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00864
+Practice:
+zebra Black, white, equestrian, lives in africa, lives in a herd, gallops across plains, herbivore, and mammal
+house Shelter, has rooms, has windows, can have multiple levels, it's a home, it's a shelter, many makes a neighborhood
+Experimental:
+1 fudge chocolate, sugar, coco, flour, candy
+2 girls Young women, giggle, children, wears dresses, wears pigtails, sugar, spice, everything nice, innocent
+3 tree Brown, green, yellow in fall, orange in fall, brown when dead, flora, recycles air producing oxygen, big, small, tall, cut to make wood, grows in rich soil
+4 string Twine, white, wraps things, wrapped around others forms rope, short, long
+5 spice can be any type of herb, used fresh, used dry, masks taste, enhances taste, can be crumbled, can be ground, can be burned, the leaf of a plant, the flower of a plant
+6 surgery scary, precise, can fix a person's ailments, can remove problems from your body, performed by doctors, performed in sterial enviroment, performed with scalpels, anasthetics, stitches, staples, wounds, gashes
+7 turtle green, brown, yellow, red, has a shell, is a reptile, lays eggs, moves slowly, has a nest, can be a fresh water animal, can be a salt water animal, it migrates, it eats plants, lives alone
+8 branch a small extension of a tree, it sways, it breaks, its brown, its rough textured
+9 emergency produces fear, dread, and demands response, announced by loud sounds and flashing lights
+10 amuse has the side effect of smiling or grinning, accompanied with laughter, result of a feel good stimulus
+11 schedule managed by time, everyone has one, organized, usually written down
+12 patient wears a robe of tissue, have an illness, has an injury, not in good health, pale, weak
+13 shoe made of leather, made of rope, made of rubber, made of plastic, made of linen, multi-colored, made to lase up, used for covering feet, used for cushioning your feet
+14 lost a decription of a current situation, a four letter word with men and directions, the opposite of found
+15 strange people can act this way, a description of abnormal behavior, is not normal, 
+16 temple a place of worship, a large community structure, a center of religious energy, can be made of stone, can be made of earth, can be made of wood, holds a large number of people 
+17 dull a decription of a situation the is not amusing, accompanied by the colors gray, black, earthy, monotone
+18 conference a collection of like minded people, a collection of not so like minded people, held in a large area, hotels, community centers, you have to pay to attend
+19 sunset occurs only before night, a set time of day, contains the colors purple, blue, yellow, red, orange, used for romantic images, 
+20 doll made of plastic, made of rubber, made of fibers, it is a toy for girls, portrays little babies, portrays characters we like
+21 simple the idea of using a small effort to complete a task, used as an adjective to describe tasks, used to describe people of less intelligence
+22 puke a verb describing a regurgitating action, an adjective describing an obnoxious person, considered gross, can be multi colored, consists of food, consists of bodily fluids
+23 south a word to describe a direction, a word to describe region of a country, a nestalgic reference of culture
+24 am half the period of a day, a description of time, a time of day used to sleep, an abreviation
+25 wound caused by an accident, caused by an intent to injure, an abrasion of the skin, closed with staples, closed with stitches, closed with clue, caused by blunt force, caused by sharp objects, caused by pointed objects
+26 tape used to adhere materials together, comes in rolls, comes as a clear material, comes in the color black, gray, blue, red, yellow, can be made of cloth material
+27 achieve a word used to decribe success, a word used to decribe an internal destination, 
+28 road they all lead to Rome, the name of a post apocolyptic novel, can be made of brick, made of stone, made of dirt, made of gold, they are the shortest distance between to points, they lead to destinations
+29 cave they are dark, they are cold, they are musty, they are holes in the earth, they are made of earth, they are made of stone, animals live in them, people can take shelter in them
+30 ladder made of wood, made of metal, has multiple steps, used to reach places higher than your reach, 
+31 find opposite of lose, another word for search, describes the end of a search
+32 tissue a biological term used to describe pieces of the body, can be a form of very thin material, a thin fiber sheet used to clean bodily fluids
+33 ashtray used by smokers, found in bars, found in restaurants, used to drop ashes in, made from glass, made from plastic, made from wood, made from stone
+34 film used to capture images, used to capture moving images, a short term for movies, 
+35 beast a monster, an animal that causes fear, can be used to describe people, they are considered violent, wild
+36 meat eaten by carnivores, the flesh of an animal, can be cooked to optomize flavor, can be sectioned off, used in a balanced diet
+37 zero a numerical absolute, describes quantity, depicted a a circle
+38 ship a boat, large, small, floats on water, propelled by man, propelled by machine, made of wood, made of steal, if punctured it will sink on water, transports people, transports goods
+39 fragile a word to describe the stability of an object, used to describe a person's mental state, another word of frail, opposite to sturdy
+40 die happens when life is over, can be a result of injury, can happen when the body has spent all it's resources, an action word, 
+41 question a word of inquiry, used to prompt a response, a word that causes feelings of nervousness, anticipation
+42 pancakes smell sweet, a breakfast food, accompanied by syrup, comes in pairs, made of flour, it is a carbohydrate
+43 vomit a noun to decribe the remnants of regurgated food or liquids, multi colored, contains stomach acid, mucus, caused due to olfactory stimuli, caused by visual stimuli, produced by muscle contractions
+44 sword metal, made of wood, considered a weapon, ornate for ceremonies, sharp, pointed, curved, engraved, balanced, long, short, heavy, light, creates feelings of honor, courage, fear, respect, desperate, a symbol of statis, used as a weapon, inflicts pain and injury
+45 slip an action cause by the level of friction, an action accompanied by a whistle, caused by a slick oily surface, happens from time to time
+46 syrup a reduced form of sugar and fruit juices, used to flavor pancakes and sausage, it is sticky, it drips, and comes in many colors
+47 bother a feeling that someone is annoying you, a word that describes a distraction, causes feelings of anxiousness, nervousness, stress
+48 wimp can cry, gets picked on, suffers scrutiny, depicted as small, frail, and has no ability to defend it's self
+49 it a clown, a pronoun to describe a thing and not a person, 
+50 male used to describe a sex of an animal, has a penis, reproductive organs are located on the outside of the animal during mating
+51 empty used to describe the contents of a container, depicted as absolutely black or absolutely white, used to describe a person's wit or feelings
+52 tupperware they are made of plastic or rubber, normally clear but come in many colors, holds foods and liquids, saves food costs
+53 gloves they are made of plastic, latex, linen, leather, they protect the hands from heat, germs, cold, unsavory surfaces, if it does not fit 
+54 ax made of wood and metal, large, small, short and long, sharp, double edged, single edged, used for crafts, destruction, war, 
+55 small a word used to describe the size of a person or thing, can be a good thing or bad thing, used to describe a person's view or opinion
+56 cabbage vegetable, grows out of the ground, eaten by animals, can be steamed, smoked, boiled, or ferminted, white and green
+57 feet animals use them to walk on, we decorate them with shoes and clothes, can be covered with hair, an important appendage
+58 quiet a word to describe the sound level, used to describe a person's personality, opposite of loud
+59 search a word used to describe an action, a word used to invoke a person's response
+60 rock a hard place, multi-colored, can roll, can slide, can be broken apart, can never be solid once shattered, a hard form of earth
+

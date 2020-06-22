@@ -1,0 +1,66 @@
+Semantic Data S00426
+Practice:
+finger hand, nail, index, pointer, thumb, knuckle, five, long, thin
+couch leather, suede, comfortable, sectional, love seat, throw pillows, cushion, sit, furniture
+Experimental:
+acoustic guitar, sounds, soothing, music, instrumental, slow
+ageless young, alive, well, fun, forever, skin
+alkaline batteries, chemistry, element, experiment, power, metal, liquid, poison
+assault against the law, hurt, beat up, felony, misdemeanor, sexual, emotional, physical
+award prize, accomplishment, deserving, hard work, money, certificate, good grades, competition, first place
+beautician hair, haircut, beauty school, salons, scissors, hairspray, highlight, edgy, cosmetology, razor, hair clips, hair products
+bicep arm, muscle, gym, protein, weights, lift, men, work, fitness, builder
+bitterness sour, candy, mean, ugly face, stressed, unwelcoming, taste
+bonehead dumb, skeleton, skull, ditz, tool, hardheaded, stubborn, confused, rude
+brigade army, military, war, fight, corps, tanks, weapons, group
+bronco cattle, western, cowboy, rodeo, saloon, bull, cow, horns, boots, lasso
+buoy water, boat, red and white, sphere, markers, crab traps, float, bob
+burned torched, scorched, fire, crisp, blackened, burning, ash, black, burned down, candle, flame
+butter margarine, heart disease, fatty, fried, bread, yellow, fat, oil, grease, southern food, olive oil, cook
+chevron gas, station, fuel, unleaded, snacks, company, powerhouse, ethanol, gasoline, pump, tank, drinks, beer, chips, candy, cigarettes
+chromium metal, chemistry, periodic table, element
+concern worry, parents, scared, anxious, distressed, perturbed, disoriented
+confusion dazed, lost, uninformed, bewilder, frustrate, school, hard classes, fluster, ditzy, complicated
+consume whole, gone, eat, ate, empty, finnish, large, use
+cultural world, countries, travel, knowledge, food, heritage, ethnicity, traditions
+direction point, lead, wrong way, right way, turn, miles, road, exit, straight
+eavesdrop inappropriate, listen, spy, pry, sneaky, hear, hide, secret, snoopy
+exhale breathe, relax, breath, meditate, deep, air
+facet diamond, surface, angle, face, side, plane, slant
+fbi police, investigators, federal, intimidating, big trouble, crime, detectives, washington d.c., big deal
+feint cheat, fake, gamble lie
+finalize finnish, done, over, end, relief, complete, accomplished, ease
+handlebars bike, steer, rubber, metal, top, hold, grip, turn, ride, wheels, steel, silver
+held hold, keep, kept, need, grip, grasp, clutch, bind, carry, clasp, restrained
+immortal alive, living, death defying, everlasting, God, perpetual
+indication statement, evidence, cue, suggestion, persuade, make something known
+investor banker, money, risk, rich, real estate, stock, negotiate, dow jones, business man, suit, briefcase
+japan asian, island, pearl harbor, sushi, white and red flag, crazy fashion, sumo wrestler, japanese
+juice orange, apple, pineapple, pulp, cranberry, grape, flavors, healthy, 100 percent
+jump hop, leap, skip, how high, over, across, hurdler, kangaroo, rope, out
+lie fib, trouble, immoral, punishment, getting caught, white lie
+lock brinks, masterlock, key, door, safe, fence, house, keep out
+lovesick love, infatuation, lust, obsessed, need, can\'t live without, marriage, relationship
+manipulative trick, control, lie, selfish, inhale, maneuver, influence, canny
+monotone dull, one sound, one level, boring, sleepy, slow, uninteresting
+offstage curtains, behind the scenes, director, costumes, behind closed doors, observe
+ostracize reject, avoid, blacklist, gang up on, cut out, snub
+panorama camera, pictures, wide view
+pocketbook purse, belongings, cash, credit cards, identification, lipstick, compact, designer, wallet
+profound amazing, astounding, ah ha!, inspirational, deep, new, philosophy, insightful
+promote business, advertisement, sales, new, telemarketers, billboards, flyers, improved, get the word out, public relations
+prospect client, possible, opportunity, customer
+recliner couch, la-z-boy, relax, recline, television, sit, rest, lay back, prop up, microfiber, leather
+right hand, left, correct, turn, ethical, clockwise, moral appropriate, foot
+robust healthy, strong, muscles, gym, weights, body builder, powerful, physical, active, fit, large
+santa claus, christmas, reindeer, snow, sleigh, december, red, big, rosy, cookies, presents, tree, lights, north pole, letters, toys, elves
+shut close, slam, door, over, leave, out, up
+slangy casual, informal, ebonics
+suppose guess, think, wonder, maybe, possible, thought about
+surprise party, friends, fun, amaze, present, shock, startle, unordinary, astound
+surreal unreal, unordinary, crazy, ufo, supernatural, coincidence, luck, strange
+torch scorch, burn, fire, flame, burning, lighter, fluid, olympics
+tout brag, show off, flaunt
+transformer robot, metal, wires, light switch, circuit breaker, changing, cars, technical
+typescript writing, print, paper, type, book, novel, composition, typewriter, publish, rough draft, edit, manuscript, unbound
+

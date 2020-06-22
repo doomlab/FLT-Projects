@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00624
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Sun, 28 Mar 2010 19:48:30 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data WL8S00624
+Practice:
+sing voice, talent, people, competition, opera, musicals, artists, bands, 
+hammer at tool, metal, wood, used in construction, found in homes, round tip, sharp,
+Experimental:
+relationship love, romance, friendship, work, trust, honesty, women, men, marriage, 
+see eyes, telescope, glasses, contacts, vision, binoculars, is a sense, 
+judge found in a courtroom, laws, government, uses judgment, uses a gavel, wears black robes,
+night is dark, scary, stars, moon, streetlights, flashlight, lasts a couple of hours, midnight, 
+knowledge intelligence, smart, brains, books, talent, hardworking, 
+crooked not straight, zig-zag looking, twist and turns, not perfect, can be many items,
+college a university, higher learning education, many students, located in every state, residence halls, classrooms, professors, instructors, traveling, 
+newspaper paper texture, ink on paper, information, news, large paper, turns yellow when old, has pictures, has ads, comes out on sundays, 
+three is a number, used to count items, comes before four, comes after two, an integer, a real number
+flirt in a relationship, a tease, romantic, playful, fun, liking someone
+bacon smells good, tastes good, is brown, comes from pigs, is edible, eaten at breakfast, comes in several dishes, cooked on a skillet, has sodium
+pyramid square bottom, triangular sides, a prism, found in Egypt and Mexico, slaves built pyramids, 
+organize to clean and put everything in order, organized people, desks, offices, libaries, 
+wander to walk off, have no destination, curious, searching, lost, 
+maze several paths, a puzzle, clues, dead ends, a game, hay, walking, 
+continent countries, seven, surrounded by land, surrounded by water, traveling, maps, atlas, 
+monk a priest, the church, religion, wears brown robes with a rope, wear sandals, have bald heads, monasteries, the countryside, the Bible,
+nut a seed, comes from trees and plants, squirrels consume them, falls onto ground, cookies, are edible, peanuts, different sizes, different colors,
+wood trees, are hard, texture is rough, peel, trunks, used in chimneys, used to build furniture, used to make paper,
+ill feeling sick, not feeling well, going to the doctor, fever, cough, headache, medicine, bad day, in a bad mood,
+joke funny, hilarious, corny, makes people laugh, can me mean or sarcastic, 
+away not close, having to travel a distance to get to it, not having something close to you
+purpose a meaning, a direction, a goal, a dream, 
+touch a sense, hands, feet, skin, feelings, hurt, moving fingers, holding something
+sweat salty, hot climate, rigorous exercise, falling down, drenching clothes, smelly
+second time of day, time flies by, a number, 
+needle a medicine shot, it hurts, a tattoo needle, clinics, blood, pain
+push hardwork, exercise, a cart, a wheelchair, uses muscles,
+violin an instrument, in the string family, used in orchestra, used in bands, used in symphonies, smaller than a viola, uses a bow, talent
+thin not fat, not big, skinny, small, 
+lawsuit government, laws, a lawyer, money, court, officers, office, legal papers, contracts,
+reel fishing, a fishing pole, a boat, a movie theater, pictures, music, 
+dust on furniture, on items, cleaning, swiffer wipes, furniture spray, particles that are in the air, consists of dirt and dead skin cells, allergies 
+chaos confusion, stress, bad, a catastrophe, people running around,
+hold on an account, on grades, on the phone, something in hands, hugging, 
+appear clothes, makeup, shoes, in the spotlight, opposite of disappear, 
+spine found in mammals, nervous system, spinal cord, ability to stand up right, made of bones, tissue,and cartilage, 
+yard in a house, in an apartment, has flowers, dirt, colorful, hardwork, shovel, garden gloves, tools, fences, dogs, kids, swings, 
+welcome a hug, can be said in different languages, sign of friendliness, nice, 
+alligator an animal, is cold-blooded, has scales, rough textured skin/outer shell, is green to dark green, lives in swamps and watery areas, dangerous, sharp teeth, long tail, 
+drug a medicine, an addiction, expensive, trouble, prescribed, 
+peak of a mountain, of a graph, a high-point, a climb, 
+tighten close together, a big hug, to reinforce,
+choose making a decision, it can be difficult, indecisive, 
+baby cries, is small, is in womb for nine months, cannot talk or walk, drinks milk, is carried in a stroller or baby seat, bottles, pacifier, 
+view looking out from a window, being on top of the world, pretty, amazing, breathtaking, eyes, looking,
+jewish a religion, an identity, a label, church, the Torah, 
+grab holding something, hands, touching, feeling,
+dill a pickle, a name, a type of food, can be edible, is green, different taste
+log made of wood, rough texture, can be used for fire, can be used in chimneys, you can sit on it, campfire, a bridge,
+excited an emotion, overwhelming, happiness, nervousness, something good,
+wash your hands, a car, a bike, the dishes, oneself, something dirty, soap, water, 
+empire a form of government, countries, laws, leaders, history, men, women, people
+biology a subject, a major, a class, a study, books, study of life, animals, cycles, notes, class, teachers, labs, experiments, research
+president a leader, countries, lives in the White House, government, makes laws, makes rules, travels, makes decisions, 
+sleep bed, night, a nap, gives energy, good mood, pillow, blankets, 
+crime police, jail, criminals, burglary, car chase, jail cell, bail, guilt, 
+stairs connects two stories, elevated, walking, banister, made of wood, metal, plastic,
+force physics, is hard work, takes energy, muscles, 
+spring a season, flowers boom, starts in March, sunny weather, sometimes rainy, Easter, spring break, 
+
+

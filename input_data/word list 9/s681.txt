@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00681
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 14 Apr 2010 09:45:51 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00681
+Practice:
+sing Noise, amplitude, pitch, sound, tempo,
+hammer size, material
+Experimental:
+erupt build,
+wild instincts
+hint clue
+nervous feeling
+business money
+path direction
+bride gender
+squirrel size
+pizza sauce
+tense feeling
+beg despair
+belt size
+offense severity
+washington buildings
+smile mouth
+leather toughness
+ski location
+real believeability
+no feeling
+sting hurt
+closing time
+camp outdoors
+annoying personality
+satin feeling
+thursday day
+prince money
+gas octane
+fall tempature
+garden flowers
+husband age
+never time
+cocaine quality
+frightened feeling
+animal type
+glue hold
+hole depth
+cheap level
+sports player
+drugs type
+orgasm feeling
+camera quality
+nephew family
+on location
+dumb intellect
+crash where
+environment temperature
+shampoo smell
+answer correct
+confess quantity
+concert music
+arrogant personality
+quart measure
+storage size
+catholic religion
+prisoner time
+rip size
+young age
+sky color
+rule law
+bath time
+
+

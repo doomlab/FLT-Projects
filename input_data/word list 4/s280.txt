@@ -1,0 +1,129 @@
+Semantic Data S00280
+
+Practice:
+
+finger Point,is cylindrical, connected to hand, has a nail, touch
+
+couch soft,padded,cushion,big,recliner
+
+Experimental:
+
+ambidextrous equal,left and right, no limit
+
+exhort is help, loud, is straightforward, bold
+
+teensy small, little, minute, barely able to be seen
+
+insurance help, backup, 2nd chance, safety
+
+phantom ghost, white, smoky, unclear
+
+emboss is hunting, pushy, uncaring
+
+bandmaster powerful, likes to direct, uses hands, controlling, crucial to the band
+
+exultation is happiness, making a good grade, filled with joy
+
+lapse forget, misremember, blank, amount of time, going past
+
+barbarism is rude, no manners, doesn’t\'t think before doing
+
+ethics manners, characteristics of a person about life, is good, are rules, are guidelines, something to follow
+
+asymmetrical can be folded in half to be same, both sides equal, not symmetrical
+
+negligent is bad, forgetful, does not complete, is cutting corners, not achieving full potential
+
+freeway is fast driving, making good time, much straighter, more than one lane, is fun
+
+surgeon is a doctor, cuts you open, fixes you when you break, a mechanic
+
+rivalry is violent, big time, exciting, looked forward too, never-ending
+
+unkempt messy, sloppy, is nasty, needs a bath
+
+handsomely Man, well groomed, dressed nice, deserving of respect
+
+prospective skilled, needed for some purpose
+
+book bag large, waterproof, north face, is light but durable
+
+rubberneck stretchy, long, hard to hold up, sleepy
+
+heartbroken is crying, jealous, envious, feeling that something is missing
+
+sassafras smelly, overtaking
+
+tint dark, opaque, secretive, black, smoky, suspicious
+
+poor broke, brought on oneself, can be overcome, not smart with money
+
+presumptuous conclusions before evidence, jumping the gun, not smart, narrow-minded
+
+attain grasp, find something useful, stumble upon, not letting go
+
+worn decayed, jeans, tires on truck, old house
+
+dictate speak directions, eloquent, forceful, able to be followed well, influential
+
+fifty half of 100, not good, failure, getting older
+
+live breathing, doing what you want to do, no hindrances, not dead
+
+update new information, not looking back, progress, latest software
+
+scotch tape, keep something from rolling, hold in position, level a table
+
+affirm promise, reassuring, truthful
+
+retort stupefy, look down on, embarrass
+
+obey do what you are told, authority, wiser than me
+
+squeak annoying noise, rings your ears, headache
+
+sophomore second year, growing, inferior
+
+hemp is weed, clothing, high, feeling of bliss
+
+sawhorse wooden, a frame, support for cutting, holds a saddle, makeshift table legs
+
+wineglass is clear, is round with a stand, can hold liquid, fragile
+
+classless vulgar, no manners, rubbing it in, pouring salt on the wound, hurtful
+
+hymn song for church, smooth, exalting, beautiful, glorifying, harmony
+
+musk old people, stationary, mold, moth balls, stagnant
+
+woodwind clarinet, instruments, played by covering holes, wide range, cello
+
+tiptoe quiet, careful, suspicious, sneaky
+
+definitive correct, strong, sturdy
+
+barley hops, beer, smooth, tasty
+
+dust sign of cleanliness, collection of spores, film, dirty
+
+dishonest not truthful, lying, no respectful, lack of conscience
+
+slowly taking your time, snail, walking, lack of care, precision
+
+steering guiding, control, direction
+
+marionette beautiful, antique
+
+coincidence incidental, not related, luck
+
+unobtainable out of reach, too much to handle, special
+
+incredulous unbelievable, hard to justify, not able to be understood
+
+caper small pea, green, round
+
+clearance sale, leftovers, get it out, limited selection
+
+stony rocky, round, hard, steep
+
+ordeal predicament, problem, no good outcome, thought provoking

@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00670
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 14 Apr 2010 17:54:30 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00670
+Practice:
+sing voice,music,radio,dancing,microphone
+hammer painful,nails,wood,construction
+Experimental:
+erupt volcano, pimple, lava, hot, big, remote, flat, colorful, emotion, bowel movement, weather, car, explosion, 
+wild animals, people, gorillas, piercing, tattoo, zoo, rollercoaster, the fair, boys, 
+hint innuendo, suggestion, help, secret, question, game,
+nervous sweating, anxiety, restless, anxious, people, wedding day, athletics, test, airplanes, car rides, clammy
+business people, brief case, school, job, money, building, assistant, president, sub way, coffee, paper, desk, printer, men, pencil, pen, suits
+path running, walking, trees, bushes, animals, leaves, creepy, dirt, running, shoes, sunset, athletics, pond, park
+bride groom, bridesmaid, groomsman, pretty, dress, people, church, wedding, steeple, bells, rice, reception, cake, alcohol, flowers, maid of honor, candle, pictures, Bible, God, commitment
+squirrel nuts, rat, gross, furry, fluffy tail, golf, annoying, brown, ugly, small, cute, fast, fat, skinny
+pizza tasty, cheesy, marinara, hot, dinner, lunch, restaurant, square, triangle, platter, large, small, medium, sausage, pineapple
+tense agitated, stressed, control, massage, verbs, spa
+beg money, parents, homeless, helpless, sad, alone
+belt pants, shorts, dress, hit, whip, car, safety, harness, rollercoaster, fashion, leather, money, cute, ugly
+offense football, sports, team, player, quarterback, running back, position, college, high school, little league, Eli Manning
+washington president, northern, Mississippi, white house, Obama, state, George Bush, First lady, republican, democrat
+smile teeth, happy, funny, laughing, mood, braces, snaggle teeth, gap, dry, picture, portrait, slimey
+leather belt, seat, purse, wallet, cab, shoes, fashion, expensive, couch, furniture, chair 
+ski slope, snowboard, mountain, cold, pretty, picture, snow, sport, olympics, ski lift, mobile, ski\'s, black, blue, green
+real teeth, fake, designer, food, coffee
+no bad, question, opposition, response, people, children, parents
+sting hurt, bee, wasp, painful, yellow jacket, sting ray, star fish, red, swollen, itch, singer, music, band, famous
+closing shut, store, restaurant, gas station, door, leaving
+camp tents, bears, squirrels, scary, name, people, men, summer, trees, sunset, fishing, cooking out, hot dog, hamburger, smores, fire, sticks
+annoying children, parents, teachers, dogs, cats, squirrels, parrots, clean, taylor, cheater
+satin smooth, soft, dress, shirt, pretty, expensive, ugly, clothes, cheap, sheets, egyptian, nice
+thursday week, holiday, calendar, Monday, Tuesday, Wednesday, Friday, Saturday, Sunday, class, history, music, weekend, fun, bars
+prince princess, queen, king, handsome, ugly, castle, horse, moat, knights, royal, almighty, Cinderella, nice
+gas expensive, cheap, Katirina, fuel, job, airplanes, boat, toot, poot, fart, food
+fall season, calendar, weather, leaves, trees, mountain, injury, bike, cliff, bruise, scar, scary, frightening, waterfall
+garden pretty, flowers, big, green, leaves, sunflowers, daisy, fence, vegetables, fun, sprinkler, water, sun, rain
+husband wife, children, wedding, sex, caretaker, money, business, handsome, strong, nice, bald
+never no, afraid, cliff, drugs, rules, commandments, restriction, obedience
+cocaine never, drug, painful, snort, nose, nose bleed, unhealthy, high, speed, skinny, euphoria, sweat, heart rate, active
+frightened scared, people, children, burglar, movie, alone, emotion, heart rate, anxious, nervous, cautious
+animal cat, name, species, pets, dogs, parrots, habitat, furry, scales, cold, warm, biology, humans, evolution, Darwinsim
+glue sticky, paper, children, portrait, project, messy, braces, school, work
+hole trip, hurt, cavity, painful, fall, big, small, medium, size, dirt, street, path, grass
+cheap clothes, fashion, coffee, watch, fake, stingy, miser, walker, poor, streets, dad
+sports tennis, softball, football, baseball, volleyball, sweat, ball, exercise, lacrosse, active, verb, gatorade, water, cheering, fans
+drugs cocaine, pot, alcohol, addiction, hurtful, unhealthy, adolescence, teenager, boys, dealer, money, scary, police, jail, illegal
+orgasm sex, pleasure, penis, vagina, oral sex, husband, wife, boyfriend, girlfriend, prostitute, love, purity, bed, sweat
+camera picture, smile, frown, scenery, sunset, trees, silver, flash, self timer, parties, laughing
+nephew related, uncle, aunt, niece, cousin, grandfather, grandmother, small, love, name, handsome
+on light, car, computer, electronics, table, phone, house, coffee shop, switch, television
+dumb stupid, quiet, question, teacher, student, grades, tests, studying, talkative
+crash car, airplane, dave matthews, band, music, drug, tired, medicine
+environment habitat, flowers, atmosphere, weather, season, dry, wet, rainy, ugly, pretty, depressing, happy
+shampoo clean, conditioner, shower, water, soap. bath, soap, hair, bald, floor, dorm, expensive, fresh
+answer question, blank, test, quiz, response, wrong, correct, hard, long, teacher, parent, incorrect
+confess sin, preacher, Catholic, God, boyfriend, girlfriend, cheater, church, chapel
+concert music, singer, leader, crowd, concert, band, loud, ear plugs, men, women, fans, hot, cold, outside, inside
+arrogant guys, ego, cocky, athletic, winner, prideful
+quart milk, sprite, quantity, large, plentiful, amount, expensive, abundant
+storage clothes, furniture, tools, hammer, screw driver, unit, building, room, large, small
+catholic religion, church, priest, people, confess, birth control, sex, pure, mass, mary, Jesus, God
+prisoner jail, illegal, worker, bad, cigarette, stealer, cheater, Johnny Cash, orange, jump suit, stripe
+rip tear, clothes, break, paper, death, cemetery, grave, hole, sew, stitching, dirt
+young wild, teenager, children, fast, wrinkle, grandmother, grandfather, mother, father, sister, brother ugly, pretty
+sky blue, clouds, pretty, orange, pink, sunset, sunrise, moon, stars, constellations, The Big Dipper, astronomy, lab, boring, teacher
+rule commandment, obedient, children, king, law, parent, spanking, discipline, annoying, disobey
+bath water, shampoo, soap, relaxing, hot, cold, salt, razor, bubbly, candles, soothing
+
+

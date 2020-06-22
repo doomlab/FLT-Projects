@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00866
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 23 Jul 2010 12:13:32 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00866
+Practice:
+zebra 
+house made of brick, made of wood, has many rooms, protection from elements of weather, requires maintenence, comforting, has doors, has windows
+Experimental:
+1 fudge made from chocolate, has nuts, presented at holidays, chewy, traditional,
+2 girls blonde, brunette, redhead, emotional, enjoys to accessorize, goes to bathroom in twos, enjoys socializing
+3 tree tall, green, leafy, grows fruit, grows nuts, used to produce lumber, makes oxygen, turns gold in autumn, needs sunlight and rain to survive, home to birds and squirels
+4 string used to secure bundles, cats love to play with it, can be colorful, used to hang things, can be made from cloth, flexible
+5 spice used in cooking, used in holiday cocktails, used in some religious ceremonies, used in candles for scent, can be home grown or purchased at stores
+6 surgery cutting, stitches needed to close, organ replacement, organ repair, can cause recovery, can cause death, hospitals, nurses, doctors, expensive, can be covered by insurance
+7 turtle snapping, can be small, can be large, can live many years, lives in ponds, hybrinates during winter, lays eggs, can be brown or green, eats insects and vegetables
+8 branch comes off of trees, grows leaves, can be large or small, can break off, can hang a swing on, to climb on
+9 emergency hospital, brings family and friends to come together, crash, can involve injuries, can involve emotional turmoil, firefighters, police, EMT, doctors, can be caused by weather, violence, danger
+10 amuse entertaining, funny, comedians, class clowns, sarcasm, irony
+11 schedule hours, days, weeks, late, requires planning, can be stressful, can be hectic, ivolves many activities, parties, dinners, work, school
+12 patient needs care, requires doctors, requires nurses, needs medication, will have to recover, needs rest, wears a gown, always monitored
+13 shoe tennis, high-heel, red, black, many colors, many styles, strappy, sandals, flip-flops, protects feet, matches purse, flats, can be painful, can be comfortable
+14 lost island, forrest, scared, survival, search parties, scent dogs, children
+15 strange different, unusual, opinions vary with cultures
+16 temple used for worship, sacred, holy, elaborately built, prayer, monks, priests, nuns
+17 dull boring, induces sleep, cheap blades
+18 conference meeting, teachers, parents, long tables, chairs, telephones, company boards, memos, competitive, arguements, compromises
+19 sunset beaches, mountains, romantic, clouds, red, orange, purple, proposals
+20 doll antique, porceline, baby, plastic, toys, collectible
+21 simple easy, plain, requires little effort
+22 puke gross, food, undigested, sick, stomache acid
+23 south confederate, MS, TX, LA, AL, AR, TN, GA, SC, VA, FL, KY, religious, old fashioned, traditional
+24 am applies to, is
+25 wound sore, can be infected, shoud be bandaged, bleeding, scab
+26 tape duct tape, holds together, double-sided, painters, electric, masking, invisible
+27 achieve attain, goals, completion, hard work
+28 road winding, long, country, traffic, black-top, gravel, dirt, travel, wrecks
+29 cave bears, dark, neanderthals, drawings, bats, pirates, treasures, tombs
+30 ladder wooden, medal, tall, folding, extension
+31 find a penny, meaning, keys, the time, resources
+32 tissue crying, tears, runny nose, soft 
+33 ashtray cigarettes, butts, cigars, decorative, suveniers
+34 film scarey, chick-flick, artsy, independent, action, animated, comedy
+35 beast animal, hairy, big, strong
+36 meat steaks, chicken, protein, pork, balls, venison, bbq
+37 zero freezing, none, circle
+38 ship sailing, cruise, priate, ocean, vacation, vessel, navy, captain, crew, deck, navigate
+39 fragile glass, eggs, baby, antiques, bones
+40 die cancer, car wreck, suicide, homicide, old age, poison, starvation
+41 question answer, who, what, why, when, where
+42 pancakes syrup, blueberry, strawberry, maple, butter, bacon, sausage
+43 vomit sick, food poinsoning, stomache acid, toilet
+44 sword sharp, long, pirate, excalibur, knight, musketeer, sir
+45 slip satin, lace, elastic, white, black, ivory, dress, skirt
+46 syrup pancakes, waffles, maple, blueberry, sausage, breakfast
+47 bother sibling, work, late-night phone calls, annoying, flies
+48 wimp pushed around, small, timid, weak, 
+49 it can, will, does, works
+50 male father, brother, husband, leader, muscle, protection
+51 empty bowl, end, refill
+52 tupperware storage, left-overs, transporting, plastic, tops, borrow
+53 gloves winter, cleaning, pair, finger-less, long, white, right, left
+54 ax lumberjack, trees, logs
+55 small mice, keys, rings, pins, beans
+56 cabbage fried, home-cooked, patch, head
+57 feet two, shoes, socks, running, walking
+58 quiet sleeping, praying, movies, library, sneaking
+59 search meaning, truth, find, soul
+60 rock hard, small, medium, large, gravel, broken windows, skipping stones, river, climbing, boulders, pet rock, yard decoration, fish tanks
+

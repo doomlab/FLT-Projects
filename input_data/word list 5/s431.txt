@@ -1,0 +1,66 @@
+Semantic Data S00431
+Practice:
+finger is long, is short, has a fingernail, is on a hand, can bend,
+couch is big, is in a house, has people sit on it, is confortable
+Experimental:
+acoustic is a guitar, is soft, is a brand name, is a sound
+ageless birthdays, is people, is animals, is dates
+alkaline battery, is acid, is dangerous, is to explosion
+assault is to shoot, is to fight, is to hit, is a rifle
+award is a ribbon, is a trophy, is given out, is earned, is worked for, is celebrated
+beautician is cosmetics, is makeup, is good looking, is a job 
+bicep is big, is hulk hogan, is weight lifting, is on your arm, have 2
+bitterness is not good, is not happy, is a crying child
+bonehead is dumb, is not smart, is a stupid mistake, is a saying
+brigade is a dance crew,is a solider, is a group, is entertainment
+bronco is a horse, is a truck, is big, has mud tired, is lifted, 
+buoy is a floating device, is to drift, is in the ocean, is in lakes
+burned is hot, is black, is cooked popcorn, is a house on fire, is a catchy saying
+butter is on bread, is slippery, is hot, is yellow, is in a wrapper
+chevron is gas, is car, is fuel, is oil, is store,
+chromium is to build, is fast, is simple, is more secure
+concern is worried, is a parents, is sick relatives, is a game 
+confusion is not sure, is a question, is my stat class, is my finance class, is first day of school, is jammed parking lot
+consume is eat, is drink, is swallow, is inhale
+cultural is pride, is old, is new, is asian, is american, is differences
+direction is a compass, is north, is south, is east, is west, is up, is down
+eavesdrop is private, is listening, is secret, 
+exhale to blow out, smoke, lungs, air, is in your body
+facet is water, is a drink, is in the kitchen, is in the bathroom, can produce hot or cold water
+fbi is a organization, is secret, is undercover, is important, is federal
+feint fall down, cant see, not sure, 
+finalize is done, is end, is perfect, is a paper
+handlebars is a bike, is on a motorcycle, is grabbed by hands
+held is to verb, is past tense, is with hand, is with basket
+immortal is not human, can not die, is a warrior, is in many movies, is God, is Devil
+indication is a notice, is a letter, is to be known, 
+investor is stock, is on a computer, is number, is money is prices
+japan is a country, is in asia, is large, is very populated, is advanced
+juice is in fruit, is in vegetables, goes in a cup, is tasty, is sweet
+jump is with feet, is high, is low, is with a rope, 
+lie is a little kid, is a grown man, is not the truth, 
+lock is not unlocked, is on a door, is on a window, is a car door, is on a gate
+lovesick is needing, is sad, no girlfriend, is alone
+manipulative is to get around, is a lying person, is a lie, is a sneaky move
+monotone is not loud, is a sad person, is a let down, 
+offstage a actor, not on stage, in the background, hidden, not seen
+ostracize to exclude, to get away, to hide out, to cancel
+panorama a website, is computer, tools, helps give instructions
+pocketbook is to wallet, is to credit cards, is to cash, is the ID
+profound discovery, a sunk ship, a ufo, 
+promote to give reward, to higher rank
+prospect is a person, is a program, is a college athlete, is a wanted thing
+recliner is a chair, in a living room, is leaning back, is a old man, 
+right is a direction, is a side, is the correct answer, is not wrong
+robust is describing, is strong, is vigorous, stoutly build
+santa is happy, is christmas, is a sleigh, is north pole, is Mrs. Claus 
+shut is close, is not opened, is sealed, is to closed door, is to closed window
+slangy is a type of speech, is different in states, is hip, 
+suppose to guess, to think, a educated guess
+surprise is shocking, is a birthday party, is a present, 
+surreal is not believable, is bizarre, is ufo, is bigfoot, is a dream
+torch is a flame, is hot, is used for light, is used to burn, is heavy, is light
+tout horse riding, solicit business, to solicit customers, voters, patronage
+transformer is not the same, is a robot, is a movie,
+typescript is written, is a letter, is a magazine, is in a book
+

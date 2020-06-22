@@ -1,0 +1,65 @@
+Semantic Data S00054
+Practice:
+finger hand, index, nail, bone
+couch furniture, living room, home
+Experimental:
+before after,
+dangerous bad,
+stolen taken away, not yours
+crackers saltines, ritz, cheese
+complicated
+cruel mean, evil, diabolical
+nervous chatter, nail-biting
+abnormal weird
+burnt black, coal, fire
+cloudy sky, rain, gray
+controls manipulate
+broke
+backward forward
+seldom rare
+conscious awake, aware
+cute pretty, beautiful
+after before
+dense furniture, living room, home
+asleep complex, thick
+crunchy loud, annoying
+cooked stove,
+downstairs bottom
+naive unworldly
+anxious nervous, excite
+numerous many, lots of
+genuine real
+cheerful happy, peppy
+cheap not authentic, less worthy
+adorable cute, preppy
+ahead after
+strict mean, rules
+bumps move
+creative dynamic
+arrogant annoying
+aware awake
+blinds curtains
+difficult hard
+absurd unbelievable
+cents money, penny
+deadly dangerous
+crafts arts
+formal wedding
+joyous happy
+delicate precious
+misses
+needy charity
+crops plants
+cups drinks
+baked food
+medieval knights
+components ingredients
+bright colors
+priceless rare
+always every time
+crooked wicked
+alone self
+excited anxious
+brilliant smart
+around everywhere
+ahoy hello
