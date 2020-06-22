@@ -1,0 +1,65 @@
+Semantic Data  S00304
+Practice:
+finger Hand, Part, Body, Touch, Feel, Flesh,
+couch Furniture, Seat, Cushions,
+Experimental:
+acoustic regular sound,
+ageless infinity, good looking, mint condition,
+alkaline metal
+assault fight, attack, hurt, military strategy
+award winner, best, victory, trophy, prize, medal, ribbon, accomplishment,
+beautician beauty, health, pretty, cute, attractive
+bicep muscle, arm, weight lifting
+bitterness sour, un-sweet, anger, unfriendly, grudge
+bonehead stupid, unintelligent, lacking common sense,
+brigade unit, gang, military unit,
+bronco Denver, horse, bucking,
+buoy water, float, ocean
+burned scarred, fire, flames, roasted, charred
+butter margarine, condiment, flavor
+chevron car, gas station, motorcycle
+chromium element, periodic table
+concern caring
+confusion unknowing, surprised,
+consume eat, absorb, drink, inject, swallow,
+cultural ethnic, race, national,
+direction compass, left, right, map
+eavesdrop listen, secret, whisper, hear, sound, people
+exhale breathe, oxygen, lungs
+facet part, surface
+fbi government, police, investigate,
+feint fake, collapse, cunning
+finalize end, finish, done, complete,
+handlebars bicycle, steering, flobots
+held hold, possess, keep, hang on, own, grab,
+immortal eternal, everlasting, omnipotent,
+indication confirm, announce, answer,
+investor money partner, owner
+Japan Asia, karate, martial arts, island, video games, technology,
+juice drink, fruit, vitamins, healthy
+jump hop,
+lie false, inaccurate, untruthful,
+lock key, protection, safe,
+lovesick far apart, missing each other, longing reunion
+manipulative controlling, scheming
+monotone one voice, dull sounding, constant pitch
+offstage behind the scenes, secret
+ostracize to reject, separate, discriminate, cast away
+panorama picture
+pocketbook purse, bag, small, compact, money holder, card holder, important information
+profound large, big, definite,
+promote advance, grow in stature
+prospect candidate, choice, finalist
+recliner chair, lean back, old, foot rest
+right direction, correct, accurate, absolute,
+robust strong,
+Santa Claus, Christmas, presents, gifts, stockings, candy, cookies, milk, reindeer, elves, North Pole
+shut close, slam, to end, complete
+slangy words,
+suppose hypothetical, suggestion, theory, hypothesis
+surprise unexpected, shocking, plot twist, unknowing, unaware
+surreal weird, different, surprising, unexpected,
+torch fire, flames, stick, sight
+tout praise, support, promote
+transformer robot, power provider,
+typescript rough draft,

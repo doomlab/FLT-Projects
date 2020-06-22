@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS 00830
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Tue, 6 Jul 2010 20:39:29 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 00830
+Practice:
+zebra animal,has strips,see them in the zoo, eat grass, smells, 
+house small or large, furniture in it, appliance, kitchen,food,comfortable,beds,quiet place,shelter,bricks or wood,
+Experimental:
+1 fudge chocolate,delicious taste,put it on cookies,icream, and fruit,unhealthy, snack,nasty, sticky
+2 girls ethinics, pretty,outgoing,mean,short hair, long hair, or either no hair, nails, make-up,stuck up,punk,models, sorririties,love boys, pretty dress, high heels, earrings,squeeky voices,
+3 tree brown trunk, limbs, apples,roots, dirt pine cones, green leaves, use for paper, pencil, desk,
+4 string long, short, thin, thick, black , brown, more colors, use for: flossing,
+5 spice pepper, salt ,sugar , spicy, tasty, groundbeef, rice, put it in food, different flavors, salty
+6 surgery sweet,sour, all colors, candy, sweet potatoes, tasty, gum,
+7 turtle green, shell, small, big, mothers, and father, live in water, grass, slow, scared, swimmers, stinky, smooth skin, scaly skin, mean
+8 branch brown, strong , long , short, 
+9 emergency police officers, ambulance, parents, using the bathroom, family emergency, broken leg, 
+10 amuse fun,outgoing, appitizers
+11 schedule list, daily routine, hours, steps, 
+12 patient sick, well, nice, wating, 
+13 shoe small, little, kids size, women, men, sizes, comfortable, cute, ugly, dirty, belon in closet, 
+14 lost walmart, zoo, school, watch, toothbrush, routes,coutries, earrings, pencil, homework, 
+15 strange people, rocks, food, places, towns, 
+16 temple church, rituial top, 
+17 dull boring, ugly, scary, 
+18 conference meeting, people, talking, discussing, lawyers, other different careers
+19 sunset beautiful, calm, peaceful, name, 
+20 doll pretty, long hair, ply toy, dress up clothes, nails, earrings
+21 simple math, reading, english, tie shoes, learining time tables
+22 puke nasty, throw up,
+23 south atlanta, food ,mississippi,country, hood ,crazy , outgoing, fun, 
+24 am chemical
+25 wound bruise, red, scar,
+26 tape pictues, clear, scotch, hang things, chairs, nails, desk, radios,
+27 achieve goals, classes, world record, careers
+28 road curve, straight, black, gray, hills
+29 cave hunted, dark, smelly, bears
+30 ladder tall, short, to fix roofs, reach tall things, 
+31 find pencil, homwork, clothes, jewlery, tooth brush, keys, words
+32 tissue nose, paint color,wrappings,after using the bathroom,
+33 ashtray cigarrets, in houses, different colors, 
+34 film record, movies, shows, comides,people, animals
+35 beast bear, lion
+36 meat chicken, beef, ham, turkey, animal
+37 zero number, subtract, add multiply, 
+38 ship big, calm, water, sails, 
+39 fragile picturs, frams, 
+40 die people, animals, 
+41 question violence, science, math, answer, celebrity
+42 pancakes soft, burnt, hard, sweet , syruo, breakfast,
+43 vomit nasty, fluid, mouth, 
+44 sword long, short sharp,
+45 slip piece of paper, curse words, dress slip
+46 syrup sweet, smooth, steaky, apples, 
+47 bother 
+48 wimp scared, weak, pale, 
+49 it a word, pull
+50 male strong, masciline, smart, color eye, lips, hard, muscles, hair or no hair, earing rings, clothes, 
+51 empty refrigerator, pantry, fruit bowl, 
+52 tupperware clothes,pots, pans,
+53 gloves doing hair, cleaning, garding, 
+54 ax sharp, to chop, wood, 
+55 small ants, bugs, pennies, beads
+56 cabbage stinky, green lettuce, watery
+57 feet long, small,toe nails, polish, sharp, 
+58 quiet no sound, the grove
+59 search dictionary, enternet, violence, sexual content, oil spill, global warming
+60 rock smooth, hard, sit on, throw, skip, 
+

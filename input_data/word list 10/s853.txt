@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00853
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Sat, 24 Jul 2010 11:20:38 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00853
+Practice:
+zebra stripes animal four legs africa
+house walls safety people food warm
+Experimental:
+1 fudge chocolate food sugar
+2 girls pretty crazy fun unpredictable
+3 tree tall short paper bark leaves 
+4 string instruments yarn music 
+5 spice food cajun 
+6 surgery scary serious doctors problems
+7 turtle slow animal shell water green tadpole
+8 branch wood leaves tree 
+9 emergency urgent important problem
+10 amuse fun laughing entertaining
+11 schedule plan appointment school
+12 patient customer unhealthy 
+13 shoe feet socks nikes 
+14 lost vacation G.P.S 
+15 strange weird foreign unknown different
+16 temple sacred place walls holy
+17 dull dim boring ordinary predictable
+18 conference people talking debating informing
+19 sunset sun night clouds sky pretty
+20 doll toy plastic 
+21 simple easy familiar 
+22 puke painful unpleasant bad taste sick
+23 south good food bbq racism bad grammar courteous people church football
+24 am being
+25 wound pain cut trauma
+26 tape sticky 
+27 achieve work desire
+28 road asphalt cones street markings
+29 cave dark animals bears snakes hidden
+30 ladder tall wood metal steps 
+31 find familiar 
+32 tissue clean fat skin calories
+33 ashtray misdirection deviation detour
+34 film movie oil layer 
+35 beast evil powerful dangerous animal bear
+36 meat food animals 
+37 zero absence 
+38 ship sailors wood metal cargo guns 
+39 fragile glass easily broken cheap bones
+40 die death no more life eternal sleep
+41 question words communication call and response
+42 pancakes food breakfast mix 
+43 vomit pain unpleasant sick
+44 sword weapon sharp plastic toy metal heavy 
+45 slip paper form ink thin document
+46 syrup thick tasty sweet sugar 
+47 bother annoy pester repetition
+48 wimp coward small easily frightened shy
+49 it something other
+50 male masculine different from female gender
+51 empty containing nothing used up
+52 tupperware plastic contain food 
+53 gloves hands warmth clean plactic rubber cotton leather
+54 ax metal heavy sharp blade wood handle large blade
+55 small relative to something big hard to see light weight
+56 cabbage food green vegetable 
+57 feet ten toes toe nails 
+58 quiet no noise concentration
+59 search lookin for something lost
+60 rock earth mountains cliffs meteors
+

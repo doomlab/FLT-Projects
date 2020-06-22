@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS MONTANA S00004
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Thu, 17 Jun 2010 19:22:07 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL11 MONTANA S00004
+Practice:
+zebra Spoon, Knife, Plate, Napkin, Utensil, River, Road, Silverware
+house Couch, Sofa, Chair, Soft, Billowy, Protective
+Experimental:
+1 team Player, Mascot, Spirit, Friendship, Reliance, Sports, Accomplishment
+2 grand Large, Huge, Piano, Enormous, Tall, Intimidating
+
+3 eat Ingest, Digest, Swallow, Chew, Munch, Lunch, Breakfast, Dinner, Snack, Brunch
+4 brother Sibling, Friend, Sister, Relation, Family, Genetics, Kin
+5 hypnotize Mesmer, Mesmerizing, Freud, Charcot, Psychoanalysis, Trance, Sleep, Suggestive
+6 shirt Torso, Cover, Warmth, Sleeves, Collar, Buttons
+7 explode Erupt, Fury, Irate, Anger, Frustration, Stress, Pressure
+8 Sunday Weekend, Church, Mass, Easter, Day-off, Sunday School
+9 ten Number, Age, Surfing, Toes, Fingers
+10 female Girl, Estrogen, Maternal, Feminine, Pink, Dress, High heels 
+11 whole All, Everything, Encompassing, Bunch
+12 fighter Bull, Boxer, Wrestler, Survivor, Anger, Fury, Abuse, Pilot
+13 muscle Tendons, Strength, Build, Endurance, Agility, Mass
+14 penny Cent, Money, Thought, Copper, Lincoln, Luck
+15 train Transportation, Railroad, Rail cars, Engineer, Crossing, Coal
+16 glasses Spectacles, Monocle, Magnify, See, View, Perception
+17 nurse Hospital, Doctor, Needle, Assistant, Caregiver
+18 jesus God, Christ, Savior, Omniscent, Omnibonevelent, Mary, Joseph, Christmas, Prayer, Friend
+19 money Currency, Value, Purchase, Green, Dollars, Pesos, Euros, Colones
+20 shoelace Tie, Secure, Trip, Nibs, Straps, Strings, Knot
+21 cabinet Cupboard, Kitchen, Politics, Storage, Shelving
+22 goal Aim, Achievement, Expectation, Inspiration, Destiny
+23 work Earn, Exhaust, Exert, Apply, Tire, Persistence, Perfection
+24 allow Let, Superior, Caretaker, Permit, Acknowledge, Release
+25 coat Jacket, Warmth, Protection, Layer, Redcoats, Symbolic
+26 hall Aisle, Narrow, Straight, Echo, Lane, Pathway
+27 who Them, It, Dr. Seus, Who-ville, Horton, Which one, Question
+28 thirsty Dehydrated, Quench, Dry, Hot, Water, Deprivation
+29 words Thoughts, Ideas, Communication, Representatives, Meaningful, Expressive
+30 secret Private, Scared, Fear, Disobey, Trust, Share
+31 liberty Justice, Statue, New York, Freedom, United States, Happiness, Torch
+32 home Nest, Safety, Shelter, Mortgage, Family, Protection, Privacy, Personal
+33 wagon Wheel, Coach, Horses, Red, Toy, Tow, Hitch, Settlers, Oregon Trail
+34 painting Art, Oil, Watercolor, Latex, Canvas, Expression, Beauty, Elegance, Persuasive, Subjective
+35 basketball Sport, Orange, Ball, Net, Hoop, Dribble, Pass, Guard, Court, Play, Fun
+36 pen Containment, Ink, Writing, Pencil, Permanent, Ballpoint
+37 object Mass, Purpose, Reason, Point, Study, Disagree
+38 opening Grand, Entrance, Availability, Free space, New, Business, Closing, Letting in
+39 against Nemesis, Enemy, Inertia, Gravity, Antagonist, Not for
+40 print Copy, Printer, Copier, Ink, Replica, Reproduce, Write
+41 stream River, Current, Ecosystem, Spew, Spill, Trickle, Ocean, Creek
+42 motel Hotel, Inn, Rest, Maid, Travel, Vacation, Safe haven, Visit
+43 faith Belief, Trust, Spirituality, Encouragement 
+44 start Beginning, End, Procrastinate, Ignite, Turn on, Finish
+45 radio Stereo, AM, FM, Knob, Transmission, Communication, Advertisement, Music
+46 cabin Cottage, Log, Private, Peaceful, Syrup, Nature, Primitive 
+47 balloon Elastic, Air, Float, Celebrate, Inflate, Clown, Colorful
+48 title Name, Mr., Sir, Mrs., Miss, Ms., Ma'am, Dr., Profession
+49 pick Choose, Scratch, Dig, Axe, Irritate, Pocket
+50 thief Steal, Terrorize, Rob, Abuse, Mistrust, Sadden, Lose, Sin
+51 agreement Yes, Along, Believe, Trust, Follow, Lead, Get along
+52 property Taxes, Ownership, Land, Area, Free space, Development, Farm, Acres
+53 innocent Untainted, Clean slate, Beautiful, Non-corrupt, Child, Baby, Trustful, Learning
+54 grave Tombstone, Resting spot, Cross, Dyer, Ill, Discouraging 
+55 neutron Ion, Proton, Energy, Mass, Nucleus, Membrane, Particle, Physics
+56 bum Borrow, Homeless, Poor, Beggar, Needy, Donation, Give
+57 fraternity Sorority, Friendships, Brotherhood, Alike, Preppy, University, Expensive
+58 tag Game, Label, Touch, Price, Cow, Playground
+59 obstacle Course, Hinder, Challenge, Blocking, Around, Over
+60 speech Testimony, Declaration, Audience, Slang, Spoken, Recited 
+

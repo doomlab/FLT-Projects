@@ -1,0 +1,66 @@
+Semantic Data S00373
+Practice:
+finger appendage, bends, grows, nail, hairy, tough
+couch furniture, comfortable, soft, sit, lay 
+Experimental:
+acoustic sound waves, without electricity, amplified
+ageless beauty, natural,pretty, healthy-looking, in shape
+alkaline metal, bitter, battery
+assault attack, scared, wrongful, illegal, cowardly
+award gift, competition, present
+beautician female barber, pretty, hair, beauty
+bicep muscle, arm, strong, curls
+bitterness anger, simmer, hatred, spite
+bonehead dummy, idiot, drunk person, stupid
+brigade military, formation, many men
+bronco horse, four legs, wild, untamed, spirited, freedom
+buoy float, warning, caution, safety
+burned charred, flames, cooked, sizzle, blackened
+butter tasty, creamy, unhealthy, mass volume sales
+chevron gas station, military rank indicator, sergeant, private
+chromium metal, shiny, element, expensive
+concern worry, problem, safety, ulcers
+confusion chaos, unknown, bewildered
+consume eat, take in, nourish, chomp
+cultural sectional, deep south, \"Yankee\", cowboy
+direction north, south, east, west, compass rose, where are you going
+eavesdrop listen, sneaky, sketchy, snooping
+exhale breathe out, short of breath, breath in now, gasping
+facet face of a diamond, angle, surface
+fbi government, men in black, secretive, organization
+feint not real, bluff, \"psyche\", \"fooled ya\"
+finalize finish, over, completed, done
+handlebars controls, reigns, safety, steering wheel
+held tightly, loosely, grip, palmed
+immortal undying, long-lived, unable to be killed
+indication point out, make noticed, warning
+investor money, business, man\'s talk
+japan country, oriental,island, nation, group, ethnicity
+juice fruit, sweet or bitter, healthy, money
+jump leap, fly, momentary, scared
+lie untruthful, unfaithful, dishonest, wrongful
+lock close, shut, twist, safe
+lovesick puppy, cute, annoying
+manipulative puppeteer, influence, brain wash
+monotone boring, tone deaf, lame, not interesting
+offstage not on-stage, wings, side, behind the curtain
+ostracize sent away, exile, shun
+panorama 360 degree view, wide angle view
+pocketbook wallet, money-holder, container, small
+profound astonishing, marked, important, amazing
+promote hype, annoying at times, push an idea
+prospect high hopes, outlook is good
+recliner lazy boy, lean back, relax,feet up
+right correct, true, might
+robust strong, sturdy, hale, fort, healthy
+santa jolly, red suit, rosy cheeks, fat, chimney, reindeer, sleigh, gifts
+shut close, slam, tight, snug, sealed
+slangy colloquialism, street talk, ebonics
+suppose guess, assume, \"sure\"
+surprise unknown, out of nowhere, presents
+
+surreal unreal, not reality, strange
+torch flame, banner, beacon, lights the way, spirit
+tout hailed, talked about, feared
+transformer robot, movie, alien, funny, fast paced action
+typescript font

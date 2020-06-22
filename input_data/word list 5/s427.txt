@@ -1,0 +1,66 @@
+Semantic Data S00427
+Practice:
+finger touch,tan,skin,finger nail,point,bend
+couch sit,sleep,leather,brown,white,red,patterns,rest,comfy
+Experimental:
+acoustic no instruments,just voice,musician,talent
+ageless youthful,young,child like
+alkaline metal,element, compound, found of the periodic table, teel , steel,
+assault hurt someone,offend, mean, hateful, angry,crime,violence,jail time, fines, physical contact with someone
+award win,number one,good work,smart
+beautician hair,make up,curls,straightner,perm, highlights,hair dye, brush,comb,clippers,shampoo, foils,cups, clips
+bicep arm, upper arm, muscle, movement, function is to flex the elbow and move the arm around
+bitterness sour, cold, unpleasant, painful, having little or no emoitions
+bonehead dumb, stupid, not smart person
+brigade military, block off, combat, unints, battle, war, fighting, weapons, guns, amo, bullets
+bronco car,colors,truck,tires,
+buoy water,float,big,orange,white
+burned fire,hot,hurt,burns,camping
+butter food, bread, 
+chevron gas station, gas
+chromium grey,metal,steel,elements,hard
+concern worry, take care of, caring, computer science program
+confusion lost,dazed,dont understand,doubtful,guessing,not sure, 
+consume apply,take up 
+cultural culture, a way of life, someones customs, how they were raised, what they believe in
+direction to get somewhere, distance, travel, miles, gas, money, information
+eavesdrop listen,nosey,paying attention, 
+exhale breath out, part of the breathing process, 
+facet face
+fbi goverment,secrets, missions, solving crimes, protects people, captures bad guys,Federal Bureau of Investigation,people
+feint attack, defensive, wanting to hurt somebody
+finalize done,deadline,finished,revise
+handlebars hold on to, bikes, carts, scooters, protection, balance, safety, metal, silver
+held hold,carry,touch
+immortal not able to die,stay alive forever
+indication sign, measuring instrument
+investor money, devote time to the future, gain money throughout time
+japan country,japanese people,rice,foreign,busy,croweded,over populated,provides alot of goods,maufactoring
+juice fruit,grape,orange,tasty,vitamins,pineapple,good,drink,colorful
+jump high, off the ground, spring up,off the ground, in the air, move in one motion, type of movement
+lie untruthful,cant be trusted, looked down on, made up story, liar, hurtful
+lock cant open, shut off, not welcome, closed off, to keep safe, protect something
+lovesick in love with someone who doesnt love you back, hurt from a previous relationship, still wanting to be with an ex boyfriend/girlfriend
+manipulative to influence, make someone believe you, make them do what you want them to do, trick someone
+monotone original, same tone doesnt change, no high or low pitch,sounds or words said in a certain voice
+offstage not on stage, watching a play,
+ostracize outcast,londer,be excluded from people,group, surroundings
+panorama presentation, survey, questionare, glaze look on something, not clear, 
+pocketbook purse,hand held,items,belonings,expensive,cheap
+profound deep, ones soul, thoughtful,meainingful
+promote advise, market, make known, support, advertise, posters, commericals, adds,raise, upgrade, higer ranking in job
+prospect clinet,purchase,purchaser,legal
+recliner sleep,chill,watch tv,chair, comfortable, lay back, nap
+right correct,left,one side
+robust robot,bust
+santa snow,reindeer,candy,presents,red,white,beard,fat,jolly,christmas,kids,children,joy,peace,north pole, cookies,elves,big boots,
+shut close,slam,door,window,book,mad,angry
+slangy type of langauge, people use to refer to something instead of saying the whole word, like yall meaing a group of people or saying g2g meaning got to go
+suppose happen,guess,believe in,to be true,certain in
+surprise happy,shocked,thrilled
+surreal dream,fake,image,false thoughts,out of touch with reality
+torch fire,candle,light,flashlight, source of light or fire.
+tout vote,to obtain information,politics,campagin
+transformer evolving, changes original state to something else, charcters, movie, robots, metal objects
+typescript a type written copy of a letter or document, copied, typed on a computer, printed off
+

@@ -1,0 +1,65 @@
+Semantic Data S00080
+Practice:
+finger on the body, I have 5, attached to hand, is skinny, has a nail
+couch in the living room, you sit on, can be long, has cushion on it, can be decorated
+Experimental:
+careless not caring, don\'t want to do any better, is selfish, has no feelings
+casual not formal, can be business casual, straight forward, can be under dressed
+calories have to be burned, are bad for you, clog your arteries, are fattening, cause heart disease
+checking used to grade papers, is a type of account, used to draft money out of,
+bashful can be scared, has to be shy, can be emotional, have to be quiet, has to walk with head down
+different can not be the same, has to be diverse, can be unusual, has to be singular, have to have apart
+cue has to prompt me, have to be my turn, is an indication, has to be a reminder
+ashamed can be embarrassed, has to be guilty, has to be unwilling, have to be humiliated, has to reluctant
+chips are fried in grease, are made with potatoes, can be hot, are made by lays
+ridiculous has to be ludicrous, have to be bizarre, has to look silly, can be absurd, has to be outlandish
+obvious can be seen easily, has to be clear, has to be observable, has to be noticeable, has to be apparent
+above cannot be below, has to be on top, has to be higher than something, has to be beyond something, has to be above something
+inexpensive has to be cheap, have little or no value, has to save me money,
+claims has to be an insurance claim, there are different types of claims, comes with money
+cocky has to be strong, has to have muscles, has to be stuck up, has to work out a lot
+birds has to have wings, has to have a beak, has to have two legs, has to eat worms, has to have feathers
+adventurous has to be outgoing, has to be daring, can be a dare devil, can be bold, can be risky, can be brave
+forceful has to be strong, has to be powerful, can be dynamic, can be potent, cannot be weak, has to be vigorous
+beneath cannot be above, has to have something on top. has to be below something, has to be lower than something, has to be less than
+beautiful can be pretty, can be gorgeous, has to be attractive, has to be handsome, has to be good-looking
+discreet has to keep to self, not obvious, has to be isolated, can be disconnected, has to be distinct
+awful has to be unpleasant, has to be bad, can be terrible, can be poor, has to be dreadful, has to be appalling
+eyebrows are on the face, are made of hair, can be one, can be shaved, can be plucked, can be bushy
+comfortable can feel good, can put you at ease, can be calm, has to be relaxed, has to be easy, has to be happy
+reliable has to be reliable, has to be consistent, has to steadfast, has to be trustworthy, may be unfailing, cannot be undependable
+motionless cannot move, can be dead, may be alive, has to be still, can be frozen, can be immobile, can be stationary
+athletic has to be fit, has to be in shape, has to look good, has to have agile, can be muscular, has to be agile
+alike can not be different, has to be the same, has to look the same, has to be similar, may be identical
+scent has to have a smell, has to smell good, has to be noticeable, have to smell good, have to be a fragrance
+pretty has to be beautiful, has to be good-looking, has to be attractive, has to be easy on the eyes
+kids are offspring, can be children, can be family, can be a goat baby, can be bad, may have a lot
+precise has to be exact, has to be accurate, can be clear-cut, can be strick, has to be fixed, has to be defined
+critical has to be in need, can be dangerous, can be bad, must be important, may be vital, can be dangerous
+adults not a child, has to be over 21, can be old, can be a senior citizen, has to be grown, has to be mature
+boys has to be male, has to be a young adult, cannot be a female
+grown has to be an adult, cannot be a child, has to be mature, has to be developed, has to be full
+bored has to have nothing to do, has to be down, has to be tired of something, has to be fed up, has to be jaded
+hot cannot be cold, has to have a high temperature, can be boiling, can be sizzling, has to be searing
+boiled has to simmer, can be hot, has to stew, has to fume, has to cook, has to have heat, has to poach, has to bubble
+beyond has to be past something, may be ahead of something, has to be outside, can be afar, may be clear of
+contacts has to be associates, has to have links, has to have a network, has to have friends, can be acquaintances
+accurate cannot be exact, has to be precise, has to be exact, has to be truthful, has to be perfect, cannot be inaccurate
+away cannot be here, has to be gone, has to be missing, has to be left, has to e gone, has to be absent
+outrageous can be out of control, can be shameful, can be extreme, may be shocking, may be offensive
+marines
+handsome has to look good, has to be a male, has to be attractive, has to be appealing, has to be go0d-looking
+clockwise has to go to the right, has to be a clock, has to be a right hand turn, cannot be clockwise
+bumpy cannot be smooth, has to be rough, can be uneven, can be rutted, cannot be smooth
+ancient has to be very old, has to be an antique, has dust on it,
+dollars has to do with money, must be green, has presidents on it, has new colors on it, may be wrinkled
+all must be everything, can’t leave anything out, must get the maximum, cannot have some of it
+carrots must be orange, are good for you, are vegetables, help you with your eyesight
+alive cannot be dead, must have life, can be moving, must have breath in it, must be mobile
+big cannot be small, may be huge, cannot be tiny, must be fat, may be immense, may be gigantic
+attractive must be good-looking, must be handsome, must be pretty, must be beautiful, must be easy on the eyes
+able must be willing, must be ready, must be capable, may be gifted, may be bright, can be talented
+atomic can be minute, must be tiny, cannot be gigantic, must be minuscule
+bizarre must be weird, may be odd, may be wacky, may be out of the ordinary, can be uncanny
+apathetic can be lazy, may be droopy, can be listless, may be bored, can be lethargic
+glad must be happy, not a frown, may be cheerful, might be smiling, will be full of glee

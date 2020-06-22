@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00657
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 7 Apr 2010 16:35:29 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00657
+Practice:
+sing loud, high, low, long, short, cheerful, sad
+hammer hard, heavy, strong, smooth, steel 
+Experimental:
+erupt hot, dangerous, volcano,lava, magma 
+wild feral, unruly, scary, untamed, diseased 
+hint tip, words, useful
+nervous sweaty, shaky, stress
+business building, money, time, employees 
+path road, dirt, rocks, narrow
+bride white, dress
+squirrel furry, quick, rodent
+pizza tasty, sauce, expensive, large, medium, small
+tense tight, stiff, clammy 
+beg plead, cry, kneeling
+belt leather, buckle, holes
+offense felony, jail, bad, embarrassing 
+washington president, money, hero, founder 
+smile face, lips, happy,teeth 
+leather belt, hide, thick
+ski cold, snow, fast
+real life, nonfictional, boring
+no negative, not, minus
+sting sharp, painful
+closing door, stock, quotes 
+camp outside, bonfire, tent, air, fresh
+annoying person, agonizing, stop
+satin material, red, color, silky
+thursday day, class, meet, the office
+prince crown, rich, powerful
+gas car, smell, station
+fall season, leaves, orange
+garden green, healthy, vegetables 
+husband spouse, man, ring
+never ever, not possible
+cocaine illegal, white
+frightened tense, panic, screaming
+animal mammal, fish, bird, reptile
+glue sticky, white
+hole dark, size
+cheap date, fast food, bargain 
+sports football, physical, gatorade, exercise 
+drugs pills, shots, addictive, helpful 
+orgasm multiple, climatic, difficult 
+camera flash, zoom, lens
+nephew annoying, younger
+on above, drugs
+dumb not smart, low IQ, average 
+crash car, fatal, insurance, airbag, safe 
+environment ozone, friendly, healing, endangered 
+shampoo cleansing, fragrant, liquid
+answer guess, true, false, multiple, choice
+confess guilty, plead, truth
+concert headache, tickets, popular, band
+arrogant stuck up, cocky
+quart watch, rock, rare, pretty
+storage room, box, space, truck
+catholic church, faith, religion 
+prisoner orange suit, bars, convict
+rip tear, fabric, dog\'s name, muscle injury
+young not old, age, energy
+sky blue, vast, cloudy, rain, weather
+rule follow, break, orders
+bath wash, tub, shower, water, shampoo, soap, bubbles
+
+

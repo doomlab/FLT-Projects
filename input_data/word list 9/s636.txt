@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00636
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 30 Apr 2010 00:15:31 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00636
+Practice:
+sing noise, entertainment, voice, opera
+hammer tool, construction, used to nail things
+Experimental:
+erupt explosion, volcano, madness, blow up, spew, burst
+wild untamed, animal, rabies, feral, not domestic, rage, crazy
+hint help, tip, information, inform, suggest, cheating
+nervous shake, flustered, afraid, anxious, jitters, goosebumps, uneasy, worried, stressed
+business corporation, money, job, shop, gifts, enterprise
+path road, way, trail, passage, route
+bride daughter, mother, marriage, mate, husband, groom, spouse, wife
+squirrel rodent, tail, feet, gatherer, acorns, climber, trees, the grove, animal
+pizza food, cheese, tomato, crust, pizon, sauce
+tense firm, stressed, stiff, anxious, restless
+beg ask, request, charity, free, give, take, crave, petition
+belt support, region, corporal punishment
+offense opposite of defense, crime
+washington state, district of columbia, apple, government
+smile teeth, no teeth, happiness, adderall, sleep, funny people, joy, christmas, holidays, vacation
+leather material, animal skin, water repellant, brown, smell
+ski sport, snow, water, skis, falling
+real world, unfake, genuine, de facto
+no refuse, never, never ever, the opposite of yes
+sting pain, bite, prick, pinch
+closing not open, stop, shut down, halt, people leave
+camp gathering, tent, cabin, summer camp
+annoying irritate, mistreat, sibling, spouse
+satin fabric, material, soft, silk-like, cloth
+thursday weekday, fifth day of week, not monday tuesday wednesday friday saturday or sunday
+prince royalty, leader, future leader, male, crown
+gas fossil fuel, oil, diesel is a byproduct
+fall season, comes after summer, tumble, hit the ground
+garden flowers, spices, fruits, vegetables, food, greenery 
+husband male, partner, spouse, marriage, family
+never no, not ever, not in the future or present
+cocaine drug, powder, white, acid, anesthetic
+frightened scared, desperation, adrenaline, panic
+animal organism, human, domestic, wild
+glue adhesive, epoxy, hold, join
+hole opening, hollow
+cheap inexpensive, poor quality, low price
+sports athletics, hobby, athlete, game, play
+drugs medicine, narcotic, stimulant, depressant
+orgasm climax, sex, intercourse, pleasure
+camera photograph, lens, flash, film, camcorder
+nephew relative, son of sibling
+on operating, preposition
+dumb ignorant, stupid, moron, lack of knowledge, slow
+crash wreck, hit, accident, impact
+environment world, geography, area
+shampoo soap, cleaner, wash, detergent
+answer response, solution, problem solver
+confess admit an act, fess up
+concert performance, music, stage, instruments
+arrogant important, narcissism, pride
+quart measurement, unit of capacity, two pints
+storage store, shed, building
+catholic religion, pope
+prisoner captive, jail, bars, locks, inmate, correctional  facility, prison
+rip tear, bust open, cut, pull apart, seperate
+young age, immature, youthful, age group
+sky atmosphere, air, oxygen, nitrogen, blue
+rule law, instruction, control
+bath clean, water, soap, tub, shower
+
+

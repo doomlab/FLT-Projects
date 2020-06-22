@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00854
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 23 Jul 2010 08:51:54 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00854
+Practice:
+zebra lion
+house trailor
+Experimental:
+1 fudge candy
+2 girls young ladies
+3 tree flowers
+4 string rope
+5 spice seasoning
+6 surgery operation
+7 turtle frog
+8 branch limb
+9 emergency problem
+10 amuse dislike
+11 schedule plans
+12 patient person
+13 shoe boots
+14 lost missing
+15 strange delusions
+16 temple church
+17 dull dirty
+18 conference meeting
+19 sunset daytime
+20 doll stuffed animal
+21 simple complex
+22 puke poke
+23 south north
+24 am is
+25 wound hurt
+26 tape stick
+27 achieve success
+28 road highway
+29 cave desire
+30 ladder stepping stool
+31 find look
+32 tissue paper towel
+33 ashtray plate
+34 film camera
+35 beast animal
+36 meat chicken
+37 zero nothing
+38 ship send
+39 fragile broken
+40 die breathless
+41 question concern
+42 pancakes waffles
+43 vomit purging
+44 sword weapon
+45 slip fall
+46 syrup jelly
+47 bother ignore
+48 wimp worthless
+49 it animal
+50 male boy
+51 empty full
+52 tupperware bowl
+53 gloves protection
+54 ax sword
+55 small little
+56 cabbage greens
+57 feet body
+58 quiet mute
+59 search look
+60 rock stones
+

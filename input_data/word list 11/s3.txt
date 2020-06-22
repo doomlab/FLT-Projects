@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS MONTANA S00003
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Tue, 22 Jun 2010 17:54:46 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL11 MONTANA S00003
+Practice:
+zebra metal, utensil, used for eating, silver in color, has sharp prongs
+house soft, squishy, comfortable, can pad an injury,found on sofas, fabric casing
+Experimental:
+1 team found in sports, teamwork, used to separate group activities, 
+2 grand large in size, big scale, is massive, is big, is large
+3 eat to ingest, food intake, done at meals, done at the dining room or cafeteria
+4 brother is a sibling, is often younger or older, is of relation, have the same parents
+5 hypnotize put into a trance, mind is brought into dream state, might be relaxing, done by a medical specialist
+6 shirt is a part of clothing, covers the chest, offers sun protection, can show personal style, goes along with pants
+7 explode could be a bomb, it expands spontaneously, has pressure waves, is loud, could be dangerous
+8 Sunday is peaceful, isn't a typical work day, some people go to church, can be religous, is 7th day in a week
+9 ten the number after 9, the number before 11, is the square root of 100, is an even number, is two digits
+10 female opposite of male, smaller in size, different in appearance, different in behavior, can bare children, can live longer than males, needed for reproduction, is more emotional
+11 whole is complete, is full, where nothing is omitted
+12 fighter opposite of someone peaceful, is aggressive, is mean, can hurt others, is determined, doesn't give up, is angry
+13 muscle is in the human body, uses proteins, there are different types, makes a bodybuilder look big, increases strength, opposite of flab, is strong
+14 penny is copper in color, is thinner than nickel, is bigger than a dime, is 1/100th of a dollar, has a president on it, is US currency, isn't worth much, is a coin
+15 train is heavy, it is used for mass transit, uses an an engine to push or pull the other cars, might have a caboose, is loud, can flatten a coin, has a loud whistle, has a lot of mass, can smash a car
+16 glasses help a person see, rest on the nose, give optical clarity, found in a cupboard, set at the dining table, can hold liquid, are delicate, are expensive, give UV protection, are an element of style.
+17 nurse can be male or female, is a doctor's aide, requires less education, pays less than doctor, works in a hospital, wears white outfit, gives patient care
+18 jesus son of God, died for our sins, is Jewish, written about in the Bible, is a savior, was a carpenter, had a beard and long hair, is a religious icon
+19 money needed for commerce, can be paper, can be metal, lack of it can cause financial stress, is earned through work, can relieve stress, needed for survival, is printed or stamped, has exchange rates, used throughout the world
+20 shoelace is a string, found on shoes, is supple, isn't stiff, used to lace shoes, can be colorful, is functional, found on most shoes
+21 cabinet found in the kitchen, made of wood, stores appliances, stores kitchen ware, is found in most homes, could be found in the living room, used for storage, can be aesthetic
+22 goal what you want to achieve, used in sports, can be used to explain a point in sports, it's an achievement, can be difficult to attain, can be easy to attain, provides satisfaction
+23 work provides money, can be satisfying, can be a drag, is 5 days a week, used to support family, is done by individuals, is provided by business, provides health care, provides retirement benefits, found throughout the world
+24 allow give approval
+25 coat goes over a shirt, can be warm, is dressy, is formal, provides insulation, carries personal style, has pockets, used in winter.
+26 hall found in buildings, connects rooms, found in schools, is a walkway, has 4 sides, is narrow, is a passageway
+27 who a rock band. is an inquiry about a person
+28 thirsty normal body function, sensation related to fluid intake, is a sensation in hot weather, quenched by fluid.
+29 words used in language, used throughout the world, used to describe people, places or objects, used in sentences, found in books, help people communicate
+30 secret hidden thought, is private, can be held back to protect or hide, 
+31 liberty is freedom, is given to some individuals, found in some countries, sometimes attained by war, a prisoner doesn't have it, is a right, can be taken away
+32 home is where people lives, provides shelter, has a roof, contains belongings, found in neighborhoods, has character, holds a family, contains love, found throughout the world
+33 wagon has 4 wheels, is made of wood, pulled by horses, pulled by children, is called Radio Flyer, used by the Amish, is slow, is unmechanized, is cumbersome, has a fabric cover
+34 painting is artwork, hangs on the wall, can be colorful, can depict emotion, is a rendition of something found in the real world, can cost a lot, is framed, men are found doing it on the side of homes, can be ugly, is made on fabric or paper, is done by everyone in their life
+35 basketball is a sport, uses a orange ball, is shot through a suspended hoop, played indoors or outdoors, has two teams, is competitive, 
+36 pen used to write with, delivers ink, is held in the hand, is a long cylinder about 5" in length, disperses ink on an object
+37 object is a thing, a belonging, has value, can be junk, costs money, is natural, is man-made, is beutiful, is ugly, is free, has mass, has form and shape
+38 opening is a hole, is a passageway, can be traveled through, provides light, is a beginning of a presentation, is an time slot 
+39 against is in opposition, carries negative conotation, isn't friendly, can bring anger, can cause conflict
+40 print is a photograph, is an impression from an inked thumb, hangs on the wall, can be created from a wood block, is the end product of reproduction at kinko's
+41 stream is in the mountains, is moving fluid, flows downstream, occupies space, is beautiful, is smaller than a river, has vegetation on it's banks, contains aquatic life, 
+42 motel is used by travelers, is a shelter, costs money, has many rooms inhabited by different travlers, 
+43 faith is a belief, carries moral, is found in religous people
+44 start is at the beginning, is the opposite of stop, is the initial part of a race
+45 radio plays music, has stations, has frequencies, is a box, is usually the size of a shoe box, can tell the time, has an antenna, costs money, provides free music, is an electronic device
+46 cabin is found in the woods, is made of trees, is a shelter, has a wood stove, smells musty, it has beds,
+47 balloon is colorful, floats in the air, contains helium, can be blown into, is made of rubber, can be tied to contain air,
+48 title is someone's position in a company, the name of a chapter or book, is a word
+49 pick is to grab, used to chip ice, is sharp, is a long piece of metal, has a handle, is to select
+50 thief is a robber, is a crook, has a bandana, is someone who steals from others, is a criminal, if caught goes to prison
+51 agreement is a compromise, creates harmony, is a union
+52 property is owned by people, is owned by the government, is an object or land, has mass, carries value to someone, is a limited resource, has caused disagreements
+53 innocent is the opposite of guilty, free, didn't commit a crime, they have liberty,
+54 grave holds the dead, is spooky, found in a cemetary, has a tombstone, often is buried in the earth
+55 neutron is a neutral particle, is found with electrons and protons, makes up mass, doesn't have a charge, 
+56 bum is someone who's homeless, is slang for buttocks, is stinky, has little money, is weatherbeaten, is an alcoholic or drug abuser, is lazy
+57 fraternity found on campuses, is a joining of young men, a club, 
+58 tag is found in garmets, is a tab, gives instructions, is when someone else is touched
+59 obstacle is something that's in the way, is a determent to a goal, is a challenge, could be mental or physical, is a boundary
+60 speech used in language, spoken by humans, is verbal communication, has different sounds, uses the alphabet or similar,
+

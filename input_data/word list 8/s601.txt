@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00601
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 24 Mar 2010 14:49:42 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data WL8S00601
+Practice:
+sing sound, noise, lungs, voice, music, notes, mouth, throat, beautiful
+hammer is an object, made of wood, made of metal, can be heavy, 
+Experimental:
+relationship boyfriend,girlfriend, family, stranger, wife, husband, children, love, hate, understanding, compatable, warm, beautiful, caring, 
+see eyes, pupils, distance, picture, look, notice
+judge in charge, decide orders, black robe, bible, old man
+night bedtime, darkness, pillow, blanket, pajamas, movies, trees
+knowledge smart, dumb, school, college, teacher, student, think, mindful
+crooked not straight, lines 
+college job, resume, class, time, smart, dumb, party, dorm, driving, walking, thinking
+newspaper text, paper, black and white, pictures, information
+three 
+flirt relationship, boy, girl, love, want, need, affection, talk, smell, touch, secret
+bacon food, breakfast, yummy, 
+pyramid object, egyptian, gold, louvre, brick, colorful, elementary school
+organize clean, placed, move objects, put away
+wander move, leave, curious, 
+maze find your way, confused, think, smart
+continent place, where you live, United States, water, grass, people, different cultures, language, looks
+monk religious, christ, serious, calm, mindful, careful, devoted
+nut tree, eat, food, crack, outdoors, southern pie, old afshioned, heathly
+wood smells fresh, forest, paper, home, object, old toys, axe, slice, tree
+ill me, myself, i will, do something, action
+joke funny, spoken, laugh, sometimes not funny, intentions, flirting
+away gone, left, time
+purpose reason, something, happens, does
+touch feel, want, admire, sweet, hands, body, hair, kiss
+sweat stinks, salty, action, sports
+second not first, after, not last, behind,  grade
+needle sharp, pointy, sewing, silver, thread
+push dont want, away, hands, feet
+violin music, noise, hands, shuolder, string, horse hair, wooden
+thin small, not big, petite, beautiful, model
+lawsuit law, judge, defendant, prosecutor, problem, money, poeple, want, fight, argue
+reel fish, rod, pull back, string
+dust sneeze, mop, wipe, swiffer
+chaos confusion, too much, people, new york, busy
+hold touch, feel, grip, love, let go
+appear see, feel, thought, know, understand
+spine body, animals, human
+yard green, fence, children, play, plant, flowers, garden, mow, acres
+welcome hello, people, friendly, nice, neighborly
+alligator animal, zoo, green, scaley, scary, animal planet, science
+drug dose, medication, doctor, patient, fix, better, heathly, scary, party, illegal
+peak look, see, secretively
+tighten not loose, together, knot, grip
+choose decide, want, option
+baby child, daughter, son, mother, father, person, babysit, watched, learning, smell, cry, kiss, laugh, crawl, walk
+view see, notice, understand, review, picture, document, eye
+jewish religion, hitler, big nose, dark hair, funny accient
+grab take, touch, hold, want, fingers, hand
+dill pickle, commercial, type, brand, sour
+log wood, water, beaver, holes, dam, streams
+excited cant wait, emotion, love, surprise, awaiting, 
+wash clean, refreshen, make better, smell good, fold, dry, clothes, furniture, body, pet, objects
+empire large, place, new york, china, wonderful, vast
+biology science, hard, learning, mathematics, 
+president obama, in charge, makes laws, pass bills, black,  white, man, United Sates
+sleep night time, pajamas, bed, pillow, covers, cuddle, darkness, comfortable, relax
+crime illegal, trouble, law, murder, steal, 
+stairs walk up, walk down, angled, tall, steep, wooden, winding
+force make do, action, get
+spring beautiful, trees, flowers, smells delightful, hot, warm, shorts, water, swim, windows down, play, love, affection, bright
+
+

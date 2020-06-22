@@ -1,0 +1,129 @@
+Semantic Data S00259
+
+Practice:
+
+finger hand, skin, digits, touch, nail, ring, long, short
+
+couch sit, leather, sofa, relax, arm rest, pillow, cushion, soft
+
+Experimental:
+
+ambidextrous coordination, skillful, equal, hands, multitask, balanced, two, facile, piano playing
+
+exhort advise, urge, caution, recommend, guide, counsel, wise, adult, older, warning, encourage, aid, push, help, inspire
+
+teensy tiny, small, little, dime-sized, pea-sized, child-sized
+
+insurance agent, life, car, house, death, funeral, crash, compensation, wreck, money, coverage, policy, contract, business
+
+phantom dark, ghost, apparition, image, dream, mirage, illusion, feeling, sense, imaginary, not real,
+
+emboss darken, black, ink, print, paper, letters, typing, surface, texture, raise, bulge out, design, decorate, touch, 3-D, stamp
+
+bandmaster music, notes, conductor, band, instruments, orchestra, head, lead,
+
+exultation joy, rejoice, worship, praise, church, God, happy, song, magnify
+
+lapse time, memory, lose, decline, pass, fall
+
+barbarism wild, crazy, people, out of control, uncivilized, rabid, dirt, messy, savage, rough
+
+ethics race, moral, culture, politics, principles, values
+
+asymmetrical uneven, not balanced, line, not identical, art, crooked
+
+negligent mean, careless, left alone, lonely, baby, child, abuse, dog,
+
+freeway road, street, traffic, lights, yellow white, tar, bridge, car, tire, construction, fast, speed
+
+surgeon medical, nurse, blood, mask, doctor, operation, knife, death, hospital, care, glove, heart, cutting
+
+rivalry game, team, goal, point, opponent, player, competition
+
+unkempt messy, not combed, rough, hair, not clean, dirty, disorganized, appearance
+
+handsomely cute, nice-looking, male, pretty
+
+prospective insight, view, future,
+
+bookbag pencil, pen, books, teacher, school, class, students, learn, storage, compartment
+
+rubberneck duck, loose
+
+heartbroken sad, lonely, depressed, eating, crying, tissue, boyfriend, relationship, tears, pain, feelings, mad, anger,
+
+sassafras tree, root, bark, dirt, grow, water, sunlight, air,
+
+tint dark, glasses, shades, windows, glass, film, color, sight, eyes, sun, car, heat
+
+poor old, beg, no money, coins, hungry, food, dirty, shelter, street, steal
+
+presumptuous assume, assured, person, early,
+
+attain receive, gain, reap
+
+worn clothes, shoes, old, loose, fit,
+
+dictate speak, loud, make sense of, pronunciation, clear, direction, order, control, address
+
+fifty money, number, coins, dollar, president,
+
+live alive, life, person, being, house, death
+
+update knowing, alert, prompt, tell, talking, weather, news
+
+scotch tape, stick, attach, candy, butter, taste, drink, alcohol, old, strong, glass
+
+affirm make true, law, confirm, ratify, court, lawyer, testify, declare, approve
+
+retort loud, smart, witty, answer, remark, mean
+
+obey parents, respect, do right, authority, law, moral
+
+squeak noise, door, shoe, oil, loud, toy, dog
+
+sophomore inexperience, immature, young, high school, child, teen, college
+
+hemp Indian, plant, marijuana, drugs, grease, hair, medicine
+
+sawhorse wood, saw, horse, moving back and forth, cutting,
+
+wineglass red, wine, grapes, cork, bottle, vineyard, eating, dinner, alcohol, plate, fork, spoon, knife, table,
+
+classless nasty, no self respect, no morals, trashy, dirty
+
+hymn music, song, piano, choir, church, book, notes, hum, voice, letters, words, bible
+
+musk smell, skunk, scent, stink, funk, deodorant, clean, bathe, water, soap
+
+woodwind instrument, music, notes, band, song, tune, melody, clarinet, orchestra, notes
+
+tiptoe soft, feet, quiet, toes, night,
+
+definitive reliable, complete, define, specify, clarity
+
+barley plant, green, food, grass
+
+dust dirt, air, particles, eyes, wind, clean, feathers, wood, spray,
+
+dishonest truth, doubt, lie, cheat, steal
+
+slowly turtle, fast, speed, motion
+
+steering wheel, car, column, horse, tire, brake, turn, hands
+
+marionette doll, puppet, strings, wires, child, play, music, sticks, box
+
+coincidence luck, fate, same time, two, accident, chance
+
+unobtainable impossible, not reachable, height,
+
+incredulous
+
+caper
+
+clearance sale, clothes, cheap, price, bridge, height, car, trucks,
+
+stony rock, gray, hard, mountain, climb, dirt, gravel, pebble, ground,
+
+ordeal test, experience, trial, situation

@@ -1,0 +1,76 @@
+Subject:
+SEMANTICS S00576
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Thu, 29 Apr 2010 23:48:36 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00576
+Practice:
+sing is the act of using the voice, is a verb, is something that birds can do, is an action, is something that humans can do
+hammer is a tool, often has a rubber handle, is made of metal, is used to press things down, can be noisy when used
+Experimental:
+erupt is a verb, can be an explosion, can often involve a liquid, is something that volcanos can do
+wild can describe almost anything, is an adjective, can mean the same as crazy
+hint is a clue, can help solve problems, is a noun, is a four-letter word
+nervous is an adjective, can be an emotion, involves the nerves, is relative to anxiety
+business is a noun, can be owned, has employees, has 8 letters, can be big or small
+path can be a shortcut, is a noun, can be short or long
+bride is a woman, wears a wedding dress, marries her husband, has bridesmaids, wears a ring
+squirrel has a tail, is brown, eats nuts, is a mammal, climbs trees
+pizza is round, has toppings, is a food, has crust, can be sliced
+tense can be past or present, can be a noun or an adjective, is tight, has 5 letters
+beg is a verb, has 3 letters, can also mean plead, can request something
+belt is worn around the waist, is a noun, can be leather, has a buckle
+offense is opposite of defense, is often used in sports, is a noun, is a 7 letter word
+washington is a proper noun, is a state, is a president\'s last name, starts with the letter W
+smile uses the mouth, exposes the teeth, is a positive expression, is opposite of frown
+leather comes from cattle, is used for shoes and clothing, is tight, can be black, is a noun
+ski is used for snow, is a noun, navigates hills, can also be a verb
+real is opposite of false, is an adjective, has four letters, can be a noun
+no has 2 letters, is opposite of yes, is negative
+sting is a noun, is associated with pain, can also be a verb, has 5 letters
+closing is final, is the gerund, is the end, is a form of \"close\"
+camp is a settlement, is a noun, is a verb, has a tent, is in the woods
+annoying is an adjective, is negative, is a form of \"annoy\"
+satin is soft, is similar to silk, is a noun, can also be an adjective
+thursday is a weekday, comes after Wednesday, comes before Friday, is a noun, is the fifth day of the week
+prince is son to a king, marries a princess, is a male, is an heir
+gas is expensive, is a chemical, is put into automobiles, is flammable
+fall is a season, has mild weather, comes after summer, comes before winter, produces loose leaves
+garden grows a crop, is a noun, can be a verb, is made of soil
+husband is a male, has a wife, is married, wears a ring
+never is negative, has 5 letters, starts with the letter N, is opposite of positive
+cocaine is a drug, is illegal, is white, is a powder, is a stimulant
+frightened is an adjective, starts with the letter F, can mean the same as \"afraid\", is a form of the word \"fright\"
+animal is a kingdom, is a noun, can refer to living things, starts with the letter A
+glue is sticky, is semi-liquid, can bond things, can become hardened, is a noun
+hole is a noun, can be deep or shallow, has 4 letters, is a home to some animals
+cheap is opposite of expensive, is an adjective, starts with the letter C
+sports are universal, are competitive, have a winner, have a loser, are a noun
+drugs can be illegal, 
+orgasm is climactic, is exciting, can be sexual, refers to male or female
+camera has a flash, takes photographs, has a lens, has 6 letters
+nephew is a male, is a noun, is opposite of niece, has 6 letters
+on is opposite of \"off\", is a preposition, has 2 letters, is a common English word
+dumb is opposite of smart, is an adjective, has 4 letters
+crash is a verb, has 5 letters, can mean \"to collide\", is usually powerful
+environment is  the surroundings, is home to organisms, starts with the letter E, is a noun
+shampoo is a noun, makes lather, is complimentary to conditioner, is used to clean something
+answer is a response to a question, is a noun, starts with the letter A, can be a verb
+confess is a verb, has 2 S\'s, means \"to tell something\", has 7 letters
+concert is a performance, is a noun, involves those who observe
+arrogant is an adjective, is a negative word, has 2 of the letter R, begins with the letter A
+quart is a measurement, is a noun, is part of a gallon
+storage is a noun, ends with the letter E, is a place to keep things, can be large or small
+catholic is a religion, is an adjective, is a noun
+prisoner is in prison, is a noun, is convicted of a crime, is serving a sentence
+rip is a verb, is a noun, can be a proper noun, has 3 letters
+young is opposite of old, is a proper noun, is an adjective, is a 5 letter word
+sky is blue, has clouds, elicits precipitation, has air
+rule is a regulation, is a noun, begins with the letter R, is a verb
+bath is a noun, involves water, has to be taken, is taken with soap

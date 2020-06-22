@@ -1,0 +1,259 @@
+Subject:
+SEMANTICS MONTANA S00002
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Thu, 17 Jun 2010 11:04:57 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL11 MONTANA S00002
+Practice:
+zebra eat
+food
+metallic
+plastic
+house foam
+soft
+protective
+Experimental:
+1 team group
+goal
+interest
+2 or more people
+2 grand big
+amazing
+great
+3 eat food
+calories
+weight
+energy
+4 brother family
+caring
+competition
+compliant
+5 hypnotize relaxation technique
+past experiences
+memory
+flashbacks
+psychology
+6 shirt clothes
+cotton
+silk
+polyester
+brand
+white
+buttoned
+7 explode bomb
+loud noise
+related to dynamite
+
+8 Sunday family day
+boring
+weekend
+9 ten bill
+count
+number
+addition
+10 female caring
+sexy
+confident
+mother
+
+11 whole complete
+together
+all
+12 fighter man
+weapons
+confidence
+arrogance
+13 muscle body
+fitness
+work out
+strength
+14 penny money
+coin
+bronze
+low value
+15 train transportation
+communication
+globalization
+distance
+technology
+16 glasses glass
+eyes
+better vision
+breakable
+17 nurse woman
+white clothes
+hospital
+caring
+inyection
+18 jesus religion
+genesis
+beliefs
+19 money currency
+purchasing
+bills 
+consumers
+20 shoelace shoes
+tie
+long
+thin
+21 cabinet storage
+office
+house
+wooden
+decorative
+22 goal win
+lose
+team
+play
+match
+23 work employee
+boss
+pay check
+experience
+benefits
+24 allow permit
+asking
+decision
+25 coat cover
+clothes
+cold
+rain
+
+26 hall long
+narrow
+entrance
+buildings
+houses
+27 who somebody
+a person
+unknown
+28 thirsty water
+dry mouth
+tired
+29 words meaning
+semantic
+vocabulary
+language
+30 secret gossip
+untold
+mystery
+31 liberty freedom
+flag
+war
+countries
+32 home house
+family
+warmth
+33 wagon train
+small
+carry
+34 painting art
+creative
+painter
+
+35 basketball sport
+players
+ball
+court
+
+36 pen write
+draw
+scribble
+
+
+37 object piece
+decoration
+many shapes
+38 opening door
+window
+entrance
+39 against counter
+cons
+opposite
+
+40 print paper
+colors
+black and white
+picture
+41 stream flow
+fast
+water
+consciousness
+42 motel lodging
+small
+services
+rooms
+43 faith beliefs
+god
+oneself
+hope
+44 start beginning
+race
+career
+family
+45 radio broadcast
+news
+music
+communication
+media
+46 cabin plane
+tight
+pilots
+47 balloon air
+party
+celebration
+kids
+48 title words
+main idea
+newspaper
+
+49 pick choose
+decide
+opportunity cost
+50 thief robber
+weapon
+lose
+51 agreement convince
+people
+written
+verbal
+52 property house
+land
+commercial
+ownership
+53 innocent not guilty
+pure
+
+54 grave death
+underground
+bury
+55 neutron electricity
+energy
+atoms
+physics
+56 bum lazy
+relaxed
+unpreocuppied
+57 fraternity people
+group
+college
+58 tag paper
+clothes
+thread
+brand
+price
+59 obstacle problem
+conflict
+solution
+60 speech fluent
+communicate
+conversation
+education
+conference
+

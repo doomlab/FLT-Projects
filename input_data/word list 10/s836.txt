@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00836
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Sun, 11 Jul 2010 15:17:31 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00836
+Practice:
+zebra is an animal, lives in africa, is white, is black, has stripes, is fast, is easily spotted, is pretty
+house is made of brick, is made of concrete, is sturdy, is a place people live, is safe, can be shown by how much money you have
+Experimental:
+1 fudge is yummy, is made with lots of sugar, can be chocolate, can be vanilla, can have nuts, is sold in some stores, can resist heat up to 200 degrees
+2 girls are fun, are annoying, are people, are my best friends, are catty, are complex
+3 tree is tall, is brown, is a shelter for animals, is a home, is old, is young, is fun to climb
+4 string is long, is short, is colorful, is a pain, can get tangled, snaps, breaks, is hard to pull
+5 spice tasteful, is used in receipes, sugar, ingredients
+6 surgery is painful, is bloody, lots of recovery, is long
+7 turtle is cute, has diseases, are fun to watch when hatching, is slow 
+8 branch is in the way, is hard to break, is long and tanggled, is brown, is on trees 
+9 emergency 911, help, someones dying, someones hurt, ambulance 
+10 amuse laugh, giggle, funny, telling stories, something to enjoy 
+11 schedule day by day, a day planner, is good to have, everyone needs a schedule 
+12 patient calm, quiet, nice, can deal with young kids, handles issues easily 
+13 shoe used everyday, flip flops, sneakers, is made of something sturdy
+14 lost worried, concerned, never found
+15 strange odd, not normal, weird
+16 temple can be massaged, causes head aches, can hurt 
+17 dull boring, non-active, lazy, annoying
+18 conference meeting, business
+19 sunset beach, pretty colors, moon, dark
+20 doll a toy, girls, barbies
+21 simple not complex, easy going 
+22 puke gross, sick, chuncky 
+23 south florida, hot, heat, fun
+24 am morning, groggy feeling, tired
+25 wound bloody, open, gross, scraped up 
+26 tape covers something, sticky, long 
+27 achieve suceed, A +, pass, do well
+28 road long, curvey, car sick
+29 cave dark, bats, scary
+30 ladder tall, has steps, is made of wood or metal 
+31 find escape, lonely, boring
+32 tissue used for blowing your nose, is helpful
+33 ashtray is gross, is ashy, makes me sneeze
+34 film long, hard to read, processed, slick, dark
+35 beast nightmares, scary, beauty and the beast
+36 meat delicious, raw or cooked, is brown, is red, is made from cows, hamburgers
+37 zero nothing, no value 
+38 ship sink, sail, port, big, fishermen
+39 fragile small, delicate, shipped, 
+40 die gone, no more life, is nothing, dead body 
+41 question problem, solve it
+42 pancakes syrup, butter, fluffy
+43 vomit sick, hungover, stomach problems
+44 sword sharp, long, heavy, made of metal
+45 slip slide, soap, fall 
+46 syrup stickey, thick, brown, maple 
+47 bother annoy, piss off, asking too many questions
+48 wimp pathetic, tiny, scrawney, puney
+49 it thing, object, nothing, item 
+50 male boy, man, old
+51 empty mindless, dumb, air
+52 tupperware ziploc, plastic, containers, saves food
+53 gloves gardener, grass, dirt 
+54 ax sharp, dangerous, crazy man 
+55 small tiny, miniscule, can't see, magnifying glass
+56 cabbage green, leaf, rabbits, edible
+57 feet smelly, large, hairy, gross, blisters
+58 quiet studying, calm, not loud
+59 search find, lost, avalanches, firefighters
+60 rock solid, hard, big or small, can be found in the woods, or on the ground
+

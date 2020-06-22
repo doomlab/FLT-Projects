@@ -1,0 +1,65 @@
+Semantic Data S00152
+Practice:
+finger thumb  pinky  pointer finger ring finger  nail  hand  wrist  skin  body part  ring
+couch sit  chair  cushion  TV  furniture  table  living room  suede  leather  ottoman  couch potato  remote
+Experimental:
+burlesque dancing  costume  women  corset  exaggerated dancing  striping  stage  show
+lace dress  woven or sewed  fabric  complex  silk  threads  net  decorative
+jigsaw puzzle  many pieces  blade  ax cutting   type of dance 
+millipede one hundred numbers  centi  deci insects  bugs  legs  centipede  long and skinny
+huts house  tent  shelter  tarp  living quarters  stand  refuge place  poverty  homeless/less fortunate people
+splashy showy  shiny  exaggerated  bright  glittery  exciting  glamorous  celebrity  water  waves  ocean  pools 
+approximation estimate  near  guess  hypothesize  relation  proximity  close  similar 
+people humans  boys  girls  kids toddlers  babies  infants  adolescents  teenagers  preteens  adults  elders  citizens  person  mother  father  grandmother  sister  brother  friend  boy/girlfriend  aunt  uncle  cousin  grandmother  grandfather  criminal  nurse  doctor  dentist  lawyer  president  psychologist  pharmacist  business man  stranger  enemy 
+urge push  force  emphasize  hint  press  persuade  talk into  drive  motivate  pressure  stress
+furnish couch  table  chair  appliances  microwave  tv  oven  washer/drier  bed  dresser  rug  house  apartment  condominium  mansion  hotel  rent  lease  live  home  own 
+locus place  local  locate  map  atlas  directions  building  road  street  address  target  center  point
+piped plumbing  sewer  underground  complex  metal  water  connected  flow 
+understudy subset  replacement  backup  part of  substitute   fill in  piece of
+craggy rough  ridged  not smooth 
+fitting appropriate  suitable  becoming  flattering  proper  manners  sized  managing
+four quato  multiple  two pairs  quadruplets  IV  even number  many  fourth 
+addicting drugs  alcohol  substances  disorders  disease  life threatening  cigarettes  uncontrolled  nicotine
+cortical cortex  brain  head  cerebral cortex 
+domain type  kind  category  department  areas  empire  places  profession  ability  talent  skill  class 
+partial part  piece  fragment  half  a third  a fourth  not whole  indecisive 
+bore dull  boring  non-exciting  non-eventful  uninterested  inattentive 
+visitation visitor  family  hospitals  time period  sick people  important
+slid flow  glide  sled  snow  ride  slip  skid  ski 
+dither commotion  annoy  chaos  unorganized 
+rental lease  sublease  house  car  apartment  payments  bills 
+accumulative add on  stack up  build upon  put together  success 
+payload money  value  merchandise  revenue  cost 
+amble walk  move  pace  feet  legs 
+predict future  guess  anticipate  foreshadow  forecast  fortune teller  palm reader
+millionth number  many  numerous  milli  tons  infinity  parts  people 
+ribbon bow  lace  colors  thread  tie 
+dealer cards  casino  black jack  solitaire  deck of cards  money  hearts  spades  clubs  diamonds
+tantamount paramount  amount
+offensive score  win  sports  goals  touchdowns  runs  mean  rude  personal 
+walked run  skip  jog  trot  hop  jump  tiptoe  transport  exercise  move  legs  ankles  parks  miles  tennis shoes 
+bowels stomach  belly  bowel syndrome  middle  core  belly button 
+interlace intertwine  braid  twist  connect  complex  weave  thread  sew 
+battlefield war  field  combat  violence  history  guns  cannons  bombs  soldiers  armies 
+shearing scissors  cut  snip  shave  knife  saw  trim 
+fallacy false  fake  untrue  dishonest  misleading  wrongful 
+understand comprehend  interpret  listen  learn  remember  meaning  relevance
+native indians  local  homeland  citizens  home 
+presumption assumption  assume  believe  presume  reasonable  hint 
+harbor port  gulf  lake  river  water  coastal  ships  sailboats  fishing 
+blends mix  max  camouflage  synthesize  absorb
+acid lemon  lime  stomach  burns  PH levels 
+logarithm math  number  algebra  geometry
+damsel girl  woman  female  lady  proper  mannered  \"damsel in distress\"
+subsidence subside  ruin  disappear  destroy  close  diminish 
+gratuity tip  gratitude  thanks  extra 
+yarn thread  string  color  intertwine  sew  weave  braid 
+lode gush
+ditch creek  river  stream  hole  water  fish  frogs 
+bedrooms master bedroom  guest bedroom  den  living room  bed  dresser  closet  kitchen  bathroom  furniture 
+overlaid cover  layer  place  wrap
+compact small  squeezed  compressed  closely fit  tight  pushed together
+idea ponder  think  brainstorm  plan  belief  moral  value 
+battalion army  soldier
+oats wheat  healthy  grains  cereal 
+ballet dance  tutu  tights  leotard  toeshoes  tap dance  lyrical dance  nutcracker  turns  play  leap  jump  limber  females

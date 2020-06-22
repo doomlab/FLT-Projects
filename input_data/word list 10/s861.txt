@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00861
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 23 Jul 2010 16:38:24 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00861
+Practice:
+zebra animal, white with black stripes, found in africa, usually at zoos
+house home, shelter, protection, air conditioner/heat, staircase, bed
+Experimental:
+1 fudge chocolate, rich, fattening, thick, tastey
+2 girls long hair, bows, jewelry, fingernail polish, skirts, sandals
+3 tree outside, tall, brown, thick trunk, green leaves, roots, shade, you can climb
+4 string thin, fuzzy, kites
+5 spice hot, burn, red, cajun, chicken
+6 surgery pain, blood, death, repair, stitches
+7 turtle reptile, green, pond, smelly, slow
+8 branch tree, leaves, birds nest, brown, twigs, firewood, switch
+9 emergency panic, fear, urgency, pain, death
+10 amuse funny, happy, entertaining,interesting
+11 schedule busy, organized, tied down, anticipation, anxiety
+12 patient sick, waiting room, doctor, pain, surgery
+13 shoe feet, comfort, lace up, velcro, slip on, walking, running, blisters
+14 lost scared, nervous, searching, frantic, hopeless
+15 strange weird, creepy, different, unique
+16 temple head, sensitive, ache
+17 dull boring, not sharp, not bright, uncreative
+18 conference boring, lots of people, speeches, learning, old men
+19 sunset sun, orange, pink, gorgeous, romance, nighttime
+20 doll babies, kids, adorable, plastic body, unblinking eyes, little clothes
+21 simple plain, inexpensive, clean
+22 puke sick, stomachache, green, smelly, bitter
+23 south accent, sweet tea, gentlemenmississippi, redneck, wife beaters
+24 am morning, early, sleepy, tired, exhausted, class
+25 wound hurt, pain, blood, puss, scab, bruise
+26 tape sticky, useful, adhesive, gifts, clear
+27 achieve accomplishments, hard work, honored, deserve
+28 road long, blacktop, yellow lines, driving, transportation
+29 cave dark, cold, drafty, bats, shelter, water
+30 ladder tall, rungs, climbing, repair, bad luck, unstable
+31 find looking, seeking, searching, lost, relieved, happy
+32 tissue white, soft, snot, sneezing, allergies, cold, crying
+33 ashtray smoking, ashes, dirty, smelly, smoke
+34 film photos, camera, develop, walmart
+35 beast scary, hairy, sharp teeth, paws, Beauty and the Beast, castle, gargoyles
+36 meat blood, animals, grill,  bbq, tasty
+37 zero none, nothing, loser, last, broke, poor
+38 ship large, river, ocean, sea, a lot of people, captain, cruise, vacation, fishing
+39 fragile frail, breakable, small, thin, flexible, careful
+40 die crying, funeral, sad, death, black, no life, Heaven, Hell
+41 question quizzical, pondering, asking, answers
+42 pancakes morning, breakfast, round, butter, syrup, stacks
+43 vomit puke, sick, stomachache, violent, gross
+44 sword sharp, long, fighting, kill, death, blood
+45 slip wet, slippery, fall, hurt, banana peel, broken tail bone
+46 syrup sugary, watery, sticky, pancakes, breakfast
+47 bother annoying, busy, work, pesky
+48 wimp small, not muscular, weak, scrawny, chicken
+49 it thing, item, one, single
+50 male boy, man, masculine, big and strong, blue, muscles, protecter 
+51 empty vacant, secluded, nothing, spacious, no one
+52 tupperware food, storage, container, preserve
+53 gloves hands, coverage, garden, winter, snow
+54 ax chop, woods, cut, firewood, Paul Bunyun, murder
+55 small little, tiny, baby, midget, short, itty bitty, skinny
+56 cabbage vegetable, green, slaw, egg rolls, boiled, kraut
+57 feet floor, toes, stinky, socks, pedicure, ailments, walk, run, job, skip
+58 quiet volume, low, soft, calm, silent, mute, sleeping, library
+59 search seek, look, lost,missing, find, abducted
+60 rock hard, gray, pond, drive way, parking lot, busted windshield 
+

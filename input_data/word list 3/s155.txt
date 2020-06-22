@@ -1,0 +1,65 @@
+Semantic Data T00155
+Practice:
+finger is a body part,  is on the hand,  has bones,  covered with skin,  bends,  can be broken,  has a nail
+couch is furniture,  may be a solid color,  may be many colors,  is big,  can be sat on or laid on,  is heavy,  can be leather,  suede,  etc..,  soft
+Experimental:
+burlesque (dont know the meaning)
+lace lacy, 
+jigsaw puzzle,  confusing,  game, 
+millipede animal,  many feet,  insect,  green in color, 
+huts shelter,  homes, 
+splashy water,  cold, 
+approximation guess,  estimation,  not exact,  amount unknown
+people living,  human,  on the earth, has a heart,  body parts.ie...head,  arms,  legs,  feet
+urge want something, have a desire,  an extreme need to have
+furnish house, decorated, may be done in living room,  bathroom, bedroom, kitchen, etc..., 
+locus animal,  bug,  insect,  flies,  makes annoying noises, seasonal, mates
+piped has connectives,  is abstract,  flows
+understudy can be broken,  wobbles,  bends,  leans over, 
+craggy has hills or crags,  hilly,  crooked,  uneven, 
+fitting snug, matches its opposites perfectly,  no room left
+four mathematical number,  digit; used to add,  subtract,  divide, multiply, 
+addicting addictive, usually called a drug,  cant stop doing,  continuing habit regardless of consequences
+cortical Sectioned off,  separate of something else
+domain secluded,  private,  belonging to someone, 
+partial cant be whole,  only a part of an entity
+bore not interesting, repetitive,  feeling or expression
+visitation seeing someone,  leave your domain and enter another,  reason behind visiting
+slid verb,  past tense, to slide in the past,  move from one place to another,  cause friction
+dither has to have uncertainty,  lack of faith,  unsure,  or undecided, 
+rental not owning,  pay money for over a period of time, 
+accumulative an amount,  to acquire something over time, 
+payload money,  working,  money that affects work
+amble act of doing,  moving,  not be still
+predict guess,  not be sure about something,  base accusations off some other event
+millionth number,  not a whole number,  large entity,  greater than thousandths, 
+ribbon has color,  has material such as silk,  flexible,  bendable
+dealer concrete,  someone who deals,  usually has something to deal,  able to bargain
+tantamount ideal, of the same amount
+offensive being offended,  upset, 
+walked action,  moved from one place to another, requirements to walk,  etc..legs
+bowels a wastes,  broken down
+interlace able to connect,  to join,  combine
+battlefield a place,  land to stand on,  property to hide behind
+shearing scissors, 
+fallacy not have sense or understanding
+understand idea, able to comprehend, having knowledge
+native born in the place,  understanding of the place,  knows about the place
+presumption not have idea about something,  make a judgment about place
+harbor for boats,  has water,  has nets, 
+blends not visible,  not invisible,  is able to not stand out
+acid of chemical base,  has a burn, 
+logarithm contains processes,  able to solve problem
+damsel human,  female,  has hair,  young,  not married
+subsidence entity, can leave,  may return,  found in bodies
+gratuity entity,  pertains to money,  pertains to work,  pay out money
+yarn object,  non-living,  soft,  ______ material,  of colors,  maybe sewn
+lode substance,  found in the earth,  hard,  on the ground,  among rocks
+ditch outside,  on the side of a road or path,  lower than leveled ground
+bedrooms area,  in a house; has beds,  mirrors,  dressers,  windows
+overlaid has at least 2 objects,  able to be layered
+compact no room,  squeezed together
+idea abstract, formed in the mind,  maybe good or bad, 
+battalion made up of many people,  must have squad and company
+oats wheat,  grown in fields,  able to be harvested,  brown or light color, 
+ballet dance,  can be performed by people,  contains many types of music,  dance on toes,  tutu, very thin and cushiony shoes,  tights, 

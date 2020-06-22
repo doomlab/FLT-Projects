@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS s00840
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Mon, 12 Jul 2010 16:18:51 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 s00840
+Practice:
+zebra black and white stripes, animal, Africa, mammal, Zebra cakes, Madagascar
+house brick, home, family, kinds, land, money
+Experimental:
+1 fudge chocolate, food, Christmas, fat, Grandma, yummy, 
+2 girls sex, hair, eyes, shopping, clothes, emotional, smart 
+3 tree woods, bark, green, tall, Magnolia, Pine, 
+4 string shoe, puppet, cheese, rope, noose, 
+5 spice pepper, food, India, sugar, 
+6 surgery painful, doctor, hospital, scapula, anesthesia,  
+7 turtle snapping, pond, hard shell, amphibian, pets, old, slow, hare
+8 branch tree, family tree, wood, leaves, court system, 
+9 emergency hospital, 911, contacts, hazard lights, sirens, death, injury 
+10 amuse funny, laugh, giggle, comedy, friends, 
+11 schedule school, work, busy, late, alarm clock, 
+12 patient doctor, virtue, waiting,
+13 shoe nikes, feets, socks, sandals, fungus, athlete 
+14 lost found, dark, scared, TV series, 
+15 strange weird, different, unearthly, unique, crazy, frowned upon,  
+16 temple head, church, headache, body, ancient civilizations, 
+17 dull boring, bland, gray, pencil, lame, 
+18 conference meeting, business, school, 
+19 sunset beautiful, romantic, different colors,  
+20 doll barbie, Nicki Minaj, Cabbage Patch, 
+21 simple easy, simple minded,  
+22 puke throw up, gross, regurgitate, nasty , sick, food poisoning 
+23 south MS, GA, dirty, direction, region, music, birds, heat, 
+24 am I, adverb, state of being
+25 wound hurt, blood, cut, pain, 
+26 tape duct, clear, police line, video,, record, 
+27 achieve goal, success, rich, failure,  
+28 road street, pavement, cars, street signs
+29 cave dark, bears, gold, water, scary, arid, 
+30 ladder climb, heights, falling, trees, sliding, firemen, 
+31 find lost, look, search, 
+32 tissue soft, poop, tears, restroom, white, sneeze,
+33 ashtray cigarettes smoke, blunt, cancer, ashes, butts,
+34 film movie, directors, dvds, vhs, record, HD, camera, 
+35 beast animals, savage, wild, dangerous, 
+36 meat food, seasoned, animals, hunting, stores, cooking, freezer burned 
+37 zero nothing, flunk, empty, 
+38 ship wreck, Titanic, water, boat, 
+39 fragile bones, break, osteoporosis, 
+40 die live, funeral, tears, sorrow, morn, widow, survived by 
+41 question answer, ask, dumb, useless, rhetorical 
+42 pancakes breakfast, food, flip, fluffy, squashed, syrup, butter, offensive lineman, 
+43 vomit puke, throw up, sick, worms, gross 
+44 sword fight, dragons, knights, medieval, artifact, samurai,  
+45 slip fall, wet, lawsuit, dress, wet floor sign, puddles, 
+46 syrup pancakes, maple, flavor, sweet, gumtree, codine 
+47 bother nuisance, worrisome, annoying, do not disturb signs,  
+48 wimp punk, bitch nigga, skinny, Steve Urkel 
+49 it clowns, killing, pronoun, 
+50 male boys, female, asshole, Y chromosome, penis, big feet, liars
+51 empty full, nothing, sad, feeling, 
+52 tupperware food, refrigerator, Wal Mart, leftovers, 
+53 gloves mittens, cold hands, oven, snow, sports, 
+54 ax killing, wood, trees, firewood
+55 small big, puny, tiny, insects, babies, young,
+56 cabbage dolls, salad, cole slaw, farmer ,
+57 feet nasty, shoes, gross, socks, toenails, sensitive, ticklish, phobia 
+58 quiet silent, library, boring, peaceful, loud
+59 search look, find, destroy, mission, locate, hunt, dogs, party, spotter
+60 rock and a hard place, nature, hard, skipping rocks, boulder, mountain, erosion, mudslide, stoning, punishment   
+

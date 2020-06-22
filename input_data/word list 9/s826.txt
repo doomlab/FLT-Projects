@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00827
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 30 Apr 2010 12:17:40 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00827
+Practice:
+sing music, voice, high, low, notes
+hammer nail, hit, smash, wood, build
+Experimental:
+erupt volcano, lava, explode
+wild jungle, animals, untamed
+hint clue, help, tip
+nervous anxious, worried, scared, shaky
+business briefcase, new york, money 
+path way, dirt, road, direction, map
+bride white, young, wedding
+squirrel fast, quick, tail, acorn
+pizza grease, pepperoni, cheese, junk food
+tense uptight, awkward
+beg change, rags, homeless
+belt heavyweight champion, leather, waist
+offense defense, insult, anger
+washington george, d.c., redskins
+smile teeth, happy, funny, laugh
+leather motorcycle, fonzi, black
+ski snow, poles, cold, fun
+real true, sincere, tangible
+no cant, finger pointing, dog
+sting bee, wrestler, sharp pain
+closing door, lights out, darkness
+camp mountains, cabin, gravel roads, lake, climbing
+annoying frustration, leave, eye rolling
+satin soft, silky, purple
+thursday friday, weekend
+prince royalty, monarchy, england
+gas poison, car, fuel, crisis
+fall football, grove, autumn, colors
+garden vegetable, ripe, green, soil
+husband wife, family, man
+never new, first, havent
+cocaine drug, powder, snort,money
+frightened scared, monster, fear
+animal mammal, dog, tiger
+glue white, elmers, sticky, orange
+hole shovel, dig, black, empty
+cheap motel, coins, money
+sports balls, grass, competition
+drugs illegal, dangerous, cocaine, heroine
+orgasm sex, moan
+camera flash, snapshot, pictures
+nephew young, cousin
+on off, power
+dumb and dumber, stupid, not smart
+crash metal, cars, violence, shock
+environment earth, ambiance, trees, ozone
+shampoo pert plus, bubbles, hair
+answer question, correct
+confess tell, come clean, crime, guilt
+concert music, loud, people, lights
+arrogant unfriendly, prick, pride
+quart measurement, liquid, glass
+storage unit, dust, cardboard, dark
+catholic strict, gothic architecture, structure
+prisoner bars, orange, concrete, cell
+rip tide, fart, tear
+young innocent, youth, baby, milk
+sky blue, cloud, sun
+rule follow, ruler, school, teacher
+bath water, suds, hot, relax
+
+

@@ -1,0 +1,65 @@
+Semantic Data S00201
+Practice:
+finger is soft  is long  has a fingernail  is sensitive to heat  used in grasping  used to point.
+couch is a type of furniture  used as a seat  is a place to sleep  is moderately expensive  has cushions.
+Experimental:
+burlesque is a parody  is funny  is comical  is humorous  is literary.
+lace is soft  is elegant.
+jigsaw is a saw  is used for cutting  is often related to puzzle  is narrow  is electric.
+millipede is an insect  is slow in speed  is defenseless  is fuzzy  has no eyes  is small.
+huts are small  are often cylindrical  are made of natural materials  are shelters. 
+splashy is involving liquid.
+approximation is a close idea  nearly an amount  is related to math  is related to measurements.
+people have emotions  are nice  are mean  are unique  are smart  have rotating thumbs  can talk  can walk  have backbones.
+urge is demanding  is pushy  can be bothersome  can be dangerous  
+furnish to decorate  to install seats and tables  to enhance an area   to provide  to sponsor  to endorse. 
+locus are insects  have wings  are bothersome  can fly  have eyes  make noise  
+piped having pipes  having a transport system.
+understudy a role player  a replacement  a substitute  a back-up  a performer  is prepared.
+craggy having rocks  being jaded  being sharp  being rough  being steep  being broken.
+fitting being compatible  being normal  being typical  being right  being suitable  having appeal  being ordinary
+four a number  a group  is related to math  is an age.
+addicting having power  causing one to be dependent upon  is habitual  is well-liked.
+cortical is related to the cerebral cortex  is dealing with the brain.
+domain is related to math  is related to the internet  a region  a governed area.
+partial is not complete  is rude  is disappointing.
+bore is a hole  is cylindrical  is hollow  is deep  is narrow  is wide.
+visitation is enjoying  is related to jail  is related to nursing homes  is free time  is a privilege.
+slid is related to playgrounds  is related to baseball   is related to falling.
+dither is caused by fear  is an emotional reaction  is act of shaking.
+rental is borrowed  is related to a car  is temporary.
+accumulative is collective  characterizing a group  is mass  is large.
+payload is related to money  is related to work  is beneficial
+amble is slow  is a walk  is soothing  is peaceful
+predict is related to science  is a guess.
+millionth is last  is after several  is related to money  is related to math.
+ribbon is related to a bow  is a type of decoration  is thin  is typically bright  is light.
+dealer is a supplier  has product  is demanded  has money  has appeal  is smart  is successful.
+tantamount is equal to.
+offensive is harsh  is mean  is bad  is rude  causes negative emotions  is wrong.
+walked related to movement  related to energy release.
+bowels related to the abdomen  related to the intestine  the interior  contain things.
+interlace to cross  to weave  to intertwine  related to unity.
+battlefield is related to war  has blood  has war  has people  is a place of violence  brings forth emotion  is depressing  is historical.
+shearing relating to being cut  being removed  is related to hair  is related to a sharp object.
+fallacy is wrong  is an act of deceit  is false.
+understand to know  to comprehend  to process  to be able to teach.
+native of the origin  to be initial  is related to Indians.
+presumption is a preconception  is an assumed idea  can be incorrect  can be correct  can be dangerous.
+harbor a place  having boats  surrounded by water  near marine life  related to imports.
+blends relating to a mix.
+acid is chemical  is dangerous  causes burns.
+logarithm is related to math.
+damsel is pretty  is related to fairy-tales  is a female  is not royal
+subsidence a settling  an acceptance  is related to a decrease.
+gratuity is related to loans  is related to restaurant  causes consumers disappointment  is helpful to waiters/waitresses.
+yarn is soft is multiple threads is played with by cats  is rolled up  is used for knitting.
+lode is rich  is a supplier  is a source.
+ditch is deep  is muddy  is long  is narrow  has water typically  has banks. 
+bedrooms are comfortable  have electrical outlets  have light switches  have walls  have doors  have lights  have beds.
+overlaid related to decoration  related to a covering.
+compact is small  is related to CDs  is related to make-up.
+idea is a thought  causes other thoughts  can be dangerous  can be useful  
+battalion is related to war  is a large group  related to fighting.
+oats related to cereal  used for food.
+ballet is an art form  is a form of dance  has dancers  is related to mirrors  is related to a stage.

@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00735
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 23 Apr 2010 10:47:22 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00735
+Practice:
+sing uses the mouth, makes music, produces notes, takes air, oldest musical instrument
+hammer used to build, sometimes wooden handle, used to hit things, drives nails, somewhat heavy
+Experimental:
+erupt explosion, happens to volcanoes, spewing, pressure/release, spouting
+wild untamed, exciting, out of control, animals, parties, the unknown
+hint tip, help, puzzles, cheating, suggestion, way to an answer
+nervous shaky, sweaty, anxious, chemical reaction, fight or flight
+business store, owner, CEO, makes money, capitalism, interaction, trade
+path road, leads somewhere, many to choose from, walk, for travel
+bride mate, for life, woman, marriage, love, partner, start a family
+squirrel mammal, bush tail, eats nuts, climbs trees, cute, timid, brown or grey
+pizza italian, food, pie, made on dough, baked, tastes good, usually with cheese
+tense unrelaxed, tight, taut, characterization of muscles, squeezed, contracted
+beg ask, alms, groveling, done by the poor, poverty, inhibited by pride
+belt around the waist, holds up pants, tightening, fashion accessory, clothing, buckle
+offense crime, against someone, antagonistic, charging, upper hand
+washington first president, capital city, powdered wigs, one of the states, on the dollar bill
+smile happy, grin, smirk, show teeth, pleased, good feeling, done with the mouth
+leather cowhide, luxury, by a tanner, for belts and shoes, alternative to textiles, for upholstery
+ski flat, made of wood, slick, used for fun or transportation, used on snow or water
+real genuine, not fake, exists, down to earth, unimaginary
+no negative, unwilling, turn down, answer to a question, no permission
+sting hurts, smarts, sometimes by insects, sharp pain, induces swelling, means of self-defense
+closing to shut, not open, after hours, time to end business, securing
+camp temporary abode, place to rest, outside, spend the night, under the stars
+annoying unpleasant, bothersome, pestering, monotonous, frustrating, stressful
+satin smooth, a textile, shiny, luxurious, expensive, comfortable, beautiful
+thursday day of the week, before friday, once used as a name, yesterday
+prince son of a king, heir, royalty, young, respected, important
+gas colorless, odorless, makes up huge planets, many types, fuel, flamable
+fall season, autumn, harvest time, stumble, gravity, sometimes painful
+garden to grow food, pretty flowers, must be tended, small or large, sometimes a hobby, 
+husband mate, spouse, partner, caretaker, protecter, provider, man, sometimes a father
+never opposite of always, doesn\'t happen, negative, impossible
+cocaine drug, powder, white, dangerous, addictive, upper, illegal
+frightened scared, afraid, stressed, bodily response to danger, 
+animal creature, living thing, large number of species, alive, sometimes kept as pets
+glue sticky, adhesive, used to fix things, sometimes white or clear, messy
+hole opening, a way out or in, obstacle, dark, means of escape
+cheap inexpensive, a deal, not well made, tight, affordable, less
+sports games, exercise, competition, active, passtime, fun
+drugs medicine, legal or illegal, treatment, cure, man-made, chemical, prescribed by medical personnel
+orgasm peak, climax, release, pleasant, apex, top
+camera device, records, captures, sometimes digital, uses film, used by photographers
+nephew child of a sibling, family, male, related
+on working, being used, powered, resting, attached, not off
+dumb speechless, unable to communicate, silent, unintelligent, ignorant
+crash accident, collision, loud noise, impact, produced by cymbals
+environment surroundings, resources, ecosystem, temperature, conditions, protection
+shampoo cleanser, used for hair, comes in a bottle, used in the shower, fragrant
+answer solution, end result, response to a question, solve a puzzle, respond, return
+confess truthful, come out, take responsibility, answer for, tell, 
+concert performance, entertainment, usually music, on stage, has an audience
+arrogant proud, upright, snooty, better than others, character flaw, 
+quart unit of measurement, 2 pints, 4 in a gallon, amount in which oil is sold, liquid
+storage keep, stow, for a later date, holding place, make room, 
+catholic denomination of Christianity, led by the Pope, services called masses, religious, centered in Rome
+prisoner captive, held against one\'s will, punishment, confinement, unfree,
+rip tear, rent, destroy, damage, torn apart, place to be repaired
+young child, new, low age, inexperienced, will eventually become old, early
+sky atmosphere, above, air, where clouds are located, where flying occurs
+rule regulation, requirement, laws are an example, meant to be followed, can be broken, limitation, parameter
+bath place of washing, cleanse, soak, uses water, sometimes for pleasure, relaxing, healthy
+
+

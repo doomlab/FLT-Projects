@@ -1,0 +1,63 @@
+finger hand, body part,skinny,short,fat,
+couch sofa,hard,soft,comfortable,big,small,pretty,ugly
+Experimental:
+ambidextrous two,both,hands,left,right
+exhort encourage,push,pressure
+teensy small,little,tiny
+insurance health,life,car,expensive
+phantom opera,mask,theater,play
+emboss stamp, indent, mark
+bandmaster leader, conductor
+exultation happy,celebration,excited
+lapse gap,time,memory
+barbarism caveman,fur,dumb
+ethics morals, beliefs
+asymmetrical same, aligned
+negligent dismissive, inattentive
+freeway highway,car,driving
+surgeon doctor,blood,gloves,emergency room
+rivalry enemy,hate,fights
+unkempt unclean,messy,dirty
+handsomely beautiful,pretty,smooth
+prospective coming,soon,likely
+book bag backpack,books,class,school
+rubberneck rubber,plastic,gloves
+heartbroken sad,lonely,crying,boy,girl
+sassafras tea
+tint dark,shade,color
+poor bad,hungry,street
+presumptuous rude,boys,rash
+attain get,keep,have
+worn old, dirty,
+dictate hitler,leader,mean
+fifty money, bill
+live breath,life,awake
+update inform,new,status
+scotch liquor, brown
+affirm insist beg
+retort comeback, sassy
+obey follow, weak
+squeak sound,noisy,annoying
+sophomore classes, school,
+hemp weed, smoking
+sawhorse saw,wood,workshop
+wineglass party
+classless no taste
+hymn church, slow
+musk stink
+woodwind instrument
+tiptoe sneak, creep
+definitive positive
+barley green
+dust lint,sneeze,cough
+dishonest lie,fib,story
+slowly time, waste
+steering car,wheel
+marionette doll,dummy,stiff
+coincidence chance, luck
+unobtainable unreachable
+incredulous doubt
+caper creepy, bad guy,theif
+clearance sale,clean,out
+stony rock,hard,wall
+ordeal test

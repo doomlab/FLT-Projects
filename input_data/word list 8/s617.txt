@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00617
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Sun, 28 Mar 2010 23:30:48 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data WL8S00617
+Practice:
+sing notes,songs, artist,record,cd, keys
+hammer wood, nail, house, beat,metal, heavy, pain
+Experimental:
+relationship love, understanding, unconditional, spouse, parents, siblings, heart.
+see glasses, eys, far, near, lens, contact, pupil, chart 
+judge court, lawyer, defendant, school, law, trial, verdict, grandparent, old
+night dark, stars, sleep,nightmares, coyote, moon, ghost
+knowledge book, school, teacher, brain,mind, bible, God
+crooked mean, evil, thief, deceitful, line
+college books, professors, dorms, friends, major, minor, people, class, eight, freshmen
+newspaper words, new, weather, article, death, wedding, coupons, daily
+three number, trinity, minutes, last, 
+flirt guys, girls, dogs, unfaithful, cute, attention
+bacon breakfast, nasty, fat, pig, farm, red, unhealthy, heart attack
+pyramid Egypt, old, tall, long, ancient, beautiful 
+organize tubs, labels, OCD, folder
+wander lost, think,mouse, trees, woods.
+maze lost, wind, harry potter, rat, hedge
+continent country, big, north America, nationality,water
+monk religion, USA, detective, temple, prayer
+nut crazy, good, squirrel, peanut, cashew, eat
+wood splinter, fire, build, house, boy scout, 
+ill sick, bed, thermometer, shaky, cough, sneeze
+joke funny, cool, laugh, comedy, club, comedian. 
+away gone, far, move, hurt, lost, unseen 
+purpose all, life, meaning, use, people, gain, look
+touch screen, soft, body, rough, texture, hand, water
+sweat workout, gym, gross, hot, run, bicycle
+second number, time, after, microwave,people,line
+needle blood, thread, draw, poke, pain, hole, clothes
+push fall, strive, hurt, knee, cliff
+violin music, soothing, strings, orchestra, small
+thin sick, young, eating disorder, healthy, model
+lawsuit money, court, settlement, medicine, judge, jury, death
+reel fish, pole, pond, lake, catfish, cod
+dust desert, allergies, swiffer, wood, table, dust mites, dirt
+chaos crazy, unhappy, unkempt, annoying, terrifying 
+hold phone, hand, purse, shop, store, clothes, book, music
+appear clothes, look, see, physical, mental, aethetic
+spine doctor, nerves, paralysis, important, signal, posture
+yard mow, grass, length, football, weed, sun, trees
+welcome home, here, happy, warm, comfortable, bed
+alligator teeth, big, green, scary, water, swamp, eat, blood, long
+drug addictive, helpful, pain, white, powder, syringe, doctor, prescription
+peak mountain, top, climb, goal, perfection, above.
+tighten hard, painful,bolt, nut, ring, rubber band
+choose choice, now, scary, between, two, three
+baby mother, father, bed, hospital, little, innocent, precious
+view telescope, grey, black, far, near, lens, camera, green
+jewish religon, hat, temple, barmittsfa, songs, dance.
+grab abuse, take, rude, guy, snatch, yogurt, lunch, breakfast
+dill pickle, sandwich, green, ripple, 
+log time, brown, wood, tree, water, floating
+excited happy, jumping, yellow, bright, bird
+wash water, soap, car, dishes, tub, shower, cloth, towel, washroom,.
+empire state, building, top, high, tall, big, great
+biology hard, water, body, systems, organisms, creatures. 
+president USA, America, head, commander, chelf
+sleep bed, blanket, close, eyes, house, happy
+crime burglar, jail, prison, thief, steal, run
+stairs long, up, down, well, grey, white, concrete, staggered
+force entry, car, crash, hit
+spring flowers, pretty, bright, joy, happy, sun, blooms, trees, flowers.
+
+

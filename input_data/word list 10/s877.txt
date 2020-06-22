@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00877
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Sun, 25 Jul 2010 21:24:54 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00877
+Practice:
+zebra Exotic, animal, lives in africa
+house shelter, mortgage, furniture, family
+Experimental:
+1 fudge sweet, brown, high calorie, good
+2 girls sweet, innocent, pretty, great heart
+3 tree fruit, shade, leaves, colorful
+4 string instruments, kite, knot
+5 spice recipes, flavorful, food, enhancements
+6 surgery hurt, sickness, medical, repair, organs
+7 turtle animal, slow, hard, extinct
+8 branch wood, strong, trees, sticks, bark
+9 emergency sickness, death, family, sudden
+10 amuse happy, clowns, comedians
+11 schedule hectic, important, excessive, organization
+12 patient waiting, content, 
+13 shoe foot covering, expensive, leather, tennis
+14 lost dog, child, money, job
+15 strange not ordinary, unusual
+16 temple holy, pulsating
+17 dull stale, not sharp, boring person, unimportant
+18 conference meeting, conversation
+19 sunset beautiful, evening, river
+20 doll pretty, combing hair, barbie, bratz, little girl
+21 simple easy, not complicated
+22 puke throw up, vomite, green, nasty, gross
+23 south racism, hot, laid back
+24 am i
+25 wound care, bloody, hurt, war
+26 tape repair, sticky, clear, grey, fix
+27 achieve goals, take care of
+28 road hard, cars, driveable, pavement
+29 cave man, hole, dark, bats, scary
+30 ladder climbing, tools, fixing, tall
+31 find something, job, look for, search
+32 tissue kleenex, clean, toilet, 
+33 ashtray cigarettes, nasty, dirty, ashes
+34 film movies, documentary, 
+35 beast animal, scary, wild, abnormal
+36 meat bloody, food, red, animal
+37 zero nothing
+38 ship boat, water, lost, ghost
+39 fragile tender, glass, breakable
+40 die family, sorrow, part of life, sickness
+41 question why, what, asking, 
+42 pancakes sweet, fattening, round, syrup, buttery, ihop
+43 vomit nasty, gross, sick, virus
+44 sword kill, greek
+45 slip paper, fall
+46 syrup sweet, toast, pancakes, buttery
+47 bother mess with, aggrivate
+48 wimp weak, man, cry baby, nerd
+49 it thing
+50 male boy, man, strong
+51 empty space, hole, air
+52 tupperware plastic, container, storage
+53 gloves coverings, leather, keep warm
+54 ax tool, heavy, chop
+55 small little, tiny, itty bitty
+56 cabbage vegetable, green, easy to cook, healthy
+57 feet shoes, toes, pedicure, toenail
+58 quiet peace, silent
+59 search look, find
+60 rock hard, concrete, slide, 
+

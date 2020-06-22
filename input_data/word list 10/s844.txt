@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00844
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Wed, 28 Jul 2010 16:15:51 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00844
+Practice:
+zebra its an animal, its black and white, its fast, eats grass
+house bathroom, bed, television, pictures, couch, bed, food, water, dishes
+Experimental:
+1 fudge brown, sweet, ice cream, sugar, cake, 
+2 girls long hair, comestics, drama, stubborn, pretty, smart, shy
+3 tree tall, big, leaf, brown, green, shade, birds, 
+4 string long, thin, knot, togetherness, 
+5 spice season, food, urbs
+6 surgery death, injury, pain, doctor, hospital, 
+7 turtle slow, water, protection, 
+8 branch tree, leaf
+9 emergency hospital, panic, rush, unexpected, ambulance, police
+10 amuse interesting, entertain, funny
+11 schedule football, school, time, dates, 
+
+12 patient doctor, injury, treatment, hospital
+13 shoe feet, nike, jordan, style, 
+14 lost found, woods, night, traveling, 
+15 strange appearance, location, people
+16 temple brain,migrains
+17 dull sharp, knife, bored,
+18 conference meeting, trouble, boss, celebrations
+19 sunset dark, cooler, 
+20 doll fake, toy, girl, 
+21 simple complicated, plain, square
+22 puke sick, running, alcohol
+23 south north, east, west, direction, traveling, rasicm, breakfast, food
+24 am i, you, me, we, they
+25 wound sore, blood, hurt, injured
+26 tape sticky, hold, 
+27 achieve success, winner, goals, positive, achiever,wealthy, 
+28 road gravel, pavement, traffic, cars, people, buildings, trees, deers, accidents
+29 cave dark, caveman, bears, death, scary, mines, mountains
+30 ladder height, window, painting
+31 find lost, reward, 
+32 tissue soft, organs, charmin, white, bathroom
+33 ashtray cigeretts, smoke, ashes, car, house, cancer
+34 film sports, movies, television, directors, porn
+35 beast monster, big, ugly, strong
+36 meat food, barbeque, raw, lions, tigers, steaks, cooking
+37 zero numbers, nothing, sorry
+38 ship ocean, people, vacation, bands, swimming, weather, storm, titanic
+39 fragile week, break, glass, mail, boxes, 
+40 die death, live, accident, gun, old, people, heaven, hell
+41 question answer, wrong, right, who, what, when, where
+42 pancakes syrups, breakfast, morning, hot, taste
+43 vomit nasty, puke, running, stanky, food, acohol
+44 sword killing, stab, death, fighting, history, gold, king, prince
+45 slip fall
+46 syrup slow, sticky
+47 bother annoying, 
+48 wimp scared, pussy, punk, lame
+49 it things, objects
+50 male female, strong, sports, trucks
+51 empty full, dull, boring
+52 tupperware container
+53 gloves work, toilet, nasty, clean, prepare, food, 
+54 ax wood, johnny apple seed, strong, country
+55 small big, little, short
+56 cabbage sunday, dinner, family, garden, clean, hot sauce
+57 feet foot, stanky, big, small, ugly, pretty
+58 quiet loud, noisy, study
+59 search find, paper, enternet, google, yahoo, ask.com
+60 rock solid, hard, 
+

@@ -1,0 +1,78 @@
+Subject:
+SEMANTICS S00783
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Tue, 27 Apr 2010 16:08:13 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL9 S00783
+Practice:
+sing voice,birds,beautiful,talent,relaxing
+hammer hard,stern,helpful,nails
+Experimental:
+erupt blow,start,harsh
+wild carefree,crazy, unattainable,freedom
+hint helpful
+nervous shaking, stressed, scared
+business jobs, buying, selling, contracts, agreements
+path follow,road, leading
+bride beautiful,happy,white,marriage, husband
+squirrel acrons,nuts, trees
+pizza eat,hungry,italian,food
+tense language,grammer,time,past,present,future
+beg plea,ask,needing
+belt waist,pants,helpful,clothes,accesory
+offense points,score,aggressive
+washington capital,state,white house
+smile teeth, happy, affection
+leather slick,heavy,clothing
+ski snow,sleds,hills,mountains
+real true,tangiable,non fiction,reality
+no answer,not allowing
+sting hurt,bee,wasp,anger
+closing finished,shut down, ending
+camp tent,shelter,outdoors
+annoying bothering,hurtful,not pleasant
+satin silk,soft,light
+thursday almost the weekend
+prince hero,famous,honorable,rich
+gas high,cars,gasoline,foreign countries
+fall leaves,cold,autumn
+garden growth,green,vegtables,fruits,agriculture,outdoors
+husband wife,marriage,man,father,leader
+never no, aboslutely not
+cocaine addiction,drugs,bad,hurtful
+frightened scared,nervous
+animal pets,nature,beautiful,innocent
+glue paste,paper,binding,sticky
+hole open
+cheap not expensive,easy
+sports thrilling,hard,tough,competitive,heart
+drugs bad,damaging,hurtful,addictive
+orgasm feeling, thrills,sexual,sex
+camera pictures,memories,capture
+nephew son,boy
+on alive,working
+dumb not applying,iggnorant
+crash hurt,damage,careless
+environment nature,surrounding
+shampoo bubbles,conditioner,smells
+answer reply
+confess telling truth,answers
+concert music,noise,loud,singing
+arrogant rude,misbehaving
+quart size
+storage holding,place,helpful
+catholic religion,roman catholic, father, son holy spirit
+prisoner trouble,jail,crime
+rip cut,damage
+young foolish,age, carefree,immature
+sky blue,clouds,open
+rule law,guidelines
+bath soak,water,clean,warm
+
+

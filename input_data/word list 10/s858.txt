@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00858
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 23 Jul 2010 11:04:48 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00858
+Practice:
+zebra black and white animal. often found at the zoo.Has a long neck and is very tall
+house Place of residence, often between 1 and 4 bedrooms. Includes a kitchen, living area and bathrooms
+Experimental:
+1 fudge sweet, chocolate, paenut butter, hard or soft
+2 girls long hair, short, pretty, kind, loving, nurtuer
+3 tree tall, leafy, branches, old, strong, hollow
+4 string thick or thin, long or short,durable
+5 spice food, adds flavor, sweet, sour, tangy, hot
+6 surgery operation, anesthesia
+7 turtle slow, hard outside, soft inside, 
+8 branch long, hard, durable, helpful
+9 emergency injury, important, illness
+10 amuse funny, appealing
+11 schedule time frame, contraint, order of actvities, organization
+12 patient needing help, waiting
+13 shoe protection for feet,sometimes soft, sometimes hard, many colors, sizes and shapes
+14 lost unaware of your surroundings, unable to find your way 
+15 strange unusual, awkward
+16 temple worship, part of brain, pyramid
+17 dull boring, laking flavor
+18 conference meeting, group phone call, importtant, formal
+19 sunset rising of the sun
+20 doll long hair, dressable, movable, fun, friends
+21 simple easily understood
+22 puke regurgitate
+23 south below the equator, sweet tea, southern cooking
+24 am about to do a task
+25 wound injury, open skin, blood, bandage
+26 tape adhesive, used to close something
+27 achieve reach a goal, success
+28 road highway, destination, cars, vehicles
+29 cave bears, bats
+30 ladder steps, aide in reaching high places
+31 find discover
+32 tissue soft,boxed or rolled
+33 ashtray circular, square, inside a car or a home
+34 film pictures, movies, production
+35 beast scary, threatning
+36 meat food, animals, cooked, rare, blood
+37 zero having nothing
+38 ship means of travel, mailing a package
+39 fragile easily broken or damageable
+40 die end of life
+41 question concern
+42 pancakes food, syrup, breakfast
+43 vomit throw up from within the stomach
+44 sword weapon, midevil
+45 slip piece of paper
+46 syrup sweet, sticky
+47 bother annoy, disturb
+48 wimp scared of something 
+49 it a person or a thing
+50 male opposite of female, masculinity, strong
+51 empty not containing anything
+52 tupperware storage of food
+53 gloves protection for hands
+54 ax used to cut wood, a tool, a weapon
+55 small not taking up much space
+56 cabbage vegetable, green, healthy
+57 feet toes, ankles, shoes
+58 quiet not making noise
+59 search to look for
+60 rock hard, found in nature, many shpes and sizes
+

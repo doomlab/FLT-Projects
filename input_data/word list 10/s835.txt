@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS S00835
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Thu, 29 Jul 2010 13:57:45 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL10 S00835
+Practice:
+zebra stripes black white animal wild zoo 
+house doors windows roof brick rooms paint kicthen living room bedrooms garage driveway
+Experimental:
+1 fudge chocolate yummy rich brown home made brownies grandma theme parks white chocolate 
+2 girls feminine long hair make up painted nails boyfriends clothes shopping bikinis purses jewelry pink purple
+3 tree trunk leaves green brown branhes bugs outdoors pretty shade 
+4 string shoe laces small skinny bendable 
+5 spice food salt pepper 
+6 surgery nervous pain doctors health nurses life death anatomy 
+7 turtle shell slow Franklin green brown swim roads Squirt 
+8 branch brown bark big little leaves 
+9 emergency bad 911 ambulance fire police fire truck pain 
+10 amuse laugh joke funny comedians hilarious entertaining 
+11 schedule organized time locations dates
+12 patient sufferer victim pain problem medical 
+13 shoe running walking feet socks laces colors flip flops sneakers heels 
+14 lost found missing kidnapped gone confused
+15 strange weird bizarre 
+16 temple religion worship Bible history church
+17 dull bland gross knife color
+18 conference conversation interaction scheduled 
+19 sunset sun pretty beach pink purple orange yellow water clouds sky dusk
+20 doll play fake girls little 
+21 simple easy difficult 
+22 puke thow up vomit disgusting color smells toilet stomache alcohol virus
+23 south north southern sweet tea accents warmer farms land 
+24 am p.m. morning sunlight wake up breakfast beginning 
+25 wound body military blood pain hurts 
+26 tape player casset old stick together
+27 achieve goals high standards motivation
+28 road black travel yellow lines cars 
+29 cave dark bats flash lights echos rocks small space
+30 ladder steps danger height constuction workers 
+31 find lose happy 
+32 tissue box nose snot clean soft white  
+33 ashtray cigarettes gross ashes smells 
+34 film movie video entertaining 
+35 beast beauty monster big 
+36 meat food steak chicken pork good protein 
+37 zero 0 none nothing math 
+38 ship sail ocean sunk flags pirates deck captain sailors 
+39 fragile breakable boxes moving glass 
+40 die funeral sad life tears
+41 question answer 
+42 pancakes breakfast awesome flat bread syrup Aunt Jemima butter 
+43 vomit mouth throw up food sick ew 
+44 sword fight sharp cut 
+45 slip slide oil soap caution signs water no running 
+46 syrup Aunt Jemima sticky maple strawberry blueberry Ihop Waffle House breakfast sweet natural good 
+47 bother annoy pester bugs siblings little kids
+48 wimp baby afraid scared 
+49 it thing broad
+50 male female boy dude man 
+51 empty full glass stomache none left gone
+52 tupperware Glad plastic food left overs lunch box 
+53 gloves garden hands skiing mittens warmth
+54 ax nightmares chop wood blade sharp 
+55 small big tiny microscopic 
+56 cabbage green rabbits lettuce food grocery store
+57 feet toe nails walk run massage pedicure socks shoes
+58 quiet Shh library no talking mouth shut
+59 search google browse find 
+60 rock solid colors outdoors lifeless tons 
+

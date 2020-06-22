@@ -1,0 +1,77 @@
+Subject:
+SEMANTICS MONTANA S0008
+From:
+WebServer Reserved UID <webservd@cedar.olemiss.edu>
+Date:
+Fri, 25 Jun 2010 10:03:28 -0500 (CDT)
+To:
+buchananlab@gmail.com
+
+erin@olemiss.edu
+
+Semantic Data  WL11 MONTANA S0008
+Practice:
+zebra predominantly metal, utensil, part of a triage, different sizes, can be plastic, kitchen
+house Soft, part of a larger object, something that is sat upon, plethora of colors, different skins, sizes etc. 
+Experimental:
+1 team sports, men, women, all ages, teamwork, working together, common goal, competitive, driven, athletic
+2 grand money, large amount, something very luxurious,prized possession, treasure, something notable
+3 eat an action, sustains hunger, requires food or drink, an activity you can do if your bored, a social pastime, requirement for life
+4 brother sibling, close friend, a person you love, family member, role model, playmate, rough and tough
+5 hypnotize magic, calming, controlling. wizard, a freak show, vegas, uncontrollable, ineveitable, 
+6 shirt clothing, multi ages, T-shirt, Polos, button ups, long sleeves, short sleeves, tank tops, long shirts, dress shirts,a clothing requirement, no shirt no service
+7 explode bomb, fire, loud noises, big blast, damaging, threatening, war, mistake, sparkler bomb, missiles, ammunition, fuze, fire cracker, fire works
+8 Sunday church, family gatherings, day of the week, a weekend day, relaxing, fun, yard work, chores, sunday dinner, Easter sunday, 
+9 ten number, a score, decade, base of log functions, counting tool, basis of the number system, part of the multiple scale
+10 female Athena, strong, bold, beautiful, feminine, can also be masculine, lesbians, the puursuit of males,  cooks, clean better, organized, 
+11 whole unit whole, more than half, area of something, not broken
+12 fighter Jets, military infantry member, voracious, ferocious, respects life as well as takes it, boxing, wrestling, swords, jousting, terrorist jihadist
+13 muscle sarcomeres, muscle fibers, bundle of spindles, part of a bigger unit, required for movement, contraction along the spindles, kinetic principles, motor movement, for every action their is an equal and opposire reaction
+14 penny monitary value, white house, minted, copper, millions made, one cent, abraham lincoln, gets you nothing, part of a dollar
+15 train locomotive, something that is hard to stop, transports goods, loud, steam engine, basic mode of transportation, burlington northern, cattle cars, coal, montana trains, graffiti
+16 glasses things you drink out of, glass or ceramic, also eye glasses, perscription, bad vision
+17 nurse CNA, RNA, doctors assisstant, male or female, sick people, scrubs, hosptitals, 
+18 jesus religion, Christ, church, Sunday, Christmas, holy, saviour, the lamb of God
+19 money Unit used for exchange, paper, sought after, nothings free
+20 shoelace string, multiple of colors, tie things, keeps shoes together, synthetic, 
+21 cabinet wood, store clothes, guns, dishes etc, home decoration
+22 goal team, personal goal, long term goal, short term goal, needed in order to succeed, fore sight
+23 work manual labor, brain labor,exhausting, rewarding, required for money, business, 
+24 allow permission, a directive, an order, willing to concede
+25 coat Animal coat, soft, furry, requires maintanance, human article for warmth, wool, synthetic material
+26 hall dance hall, recital hall, auditorium, hall in school, no running 
+27 who a question word, Dr. Suess, used in sentences, part of a group of asking words, used in grammar
+28 thirsty thirsty thursdays, parched, liquid to replenish, needs to be quenched, sun
+29 words used in language, can be written or spoken, sign launguage, important for communication
+30 secret very dear to you, no one else knows, government secret, classified information, top secret
+31 liberty part of the declaration for independence, freedom, free will 
+32 home where the heart is, family, montana, 
+33 wagon horse drawn, old days, means of travel 
+34 painting piscasso, Monet, Mona Lisa, the Louvre, Exciting colors, abstract thoughts
+35 basketball team, NCAA, NBA, march madness, competitive, athleticism
+36 pen hold animals, kids etc, made of wood, metal, wire
+37 object ownership, obectification, 
+38 opening closing, opening doors, oppportunities, lids, cans, boxes
+39 against rebuttle, demonstraters, rebuke, 
+40 print printer/ copier, paper, library, books, pages, notes, information
+41 stream water, words, torrent of bad luck/ good luck
+42 motel place to stay, pay for a room, free breakfast, in every city
+43 faith belief, in someone, something, loyality, followers, continous action, support
+44 start to begin, start has a finish, required for anything 
+45 radio talk show, communication, host, DJ, music, 
+46 cabin Wood, mountains, trees, 
+47 balloon party, kids, blow up, 
+48 title book, poem, newspaper
+49 pick mining tool, dark places, toothpick
+50 thief steal, dark, mysterious
+51 agreement consent, an accord, two people or more
+52 property ownership, place, homestead, land, 
+53 innocent babies, not guilty, innocent until proven guilty
+54 grave death, old, mourning
+55 neutron physics, science, space
+56 bum poor, beggar, raggety
+57 fraternity gay, obnoxious men, and bars
+58 tag title, nameholder, identification
+59 obstacle obstruction, in ones way, cross country courses
+60 speech public speaking, audience, questions
+
