@@ -1,71 +1,68 @@
-- Hide quoted text -
+Semantic Data s00043
+Practice:
+finger hand
+ring
+couch livivng room
+Experimental:
+before after
+dangerous beware
+stolen money
+crackers salty
 
+complicated
+cruel harsh
+nervous shaky
+abnormal weird
+burnt toast
+cloudy rain
+controls
+broke
+backward forward
+seldom alone
+conscious sleep
+cute pretty
+after before
+dense livivng room
+asleep slow
+crunchy crispy
+cooked done
+downstairs upstairs
+naive triffling
+anxious excited
+numerous alot
+genuine exspesive
 cheerful happy
-
 cheap poor
-
 adorable precious
-
 ahead behind
-
 strict powerful
-
 bumps acne
-
 creative
-
 arrogant
-
 aware beware
-
 blinds curtains
-
 difficult hard
-
 absurd
-
 cents cash
-
 deadly alive
-
 crafts
-
 formal casual
-
 joyous happy
-
 delicate soft
 
- 
-
 misses
-
 needy wants
-
 crops vegetables
-
 cups glasses
-
 baked fried
-
 medieval mean
-
 components
-
 bright dark
-
 priceless affordable
-
 always forever
-
 crooked bent
-
 alone together
-
 excited sad
-
 brilliant slow
-
 around behind
-
-ahoy
+ahoy 
