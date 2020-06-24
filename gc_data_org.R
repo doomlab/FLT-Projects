@@ -2,19 +2,20 @@
 library(data.table)
 
 #get list of folders
-grep("word", list.files("./input_data/"), value = T)[1]
+grep("word list", list.files("./input_data/"), value = T)[1]
+#updated grep pattern to "word list" since some files including "word" were added. 
 
 #get list of files
 list.files(paste0("./input_data/", 
-                  grep("word", list.files("./input_data/"), value = T)[1]))
+                  grep("word list", list.files("./input_data/"), value = T)[1]))
 
 #read in data 
 read.delim(
   paste0(
     paste0("./input_data/", 
-           grep("word", list.files("./input_data/"), value = T)[1]),"/",
+           grep("word list", list.files("./input_data/"), value = T)[1]),"/", 
     list.files(paste0("./input_data/", 
-                      grep("word", list.files("./input_data/"), value = T)[1]))[1]
+                      grep("word list", list.files("./input_data/"), value = T)[1]))[1]
   ), header = F
 )
 
@@ -25,7 +26,7 @@ txt <- as.character(NA)
 final <- data.table()
 
 #looooooop
-for(i in grep("word", list.files("./input_data/"), value = T)[c(17:23,2,3)]) {
+for(i in grep("word list", list.files("./input_data/"), value = T)[c(17:23, 1:3)]) { #added word lists 1-2
   print(i)
   for(j in grep(".txt", list.files(paste0("./input_data/", i)), value = T)){
     print(j)
