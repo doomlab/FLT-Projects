@@ -1,7 +1,7 @@
 ---
 title: "FLT Text Processor"
 author: "Erin M. Buchanan"
-date: "11/22/2019"
+date: "`r Sys.Date()`"
 output: html_document
 ---
 
@@ -22,18 +22,15 @@ library(textclean)
 library(hunspell)
 ```
 
-
 ## Read in the Files
 
 - This section reads in the raw text files of the 3722 words we collected for the Buchanan et al. 2013 and 2019 papers. We will combine these with the other norms later for the full dataset. 
-
-- If you check out https://github.com/doomlab/Word-Norms-2 you can download these files for yourself - this folder is the .5 raw words folder. The 0 word lists folder has the data in a bunch of different formats. This folder has the data in single text files for each word. 
 
 - Please note the `word_con.txt` file is the word `con` but you can't name a file `con.txt` on windows machines. 
 
 ```{r}
 ##find the files
-the_file_path <- "/Users/buchanan/GitHub/46 Word-Norms-2/0.5 raw words"
+the_file_path <- "input_data"
 list.filenames <- list.files(path = the_file_path)
 
 ##create empty list to store stuff
@@ -81,7 +78,7 @@ final_data$participant_answer <- stri_trans_general(str = final_data$participant
 final_data$character_num <- nchar(final_data$participant_answer)
 hist(final_data$character_num, breaks = 100)
 
-bad_character_count = 150
+bad_character_count <- 150
 
 ##remove all empties
 no_zero <- subset(final_data, character_num > 0)
@@ -215,6 +212,10 @@ nrow(no_wiki) - nrow(no_bad_answers)
 - Finally, extra spaces are trimmed out. 
 
 ```{r}
+#how many answers before we unnest
+nrow(no_bad_answers)
+
+#unnest the answers
 no_bad_answers <- 
   no_bad_answers %>% 
   select(-duplicate, -problem, -character_num) %>% 
@@ -226,9 +227,15 @@ no_bad_answers$participant_answer <- trimws(no_bad_answers$participant_answer,
                        which = c("both", "left", "right"), 
                        whitespace = "[ \t\r\n]")
 
+#unnested count
+nrow(no_bad_answers)
+
 ##remove empty answers
 no_bad_answers <- subset(no_bad_answers, 
                          nchar(participant_answer) > 0)
+
+#nonzero count
+nrow(no_bad_answers)
 ```
 
 ## Expand contractions
@@ -237,9 +244,10 @@ no_bad_answers <- subset(no_bad_answers,
 
 ```{r}
 ##fix any issues with the type of contraction symbol
-no_bad_answers$participant_answer <- str_replace_all(no_bad_answers$participant_answer, 
-                                                     pattern = "’", 
-                        replacement = "'")
+no_bad_answers$participant_answer <-
+  str_replace_all(no_bad_answers$participant_answer, 
+                  pattern = "’",
+                  replacement = "'")
 
 ##lower case just in case
 no_bad_answers$participant_answer <- tolower(no_bad_answers$participant_answer)
@@ -254,6 +262,7 @@ used_apostrophe <- unique(unlist(str_extract_all(no_bad_answers$participant_answ
                 pattern = "\\b\\w+\'\\w+\\b",
                 simplify = F)))
 
+##view this list to add new ones
 used_apostrophe <- used_apostrophe[!(used_apostrophe %in% contractions$contraction)]
 
 ##add contractions
@@ -275,14 +284,16 @@ no_contractions$participant_answer <- replace_contraction(no_contractions$partic
                                        ignore.case = T)
 
 ##take off 's possessives
-no_contractions$participant_answer <- str_replace_all(no_contractions$participant_answer, 
-                                                      pattern = "\\'s", 
-                                                      replacement = "")
+no_contractions$participant_answer <- 
+  str_replace_all(no_contractions$participant_answer, 
+                  pattern = "\\'s", 
+                  replacement = "")
 
 ##replace all other symbols
-no_contractions$participant_answer <- str_replace_all(no_contractions$participant_answer, 
-                                                      pattern = "[:punct:]", 
-                                                      replacement = "")
+no_contractions$participant_answer <- 
+  str_replace_all(no_contractions$participant_answer, 
+                  pattern = "[:punct:]", 
+                  replacement = "")
 
 ##write it out
 write.csv(no_contractions, "./output_data/text_no_contractions.csv", row.names = F)
@@ -311,11 +322,18 @@ spelling.sugg <- t(sapply(spelling.sugg, "length<-", max(lengths(spelling.sugg))
 # Combine them together
 spelling.dict <- as.data.frame(cbind(spelling.errors,spelling.sugg))
 
+# Remove the suggestions that the word = capitalized
+spelling.dict$same <- tolower(spelling.dict$spelling.errors) == tolower(spelling.dict$V2)
+spelling.dict <- subset(spelling.dict, !same)
+spelling.dict$same <-  NULL
+
 #write that out and edit it
 write.csv(spelling.dict, "./output_data/spelling_dict.csv", row.names = F)
 ```
 
-- Next, we will read in the edited spelling dictionary and replace the data. - Note: sometimes people used different forms of words that aren't technically spelled correctly:
+- Next, we will read in the edited spelling dictionary and replace the data. 
+
+- Note: sometimes people used different forms of words that aren't technically spelled correctly:
   - `abled` - meaning able-bodied or able-past tense
   - `abandoner` - meaning a person who abandons
 - These were corrected to the closest "real" spelling, which can be found in the spelling dictionary. In the original paper, we corrected these by going back to the lemma form, then using a special tag. Since this analysis is to simply convert back to the lemma, this approach seemed appropriate. 
