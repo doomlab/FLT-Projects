@@ -1,4 +1,4 @@
-worker_id,word,answer
+subject_id,word,answer
 2fc61c1089,Foreign,"something not belong to our native place.there are different aspects they are
     * Foreign corporation, a corporation that can do business outside its jurisdiction
     * Foreign key, a constraint in a relational database

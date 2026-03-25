@@ -1,4 +1,4 @@
-worker_id,word,answer
+subject_id,word,answer
 0fdae3b5b5,Shrub,"is a bush, is a plant"
 0fdae3b5b5,Wallet,"billfold, pocket book, is made of leather"
 0fdae3b5b5,Scold,"to yell at, to lecture, to berate"
