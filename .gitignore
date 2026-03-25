@@ -1,5 +1,7 @@
 # Hide old files
 /no_sync
+raw_data_nosync
+.ipynb_checkpoints
 
 # History files
 .Rhistory
@@ -37,3 +39,4 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+.DS_Store
