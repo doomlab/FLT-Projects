@@ -1,0 +1,16 @@
+name: flt-nlp
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - openpyxl
+  - ipykernel
+  - nbconvert
+  - nbformat
+  - pip
+  - pip:
+      - spacy
+      - symspellpy
+      - nltk
+# after creating: python -m spacy download en_core_web_sm
