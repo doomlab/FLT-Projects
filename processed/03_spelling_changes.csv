@@ -5,18 +5,14 @@ acknowledgement,acknowledgment,hand_dictionary,17
 wierd,weird,hand_dictionary,14
 arguement,argument,hand_dictionary,14
 womens,women,hand_dictionary,12
-axe,ax,hand_dictionary,11
 womans,woman,hand_dictionary,10
 writting,writing,hand_dictionary,10
-antartica,antarctic,hand_dictionary,9
 attatched,attached,hand_dictionary,9
-amongst,among st,hand_dictionary,9
 alchohol,alcohol,hand_dictionary,9
 aggresive,aggressive,hand_dictionary,8
 wich,which,hand_dictionary,8
 apperance,appearance,hand_dictionary,8
 ascociated,associated,hand_dictionary,8
-wheelers,wheeler,hand_dictionary,7
 wheather,weather,hand_dictionary,7
 wiht,with,hand_dictionary,7
 acheivement,achievement,hand_dictionary,6
@@ -28,7 +24,6 @@ achievment,achievement,hand_dictionary,6
 aluminium,aluminum,hand_dictionary,5
 accesories,accessories,hand_dictionary,5
 amoung,among,hand_dictionary,5
-alveoli,alveolar,hand_dictionary,5
 agression,aggression,hand_dictionary,5
 waiste,waist,hand_dictionary,5
 iam,i am,hand_dictionary,5
@@ -41,7 +36,6 @@ anothers,another,hand_dictionary,4
 attetion,attention,hand_dictionary,4
 animails,animals,hand_dictionary,4
 acheive,achieve,hand_dictionary,4
-waterless,water less,hand_dictionary,4
 woollen,woolen,hand_dictionary,4
 acedemics,academics,hand_dictionary,4
 artic,arctic,hand_dictionary,4
@@ -59,7 +53,6 @@ weding,wedding,hand_dictionary,3
 aircrafts,aircraft,hand_dictionary,3
 worng,wrong,hand_dictionary,3
 atheletes,athletes,hand_dictionary,3
-warcraft,war craft,hand_dictionary,3
 assult,assault,hand_dictionary,3
 alergic,allergic,hand_dictionary,3
 accessorie,accessories,hand_dictionary,3
@@ -71,13 +64,10 @@ adn,and,hand_dictionary,3
 waht,what,hand_dictionary,3
 earing,earring,hand_dictionary,3
 aphrodisiacal,aphrodisiac,hand_dictionary,3
-apologue,epologue,hand_dictionary,3
 wonderfull,wonderful,hand_dictionary,3
 acess,access,hand_dictionary,3
 anyother,any other,hand_dictionary,3
-reiteratively,iteratively,hand_dictionary,3
 werid,weird,hand_dictionary,3
-sustinence,abstinence,hand_dictionary,3
 aggrivated,aggravated,hand_dictionary,3
 wemon,women,hand_dictionary,3
 acheived,achieved,hand_dictionary,3
@@ -154,13 +144,11 @@ weirdy,weird,hand_dictionary,2
 alon,alone,hand_dictionary,2
 weekness,weakness,hand_dictionary,2
 pyrexia,anorexia,hand_dictionary,2
-ourself,yourself,hand_dictionary,2
 arcminute,arc minute,hand_dictionary,2
 womenhood,womanhood,hand_dictionary,2
 asthetic,aesthetic,hand_dictionary,2
 assfault,asphalt,hand_dictionary,2
 yummmy,yummy,hand_dictionary,2
-acsess,assess,hand_dictionary,2
 youself,yourself,hand_dictionary,2
 amimals,animals,hand_dictionary,2
 acomplish,accomplish,hand_dictionary,2
@@ -168,9 +156,6 @@ weiner,wiener,hand_dictionary,2
 alber,abler,hand_dictionary,2
 alcohal,alcohol,hand_dictionary,2
 wetsuit,wet suit,hand_dictionary,2
-abided,abides,hand_dictionary,2
-astrometry,astronomy,hand_dictionary,2
-anomic,anemic,hand_dictionary,2
 esthetics,aesthetics,hand_dictionary,2
 ablility,ability,hand_dictionary,2
 astroid,asteroid,hand_dictionary,2
@@ -178,11 +163,8 @@ wht,what,hand_dictionary,2
 aquaintences,acquaintances,hand_dictionary,2
 apendage,appendage,hand_dictionary,2
 wheats,wheat,hand_dictionary,2
-alveolus,alveolars,hand_dictionary,2
-boreal,arboreal,hand_dictionary,2
 wienerwurst,wiener wurst,hand_dictionary,2
 ateries,arteries,hand_dictionary,2
-hasidic,aphasic,hand_dictionary,2
 worshipping,worshiping,hand_dictionary,2
 ammendment,amendment,hand_dictionary,2
 ammenities,amenities,hand_dictionary,2
@@ -940,10 +922,16 @@ themself,themselves,hand_fix,16
 usally,usually,hand_fix,15
 peices,pieces,hand_fix,14
 jewelery,jewelry,hand_fix,14
+mamal,mammal,hand_fix,14
+shiney,shiny,hand_fix,13
 neice,niece,hand_fix,11
+tastey,tasty,hand_fix,11
+hardwork,hard work,hand_fix,10
 aquire,acquire,hand_fix,10
 outerspace,outer space,hand_fix,10
+antartica,antarctica,hand_fix,9
 defendent,defendant,hand_fix,9
+suess,seuss,hand_fix,8
 postion,position,hand_fix,8
 postive,positive,hand_fix,8
 hte,the,hand_fix,8
@@ -952,19 +940,26 @@ protecter,protector,hand_fix,7
 neverending,never ending,hand_fix,7
 aquired,acquired,hand_fix,7
 happend,happened,hand_fix,7
+shakey,shaky,hand_fix,7
 incharge,in charge,hand_fix,7
 negitive,negative,hand_fix,7
 vehical,vehicle,hand_fix,7
+doesn,does not,hand_fix,6
 eifel,eiffel,hand_fix,6
 tomatoe,tomato,hand_fix,6
 nightime,nighttime,hand_fix,6
+restraunt,restaurant,hand_fix,6
+creater,creator,hand_fix,6
 infront,in front,hand_fix,6
+medival,medieval,hand_fix,6
 afganistan,afghanistan,hand_fix,6
 homosapien,homo sapiens,hand_fix,6
 sherrif,sheriff,hand_fix,6
+tenticles,tentacles,hand_fix,6
 homerun,home run,hand_fix,6
 decribes,describes,hand_fix,6
 rootbeer,root beer,hand_fix,6
+dosent,does not,hand_fix,5
 eiffle,eiffel,hand_fix,5
 throwup,throw up,hand_fix,5
 peole,people,hand_fix,5
@@ -977,10 +972,13 @@ cotten,cotton,hand_fix,5
 firey,fiery,hand_fix,5
 excersise,exercise,hand_fix,5
 givin,giving,hand_fix,5
+convient,convenient,hand_fix,5
 grimey,grimy,hand_fix,5
 quanity,quantity,hand_fix,5
 hashbrowns,hash browns,hand_fix,5
+tast,taste,hand_fix,4
 peanutbutter,peanut butter,hand_fix,4
+humerous,humorous,hand_fix,4
 excersize,exercise,hand_fix,4
 noone,no one,hand_fix,4
 trailor,trailer,hand_fix,4
@@ -989,9 +987,11 @@ stickey,sticky,hand_fix,4
 fullstop,full stop,hand_fix,4
 forebearer,forebear,hand_fix,4
 cleff,clef,hand_fix,4
+spikey,spiky,hand_fix,4
 transporation,transportation,hand_fix,4
 homecooked,home cooked,hand_fix,4
 jewlry,jewelry,hand_fix,4
+restraunts,restaurants,hand_fix,4
 rollercoasters,roller coasters,hand_fix,4
 opinon,opinion,hand_fix,4
 counrty,country,hand_fix,4
@@ -1002,11 +1002,13 @@ yall,you all,hand_fix,3
 mixup,mix up,hand_fix,3
 personel,personnel,hand_fix,3
 jibberish,gibberish,hand_fix,3
+sholders,shoulders,hand_fix,3
 chemisty,chemistry,hand_fix,3
 cambell,campbell,hand_fix,3
 braclets,bracelets,hand_fix,3
 catious,cautious,hand_fix,3
 braclet,bracelet,hand_fix,3
+cigs,cigarettes,hand_fix,3
 checkmark,check mark,hand_fix,3
 dropoff,drop off,hand_fix,3
 monestary,monastery,hand_fix,3
@@ -1017,6 +1019,7 @@ skiddish,skittish,hand_fix,3
 boyscouts,boy scouts,hand_fix,3
 boyscout,boy scout,hand_fix,3
 lighning,lightning,hand_fix,3
+beggining,beginning,hand_fix,3
 pompei,pompeii,hand_fix,3
 diety,deity,hand_fix,3
 feirce,fierce,hand_fix,3
@@ -1032,9 +1035,11 @@ celcius,celsius,hand_fix,3
 preditor,predator,hand_fix,3
 mamals,mammals,hand_fix,3
 moring,morning,hand_fix,3
+sustinence,sustenance,hand_fix,3
 outter,outer,hand_fix,3
 powerpoints,powerpoint,hand_fix,3
 burried,buried,hand_fix,3
+grose,gross,hand_fix,3
 austrailia,australia,hand_fix,3
 videogames,video games,hand_fix,3
 soundwaves,sound waves,hand_fix,3
@@ -1052,6 +1057,7 @@ cresent,crescent,hand_fix,3
 carribean,caribbean,hand_fix,3
 injested,ingested,hand_fix,3
 carnivors,carnivores,hand_fix,3
+envokes,evokes,hand_fix,3
 buddism,buddhism,hand_fix,3
 humpday,hump day,hand_fix,3
 suger,sugar,hand_fix,3
@@ -1062,8 +1068,58 @@ migrane,migraine,hand_fix,3
 inground,in ground,hand_fix,3
 intangeable,intangible,hand_fix,3
 raquets,racquets,hand_fix,3
+socialable,sociable,hand_fix,2
+sking,skiing,hand_fix,2
+aren,are not,hand_fix,2
+seus,seuss,hand_fix,2
+kinko,kinkos,hand_fix,2
+stuckup,stuck up,hand_fix,2
+reffered,referred,hand_fix,2
+consumate,consummate,hand_fix,2
+labouf,labeouf,hand_fix,2
+sause,sauce,hand_fix,2
+patatoe,potato,hand_fix,2
+sneek,sneak,hand_fix,2
+pharoes,pharaohs,hand_fix,2
+gavil,gavel,hand_fix,2
+bandaids,bandaid,hand_fix,2
+nautious,nauseous,hand_fix,2
 wating,waiting,hand_fix,2
+refinded,refined,hand_fix,2
+ourself,ourselves,hand_fix,2
+acsess,access,hand_fix,2
+arnt,are not,hand_fix,2
+hourse,horse,hand_fix,2
+newyork,new york,hand_fix,2
+pharohs,pharaohs,hand_fix,2
+girate,gyrate,hand_fix,2
+boardgame,board game,hand_fix,2
+stucked,stuck,hand_fix,2
+evel,evil,hand_fix,2
+spector,specter,hand_fix,2
+achive,achieve,hand_fix,2
+firction,friction,hand_fix,2
+noisey,noisy,hand_fix,2
+inforced,enforced,hand_fix,2
+releives,relieves,hand_fix,2
+thristy,thirsty,hand_fix,2
+choeffer,chauffeur,hand_fix,2
+greating,greeting,hand_fix,2
+serated,serrated,hand_fix,2
+compasion,compassion,hand_fix,2
+manored,manor,hand_fix,2
+horder,hoarder,hand_fix,2
+simily,simile,hand_fix,2
+towlie,towelie,hand_fix,2
+calvery,cavalry,hand_fix,2
 matal,metal,hand_fix,1
+somethis,something,hand_fix,1
+fealthy,healthy,hand_fix,1
+statelite,satellite,hand_fix,1
+recognization,recognition,hand_fix,1
+cowardous,cowardly,hand_fix,1
+excersice,exercise,hand_fix,1
+solluable,soluble,hand_fix,1
 dont,do not,no_apostrophe,249
 cant,can not,no_apostrophe,217
 doesnt,does not,no_apostrophe,91
@@ -1092,76 +1148,52 @@ occurance,occurrence,old_suggestion_close,19
 camoflauge,camouflage,old_suggestion_close,12
 tounge,tongue,old_suggestion_close,11
 habbit,habit,old_suggestion_close,10
-poofy,poof,old_suggestion_close,9
 villian,villain,old_suggestion_close,9
-suess,sues,old_suggestion_close,8
 colorfull,colorful,old_suggestion_close,7
 excerise,exercise,old_suggestion_close,6
-floaties,floats,old_suggestion_close,6
 engery,energy,old_suggestion_close,5
 resturaunt,restaurant,old_suggestion_close,5
 jewerly,jewelry,old_suggestion_close,5
-pixar,pillar,old_suggestion_close,5
-tast,tacit,old_suggestion_close,4
 rythym,rhythm,old_suggestion_close,4
-humerous,humerus,old_suggestion_close,4
 heathly,healthy,old_suggestion_close,4
 lable,label,old_suggestion_close,4
-averb,aver,old_suggestion_close,4
 convienent,convenient,old_suggestion_close,4
 eatin,eating,old_suggestion_close,4
 reffering,referring,old_suggestion_close,3
-trippy,triply,old_suggestion_close,3
-sholders,solders,old_suggestion_close,3
-cigs,cogs,old_suggestion_close,3
-hissy,hussy,old_suggestion_close,3
 bizzare,bizarre,old_suggestion_close,3
 dissapointment,disappointment,old_suggestion_close,3
 rythmn,rhythm,old_suggestion_close,3
 dissapointing,disappointing,old_suggestion_close,3
 polution,pollution,old_suggestion_close,3
 greatfulness,gratefulness,old_suggestion_close,3
-pantene,patent,old_suggestion_close,3
 tempature,temperature,old_suggestion_close,3
 realllly,really,old_suggestion_close,3
-beggining,begging,old_suggestion_close,3
 neccesary,necessary,old_suggestion_close,3
 utencil,utensil,old_suggestion_close,3
-grose,gorse,old_suggestion_close,3
 mischevious,mischievous,old_suggestion_close,3
 governemt,government,old_suggestion_close,3
 suseptable,susceptible,old_suggestion_close,3
-envokes,evokes,old_suggestion_close,3
 uneccessary,unnecessary,old_suggestion_close,3
 tounges,tongues,old_suggestion_close,3
-rotel,rote,old_suggestion_close,2
-sking,sling,old_suggestion_close,2
 rebuttle,rebuttal,old_suggestion_close,2
-stuckup,stickup,old_suggestion_close,2
 innapropriate,inappropriate,old_suggestion_close,2
-reffered,refereed,old_suggestion_close,2
 darking,darling,old_suggestion_close,2
 embaressing,embarrassing,old_suggestion_close,2
 kiniving,kinking,old_suggestion_close,2
 prevelant,prevalent,old_suggestion_close,2
 exhillirating,exhilarating,old_suggestion_close,2
 manuver,maneuver,old_suggestion_close,2
-drea,drear,old_suggestion_close,2
 gitty,gutty,old_suggestion_close,2
 elemtary,elementary,old_suggestion_close,2
 somtheing,something,old_suggestion_close,2
 dinasour,dinosaur,old_suggestion_close,2
-sause,saute,old_suggestion_close,2
-patatoe,potatoes,old_suggestion_close,2
 orginazation,organization,old_suggestion_close,2
 shread,shred,old_suggestion_close,2
 restaraunt,restaurant,old_suggestion_close,2
 pance,pane,old_suggestion_close,2
 intestance,intestate,old_suggestion_close,2
 enviorment,environment,old_suggestion_close,2
-nautious,nautilus,old_suggestion_close,2
 indivual,individual,old_suggestion_close,2
-fonzi,font,old_suggestion_close,2
 porceline,porcelain,old_suggestion_close,2
 mooshy,mushy,old_suggestion_close,2
 slient,silent,old_suggestion_close,2
@@ -1172,39 +1204,28 @@ brocolli,broccoli,old_suggestion_close,2
 vechile,vehicle,old_suggestion_close,2
 sattelite,satellite,old_suggestion_close,2
 embarrising,embarrassing,old_suggestion_close,2
-newyork,network,old_suggestion_close,2
 necesarry,necessary,old_suggestion_close,2
 restuarnt,restaurant,old_suggestion_close,2
 competive,competitive,old_suggestion_close,2
 unnatractive,unattractive,old_suggestion_close,2
 convienence,convenience,old_suggestion_close,2
-girate,grate,old_suggestion_close,2
 pesamistic,pessimistic,old_suggestion_close,2
 occurances,occurrences,old_suggestion_close,2
-semper,simper,old_suggestion_close,2
-nostra,nostril,old_suggestion_close,2
 inhabitated,inhabited,old_suggestion_close,2
 minimalistic,minimalist,old_suggestion_close,2
 clausterphobic,claustrophobic,old_suggestion_close,2
 horizontle,horizontal,old_suggestion_close,2
-choeffer,chiefer,old_suggestion_close,2
-greating,grating,old_suggestion_close,2
 neccesity,necessity,old_suggestion_close,2
 expirement,experiment,old_suggestion_close,2
-tanish,tarnish,old_suggestion_close,2
 expierence,experience,old_suggestion_close,2
 fufills,fulfills,old_suggestion_close,2
-blimpie,blimp,old_suggestion_close,2
 greatful,grateful,old_suggestion_close,2
 bridesmades,bridesmaids,old_suggestion_close,2
 inexpierenced,inexperienced,old_suggestion_close,2
 mitzfa,mitzvah,old_suggestion_close,2
-pujols,pulls,old_suggestion_close,2
 maintinence,maintenance,old_suggestion_close,2
-horder,horde,old_suggestion_close,2
 jewlrey,jewelry,old_suggestion_close,2
 begginer,beginner,old_suggestion_close,2
-pemdas,pedals,old_suggestion_close,2
 nutrious,nutritious,old_suggestion_close,2
 displine,discipline,old_suggestion_close,1
 oveures,oeuvres,old_suggestion_close,1
@@ -1639,7 +1660,6 @@ morgatges,mortgages,old_suggestion_close,1
 desposite,deposit,old_suggestion_close,1
 drunkness,drunkenness,old_suggestion_close,1
 responbility,responsibility,old_suggestion_close,1
-fealthy,fealty,old_suggestion_close,1
 sovenior,senior,old_suggestion_close,1
 surviour,survivor,old_suggestion_close,1
 soomthies,smoothies,old_suggestion_close,1
@@ -1655,25 +1675,18 @@ repecutions,repetitions,old_suggestion_close,1
 sonographer,stenographer,old_suggestion_close,1
 disting,dusting,old_suggestion_close,1
 bulliten,bulletin,old_suggestion_close,1
-recognization,recolonization,old_suggestion_close,1
 humaties,humanities,old_suggestion_close,1
 bliillions,billions,old_suggestion_close,1
-cowardous,cowards,old_suggestion_close,1
 relatiodhip,relationship,old_suggestion_close,1
 disscusions,discussions,old_suggestion_close,1
 rebelous,rebellious,old_suggestion_close,1
 mediphorical,metaphorical,old_suggestion_close,1
 kenetic,kinetic,old_suggestion_close,1
 nessesary,necessary,old_suggestion_close,1
-beavis,beavers,old_suggestion_close,1
 tommorow,tomorrow,old_suggestion_close,1
-mcfly,mayfly,old_suggestion_close,1
 tellars,tellers,old_suggestion_close,1
 sliperry,slippery,old_suggestion_close,1
 authoritive,authoritative,old_suggestion_close,1
-excersice,excessive,old_suggestion_close,1
-solluable,solvable,old_suggestion_close,1
-claussen,clause,old_suggestion_close,1
 saulty,salty,old_suggestion_close,1
 vinager,vinegar,old_suggestion_close,1
 peribus,paribus,old_suggestion_close,1
@@ -1891,10 +1904,7 @@ parralell,parallel,old_suggestion_close,1
 dieseaes,diesels,old_suggestion_close,1
 queeeen,queen,old_suggestion_close,1
 usaa,usa,old_suggestion_close,1
-stackable,stack able,split_word,2
-socialable,social able,split_word,2
 everytime,every time,split_word,2
-livestrong,live strong,split_word,2
 lifejacket,life jacket,split_word,2
 foodcourt,food court,split_word,2
 pricetags,price tags,split_word,2
@@ -1902,10 +1912,8 @@ snowdays,snow days,split_word,2
 heartrate,heart rate,split_word,2
 starwars,star wars,split_word,2
 namebrand,name brand,split_word,2
-bandaids,band aids,split_word,2
 gameshows,game shows,split_word,2
 rockstar,rock star,split_word,2
-buttersworth,butters worth,split_word,2
 backcountry,back country,split_word,2
 betterhalf,better half,split_word,2
 homosapiens,homo sapiens,split_word,2
@@ -1914,11 +1922,7 @@ softdrinks,soft drinks,split_word,2
 fastfood,fast food,split_word,2
 upperfloor,upper floor,split_word,2
 notecards,note cards,split_word,2
-minecraft,mine craft,split_word,2
-statesperson,states person,split_word,2
 pressperson,press person,split_word,2
-squarepants,square pants,split_word,2
-swingline,swing line,split_word,2
 somekind,some kind,split_word,2
 rainboots,rain boots,split_word,2
 haircolor,hair color,split_word,2
@@ -1926,9 +1930,7 @@ junkfood,junk food,split_word,2
 nervewracking,nerve wracking,split_word,2
 homeruns,home runs,split_word,2
 passcode,pass code,split_word,2
-lifeguarding,life guarding,split_word,2
 slampiece,slam piece,split_word,2
-sparknotes,spark notes,split_word,2
 lifechanging,life changing,split_word,2
 flatscreen,flat screen,split_word,2
 sugarfree,sugar free,split_word,2
@@ -2101,18 +2103,11 @@ themepark,theme park,split_word,1
 gametime,game time,split_word,1
 somepeople,some people,split_word,1
 prideland,pride land,split_word,1
-lindenwood,linden wood,split_word,1
-maintenant,main tenant,split_word,1
 placewhere,place where,split_word,1
-condomints,condo mints,split_word,1
 foodchain,food chain,split_word,1
-shocktarts,shock tarts,split_word,1
 sciencetests,science tests,split_word,1
-somethis,some this,split_word,1
 timeframe,time frame,split_word,1
 banktellers,bank tellers,split_word,1
-statelite,stat elite,split_word,1
-sugarland,sugar land,split_word,1
 jailtime,jail time,split_word,1
 rainclouds,rain clouds,split_word,1
 hellocopters,hello copters,split_word,1
@@ -2201,24 +2196,20 @@ poeple,people,symspell_confirmed,24
 somone,someone,symspell_confirmed,20
 mathmatical,mathematical,symspell_confirmed,20
 possesion,possession,symspell_confirmed,20
-elmers,elders,symspell_confirmed,19
 knowledgable,knowledgeable,symspell_confirmed,18
 somehting,something,symspell_confirmed,18
 recieved,received,symspell_confirmed,18
-mcdonalds,mcdonald,symspell_confirmed,17
 someting,something,symspell_confirmed,17
 excitment,excitement,symspell_confirmed,16
 occurence,occurrence,symspell_confirmed,16
 excercise,exercise,symspell_confirmed,16
 unpleasent,unpleasant,symspell_confirmed,16
 resturant,restaurant,symspell_confirmed,16
-mamal,mama,symspell_confirmed,14
 thier,their,symspell_confirmed,13
 childrens,children,symspell_confirmed,13
 oppisite,opposite,symspell_confirmed,13
 oposite,opposite,symspell_confirmed,13
 seperated,separated,symspell_confirmed,13
-shiney,shine,symspell_confirmed,13
 concious,conscious,symspell_confirmed,12
 religous,religious,symspell_confirmed,12
 saddness,sadness,symspell_confirmed,12
@@ -2230,7 +2221,6 @@ goverment,government,symspell_confirmed,11
 happyness,happiness,symspell_confirmed,11
 mathmatics,mathematics,symspell_confirmed,11
 enviroment,environment,symspell_confirmed,11
-tastey,taste,symspell_confirmed,11
 similiar,similar,symspell_confirmed,11
 certian,certain,symspell_confirmed,11
 somenthing,something,symspell_confirmed,11
@@ -2241,7 +2231,6 @@ gaurds,guards,symspell_confirmed,10
 caffine,caffeine,symspell_confirmed,10
 saftey,safety,symspell_confirmed,10
 marshmellows,marshmallows,symspell_confirmed,10
-hardwork,handwork,symspell_confirmed,10
 taht,that,symspell_confirmed,10
 diffrent,different,symspell_confirmed,10
 noticable,noticeable,symspell_confirmed,9
@@ -2279,7 +2268,6 @@ usefull,useful,symspell_confirmed,7
 pepporoni,pepperoni,symspell_confirmed,7
 rythm,rhythm,symspell_confirmed,7
 awsome,awesome,symspell_confirmed,7
-shakey,shake,symspell_confirmed,7
 exspensive,expensive,symspell_confirmed,7
 bussiness,business,symspell_confirmed,7
 mammel,mammal,symspell_confirmed,7
@@ -2294,8 +2282,6 @@ percieved,perceived,symspell_confirmed,7
 discribe,describe,symspell_confirmed,7
 possesive,possessive,symspell_confirmed,7
 dalmations,dalmatians,symspell_confirmed,6
-doesn,does,symspell_confirmed,6
-swiffer,sniffer,symspell_confirmed,6
 metalic,metallic,symspell_confirmed,6
 conciousness,consciousness,symspell_confirmed,6
 bulidings,buildings,symspell_confirmed,6
@@ -2306,8 +2292,6 @@ embarrasing,embarrassing,symspell_confirmed,6
 vegtables,vegetables,symspell_confirmed,6
 genious,genius,symspell_confirmed,6
 undesireable,undesirable,symspell_confirmed,6
-restraunt,restraint,symspell_confirmed,6
-creater,create,symspell_confirmed,6
 foriegn,foreign,symspell_confirmed,6
 suceed,succeed,symspell_confirmed,6
 oppurtunity,opportunity,symspell_confirmed,6
@@ -2315,14 +2299,12 @@ somethin,something,symspell_confirmed,6
 desireable,desirable,symspell_confirmed,6
 distructive,destructive,symspell_confirmed,6
 oppostie,opposite,symspell_confirmed,6
-medival,medical,symspell_confirmed,6
 dynomite,dynamite,symspell_confirmed,6
 insturment,instrument,symspell_confirmed,6
 consistant,consistent,symspell_confirmed,6
 liqour,liquor,symspell_confirmed,6
 differnet,different,symspell_confirmed,6
 descibes,describes,symspell_confirmed,6
-tenticles,testicles,symspell_confirmed,6
 beleive,believe,symspell_confirmed,6
 ingrediant,ingredient,symspell_confirmed,6
 embarassment,embarrassment,symspell_confirmed,6
@@ -2330,7 +2312,6 @@ emptyness,emptiness,symspell_confirmed,6
 caffiene,caffeine,symspell_confirmed,6
 vegtable,vegetable,symspell_confirmed,5
 cusions,cushions,symspell_confirmed,5
-dosent,docent,symspell_confirmed,5
 explination,explanation,symspell_confirmed,5
 knowlege,knowledge,symspell_confirmed,5
 preformance,performance,symspell_confirmed,5
@@ -2339,7 +2320,6 @@ fron,from,symspell_confirmed,5
 spontanious,spontaneous,symspell_confirmed,5
 coniving,conniving,symspell_confirmed,5
 committment,commitment,symspell_confirmed,5
-speedo,speed,symspell_confirmed,5
 existant,existent,symspell_confirmed,5
 vaccum,vacuum,symspell_confirmed,5
 strenght,strength,symspell_confirmed,5
@@ -2362,9 +2342,7 @@ sapien,sapiens,symspell_confirmed,5
 oppsite,opposite,symspell_confirmed,5
 discription,description,symspell_confirmed,5
 sucess,success,symspell_confirmed,5
-flowy,flow,symspell_confirmed,5
 distruction,destruction,symspell_confirmed,5
-convient,convent,symspell_confirmed,5
 diferent,different,symspell_confirmed,5
 electricty,electricity,symspell_confirmed,5
 quanitity,quantity,symspell_confirmed,5
@@ -2412,7 +2390,6 @@ responsibilty,responsibility,symspell_confirmed,4
 ususally,usually,symspell_confirmed,4
 servent,servant,symspell_confirmed,4
 transportaion,transportation,symspell_confirmed,4
-spikey,spike,symspell_confirmed,4
 nurishment,nourishment,symspell_confirmed,4
 kernal,kernel,symspell_confirmed,4
 lenghts,lengths,symspell_confirmed,4
@@ -2424,7 +2401,6 @@ saxaphone,saxophone,symspell_confirmed,4
 oragami,origami,symspell_confirmed,4
 bannana,banana,symspell_confirmed,4
 percieve,perceive,symspell_confirmed,4
-restraunts,restraints,symspell_confirmed,4
 disfunctional,dysfunctional,symspell_confirmed,4
 icey,ice,symspell_confirmed,4
 developement,development,symspell_confirmed,4
@@ -6049,52 +6025,32 @@ pasion,passion,symspell_confirmed,1
 errends,errands,symspell_confirmed,1
 similac,similar,symspell_confirmed,1
 fragil,fragile,symspell_rare,2
-kanye,kane,symspell_rare,2
 aways,always,symspell_rare,2
-aren,are,symspell_rare,2
-seus,sets,symspell_rare,2
-kinko,kinky,symspell_rare,2
 garmets,garments,symspell_rare,2
 grammys,grammy,symspell_rare,2
 jamaca,jamaica,symspell_rare,2
 verry,very,symspell_rare,2
 saling,saying,symspell_rare,2
 straightner,straightener,symspell_rare,2
-consumate,consulate,symspell_rare,2
-labouf,labour,symspell_rare,2
-deja,dena,symspell_rare,2
 orgin,origin,symspell_rare,2
-halen,haven,symspell_rare,2
-denice,device,symspell_rare,2
-bons,boys,symspell_rare,2
-gurth,garth,symspell_rare,2
 cigaretts,cigarette,symspell_rare,2
-sneek,seek,symspell_rare,2
 italiam,italian,symspell_rare,2
 jurasic,jurassic,symspell_rare,2
 asting,asking,symspell_rare,2
 postions,positions,symspell_rare,2
-pharoes,pharos,symspell_rare,2
 coud,could,symspell_rare,2
 suprising,surprising,symspell_rare,2
-gavil,gail,symspell_rare,2
 devots,devote,symspell_rare,2
 usuall,usually,symspell_rare,2
 shotting,shooting,symspell_rare,2
 chaning,changing,symspell_rare,2
 nutts,nuts,symspell_rare,2
 hudge,huge,symspell_rare,2
-duis,dis,symspell_rare,2
 fullfilment,fulfilment,symspell_rare,2
-bieber,bibber,symspell_rare,2
-strappy,scrappy,symspell_rare,2
 priate,private,symspell_rare,2
-urkel,uriel,symspell_rare,2
 plactic,plastic,symspell_rare,2
-boing,being,symspell_rare,2
 assed,asked,symspell_rare,2
 peson,person,symspell_rare,2
-refinded,refined,symspell_rare,2
 balck,back,symspell_rare,2
 giraffs,giraffe,symspell_rare,2
 caucasion,caucasian,symspell_rare,2
@@ -6121,10 +6077,7 @@ groos,gross,symspell_rare,2
 startch,starch,symspell_rare,2
 volkswagon,volkswagen,symspell_rare,2
 michale,michael,symspell_rare,2
-arnt,art,symspell_rare,2
-hourse,house,symspell_rare,2
 tailers,trailers,symspell_rare,2
-pharohs,pharos,symspell_rare,2
 pressence,presence,symspell_rare,2
 posess,possess,symspell_rare,2
 obide,oxide,symspell_rare,2
@@ -6138,15 +6091,11 @@ explantion,explanation,symspell_rare,2
 mesurement,measurement,symspell_rare,2
 sherriff,sheriff,symspell_rare,2
 freind,friend,symspell_rare,2
-backstab,backstay,symspell_rare,2
 lait,last,symspell_rare,2
 budwiser,budweiser,symspell_rare,2
 alcholic,alcoholic,symspell_rare,2
-boardgame,boardgames,symspell_rare,2
 chemestry,chemistry,symspell_rare,2
-stucked,sucked,symspell_rare,2
 fsst,fast,symspell_rare,2
-evel,even,symspell_rare,2
 raod,road,symspell_rare,2
 recipies,recipes,symspell_rare,2
 convice,convince,symspell_rare,2
@@ -6155,15 +6104,11 @@ holloween,halloween,symspell_rare,2
 succed,succeed,symspell_rare,2
 primative,primitive,symspell_rare,2
 doppleganger,doppelganger,symspell_rare,2
-spector,sector,symspell_rare,2
 bendible,bendable,symspell_rare,2
 gormet,gourmet,symspell_rare,2
-achive,archive,symspell_rare,2
 unyeilding,unyielding,symspell_rare,2
-firction,fiction,symspell_rare,2
 remembrence,remembrance,symspell_rare,2
 dring,during,symspell_rare,2
-noisey,noise,symspell_rare,2
 questionaire,questionnaire,symspell_rare,2
 surgury,surgery,symspell_rare,2
 useage,usage,symspell_rare,2
@@ -6172,14 +6117,10 @@ ther,the,symspell_rare,2
 masqurade,masquerade,symspell_rare,2
 funtion,function,symspell_rare,2
 rememberance,remembrance,symspell_rare,2
-mentos,mentor,symspell_rare,2
 assoicated,associated,symspell_rare,2
-inforced,informed,symspell_rare,2
 inffluence,influence,symspell_rare,2
 easlily,easily,symspell_rare,2
-releives,receives,symspell_rare,2
 unapealing,unappealing,symspell_rare,2
-thristy,thrifty,symspell_rare,2
 liscense,license,symspell_rare,2
 vatacan,vatican,symspell_rare,2
 fabic,fabric,symspell_rare,2
@@ -6190,43 +6131,30 @@ bottons,buttons,symspell_rare,2
 abdoment,abdomen,symspell_rare,2
 cellmates,cellmate,symspell_rare,2
 beatle,beatles,symspell_rare,2
-crowe,crown,symspell_rare,2
 heavey,heavy,symspell_rare,2
 velcrow,velcro,symspell_rare,2
-sona,sony,symspell_rare,2
-tyra,tara,symspell_rare,2
-daytona,dayton,symspell_rare,2
 halp,help,symspell_rare,2
-serated,seated,symspell_rare,2
 celing,ceiling,symspell_rare,2
 soild,sold,symspell_rare,2
 buddah,buddha,symspell_rare,2
 spoild,spoil,symspell_rare,2
 prickley,prickly,symspell_rare,2
 blurr,blur,symspell_rare,2
-pepe,pipe,symspell_rare,2
 fuzy,fuzzy,symspell_rare,2
-compasion,companion,symspell_rare,2
 navey,navy,symspell_rare,2
 usefullness,usefulness,symspell_rare,2
 uppon,upon,symspell_rare,2
 touge,tough,symspell_rare,2
-manored,manfred,symspell_rare,2
-daves,dates,symspell_rare,2
 malcom,malcolm,symspell_rare,2
 occure,occur,symspell_rare,2
 eles,else,symspell_rare,2
-simily,simply,symspell_rare,2
-gusta,gupta,symspell_rare,2
 hawii,hawaii,symspell_rare,2
 gulla,gull,symspell_rare,2
 visable,visible,symspell_rare,2
 verbals,verbal,symspell_rare,2
 differe,differ,symspell_rare,2
 solf,self,symspell_rare,2
-towlie,townie,symspell_rare,2
 responed,respond,symspell_rare,2
-calvery,calvert,symspell_rare,2
 exema,enema,symspell_rare,1
 paneed,panned,symspell_rare,1
 hors,hours,symspell_rare,1
