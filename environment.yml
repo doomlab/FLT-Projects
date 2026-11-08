@@ -12,5 +12,6 @@ dependencies:
   - pip:
       - spacy
       - symspellpy
+      - editdistpy
       - nltk
 # after creating: python -m spacy download en_core_web_sm
