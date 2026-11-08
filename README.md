@@ -42,6 +42,7 @@ Run in order with the `flt-nlp` environment (`environment.yml`; then `python -m 
 | `06_spell_out_numbers.ipynb` | `06_numbers.csv` | "4" to "four" |
 | `07_stop_words.ipynb` | `07_stopwords.csv` | Tidies odd tokens, removes stop and filler words and the cue word. Cues that are themselves stop words (`on`, `above`, ...) keep theirs (`07_exempt_cues.csv`) |
 | `08_split_words.ipynb` | `08_words.csv` | One row per person, cue and word, with `position`; repeated words in an answer kept once |
+| `09_cue_feature_counts.ipynb` | `09_cue_feature_counts.csv` | Final summary: for every cue and word, how many people listed it (`count`, `prop_final`, `prop_answered`, `mean_position`); nothing is filtered out |
 
 `row_id` (the row in `all_data.csv`) follows every answer through all steps.
 
