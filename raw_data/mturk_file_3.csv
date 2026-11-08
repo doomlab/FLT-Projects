@@ -474,26 +474,32 @@ ab6d427bc7,Quack,"Quack: A person who dishonestly claims to have special knowled
 8298f6c5c0,Twelve,a number after 11
 8298f6c5c0,Subject,what you will be talking about
 8298f6c5c0,Knight,a person that wears armor
+8298f6c5c0,None,zero or empty
 1b4b466956,Alcohol,hard drink
 1b4b466956,Twelve,number
 1b4b466956,Subject,study
 1b4b466956,Knight,king
+1b4b466956,None,nothing
 cc0fd23c05,Alcohol,"alcoholic beverage, alcohol, intoxicant, alcoholic drink, inebriant"
 cc0fd23c05,Twelve,"twelve, dozen , twelvemonth  twelve noon  twelve-tone"
 cc0fd23c05,Subject,"national, paper, content, topic, radical, composition, subject, issue, motif, discipline, base, case, subject area, musical theme, matter, theme, root word, depicted object, study, stem, guinea pig, report, melodic theme, idea, subject field, root, field"
 cc0fd23c05,Knight,"cavalry, knight, buck, sawbuck, gymnastic horse, sawhorse, horse, horse cavalry"
+cc0fd23c05,None,nonelective  non-engagement  nonenterprising
 eb09612a37,Alcohol,MIXED IN DRINKS
 eb09612a37,Twelve,NUMERIC NUMBER
 eb09612a37,Subject,TAMIL
 eb09612a37,Knight,TIME
+eb09612a37,None,EMPTY
 9fbbce61dd,Alcohol,"liquid,  drug,  medicine, used  to  intoxicate,"
 9fbbce61dd,Twelve,"number, dozen,  count,  1 unit,"
 9fbbce61dd,Subject,"lessons,  schedule of  time  can  be  change,  branch  of  types  of  lesson, matter"
 9fbbce61dd,Knight,"chess , warrior,  soldier , army man, military personnel"
+9fbbce61dd,None,"nothing,  no one ,  nil, no way"
 99822f0efe,Alcohol,"Drink, drunk, accidents, age 21"
 99822f0efe,Twelve,"After 11 before 13, midnight, 24:00, preteen, lunch, noon"
 99822f0efe,Subject,"Title, study, person"
 99822f0efe,Knight,"Armour, horse, soldier, sword"
+99822f0efe,None,"Not any, zero, nada, zilch, nothing, broke, empty"
 b51378192c,Alcohol,"Alcohol:an alcohol is an organic compound in which the hydroxy functional group (-OH) is bound to a carbon atom. In particular, this carbon center should be saturated, having single bonds to three other atoms."
 b51378192c,Twelve,"Twelve:The Twelve (disambiguation)
 Quorum of the Twelve, a priesthood body established by Joseph Smith, Jr. as part of the Latter Day Saint movement
@@ -502,38 +508,48 @@ b51378192c,Subject,"Subject:A subject is an individual subjected to the rule by 
 subjects in medieval feudalism, see Commoners
 subjects in modern constitutional monarchies, such as the United Kingdom, see British subject"
 b51378192c,Knight,"Knight:A knight was a member of a class of lower nobility in the High Middle Ages. By the Late Middle Ages, the rank had become associated with the ideals of chivalry, a code of conduct for the perfect courtly Christian warrior. Since the Early Modern period, the title of ""knight"" is purely honorific, usually bestowed by a monarch, as in the British honours system."
+b51378192c,None,"None: None redirects here. For other uses, see None (disambiguation).
+Nothing is no thing, denoting the absence of something. Nothing is a pronoun associated with nothingness, is also an adjective, and an object as a concept in the Frege-Church ontology."
 af2803583c,Alcohol,Pure spirit of wine
 af2803583c,Twelve,its the number comes after eleven(11).
 af2803583c,Subject,"Being dependent or conditional upon something, as in subject to shareholder approval."
 af2803583c,Knight,servant to military follower of a king or other superior
+af2803583c,None,No one
 1c7639828f,Alcohol,"a drink, colorless liquid, obtained by fermentation of sugars and starches"
 1c7639828f,Twelve,"ten plus two, after eleven, a number, symbol is 12"
 1c7639828f,Subject,"a branch, being in a  position, a basic matter of thought"
 1c7639828f,Knight,"a mounted soldier serving under a feudal superior in the Middle Ages, a position"
+1c7639828f,None,"no one, not any , nothing"
 153fbbab45,Alcohol,I could smell the alcohol on his breath.
 153fbbab45,Twelve,a twelve-seater minibus
 153fbbab45,Subject,Our subject for discussion is homelessness.
 153fbbab45,Knight,knights in black armour
+153fbbab45,None,She went to the shop to get some oranges but they had none.
 ab6d427bc7,Alcohol,"Alcohol: A colorless volatile flammable liquid, C2H5OH, that is the intoxicating constituent of wine, beer, spirits, and other drinks"
 ab6d427bc7,Twelve,Twelve: Equivalent to the product of three and four; two more than ten; 12.
 ab6d427bc7,Subject,"Subject: A person or thing that is being discussed, described, or dealt with."
 ab6d427bc7,Knight,Knight: A man who served his sovereign or lord as a mounted soldier in armor.
+ab6d427bc7,None,"None: Not any: ""none of you want to work""."
 6e487b9cb7,Alcohol,beverage is a drink containing ethanol.
 6e487b9cb7,Twelve,Is a number .
 6e487b9cb7,Subject,Placed or situated under.
 6e487b9cb7,Knight,military follower of a king .
+6e487b9cb7,None,Nothing.
 2b15616b23,Alcohol,a kind of drug
 2b15616b23,Twelve,a number
 2b15616b23,Subject,topic
 2b15616b23,Knight,a soldier
+2b15616b23,None,nothing
 d6fbaf0859,Alcohol,can be isopropyl for disenfectant
 d6fbaf0859,Twelve,"a dozen, ten plus 2"
 d6fbaf0859,Subject,"interest, focus of attention"
 d6fbaf0859,Knight,member of the royal service
+d6fbaf0859,None,nothing or zero
 e97ff5f954,Alcohol,A liquid that stabilizes an acid./ An addicting substance.
 e97ff5f954,Twelve,A number./A dozen
 e97ff5f954,Subject,Theme/Topic/Person
 e97ff5f954,Knight,A medieval English warrior.
+e97ff5f954,None,Absent/Nil/Empty/without
 075bbbca89,Alcohol,"1	a colorless volatile flammable liquid which is the intoxicating constituent of wine, beer, spirits, etc. Also called ethanol, ethyl alcohol. [C2H5OH.] 
 2	drink containing alcohol. 
 3	Chemistry any organic compound containing a hydroxide group -OH: propyl alcohol."
@@ -544,125 +560,156 @@ e97ff5f954,Knight,A medieval English warrior.
 2	a branch of knowledge studied or taught in a school, college, or university. 
 3	Grammar a noun or noun phrase about which the rest of the clause is predicated."
 075bbbca89,Knight,1	(in the Middle Ages) a man raised to honorable military rank after service as a page and squire. (also knight of the shire) historical a gentleman representing a shire or county in Parliament. literary a man devoted to a cause or the service of a woman.
+075bbbca89,None,"pronoun not any. no person; no one. 
+	adverb (none the) [with comparative] by no amount; not at all."
 86dc19ebbd,Alcohol,"chemical, drug"
 86dc19ebbd,Twelve,"2 digit number, december"
 86dc19ebbd,Subject,"topic, theme, focus"
 86dc19ebbd,Knight,a young man admitted tothe privelege of bearing arms
+86dc19ebbd,None,"nothing, not a bit, not a hint"
 96824489d6,Alcohol,"liquor,bad for health,drunkard,beer, giddiness, unconscious,"
 96824489d6,Twelve,"number,month,one ten two ones,two multiply by six"
 96824489d6,Subject,"maths, English,science,major,study,particular topic,language,grammar"
 96824489d6,Knight,"chess,game,brave"
+96824489d6,None,"nothing,no answer,vacant"
 95e2618c28,Alcohol,"A colorless volatile flammable liquid, C2H5OH, synthesized or obtained by fermentation of sugars and starches and widely used, either pure or denatured, as a solvent and in drugs, cleaning solutions"
 95e2618c28,Twelve,The cardinal number equal to the sum of 11 + 1
 95e2618c28,Subject,Being in a position or in circumstances that place one under the power or authority of another or others
 95e2618c28,Knight,A medieval tenant giving military service as a mounted man-at-arms to a feudal landholder.
+95e2618c28,None,No one; not one; nobody
 186db71701,Alcohol,"alcohol is a liquor that contains ethanol and has a potential to intoxicate drinkers and it can be burned as fuel.spirits,methanol,wood alcohol,whiskey,grain alcohol"
 186db71701,Twelve,"totaling two more than ten,the cardinal number between eleven and twelve.any group of twelve person or things know as dozen,twelve fold,uncial,duodecimal"
 186db71701,Subject,"subject describes someone or something that is under the authority of another or others,like us history,under rule,dependent,a title,caption,legend,controlled,directed"
 186db71701,Knight,"in the middle ages,gentleman,champion ,bachelor,paladin,Templar,cavalier"
+186db71701,None,",no person,not anyone,not a soul,no thing,not anything,no person or things,not any,not part,"
 ab266a6b3c,Alcohol,"is liquid, a drink, intoxication related drug, used in bear"
 ab266a6b3c,Twelve,"a digit, used in counting, a dozen,"
 ab266a6b3c,Subject,"topic, related to some specific topic, a heading"
 ab266a6b3c,Knight,"king, ruler, old monarchs"
+ab266a6b3c,None,"no value, empty, without containing anything,"
 6b2ac0ef88,Alcohol,liquor
 6b2ac0ef88,Twelve,ten and two
 6b2ac0ef88,Subject,theme
 6b2ac0ef88,Knight,servant
+6b2ac0ef88,None,nothing
 ebc4f95447,Alcohol,drug
 ebc4f95447,Twelve,number
 ebc4f95447,Subject,toppic
 ebc4f95447,Knight,knightly
+ebc4f95447,None,empty
 dc1e49be30,Alcohol,"a colourless volatile flammable liquid which is the intoxicating constituent of wine, beer, spirits , and other drinks, and is also used as an industrial solvent and as fuel:it is an offence to drive if you have more than 80 mg of alcohol per 100 ml of bloodthe use of petrol containing alcohol"
 dc1e49be30,Twelve,equivalent to the product of three and four; two more than ten; 12…
 dc1e49be30,Subject,"a person or thing that is being discussed, described, or dealt with:I’ve said all there is to be said on the subjecthe’s the subject of a major new biography
 a person or circumstance giving rise to a specified feeling, response, or action:the incident was the subject of international condemnation"
 dc1e49be30,Knight,a man who served his sovereign or lord as a mounted soldier in armour.
+dc1e49be30,None,not any
 2622f61522,Alcohol,"alcoholic beverage, alcoholic drink, inebriant, intoxicant"
 2622f61522,Twelve,"12, dozen, xii"
 2622f61522,Subject,"content, depicted object, issue, matter, topic, bailiwick, discipline, field, field of study, study, subject area, subject field, theme, national, case, guinea pig, submit, subjugate, dependent, capable, open"
 2622f61522,Knight,"horse, dub"
+2622f61522,None,"o, no one, nothing"
 33cd6db15a,Alcohol,"Drink,Brew,Moonshine,Devils pee,Intoxicant,Malt whiskey,Liquor,Toddy,Any brewed and distilled drink."
 33cd6db15a,Twelve,"Dozen,Depict the old Israel tribes,Six multiplied by two,Two groups of six each,A full set of plates or glass,A number measure."
 33cd6db15a,Subject,"Content,Topic,Main matter,Idea involved,People under a monarchs rule,Under the control,Be under the rule,Acknowledge power."
 33cd6db15a,Knight,"Mythical valiant soldiers, King Arthur's Valiant Men,Honor bestowed by the British Monarch for meritorious services."
+33cd6db15a,None,"Nil,Void,Zero,Nothing, No balance,Nobody,Empty,Absent,Vacant."
 bba2068b29,Alcohol,aliquor or brew containing alcohol as the active agent
 bba2068b29,Twelve,the cardinal number that is the sum of eleven and one
 bba2068b29,Subject,a branch of knowledge
 bba2068b29,Knight,originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit
+bba2068b29,None,a canonical hour that is the ninth hour of the day counting from sunrise
 c05417ff31,Alcohol,"is a chemical, a medicine, a drink, is potable"
 c05417ff31,Twelve,"is a number, is one more than eleven, is one less than thirteen, a dozen, six times two"
 c05417ff31,Subject,"a thing being talked about, a topic that is discussed, a branch of knowledge"
 c05417ff31,Knight,"a soldier on horse, one has been granted a knighthood"
+c05417ff31,None,"nothing, not even one, nil, empty"
 c0ab885973,Alcohol,A Colorless flammable liquid
 c0ab885973,Twelve,It is a number
 c0ab885973,Subject,It is a matter of conversation
 c0ab885973,Knight,Servant
+c0ab885973,None,Nothing
 7b5feaf707,Alcohol,A colorless flammable liquid
 7b5feaf707,Twelve,A number
 7b5feaf707,Subject,A course of a study
 7b5feaf707,Knight,Fighting men
+7b5feaf707,None,Nothing
 da957b79fd,Alcohol,"flammable liquid found in many forms.  can be used as fuel, disinfectant, or in beverages.  when consumed it causes intoxication"
 da957b79fd,Twelve,the number between 11 and 13.  also known as a dozen.
 da957b79fd,Subject,"the topic of a discussion, or the specialized category of a class or book"
 da957b79fd,Knight,"the title of a soldier during medieval times.  characterized with metallic suits of armor, large swords, and often riding horses."
+da957b79fd,None,"zero, zilch, the opposite of some"
 7c3ee16479,Alcohol,"a colourless liquid which makes you drunk, which is also used as a solvent"
 7c3ee16479,Twelve,the number 12
 7c3ee16479,Subject,the thing which is being discussed
 7c3ee16479,Knight,a man given a rank of honour by british king for some special achievements
+7c3ee16479,None,not any
 3c84e2112e,Alcohol,"a chemichal, hydrocarbon, have oh group, a beverage, bad , drunkyards use alcohl in acess......"
 3c84e2112e,Twelve,"one dozen, one plus eleven, -a twelve man team,one dozen have twelve,unit of nu mber"
 3c84e2112e,Subject,"a topic,and issue,matter of discussion,relation with field,"
 3c84e2112e,Knight,"a warrior knightrider,brave man, storng person, have guts, war fighter"
+3c84e2112e,None,"nil, nothing, zero, negligible, neglectable,"
 eaecffb8af,Alcohol,"drinks,bottle"
 eaecffb8af,Twelve,"number,after eleven,before thirteen"
 eaecffb8af,Subject,"concept,meaning,content"
 eaecffb8af,Knight,"fight,duty"
+eaecffb8af,None,"nothing,value less,void"
 6c04a7f4c1,Alcohol,it is the drug
 6c04a7f4c1,Twelve,it is the numerical number 12
 6c04a7f4c1,Subject,in detail about anything
 6c04a7f4c1,Knight,tenant giving military service
+6c04a7f4c1,None,nothing to say or no is left
 ed12f022a1,Alcohol,A chemical substance. Can be used for fuel. Drinking alcohol is used socially or medicinally by some people to enter an altered state of mind. A depressant
 ed12f022a1,Twelve,a number. comes after the number 11 and before the number 13. more than unit amounts under it and less than those above it
 ed12f022a1,Subject,the topic of something under scrutiny or discussion.
 ed12f022a1,Knight,a warrior who fights for a king. usually medieval times come to mind with heavy metal armor large heavy swords and may ride horses
+ed12f022a1,None,nothing. no value or quantity. the opposite of something.
 84ffcb1eb4,Alcohol,"causes impairment to senses when consumed in large amount,causes liver damage,illegal to underage,legal to people 21 and older,clear,can be drank alone or mixed with soda,juice or liqueur"
 84ffcb1eb4,Twelve,"number,date,day,amount,used in mathematics,age"
 84ffcb1eb4,Subject,"person,topic of conversation,classroom assignment,study,vocabulary"
 84ffcb1eb4,Knight,"mid evil,fights in battle,last name,game piece used in chess"
+84ffcb1eb4,None,"nothing,zero,rhymes with done"
 fd1a1cbbc3,Alcohol,"alcoholic beverage, alcohol, intoxicant, alcoholic drink, inebriant"
 fd1a1cbbc3,Twelve,"twelve, 12, XII, dozen 
 the cardinal number that is the sum of eleven and one"
 fd1a1cbbc3,Subject,"national, paper, content, topic, radical, composition, subject, issue, motif, discipline, base, case, subject area, musical theme, matter, theme, root word, depicted object, study, stem, guinea pig, report, melodic theme, idea, subject field, root, field, field of study, bailiwick"
 fd1a1cbbc3,Knight,"originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit 
  horse"
+fd1a1cbbc3,None,"some(a), all(a)"
 5cf41e6737,Alcohol,wine
 5cf41e6737,Twelve,12
 5cf41e6737,Subject,math
 5cf41e6737,Knight,night
+5cf41e6737,None,nothing
 b0af56c46c,Alcohol,drink
 b0af56c46c,Twelve,"number, a dozen"
 b0af56c46c,Subject,objective
 b0af56c46c,Knight,servant
+b0af56c46c,None,nothing
 bee7f2ab27,Alcohol,"liquor, intoxicating beverage"
 bee7f2ab27,Twelve,"one dozen, months in a year"
 bee7f2ab27,Subject,"topic,  matter, issue,  theme"
 bee7f2ab27,Knight,"soldier,  warrior,  fighter, horseman"
+bee7f2ab27,None,"no one,  nil,"
 5f6fadae3f,Alcohol,"flammable liquid, liquor, hydroxyl compounds, chemical"
 5f6fadae3f,Twelve,"number, unit, value, dozen, time"
 5f6fadae3f,Subject,"exposed, incur, concerning, receive, about something"
 5f6fadae3f,Knight,"defender, champion, chess piece, man belonging to an order"
+5f6fadae3f,None,"no one, not one, nobody, not any"
 a99eff3ef7,Alcohol,Alcohol is a liquor that contains ethanol and has the potential to intoxicate drinkers and it can be burned as fuel
 a99eff3ef7,Twelve,the cardinal number between eleven and thirteen
 a99eff3ef7,Subject,Subject describes someone or something that is under the authority of another or others
 a99eff3ef7,Knight,a military servant of a king or other feudal superior
+a99eff3ef7,None,no persons or things
 d0fa26d606,Alcohol,"a drink, an appetizer, short mix with water can cure commoncold,taken by men mostly, makes the mad, use of this causes internal diseases"
 d0fa26d606,Twelve,"a two digit number,the numbers adds up to 3,lucky number for some people"
 d0fa26d606,Subject,"a study, used in experiments, often said in the palace of king,a person who is about to be discussed among fellow people"
 d0fa26d606,Knight,"riding horse, an honor to people in certain jobs, used in chess game"
+d0fa26d606,None,"empty, no one"
 cdf81c2126,Alcohol,"whiskey, gin, vodka, or any other intoxicating liquor containing this liquid"
 cdf81c2126,Twelve,"a cardinal number, 10 plus 2."
 cdf81c2126,Subject,"that which forms a basic matter of thought, discussion, investigation, etc."
 cdf81c2126,Knight,a mounted soldier serving under a feudal superior in the Middle Ages.
+cdf81c2126,None,no one
 a99eff3ef7,Cards,a game or games played with a deck of cards
 a99eff3ef7,Devil,a very wicked or malevolent person
 a99eff3ef7,Hunter,a person who hunts
