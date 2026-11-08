@@ -609,7 +609,6 @@ row_id,source_file,subject_id,word,answer,reason
 37935,individual_subjects.csv,624,cheap,"money, deal, sale",original_cleaning
 37997,individual_subjects.csv,625,cheap,level,original_cleaning
 38011,individual_subjects.csv,625,arrogant,personality,original_cleaning
-38059,individual_subjects.csv,626,cheap,inexpensive affordable low quality,original_cleaning
 38073,individual_subjects.csv,626,arrogant,cocky annoying,original_cleaning
 38121,individual_subjects.csv,627,cheap,"tight, penny pincher",original_cleaning
 38135,individual_subjects.csv,627,arrogant,"cocky, over confident,",original_cleaning
@@ -696,7 +695,6 @@ row_id,source_file,subject_id,word,answer,reason
 40760,individual_subjects.csv,669,arrogant,cocky confident ego men women children stuck up bougie,original_cleaning
 40808,individual_subjects.csv,670,cheap,"inexspensive, a type of personality.",original_cleaning
 40822,individual_subjects.csv,670,arrogant,"a personality, can be annoying,people actions.",original_cleaning
-40870,individual_subjects.csv,671,cheap,not expensive,original_cleaning
 40932,individual_subjects.csv,672,cheap,"expensive, inferior, goods, product, trick",original_cleaning
 40946,individual_subjects.csv,672,arrogant,"pompous, cocky, attitude, rich, mean",original_cleaning
 40994,individual_subjects.csv,673,cheap,"bargin hunting, tj maxx, my dad",original_cleaning
@@ -744,9 +742,7 @@ row_id,source_file,subject_id,word,answer,reason
 42451,individual_subjects.csv,697,arrogant,stupid,original_cleaning
 42498,individual_subjects.csv,698,cheap,cost little,original_cleaning
 42512,individual_subjects.csv,698,arrogant,"big headed, confident",original_cleaning
-42560,individual_subjects.csv,699,cheap,not expensive,original_cleaning
 42574,individual_subjects.csv,699,arrogant,not fun people to be around,original_cleaning
-42622,individual_subjects.csv,700,cheap,"not expensive,",original_cleaning
 42636,individual_subjects.csv,700,arrogant,"hard headed person, only things in one direction",original_cleaning
 42684,individual_subjects.csv,701,cheap,o,original_cleaning
 42698,individual_subjects.csv,701,arrogant,cocky,original_cleaning
@@ -788,49 +784,21 @@ row_id,source_file,subject_id,word,answer,reason
 44117,individual_subjects.csv,724,arrogant,cocky,original_cleaning
 44165,individual_subjects.csv,725,cheap,"advertisements, cheap clothes, knock off\'s",original_cleaning
 44179,individual_subjects.csv,725,arrogant,"cocky, sports players, successful, selfish",original_cleaning
-44190,individual_subjects.csv,726,house,family,original_cleaning
-44314,individual_subjects.csv,728,house,"small or large, furniture in it, appliance, kitchen,food,comfortable,beds,quiet place,shelter,bricks or wood,",original_cleaning
 44376,individual_subjects.csv,729,fudge,"Chocolate, creamy, pudding-like.",original_cleaning
 44511,individual_subjects.csv,731,patient,"someone hurt, in need of assistance, pain, trouble angered,",original_cleaning
 44559,individual_subjects.csv,731,rock,"hard, grey, ugly, unshaped, different, hurtful",original_cleaning
-44561,individual_subjects.csv,732,house,"bedroom, bathroom, kitchen, dining room, garage, laundry room, family",original_cleaning
-44608,individual_subjects.csv,733,house,"shelter, room, safety, kitchen, living, doors, windows",original_cleaning
-44670,individual_subjects.csv,734,house,"shelter, mortgage, furniture, family",original_cleaning
 44698,individual_subjects.csv,734,road,"hard, cars, driveable, pavement",original_cleaning
-44732,individual_subjects.csv,735,house,"home, shelter, protection, air conditioner/heat, staircase, bed",original_cleaning
-44794,individual_subjects.csv,736,house,"home, where i live",original_cleaning
-44856,individual_subjects.csv,737,house,"bedroom, bathroom, kitchen, shelter, work, yard",original_cleaning
-44918,individual_subjects.csv,738,house,"where you live with your family, shelter",original_cleaning
-44980,individual_subjects.csv,739,house,"bricks, where you live, family, cement, windows, doors, tv, beds, cook, sleep",original_cleaning
 44982,individual_subjects.csv,739,girls,"long hair, petite, blonde, make-up, dresses, heels, shop, dramatic, emotional",original_cleaning
-45166,individual_subjects.csv,742,house,"RESIDENCE, DWELLING, HOME, WINDOWS, DOORS, ROOMS, FAMILY, HISTORY, WARMTH, SECURITY",original_cleaning
 45173,individual_subjects.csv,742,turtle,"BROWN, GREEN, SLOW, AMPHEBIAN, UGLY, SCARY, MENTALLY- CHALLENGED",original_cleaning
-45228,individual_subjects.csv,743,house,"family, pretty, made of bricks, nice.",original_cleaning
 45289,individual_subjects.csv,744,zebra,"safari, stripes, black, white, 4-legs,  prey,eat grass, horse family",original_cleaning
-45349,individual_subjects.csv,745,house,"family, furniture, mortage",original_cleaning
-45472,individual_subjects.csv,747,house,"place,building,",original_cleaning
-45534,individual_subjects.csv,748,house,"my room, where I live, building, shelter, comfort",original_cleaning
-45596,individual_subjects.csv,749,house,"brick, home, family, kinds, land, money",original_cleaning
-45658,individual_subjects.csv,750,house,trailor,original_cleaning
-45720,individual_subjects.csv,751,house,"home, family, residence, roof, security",original_cleaning
-45767,individual_subjects.csv,752,house,"living, family, kitchen, bedrooms, living room, yard, neighborhood,",original_cleaning
-45891,individual_subjects.csv,754,house,"bathroom, bed, television, pictures, couch, bed, food, water, dishes",original_cleaning
 45919,individual_subjects.csv,754,road,"gravel, pavement, traffic, cars, people, buildings, trees, deers, accidents",original_cleaning
-46015,individual_subjects.csv,756,house,"bedrooms, bathrooms, kitchen, doors, windows, brick",original_cleaning
 46039,individual_subjects.csv,756,am,?,original_cleaning
-46077,individual_subjects.csv,757,house,bathroom kitchen living room,original_cleaning
 46133,individual_subjects.csv,757,cabbage,garden,original_cleaning
-46139,individual_subjects.csv,758,house,walls safety people food warm,original_cleaning
-46201,individual_subjects.csv,759,house,"brick, provides shelter, two stories, has windows, in neighborhood,",original_cleaning
-46263,individual_subjects.csv,760,house,doors windows roof brick rooms paint kicthen living room bedrooms garage driveway,original_cleaning
 46264,individual_subjects.csv,760,fudge,chocolate yummy rich brown home made brownies grandma theme parks white chocolate,original_cleaning
 46415,individual_subjects.csv,762,road,"long, curvey, car sick",original_cleaning
-46449,individual_subjects.csv,763,house,"where someone lives, shelter, can be decorated, called a home",original_cleaning
 46510,individual_subjects.csv,764,zebra,"stripes, four-legged, horse, animal, zoo, grassland, Africa, white and black, runs fast",original_cleaning
-46511,individual_subjects.csv,764,house,"home, living, resting, sleeping, kitchen, bedrooms, bathrooms, showers, family, television",original_cleaning
 46515,individual_subjects.csv,764,string,"thin, long, thread, easily broken, colorful, cord-like,",original_cleaning
 46535,individual_subjects.csv,764,am,"pronouns, adjectives, nouns, adverbs, I, sentences, grammar, English, conjunctions, punctuation",original_cleaning
-46573,individual_subjects.csv,765,house,"bed, chair, living room, kitchen, tv",original_cleaning
 46575,individual_subjects.csv,765,girls,"dresses, pink, high heels, make-up, shopping, skirts, unity, feminism",original_cleaning
 46649,mturk_file_1.csv,769,boxer,"a person who fights as a sport, usually with gloved fists, according to set rules; prize-fighter; pugilist. one of a German breed of medium-sized, stocky, short-haired, pug-faced dogs having a brindled or tan coat with white markings. a person or thing that packs items into boxes. boxers. boxer shorts. a person who boxes, either professionally or as a hobby; pugilist; a medium-sized smooth-haired breed of dog with a short nose and a docked tail",semicolon_definition
 46650,mturk_file_1.csv,769,dancer,"a person who dances; a person who dances professionally, as on the stage. a person who dances; a person who dances professionally, as on the stage.",semicolon_definition
@@ -1093,6 +1061,7 @@ There (virtual world)",rejected_hit
 48779,mturk_file_1.csv,816,flowers,"Fragrance, beautiful, Fresh, Cute, Lilly, Leaf & Spray",long_duplicate
 48780,mturk_file_1.csv,816,life,"Heartbeat, Mother, Sorrows, Memories, different character's, Good & evil",long_duplicate
 48782,mturk_file_1.csv,816,unclear,"Unwashed, Dirty, Oily skin, unhealthy, Disease",long_duplicate
+48785,mturk_file_1.csv,906,life,Meaning of life (disambiguation).,article_text
 48809,mturk_file_1.csv,808,flowers,"Flowers:is the blossom of a plant,Names of flowers,Wedding flowers,Flower guide,
 Hawaiian flowers",original_cleaning
 48892,mturk_file_1.csv,827,vanish,"To pass out of sight, especially quickly disappear.",long_duplicate
@@ -1306,7 +1275,7 @@ Read more: http://www.answers.com/topic/true#ixzz1fpOzCthv",web_text
 51074,mturk_file_1.csv,987,poem,"It is the thesis of the great psychoanalyst Victor Frankl that man can endure any hardship as long as he can find meaning in the experience. Incidentally, as a survivor of Nazi Concentration Camps he was in a position to know. Thankfully, most of us are not tested in such extreme conditions. However, the principle is the same. Human beings cannot live without meaning. Depression is the natural outcome of living a life that is bereft of purpose.
 
 It is the thesis of the great psychoanalyst Victor Frankl that man can endure any hardship as long as he can find meaning in the experience. Incidentally, as a survivor of Nazi Concentration Camps he was in a position to know. Thankfully, most of us are not tested in such extreme conditions. However, the principle is the same. Human beings cannot live without meaning. Depression is the natural outcome of living a life that is bereft of purpose.","original_cleaning,very_long"
-51101,mturk_file_1.csv,827,artist,This article is about the general concept of Art. For the categories of different artistic disciplines see The arts.,rejected_hit
+51101,mturk_file_1.csv,827,artist,This article is about the general concept of Art. For the categories of different artistic disciplines see The arts.,"article_text,rejected_hit"
 51102,mturk_file_1.csv,827,death,Death is the permanent termination of the biological functions that sustain a living organism.,rejected_hit
 51103,mturk_file_1.csv,827,laugh,"Laughing is a reaction to certain stimuli, fundamentally stress and which serves as an emotional balancing mechanism.",rejected_hit
 51104,mturk_file_1.csv,827,poem,Poem a making or forming or creating or the art of poetry is a form of literary art in which language is used for its aesthetic.,rejected_hit
@@ -1419,6 +1388,7 @@ away from a place: to run off; to look off toward the west.",original_cleaning
 a state in the Rocky Mountains",original_cleaning
 51855,mturk_file_1.csv,827,anger,Anger is a secret weapon of man towards of evils but sometimes its result’s in the destruction of many noble qualities,original_cleaning
 51870,mturk_file_1.csv,823,anger,"ira, irritability, yellow bile, angriness, choler, petulance, wrath, crossness, fretfulness, peevishness, anger, ire, fussiness","original_cleaning,long_duplicate"
+51879,mturk_file_1.csv,847,web,a network made up of something may refer to world wide web or a spider web,article_text
 51880,mturk_file_1.csv,807,anger,"emotion,hatred,negative emotion",original_cleaning
 51885,mturk_file_1.csv,854,anger,"Hot displeasure, extreme or passionate displeasure, rage, fury, range, piqué , antagonism, irritation, outrage, vexation, painful, show feeling in rage",original_cleaning
 51912,mturk_file_1.csv,864,id,a card or badge used to identify the bearer,long_duplicate
@@ -1515,7 +1485,7 @@ Bill (disambiguation)
 Billie (disambiguation)
 Bili (disambiguation)
 Will (disambiguation)
-William (disambiguation)","original_cleaning,rejected_hit"
+William (disambiguation)","original_cleaning,article_text,rejected_hit"
 52685,mturk_file_2.csv,808,days,"Days:is A day is a unit of time, commonly defined as an interval equal to 24 hours.[1] It also can mean that portion of the full day during which a location is illuminated by the light of the sun. The period of time measured from local noon to the following local noon is called a solar day.","web_text,rejected_hit"
 52686,mturk_file_2.csv,808,mixture,"Mixture:Mixtures are the product of a mechanical blending or mixing of chemical substances like elements and compounds, without chemical bonding or other chemical change, so that each ingredient substance retains its own chemical properties and makeup",rejected_hit
 52687,mturk_file_2.csv,808,store,"Store: is a retail store,
@@ -1561,7 +1531,7 @@ literature in metrical form",original_cleaning
 Compressive stress, the stress applied to materials resulting in their compaction. It is the ability of a material to resist being crushed.
 Tensile stress  is the stress state leading to expansion
 Yield stress, the stress at which a material begins to deform plastically","original_cleaning,rejected_hit"
-53033,mturk_file_2.csv,808,poetry,"Poetry:is ""Poem"", ""Poems"", and ""Poetic"" redirect here. For other uses, see Poem (disambiguation), Poems (disambiguation), and Poetic (disambiguation).",rejected_hit
+53033,mturk_file_2.csv,808,poetry,"Poetry:is ""Poem"", ""Poems"", and ""Poetic"" redirect here. For other uses, see Poem (disambiguation), Poems (disambiguation), and Poetic (disambiguation).","article_text,rejected_hit"
 53080,mturk_file_2.csv,850,frame,"Square in shape, Photo frame, Spectacles, Glass & Different in colors",long_duplicate
 53081,mturk_file_2.csv,850,killer,"Looks, Murdered, Mosquito Spray, Lovers Look",long_duplicate
 53082,mturk_file_2.csv,850,stress,"Work load, Tension, High blood pressure, Thinking of too much & Worrying",long_duplicate
@@ -1731,7 +1701,7 @@ Tights, a type of leg coverings fabric extending from the waist to feet
 Tightlacing, the practice of wearing a tightly-laced corset.","original_cleaning,rejected_hit"
 54221,mturk_file_3.csv,808,spoiled,"Spoiled: it is  Decomposition,grandiose, narcissistic,egocentric-regressed.A spoiled child (also called a spoiled brat) is a child that exhibits behavioral problems from overindulgence by his or her parents.",rejected_hit
 54222,mturk_file_3.csv,808,mother,"Mother: is mother, mum, mom, momma, or mama is a woman who has raised a child, given birth to a child, and/or supplied the ovum that grew into a child.",rejected_hit
-54228,mturk_file_3.csv,944,boring,"is a disambiguation,",original_cleaning
+54228,mturk_file_3.csv,944,boring,"is a disambiguation,","original_cleaning,article_text"
 54243,mturk_file_3.csv,777,boring,adjective not interesting; tedious.,original_cleaning
 54246,mturk_file_3.csv,777,spoiled,"a person or thing that spoils. a news story published to divert attention from a similar story published elsewhere. 
 2	a flap on an aircraft wing which can be projected to create drag and so reduce speed. a similar device on a motor vehicle intended to improve road holding at high speeds.",original_cleaning
@@ -1777,13 +1747,13 @@ A charlatan; a mountebank.",original_cleaning
 54618,mturk_file_3.csv,808,alcohol,"Alcohol:an alcohol is an organic compound in which the hydroxy functional group (-OH) is bound to a carbon atom. In particular, this carbon center should be saturated, having single bonds to three other atoms.","original_cleaning,rejected_hit"
 54619,mturk_file_3.csv,808,twelve,"Twelve:The Twelve (disambiguation)
 Quorum of the Twelve, a priesthood body established by Joseph Smith, Jr. as part of the Latter Day Saint movement
-December, the 12th month of a year","original_cleaning,rejected_hit"
+December, the 12th month of a year","original_cleaning,article_text,rejected_hit"
 54620,mturk_file_3.csv,808,subject,"Subject:A subject is an individual subjected to the rule by an elite, see feudalism
 subjects in medieval feudalism, see Commoners
 subjects in modern constitutional monarchies, such as the United Kingdom, see British subject",rejected_hit
 54621,mturk_file_3.csv,808,knight,"Knight:A knight was a member of a class of lower nobility in the High Middle Ages. By the Late Middle Ages, the rank had become associated with the ideals of chivalry, a code of conduct for the perfect courtly Christian warrior. Since the Early Modern period, the title of ""knight"" is purely honorific, usually bestowed by a monarch, as in the British honours system.",rejected_hit
 54622,mturk_file_3.csv,808,none,"None: None redirects here. For other uses, see None (disambiguation).
-Nothing is no thing, denoting the absence of something. Nothing is a pronoun associated with nothingness, is also an adjective, and an object as a concept in the Frege-Church ontology.","original_cleaning,rejected_hit"
+Nothing is no thing, denoting the absence of something. Nothing is a pronoun associated with nothingness, is also an adjective, and an object as a concept in the Frege-Church ontology.","original_cleaning,article_text,rejected_hit"
 54628,mturk_file_3.csv,801,alcohol,"a drink, colorless liquid, obtained by fermentation of sugars and starches",original_cleaning
 54633,mturk_file_3.csv,780,alcohol,I could smell the alcohol on his breath.,rejected_hit
 54634,mturk_file_3.csv,780,twelve,a twelve-seater minibus,rejected_hit
@@ -2059,7 +2029,6 @@ Hope this","original_cleaning,rejected_hit"
 3	[in combination] in the region of: fifty-odd years.","original_cleaning,numbered_senses,rejected_hit"
 56508,mturk_file_3.csv,885,cop,"COP means ""Officer of the law"" or ""Close of Play"".",long_duplicate
 56510,mturk_file_3.csv,885,lot,"The part, or fate, which falls to one, as it were, by chance, or without his planning.",long_duplicate
-56518,mturk_file_3.csv,784,cop,policeofficer,original_cleaning
 56542,mturk_file_3.csv,776,cold,"cool feeling .shgujkok,,",original_cleaning
 56657,mturk_file_3.csv,777,wait,"1	stay where one is or delay action until a particular time or occurrence. be delayed or deferred. informal defer (a meal) until a person's arrival. [usually as noun waiting] park a vehicle for a short time at the side of a road. 
 2	(wait on/upon) act as an attendant to. archaic pay a respectful visit to. 
@@ -2341,7 +2310,7 @@ b. The knowledge or wisdom so acquired.
 5. often Lesson A reading from the Bible or other sacred text as part of a religious service.
 tr.v. les·soned, les·son·ing, les·sons
 1. To teach a lesson to; instruct.
-2. To rebuke or reprimand.","original_cleaning,very_long,numbered_senses,semicolon_definition"
+2. To rebuke or reprimand.","original_cleaning,very_long,numbered_senses,semicolon_definition,article_text"
 60102,mturk_file_8.csv,831,weather,"To place (a hawk) unhooded in the open air.
 (n.) Storm; tempest.
 (v. t.) To sail or pass to the windward of; as, to weather a cape; to weather another ship.
@@ -2355,7 +2324,7 @@ tr.v. les·soned, les·son·ing, les·sons
 a. A relatively small piece or fragment of such material.
 b. A relatively large body of such material, as a cliff or peak.
 3. A naturally formed aggregate of mineral matter constituting a significant part of the earth's crust.
-4. One that is similar to or suggestive of a mass of stone in stability, firmness, or dependability","original_cleaning,numbered_senses"
+4. One that is similar to or suggestive of a mass of stone in stability, firmness, or dependability","original_cleaning,numbered_senses,article_text"
 60167,mturk_file_8.csv,1286,weather,"The state of the atmosphere at a given time and place, with respect to variables such as temperature, moisture, wind velocity, and barometric pressure.",long_duplicate
 60190,mturk_file_8.csv,1288,foreign,"Relating to or originating in or characteristic of another place or part of the world.
 Not contained in or deriving from the essential nature of something",original_cleaning
@@ -2398,7 +2367,7 @@ b. A fellow man.
 c. A fellow member, as of a fraternity, trade union, or panel of judges on a court.
 d. A close male friend; a comrade.
 e. A fellow African-American man or boy.
-3. pl. also brethren Something, such as a corporation or institution, that is regarded as a member of a class: ""A station that ... relies on corporate contributions or advertising to survive runs the risk of becoming virtually indistinguishable from its commercial brethren"" (W. John Moor","original_cleaning,very_long"
+3. pl. also brethren Something, such as a corporation or institution, that is regarded as a member of a class: ""A station that ... relies on corporate contributions or advertising to survive runs the risk of becoming virtually indistinguishable from its commercial brethren"" (W. John Moor","original_cleaning,very_long,article_text"
 60462,mturk_file_8.csv,831,slave,"One bound in servitude as the property of a person or household.
 2. One who is abjectly subservient to a specified person or influence: ""I was still the slave of education and prejudice"" (Edward Gibbon).
 3. One who works extremely hard.
@@ -2418,7 +2387,7 @@ adj.
 3. Having been violated: a broken promise.
 4.
 a. Incomplete: a broken set of books.
-b. Being in a state of disarray; disordered: troops fleeing in broken ranks.","original_cleaning,numbered_senses,semicolon_definition"
+b. Being in a state of disarray; disordered: troops fleeing in broken ranks.","original_cleaning,numbered_senses,semicolon_definition,article_text"
 60466,mturk_file_8.csv,770,brothers,"A male having the same parents as another or one parent in common with another,One who shares a common ancestry, allegiance, character, or purpose with another or others, especially:",original_cleaning
 60469,mturk_file_8.csv,770,broken,"Forcibly separated into two or more pieces; fractured,Sundered by divorce, separation, or desertion of a parent or parents",original_cleaning
 60471,mturk_file_8.csv,994,brothers,"relations, family member, twins, blood relation, human being, boy, sibling, home",original_cleaning
@@ -2446,7 +2415,7 @@ A close male friend; a comrade.",original_cleaning
 60534,mturk_file_8.csv,1286,broken,"Forcibly separated into two or more pieces, Incomplete, Spoken with gaps and errors:",original_cleaning
 60553,mturk_file_8.csv,1316,auto,"auto: car, German roots, also used to underline ""by itself"" or self-sufficient",original_cleaning
 60558,mturk_file_8.csv,1317,auto,"a motor car,combination form usually before a vowel,self (autism)one' s own,(autobiography),by oneself or spontaneous (auto- suggestion),automatic (automobile),from Greek autos'self'.",original_cleaning
-60563,mturk_file_8.csv,1318,auto,"auto- ""self, one's own"", may refer to: An automobile",original_cleaning
+60563,mturk_file_8.csv,1318,auto,"auto- ""self, one's own"", may refer to: An automobile","original_cleaning,article_text"
 60632,mturk_file_8.csv,801,repeat,"do again, 	
 An action, event, or other thing that occurs or is done again,	
 Say again",original_cleaning
@@ -2676,7 +2645,7 @@ Relating to a left-wing person or group.",original_cleaning
 b. Of, relating to, directed toward, or located on the left side.
 c. Located on the left side of a person facing downstream: the left bank of a river.
 2. often Left Of or belonging to the political or intellectual left.
-n.",original_cleaning
+n.","original_cleaning,article_text"
 61165,mturk_file_8.csv,1263,looks,"To employ one's sight, especially in a given direction or on a given object.",long_duplicate
 61180,mturk_file_8.csv,1346,looks,brad pitt,rejected_hit
 61181,mturk_file_8.csv,1346,workout,my brother,rejected_hit
@@ -2694,7 +2663,7 @@ a. To turn one's glance or gaze: looked to the right.
 b. To turn one's attention; attend: looked to his neglected guitar during vacation; looked at the evidence.
 c. To turn one's expectations: looked to us for a solution.
 3. To seem or appear to be: look morose. See Synonyms at seem.
-4. To face in a specified direction: The cottage looks on the river.","very_long,semicolon_definition"
+4. To face in a specified direction: The cottage looks on the river.","very_long,semicolon_definition,article_text"
 61216,mturk_file_8.csv,831,workout,"a. A job; employment: looking for work.
 b. A trade, profession, or other means of livelihood.
 3.
@@ -2706,7 +2675,7 @@ b. One's place of employment: Should I call you at home or at work?
 5.
 a. Something that has been produced or accomplished through the effort, activity, or agency of a person or thing: This story is the work of an active imagination. Erosion is the work of wind, water, and time.
 b. Full action or effect of an agency: The sleeping pills did their work.
-c. An act; a deed: ""I have seen all the works that are done under the sun; and, behold, all is vanity"" (Ecclesiastes 1:14).","original_cleaning,very_long,semicolon_definition"
+c. An act; a deed: ""I have seen all the works that are done under the sun; and, behold, all is vanity"" (Ecclesiastes 1:14).","original_cleaning,very_long,semicolon_definition,article_text"
 61217,mturk_file_8.csv,831,cheat,"To deceive by trickery; swindle: cheated customers by overcharging them for purchases.
 2. To deprive by trickery; defraud: cheated them of their land.
 3. To mislead; fool: illusions that cheat the eye.
@@ -2721,7 +2690,7 @@ b. A man who adopts a child.
 c. A man who raises a child.
 2. A male parent of an animal.
 3. A male ancestor.
-4. A man who creates, originates, or founds something: Chaucer is considered the father of English poetry.",original_cleaning
+4. A man who creates, originates, or founds something: Chaucer is considered the father of English poetry.","original_cleaning,article_text"
 61219,mturk_file_8.csv,831,queen,"he only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs
 
 [noun] a female sovereign ruler
@@ -2818,7 +2787,7 @@ woman sovereign;A mature female cat",original_cleaning
 61429,mturk_file_8.csv,1294,queen,Queen,rejected_hit
 61445,mturk_file_8.csv,1332,looks,To direct the eyes for the purpose of seeing something; to direct the eyes toward an object; to observe with the eyes while ..,semicolon_definition
 61447,mturk_file_8.csv,1332,cheat,"To beguile. (v. i.) To practice fraud or trickery; as, to cheat at cards. (n.) One who cheats or deceives; an impostor; a deceiver; ...","original_cleaning,pos_tag"
-61448,mturk_file_8.csv,1332,father,"A respectful mode of address to an old man. (n.) A male ancestor more remote than a parent; a progenitor; especially, a first ... a. A male person whose sperm unites with an egg, resulting in the conception of a child. b. A man who adopts a child. c. A man who raises a child. 2. A male ...","semicolon_definition,pos_tag"
+61448,mturk_file_8.csv,1332,father,"A respectful mode of address to an old man. (n.) A male ancestor more remote than a parent; a progenitor; especially, a first ... a. A male person whose sperm unites with an egg, resulting in the conception of a child. b. A man who adopts a child. c. A man who raises a child. 2. A male ...","semicolon_definition,pos_tag,article_text"
 61449,mturk_file_8.csv,1332,queen,"something personified as a woman who is considered the best or most important of her kind; The word Queen means woman – any women – a woman with or without riches, fame, position; women from any background, colour or creed; ...",semicolon_definition
 61475,mturk_file_8.csv,1322,loose,"on the loose, promiscuous, idle, wanton, slack, open, informal, sluttish, lax, light, free, escaped, liberal, easy, at large, unaffixed, idle, loose, sluttish
 ,",original_cleaning
@@ -2865,7 +2834,7 @@ Idiom:","original_cleaning,semicolon_definition"
 2. Exhibiting a high degree of skill or polish: an essay that was a finished piece of work.
 3.
 a. Doomed to death or destruction.
-b. Having no more use, value, or potential; washed-up.","original_cleaning,semicolon_definition"
+b. Having no more use, value, or potential; washed-up.","original_cleaning,semicolon_definition,article_text"
 61530,mturk_file_8.csv,1023,loose,"Not firmly or tightly fixed in place, detached, 	
 Set free , release  , the hounds have been loosed,unfasten,disengage,untie",original_cleaning
 61534,mturk_file_8.csv,1023,finished,"conclusion; completion ,	accomplishment, achievement, acquirement, acquisition, annihilation, attainment, cease, cessation, close, closing, culmination,,",original_cleaning
@@ -3004,7 +2973,7 @@ b. Having a short dense flat coat. Used of dogs.
 7. Serene: a smooth temperament.
 8. Bland: a smooth wine.
 9. Ingratiatingly polite and agreeable.
-10. Having no grossness or coarseness in dress or manner.","original_cleaning,very_long"
+10. Having no grossness or coarseness in dress or manner.","original_cleaning,very_long,article_text"
 61960,mturk_file_8.csv,814,healthy,"Conducive to good health; healthful: healthy air,Possessing good health,a healthy attitude,Sizable; considerable: a healthy portion of potatoes; a healthy raise in salary,Indicative of sound, rational thinking or frame of mind.",semicolon_definition
 61980,mturk_file_8.csv,787,healthy,"1.
 possessing or enjoying good health  or a sound and vigorous mentality: a healthy body; a healthy mind.
@@ -3189,7 +3158,7 @@ c. A basis or ground: no reason to worry on that account.
 a. A formal banking, brokerage, or business relationship established to provide for regular services, dealings, and other financial transactions.
 b. A precise list or enumeration of financial transactions.
 c. Money deposited for checking, savings, or brokerage use.
-d. A customer having a business or credit relationship with a firm: salespeople visiting their accounts","original_cleaning,very_long"
+d. A customer having a business or credit relationship with a firm: salespeople visiting their accounts","original_cleaning,very_long,article_text"
 62434,mturk_file_8.csv,831,smart,"a. Characterized by sharp quick thought; bright. See Synonyms at intelligent.
 b. Amusingly clever; witty: a smart quip; a lively, smart conversation.
 c. Impertinent; insolent: That's enough of your smart talk.
@@ -3198,7 +3167,7 @@ c. Impertinent; insolent: That's enough of your smart talk.
 4. Fashionable; elegant: a smart suit; a smart restaurant; the smart set. See Synonyms at fashionable.
 5.
 a. Capable of making adjustments that resemble human decisions, especially in response to changing circumstances: smart missiles.
-b. Manufactured to regulate the amount of light transmitted in response to varying light conditions or to an electronic sensor or control unit: smart windows.","original_cleaning,very_long,semicolon_definition"
+b. Manufactured to regulate the amount of light transmitted in response to varying light conditions or to an electronic sensor or control unit: smart windows.","original_cleaning,very_long,semicolon_definition,article_text"
 62437,mturk_file_8.csv,831,stomach,": An enlargement, or series of enlargements, in the anterior part of the alimentary canal, in which food is digested; any cavity in which digestion takes place in an animal; a digestive cavity. See Digestion, and Gastric juice, under Gastric.",semicolon_definition
 62444,mturk_file_8.csv,1286,smart,"Characterized by sharp quick thought; bright, Capable of making adjustments that resemble human decisions, especially in response to changing circumstances
 Amusingly clever; witty","original_cleaning,semicolon_definition"
@@ -3265,7 +3234,7 @@ one of the structures composing the skeleton of a vertebrate.",original_cleaning
 Read more: seller: meaning and definitions — Infoplease.com http://dictionary.infoplease.com/seller#ixzz1eARQwLEY","original_cleaning,numbered_senses,web_text"
 62774,mturk_file_8.csv,831,verb,"a. The part of speech that expresses existence, action, or occurrence in most languages.
 b. Any of the words belonging to this part of speech, as be, run, or conceive.
-2. A phrase or other construction used as a verb.",original_cleaning
+2. A phrase or other construction used as a verb.","original_cleaning,article_text"
 62775,mturk_file_8.csv,831,abandon,"the principles and regulations established in a community by some authority and applicable to its people, whether in the form of legislation or of custom and policies recognized and enforced by judicial decision.
 2.
 any written or positive rule or collection of rules prescribed under the authority of the state or nation, as by the people in its constitution. Compare bylaw, statute law.
@@ -3459,7 +3428,7 @@ One of a series of playing cards, distinguished by the figure or figures of a he
 a. A physical or chemical change by which a substance may be detected or its properties ascertained.
 b. A reagent used to cause or promote such a change.
 c. A positive result obtained.
-5. A cupel.","original_cleaning,very_long,semicolon_definition"
+5. A cupel.","original_cleaning,very_long,semicolon_definition,article_text"
 63354,mturk_file_8.csv,831,danger,"1. the state of being vulnerable to injury, loss, or evil; risk
 2. a person or thing that may cause injury, pain, etc.
 3. Obsolete power","original_cleaning,numbered_senses"
@@ -3597,7 +3566,7 @@ Bells are usually made of cast metal, but small bells can also be made from cera
 2. Exhibiting a high degree of skill or polish: an essay that was a finished piece of work.
 3.
 a. Doomed to death or destruction.
-b. Having no more use, value, or potential; washed-up.","original_cleaning,semicolon_definition"
+b. Having no more use, value, or potential; washed-up.","original_cleaning,semicolon_definition,article_text"
 63729,mturk_file_8.csv,831,walkway,"(Engineering / Civil Engineering) a path designed, and sometimes landscaped, for pedestrian use
 2. (Miscellaneous Technologies / Building) a passage or path connecting buildings
 3. (Miscellaneous Technologies / Building) a passage or path, esp one for walking over machinery, etc.",original_cleaning
@@ -3609,7 +3578,7 @@ c. A hollow, usually inverted vessel, such as one used for diving deep below the
 d. The corolla of a flower: ""In a cowslip's bell I lie"" (Shakespeare).
 3. Nautical
 a. A stroke on a hollow metal instrument to mark the hour.
-b. The time indicated by the striking of this instrument, divided into half hours.","original_cleaning,very_long"
+b. The time indicated by the striking of this instrument, divided into half hours.","original_cleaning,very_long,article_text"
 63732,mturk_file_8.csv,831,steak,"A slice of meat, typically beef, usually cut thick and across the muscle grain and served broiled or fried.
 2. A thick slice of a large fish cut across the body.
 3. A patty of ground meat broiled or fried.",original_cleaning
@@ -3819,7 +3788,7 @@ Law . a writing or document executed under seal and delivered to effect a convey
 b. An interrogative sentence, phrase, or gesture.
 2. A subject or point open to controversy; an issue.
 3. A difficult matter; a problem: a question of ethics.
-4. A point or subject under discussion or consideration.","original_cleaning,semicolon_definition"
+4. A point or subject under discussion or consideration.","original_cleaning,semicolon_definition,article_text"
 64402,mturk_file_8.csv,814,questions,"An expression of inquiry that invites, calls for a reply,A difficult matter; a problem: a question of ethics,Uncertainty; doubt,To put a question to,To analyze; examine.",semicolon_definition
 64412,mturk_file_8.csv,1304,questions,"QUESTIONS OF EXAMINATION,OF LIFE.UNSOLVED QUESTIONS.ANSWERABLE QUESTIONS.OPTIONAL QUESTIONS.QUESTIONS TOP PRIORITY,QUESTIONS TO ANSWER FIRST,HARD &  TOUGH QUESTIONS,QUESTIONS IN CAREERS,MARRIAGE.CHILDREN QUESTIONS,QUESTIONS TO POLITICIANS,QUESTIONS BY TEACHER IN CLASS ROOM.LONG & BIG QUESTIONS,SMALL& EASY QUESTIONS.STICKY QUESTIONS.SMART QUESTIONS,STEADY QUESTIONS,SOFT QUESTIONS.ON PAPER QUESTIONS.QUESTIONS IN MIND.QUESTIONS OF UNANSWERABLE TYPE.TYPICAL QUESTIONS .QUESTIONS AHEAD OF TIMES.JUMBLING & WRONG MEANING QUESTIONS.ANSWER TO FOLLOWING ANY FIX QUESTIONS.HOW TO ANSWER THEM.ART OF ASKING QUESTIONS.ACCEPTABLE & UNACCEPTABLE QUESTIONS,QUESTIONS BY INTERVIEWER.",very_long
 64453,mturk_file_8.csv,1288,fishing,"The occupation of catching fish
@@ -3939,7 +3908,7 @@ b. An area of water devoted to the raising, breeding, or production of a specifi
 4. Baseball A minor-league club affiliated with a major-league club for the training of recruits and the maintenance of temporarily unneeded players.
 5. Obsolete
 a. The system of leasing out the rights of collecting and retaining taxes in a certain district.
-b. A district so leased.","original_cleaning,very_long,semicolon_definition"
+b. A district so leased.","original_cleaning,very_long,semicolon_definition,article_text"
 64705,mturk_file_8.csv,831,republican,"Of, relating to, or characteristic of a republic.
 2. Favoring a republic as the best form of government.
 3. Republican Of, relating to, characteristic of, or belonging to the Republican Party of the United States.
@@ -3978,7 +3947,7 @@ its for school help!!!!!!",original_cleaning
 Farmland in the USA. The round fields are due to the use of center pivot irrigation
 Typical plan of a mediaeval English manor, showing the use of field strips
 
-A farm is an area of land, or, for aquaculture, lake, river or sea, including various structures, devoted primarily to the practice of producing and managing food (produce, grains, or livestock), fibres and, increasingly, fuel. It is the basic production facility in food production.[1] Farms may be owned and operated by a single individual, family, community, corporation or a company. A farm can be a holding of any size from a fraction of a hectare[2] to several thousand hectares.[3]","original_cleaning,very_long,web_text"
+A farm is an area of land, or, for aquaculture, lake, river or sea, including various structures, devoted primarily to the practice of producing and managing food (produce, grains, or livestock), fibres and, increasingly, fuel. It is the basic production facility in food production.[1] Farms may be owned and operated by a single individual, family, community, corporation or a company. A farm can be a holding of any size from a fraction of a hectare[2] to several thousand hectares.[3]","original_cleaning,very_long,web_text,article_text"
 64730,mturk_file_8.csv,1431,republican,"The Republican Party is one of the two major contemporary political parties in the United States, along with the Democratic Party. Founded by anti-slavery expansion activists in 1854, it is often called the GOP (Grand Old Party). The party's platform generally reflects American conservatism in the U.S. political spectrum and is considered center-right, in contrast to the center-left Democratic Party.[1][2][3]
 
 In the 112th Congress, elected in 2010, the Republican Party holds a majority of seats in the House of Representatives, and a minority of seats in the Senate. The party holds the majority of governorships, as well as the majority of state legislatures, and control of one chamber in five states.","original_cleaning,very_long,web_text"
@@ -4024,7 +3993,7 @@ b. The cutting part of such a machine.
 3. Something regarded as necessary to the carrying out of one's occupation or profession: Words are the tools of our trade.
 4. Something used in the performance of an operation; an instrument: ""Modern democracies have the fiscal and monetary tools . . . to end chronic slumps and galloping inflations"" (Paul A. Samuelson).
 5. Vulgar Slang A penis.
-6. A person used to carry out the designs of another; a dupe.","original_cleaning,very_long,semicolon_definition"
+6. A person used to carry out the designs of another; a dupe.","original_cleaning,very_long,semicolon_definition,article_text"
 64806,mturk_file_8.csv,831,lunch,"A meal eaten at midday.
 The food provided for a midday meal.
 
@@ -4138,7 +4107,7 @@ Synonyms: topper",semicolon_definition
 65201,mturk_file_8.csv,831,mountains,"Mt. or Mtn. A natural elevation of the earth's surface having considerable mass, generally steep sides, and a height greater than that of a hill.
 2.
 a. A large heap: a mountain of laundry.
-b. A huge quantity: a mountain of trouble.",original_cleaning
+b. A huge quantity: a mountain of trouble.","original_cleaning,article_text"
 65202,mturk_file_8.csv,831,superior,"higher in station, rank, degree, importance, etc.: a superior officer.
 2.
 above the average in excellence, merit, intelligence, etc.: superior math students.
@@ -4319,7 +4288,7 @@ Synonyms: downstairs, down the stairs, on a lower floor
 Synonyms: under",semicolon_definition
 65743,mturk_file_8.csv,831,swamp,"a. A seasonally flooded bottomland with more woody plants than a marsh and better drainage than a bog.
 b. A lowland region saturated with water.
-2. A situation or place fraught with difficulties and imponderables",original_cleaning
+2. A situation or place fraught with difficulties and imponderables","original_cleaning,article_text"
 65745,mturk_file_8.csv,831,luck,"The chance happening of fortunate or adverse events; fortune: They met one day out of pure luck.
 Good fortune or prosperity; success: We wish you luck.
 One's personal fate or lot: It was just my luck to win a trip I couldn't take it","original_cleaning,semicolon_definition"
@@ -4559,7 +4528,7 @@ a. A person placed in a group of spectators to influence behavior.
 b. A person stationed in a given location as a spy or observer.
 c. A misleading piece of evidence placed so as to be discovered.
 d. A remark or action in a play or narrative that becomes important later.
-5. Slang A scheming trick; a swindle.","original_cleaning,very_long,semicolon_definition"
+5. Slang A scheming trick; a swindle.","original_cleaning,very_long,semicolon_definition,article_text"
 66105,mturk_file_8.csv,1294,egg,Egg,rejected_hit
 66106,mturk_file_8.csv,1294,superman,Superman,rejected_hit
 66107,mturk_file_8.csv,1294,driver,Driver,rejected_hit
@@ -4812,7 +4781,7 @@ Other
 
 Mabey, the surname
 Maybee, Michigan, a village in the United States of America
-Maeby Fünke (pronounced ""Maybe""), a character in the television series Arrested Development",very_long
+Maeby Fünke (pronounced ""Maybe""), a character in the television series Arrested Development","very_long,article_text"
 66926,mturk_file_9.csv,1318,society,"A society, or a human society, is a group of people related to each other through persistent relations, or a large social grouping sharing the same geographical or virtual territory, subject to the same political authority and dominant cultural expectations. Human societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. In the social sciences, a larger society often evinces stratification and/or dominance patterns in subgroups.",very_long
 66928,mturk_file_9.csv,1318,lonely,"Loneliness, the state of ""feeling lonely,"" describes a human state or feeling involving isolation, or the feeling of disconnection with others, etc. Often accompanied by a sense of yearning for connection. Usually manifests through hopes of romantic redemption in the arms of another. Lonely may also refer to:
 ""Lonely"", a 2006 single from Shannon Noll's second album Lift
@@ -4838,13 +4807,13 @@ c. The institutions and culture of a distinct self-perpetuating group.
 a. The rich, privileged, and fashionable social class.
 b. The socially dominant members of a community.
 4. Companionship; company: enjoys the society of friends and family members.
-5. Biology A colony or community of organisms, usually of the same species: an insect society.","very_long,semicolon_definition"
+5. Biology A colony or community of organisms, usually of the same species: an insect society.","very_long,semicolon_definition,article_text"
 66933,mturk_file_9.csv,831,lonely,"Without companions; lone.
 b. Characterized by aloneness; solitary.
 2. Unfrequented by people; desolate: a lonely crossroads.
 3.
 a. Dejected by the awareness of being alone. See Synonyms at alone.
-b. Producing such dejection: the loneliest night of the week.",semicolon_definition
+b. Producing such dejection: the loneliest night of the week.","semicolon_definition,article_text"
 66999,mturk_file_9.csv,1467,lawn,"lawn (noun) an area of short, regularly mown grass in the garden of a house or park.",pos_tag
 67001,mturk_file_9.csv,1467,society,society (noun) The aggregate of people living together in a more or less ordered community,pos_tag
 67003,mturk_file_9.csv,1467,lonely,lonely (adjective) Sad because one has no friends or company: (of a place) unfrequented and remote:,pos_tag
@@ -5131,7 +5100,7 @@ In addition to the environmental criticisms, some gardeners question the aesthet
     Definitely (disambiguation)
     Possible (disambiguation)
     Probably (disambiguation)
-    Somewhat",very_long
+    Somewhat","very_long,article_text"
 67076,mturk_file_9.csv,1473,society,"A society, or a human society, is a group of people related to each other through persistent relations, or a large social grouping sharing the same geographical or virtual territory, subject to the same political authority and dominant cultural expectations. Human societies are characterized by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members. In the social sciences, a larger society often evinces stratification and/or dominance patterns in subgroups.
 Canis lupus social ethology
 Ant (formicidae) social ethology
@@ -5433,7 +5402,7 @@ b. The branch of this science encompassing treatment by drugs, diet, exercise, a
 4. Something that serves as a remedy or corrective: medicine for rebuilding the economy; measures that were harsh medicine.
 5.
 a. Shamanistic practices or beliefs, especially among Native Americans.
-b. Something, such as a ritual practice or sacred object, believed to control natural or supernatural powers or serve as a preventive or remedy.",very_long
+b. Something, such as a ritual practice or sacred object, believed to control natural or supernatural powers or serve as a preventive or remedy.","very_long,article_text"
 67270,mturk_file_9.csv,831,hunger,"a. The science of diagnosing, treating, or preventing disease and other damage to the body or mind.
 b. The branch of this science encompassing treatment by drugs, diet, exercise, and other nonsurgical means.
 2. The practice of medicine.
@@ -5441,12 +5410,12 @@ b. The branch of this science encompassing treatment by drugs, diet, exercise, a
 4. Something that serves as a remedy or corrective: medicine for rebuilding the economy; measures that were harsh medicine.
 5.
 a. Shamanistic practices or beliefs, especially among Native Americans.
-b. Something, such as a ritual practice or sacred object, believed to control natural or supernatural powers or serve as a preventive or remedy.",very_long
+b. Something, such as a ritual practice or sacred object, believed to control natural or supernatural powers or serve as a preventive or remedy.","very_long,article_text"
 67271,mturk_file_9.csv,831,beer,"a. A fermented alcoholic beverage brewed from malt and flavored with hops.
 b. A fermented beverage brewed by traditional methods that is then dealcoholized so that the finished product contains no more than 0.5 percent alcohol.
 c. A carbonated beverage produced by a method in which the fermentation process is either circumvented or altered, resulting in a finished product having an alcohol content of no more than 0.01 percent.
 2. A beverage made from extracts of roots and plants: birch beer.
-3. A serving of one of these beverages.",very_long
+3. A serving of one of these beverages.","very_long,article_text"
 67272,mturk_file_9.csv,831,high,"ctive
 1.
 having a great or considerable extent or reach upward or vertically; lofty; tall: a high wall.
@@ -5605,7 +5574,7 @@ Other media
 High (comics), a fictional character in the Wildstorm universe
 High (film), a 1967 Canadian film
 High (play), a 2011 play by Matthew Lombardo
-High, Just-As-High, and Third, in Norse mythology, three figures in the Prose Edda",very_long
+High, Just-As-High, and Third, in Norse mythology, three figures in the Prose Edda","very_long,article_text"
 67499,mturk_file_9.csv,1318,anxiety,"Anxiety (also called angst or worry) is a psychological and physiological state characterized by somatic, emotional, cognitive, and behavioral components.[2] The root meaning of the word anxiety is 'to vex or trouble'; in either presence or absence of psychological stress, anxiety can create feelings of fear, worry, uneasiness, and dread. Anxiety is considered to be a normal reaction to a stressor. It may help an individual to deal with a demanding situation by prompting them to cope with it. When anxiety becomes excessive, it may fall under the classification of an anxiety disorder.","very_long,web_text"
 67520,mturk_file_9.csv,1495,shy,"diffident,bashful,behaviour showing lack of confidence,easily frightened away,reluctant",original_cleaning
 67525,mturk_file_9.csv,1496,shy,"Easily startled; timid,Drawing back from contact or familiarity with others; retiring or reserved, Marked by reserve or diffidence, Distrustful; wary, Not having paid an amount due, as one's ante in poker,Short; lacking,To move suddenly, as if startled; start,o draw back, as from fear or caution; recoil,A sudden movement, as from fright; a start","original_cleaning,semicolon_definition"
@@ -5635,7 +5604,7 @@ intr.v. shied (shd), shy·ing, shies (shz)
 1. To move suddenly, as if startled; start.
 2. To draw back, as from fear or caution; recoil.
 n. pl. shies (shz)
-A sudden movement, as from fright; a start","very_long,numbered_senses,semicolon_definition"
+A sudden movement, as from fright; a start","very_long,numbered_senses,semicolon_definition,article_text"
 67581,mturk_file_9.csv,831,thought,"Past tense and past participle of think.
 n.
 1. The act or process of thinking; cogitation.
@@ -5656,12 +5625,12 @@ c. also hoops The game of basketball.
 7. Sports A croquet wicket.
 tr.v. hooped, hoop·ing, hoops
 1. To hold together or support with or as if with a hoop.
-2. To encircle.","very_long,numbered_senses"
+2. To encircle.","very_long,numbered_senses,article_text"
 67583,mturk_file_9.csv,831,picket,". A pointed stake often driven into the ground to support a fence, secure a tent, tether animals, mark points in surveying, or, when pointed at the top, serve as a defense.
 2. A detachment of one or more troops, ships, or aircraft held in readiness or advanced to warn of an enemy's approach: ""The outlying sonar picket.... was to detect, localize, and engage any submarine trying to close the convoy"" (Tom Clancy).
 3.
 a. A person or group of persons stationed outside a place of employment, usually during a strike, to express grievance or protest and discourage entry by nonstriking employees or customers.
-b. A person or group of persons present outside a building to protest.",very_long
+b. A person or group of persons present outside a building to protest.","very_long,article_text"
 67585,mturk_file_9.csv,1473,shy,"""Shy"" redirects here. For other uses, see Shy (disambiguation).
 
 In humans, shyness (also called diffidence) is a social psychology term used to describe the feeling of apprehension, lack of comfort, or awkwardness experienced when a person is in proximity to, approaching, or being approached by other people, especially in new situations or with unfamiliar people. Shyness may come from genetic traits, the environment in which a person is raised and personal experiences. There are many degrees of shyness. Stronger forms are usually referred to as social anxiety or social phobia. Shyness may merely be a personality trait or can occur at certain stages of development in children. Shyness has also a strong cultural dimension.
@@ -5708,7 +5677,7 @@ Another gene, the dopamine D4 receptor gene (DRD4) exon III polymorphism, had be
 Excessive shyness, embarrassment, self consciousness and timidity, social-phobia and lack of self-confidence are also components of erethism, which is a symptom complex that appears in cases of mercury poisoning.[2][3] Mercury poisoning was common among hat makers in England in the 18th and 19th centuries, who used mercury to stabilize wool into felt fabric.
 [edit] Shyness as pathology
 
-Shyness as a psychiatric illness made its debut as ""social phobia"" in DSM-III in 1980, but was then described as rare.[citation needed] By 1994, however, when DSM-IV was published, it had become ""social anxiety disorder"" and was now said to be extremely common.[citation needed] This process has been adverted to as a case study of ""disease-mongering"" in psychiatry.[4] One drug company product manager has been quoted as saying, ""Every marketer's dream is to find an unidentified or unknown market and develop it. That's what we were able to do with social anxiety disorder"".[5] On the other hand, the prevalence of social anxiety disorder could easily be underestimated or ignored because many people who fear and avoid social situations would find going to a doctor's office and asking for help extremely difficult.","very_long,semicolon_definition,web_text"
+Shyness as a psychiatric illness made its debut as ""social phobia"" in DSM-III in 1980, but was then described as rare.[citation needed] By 1994, however, when DSM-IV was published, it had become ""social anxiety disorder"" and was now said to be extremely common.[citation needed] This process has been adverted to as a case study of ""disease-mongering"" in psychiatry.[4] One drug company product manager has been quoted as saying, ""Every marketer's dream is to find an unidentified or unknown market and develop it. That's what we were able to do with social anxiety disorder"".[5] On the other hand, the prevalence of social anxiety disorder could easily be underestimated or ignored because many people who fear and avoid social situations would find going to a doctor's office and asking for help extremely difficult.","very_long,semicolon_definition,web_text,article_text"
 67586,mturk_file_9.csv,1473,thought,"For other uses, see Thought (disambiguation).
 ""Think"" redirects here. For other uses, see Think (disambiguation).
 Man thinking on a train journey.
@@ -5791,7 +5760,7 @@ Despite their similarity, psychological and sociological researchers tend to dif
 
 The collective unconscious, sometimes known as collective subconscious, is a term of analytical psychology, coined by Carl Jung. It is a part of the unconscious mind, shared by a society, a people, or all humanity, in an interconnected system that is the product of all common experiences and contains such concepts as science, religion, and morality. While Freud did not distinguish between an ""individual psychology"" and a ""collective psychology,"" Jung distinguished the collective unconscious from the personal subconscious particular to each human being. The collective unconscious is also known as ""a reservoir of the experiences of our species.""[16]
 
-In the ""Definitions"" chapter of Jung's seminal work Psychological Types, under the definition of ""collective"" Jung references representations collectives, a term coined by Lucien Lévy-Bruhl in his 1910 book How Natives Think. Jung says this is what he describes as the collective unconscious. Freud, on the other hand, did not accept the idea of a collective unconscious","very_long,semicolon_definition,web_text"
+In the ""Definitions"" chapter of Jung's seminal work Psychological Types, under the definition of ""collective"" Jung references representations collectives, a term coined by Lucien Lévy-Bruhl in his 1910 book How Natives Think. Jung says this is what he describes as the collective unconscious. Freud, on the other hand, did not accept the idea of a collective unconscious","very_long,semicolon_definition,web_text,article_text"
 67587,mturk_file_9.csv,1473,hoop,"Hoop may refer to:
 
     Hoop (rhythmic gymnastics) is one apparatus in Rhythmic Gymnastics
@@ -5822,7 +5791,19 @@ In the ""Definitions"" chapter of Jung's seminal work Psychological Types, under
     Loop (disambiguation)
     Ring (disambiguation)
     Red tape
-    Hoop Schwartz, a character from Stroker and Hoop",very_long
+    Hoop Schwartz, a character from Stroker and Hoop","very_long,article_text"
+67588,mturk_file_9.csv,1473,picket,"Picket may refer to:
+
+    Picketing (protest), a form of protest
+    A climbing tool used to anchor a rope
+    Picket fence
+    Screw picket, a tethering device
+    Picket line, to tether horses
+    Picket (military), a military formation
+    Picket, a piece in fairy chess
+    Picket Pool, a micro betting pool
+
+    Picquet, a medieval military punishment",article_text
 67589,mturk_file_9.csv,1473,monthly,"For the Egyptian hawk-god, see Monthu.
 
 A month is a unit of time, used with calendars, which was first used and invented in Mesopotamia, as a natural period related to the motion of the Moon; month and Moon are cognates. The traditional concept arose with the cycle of moon phases; such months (lunations) are synodic months and last approximately 29.53 days. From excavated tally sticks, researchers have deduced that people counted days in relation to the Moon's phases as early as the Paleolithic age. Synodic months, based on the Moon's orbital period, are still the basis of many calendars today, and are used to divide the year.
@@ -6401,6 +6382,19 @@ continuing or lasting for a month.","numbered_senses,long_duplicate"
 In biology, shy generally means ""tends to avoid human beings""; See crypsis. Shyness in gorillas manifests with ostensibly similar behavioral traits, but differs wholly from humans in cognition and motivation.",very_long
 67781,mturk_file_9.csv,1318,thought,"""Thought"" generally refers to any mental or intellectual activity involving an individual's subjective consciousness. It can refer either to the act of thinking or the resulting ideas or arrangements of ideas. Similar concepts include cognition, sentience, consciousness, and imagination.[1] Because thought underlies almost all human actions and interactions, understanding its physical and metaphysical origins, processes, and effects has been a longstanding goal of many academic disciplines including, among others, biology, philosophy, psychology, and sociology.
 Thinking allows beings to make sense of or model the world in different ways, and to represent or interpret it in ways that are significant to them, or which accord with their needs, attachments, objectives, plans, commitments, ends and desires.","very_long,web_text"
+67782,mturk_file_9.csv,1318,hoop,"Hoop may refer to:
+Hoop (rhythmic gymnastics) is one apparatus in Rhythmic Gymnastics
+Hoop (magazine), an American basketball magazine
+""Hoops"" (song), a song by Ruby
+Hoops (video game), a basketball video game
+Hooping, a modern subculture revolving around hoopdance
+Basketball or Hoops
+Celtic F.C. or the Hoops
+Shamrock Rovers F.C. or the Hoops
+Queens Park Rangers or the Hoops
+Shamrock Rovers Hoops, an Irish basketball club
+Hoop, part of a barrel
+HOOPS 3D Graphics System",article_text
 67783,mturk_file_9.csv,1318,picket,"Picket may refer to:
 Picketing (protest), a form of protest
 A climbing tool used to anchor a rope
@@ -6410,7 +6404,7 @@ Picket line, to tether horses
 Picket (military), a military formation
 Picket, a piece in fairy chess
 Picket Pool, a micro betting pool
-Picquet, a medieval military punishment",long_duplicate
+Picquet, a medieval military punishment","article_text,long_duplicate"
 67784,mturk_file_9.csv,1318,monthly,"A month is a unit of time, used with calendars, which was first used and invented in Mesopotamia, as a natural period related to the motion of the Moon; month and Moon are cognates. The traditional concept arose with the cycle of moon phases; such months (lunations) are synodic months and last approximately 29.53 days. From excavated tally sticks, researchers have deduced that people counted days in relation to the Moon's phases as early as the Paleolithic age. Synodic months, based on the Moon's orbital period, are still the basis of many calendars today, and are used to divide the year.","original_cleaning,very_long,semicolon_definition"
 67785,mturk_file_9.csv,774,shy,"lack of comfort, awkwardness,is related to humans,state of under confidence",original_cleaning
 67790,mturk_file_9.csv,1480,shy,"bashful, suspicious ( I am a bit shy of that sort of person), deficient ( shy of funds.), (in poker) indebted to the pot ,",original_cleaning
@@ -6457,16 +6451,9 @@ speculation, reflection, deliberation, cerebration, ideation, meditation, rumina
       A watchman
 
       patrolman, guard, union member,  sentry,",very_long
-67820,mturk_file_9.csv,874,something,"an unknown thing, some truth unspecified,undetermined,a certain indefinite thing",original_cleaning
-67824,mturk_file_9.csv,1454,cracker,"explosive device, large amount of noise, firecracker",original_cleaning
-67825,mturk_file_9.csv,1454,something,"little, no nothing",original_cleaning
-67829,mturk_file_9.csv,909,cracker,"it is mental,it is bursting things producing heat,it is thefting another things,it is negative thinking person,it is a thing and thinks.",original_cleaning
-67830,mturk_file_9.csv,909,something,"it is cycological thinking that act as real, it is imagination,it is  creativity,it is innovative.",original_cleaning
-67835,mturk_file_9.csv,843,something,unspecified thing,original_cleaning
-67840,mturk_file_9.csv,1360,something,"Anything unknown, undetermined, or not specifically designated; a certain indefinite thing; an indeterminate or unknown event;","original_cleaning,semicolon_definition"
+67840,mturk_file_9.csv,1360,something,"Anything unknown, undetermined, or not specifically designated; a certain indefinite thing; an indeterminate or unknown event;",semicolon_definition
 67844,mturk_file_9.csv,1472,cracker,"Crunchy savoury biscuit. 
 Christmas cracker  to pull at christmas.",original_cleaning
-67845,mturk_file_9.csv,1472,something,A thing or item.,original_cleaning
 67847,mturk_file_9.csv,1472,true,"Honest.
 Loyal.
 Monogamous.",original_cleaning
@@ -6505,7 +6492,6 @@ a daily record, usually private, especially of the writer's own experiences, obs
 a book for keeping such a record.
 3.
 a book or pad containing pages marked and arranged in calendar order, in which to note appointments and the like",numbered_senses
-67864,mturk_file_9.csv,1366,cracker,"snack food, crispy crunchy, usually eating with something else on top of it, like cheese for example.",original_cleaning
 67869,mturk_file_9.csv,831,cracker,"A thin crisp wafer or biscuit, usually made of unsweetened dough.
 2. One that cracks, especially:
 a. A firecracker.
@@ -6514,7 +6500,7 @@ c. The apparatus used in the cracking of petroleum.
 d. One who makes unauthorized use of a computer, especially to tamper with data or programs.
 3. Offensive
 a. Used as a disparaging term for a poor white person of the rural, especially southeast United States.
-b. Used as a disparaging term for a white person.",very_long
+b. Used as a disparaging term for a white person.","very_long,article_text"
 67870,mturk_file_9.csv,831,something,"An undetermined or unspecified thing: ""We're all recalling something, furtively seeking something"" (Virginia Woolf).
 2. An unspecified or undetermined amount or extent: We know something about the early settlers in this area.
 3. One having some or many of the same attributes, character, or essence as another: Trying to fix the computer myself was something of a mistake.
@@ -6540,7 +6526,7 @@ b. Truthful.
 4. Faithful, as to a friend, vow, or cause; loyal. See Synonyms at faithful.
 5. Sincerely felt or expressed; unfeigned: true grief.
 6. Fundamental; essential: his true motive.
-7. Rightful; legitimate: the true heir.",semicolon_definition
+7. Rightful; legitimate: the true heir.","semicolon_definition,article_text"
 67873,mturk_file_9.csv,831,diary,"a·ries
 1. A daily record, especially a personal record of events, experiences, and observations; a journal.
 2. A book for use in keeping a personal record, as of experiences.",numbered_senses
@@ -6585,7 +6571,7 @@ Crackers (Foster's Home for Imaginary Friends)
 Crackers International, an EP released by Erasure in 1988, in between the albums The Innocents and Wild!
 Crackers (Captain Underpants)
 Crackers – The Christmas Party Album, an album by the British glam rock band Slade
-Crackers – Accountant., may have been killed by Jennings for killing Adam the parrot.",very_long
+Crackers – Accountant., may have been killed by Jennings for killing Adam the parrot.","very_long,article_text"
 67880,mturk_file_9.csv,1318,something,"""Something"" is a song by The Beatles, written by lead guitarist George Harrison in 1969. It was featured on the album Abbey Road, and was also the first song written by Harrison to appear on the A-side of a Beatles' single. It was one of the first Beatles' singles to contain tracks already available on a long playing (LP) album, with both ""Something"" and ""Come Together"" having appeared on Abbey Road. ""Something"" was the only Harrison composition to top the American charts while he was in The Beatles.
 John Lennon and Paul McCartney, the band's principal songwriters, both praised ""Something"" as among the best songs Harrison had written, or the group had to offer. As well as critical acclaim, the single achieved commercial success, topping the Billboard charts in the United States, and entering the top 10 in the United Kingdom. The song has been covered by over 150 artists including Elvis Presley, Shirley Bassey, Frank Sinatra, Tony Bennett, James Brown, Julio Iglesias, The Miracles, Eric Clapton, and Joe Cocker, and is the second-most covered Beatles' song after ""Yesterday"". Harrison is quoted as saying that his favourite cover of the song was James Brown's, and he kept Brown's version in his personal jukebox.",very_long
 67881,mturk_file_9.csv,1318,shove,"1
@@ -6688,6 +6674,7 @@ Whilst a diary may provide information for a memoir, autobiography or biography,
 67894,mturk_file_9.csv,825,cracker,"breaker, fracture",original_cleaning
 67895,mturk_file_9.csv,825,something,"anything, great, amazing",original_cleaning
 67899,mturk_file_9.csv,1303,cracker,One that cracks,original_cleaning
+67900,mturk_file_9.csv,1303,something,a certain indefinite thing,original_cleaning
 67904,mturk_file_9.csv,774,cracker,"is edible, is dry and thin, is a kind of biscuit",original_cleaning
 67905,mturk_file_9.csv,774,something,"One thing, not specific,in general, used in broad term",original_cleaning
 67909,mturk_file_9.csv,823,cracker,"Cracker:-wafer, soda cracker, oyster cracker,  cream cracker, hardtack, sea biscuit, cookie",original_cleaning
@@ -6712,9 +6699,9 @@ Whilst a diary may provide information for a memoir, autobiography or biography,
 67954,mturk_file_9.csv,951,cracker,"diwali,light,sound,pollution,burst,happiness,celebration.",original_cleaning
 67955,mturk_file_9.csv,951,something,"light,small,large,great,big,small.",original_cleaning
 67959,mturk_file_9.csv,792,cracker,one which burst with sound when lit,original_cleaning
-67960,mturk_file_9.csv,792,something,unspecified thing,original_cleaning
 67964,mturk_file_9.csv,806,cracker,"a thin, crisp biscuit",original_cleaning
 67965,mturk_file_9.csv,806,something,anything unknown,original_cleaning
+67969,mturk_file_9.csv,1474,cracker,"redneck, biscuit, eat with cheese",original_cleaning
 67970,mturk_file_9.csv,1474,something,"object, a thing",original_cleaning
 67974,mturk_file_9.csv,1475,cracker,"a thin, crisp biscuit.",original_cleaning
 67975,mturk_file_9.csv,1475,something,a certain undetermined or unspecified thing.,original_cleaning
@@ -6761,7 +6748,7 @@ Whilst a diary may provide information for a memoir, autobiography or biography,
     Crackers International, an EP released by Erasure in 1988, in between the albums The Innocents and Wild!
     Crackers (Captain Underpants)
     Crackers – The Christmas Party Album, an album by the British glam rock band Slade
-    Crackers – Accountant., may have been killed by Jennings for killing Adam the parrot.",very_long
+    Crackers – Accountant., may have been killed by Jennings for killing Adam the parrot.","very_long,article_text"
 67980,mturk_file_9.csv,1473,something,"This article is about the song by The Beatles. For other uses, see Something (disambiguation).
 ""Something In The Way She Moves"" redirects here. For the song by James Taylor, see James Taylor (album)#Track listing.
 ""Something""
@@ -6877,7 +6864,7 @@ The Beatles
 Additional personnel
 
     George Martin – string arrangement
-    Billy Preston – Hammond organ","very_long,semicolon_definition,web_text"
+    Billy Preston – Hammond organ","very_long,semicolon_definition,web_text,article_text"
 67981,mturk_file_9.csv,1473,shove,"The page ""Shove"" does not exist. You can ask for it to be created, but consider checking the search results below to see whether the topic is already covered.
 For search help, please visit Help:Searching.
 
@@ -7001,7 +6988,7 @@ For search help, please visit Help:Searching.
     2 KB (275 words) - 03:59, 2 March 2010
     David Allan Coe
     and Shove It ,"" which was later covered by Johnny Paycheck that was later a hit movie (both Coe and Paycheck had minor parts in the film). ...
-    18 KB (2,412 words) - 15:11, 16 November 2011",very_long
+    18 KB (2,412 words) - 15:11, 16 November 2011","very_long,article_text"
 67982,mturk_file_9.csv,1473,true,"TRUE, formerly known as David John Riggins (b.1968, Los Angeles, CA.) is an American artist of German-Russian, African-American, and Blackfoot descent who lives and works in New York City.[1] He moved to New York in 1991 to study art and child psychology at Sarah Lawrence College, and then transferred to The Art School of The Cooper Union for the Advancement of Science and Art (BFA, 1996). He began using the word “TRUE” in place of his birth name in the mid-1990s.[2] His work incorporates elements of illustration, character design, computer animation, and graphic design.
 
 He first gained international notoriety for a series of non-permissional site-specific “guerrilla” installations on the streets of Los Angeles and New York City[3], and in NYC’s subway system[4] (1993–1994), which were done under the pseudonym “str8up” (pronounced “straight up”). The impetus for these projects was the belief that the “Art World” was circumscribed and elitist, and that greater meaning could be infused into a work by taking a populist approach.[5]
@@ -7127,28 +7114,18 @@ a daily record, usually private, especially of the writer's own experiences, obs
 a book for keeping such a record.
 3.
 a book or pad containing pages marked and arranged in calendar order, in which to note appointments and the like.","numbered_senses,long_duplicate"
-68054,mturk_file_9.csv,864,cracker,"one that crack,especially",original_cleaning
 68055,mturk_file_9.csv,864,something,"anything unknown , undetermined, or not specifically designated",original_cleaning
 68060,mturk_file_9.csv,1504,something,It is a word that denotes existence of some product or matter.,original_cleaning
 68065,mturk_file_9.csv,1262,something,unspecified or unknown thing.,original_cleaning
-68069,mturk_file_9.csv,1469,cracker,"a thin crisp biscuit, a small exploding firework:fire crackers.",original_cleaning
 68070,mturk_file_9.csv,1469,something,"a thin not known or not stated:a thin of importance,there's something in what you say.",original_cleaning
-68074,mturk_file_9.csv,1476,cracker,"a salty biscuit, baked, make out of flour",original_cleaning
 68075,mturk_file_9.csv,1476,something,"anything, one of many",original_cleaning
-68079,mturk_file_9.csv,903,cracker,"firework,biscuit",original_cleaning
 68080,mturk_file_9.csv,903,something,"things not specified,",original_cleaning
-68084,mturk_file_9.csv,770,cracker,"A thin crisp wafer or biscuit, usually made of unsweetened dough,One that cracks, especially",original_cleaning
 68085,mturk_file_9.csv,770,something,"An undetermined or unspecified thing, An unspecified or undetermined amount or extent",original_cleaning
-68089,mturk_file_9.csv,822,cracker,a person or device that cracks,original_cleaning
 68090,mturk_file_9.csv,822,something,"a thing that is not definitely known, understood, or identified",original_cleaning
-68094,mturk_file_9.csv,1464,cracker,a crispt material that can be added to various soups or eaten with cheese or simply by itself,original_cleaning
 68095,mturk_file_9.csv,1464,something,an object of some nature than can can be seen or felt,original_cleaning
-68099,mturk_file_9.csv,1277,cracker,"One who, or that which, cracks.",original_cleaning
 68100,mturk_file_9.csv,1277,something,"Anything unknown, undetermined, or not specifically designated; a certain indefinite thing; an indeterminate or unknown event; an unspecified task, work, or thing.","original_cleaning,semicolon_definition"
 68101,mturk_file_9.csv,1277,shove,"To drive along by the direct and continuous application of strength; to push; especially, to push (a body) so as to make it move along the surface of another body; as, to shove a boat on the water; to shove a table across the floor.",semicolon_definition
-68104,mturk_file_9.csv,1477,cracker,a thin crisp biscuit or a firecracker,original_cleaning
 68105,mturk_file_9.csv,1477,something,an additional amount,original_cleaning
-68109,mturk_file_9.csv,1478,cracker,creates noise pollution,original_cleaning
 68110,mturk_file_9.csv,1478,something,is better than nothing.,original_cleaning
 68116,mturk_file_9.csv,1500,shove,"to move along by force from behind; push.
 2.
@@ -7351,7 +7328,7 @@ Me (mythology), a Sumerian cultural belief
 Methodist Episcopal Church
 Middle English, a historic phase of the English language
 Me: Stories of My Life, a book by Katharine Hepburn
-Maritime Enforcement Specialist, a U.S. Coast Guard rating",very_long
+Maritime Enforcement Specialist, a U.S. Coast Guard rating","very_long,article_text"
 68411,mturk_file_9.csv,1318,moon,"The Moon is Earth's only known natural satellite,[nb 4][6] and the fifth largest satellite in the Solar System. It is the largest natural satellite of a planet in the Solar System relative to the size of its primary, having a quarter the diameter of Earth and 1⁄81 its mass.[nb 5] The Moon is the second densest satellite after Io, a satellite of Jupiter. It is in synchronous rotation with Earth, always showing the same face; the near side is marked with dark volcanic maria among the bright ancient crustal highlands and prominent impact craters. It is the brightest object in the sky after the Sun, although its surface is actually very dark, with a similar reflectance to coal. Its prominence in the sky and its regular cycle of phases have since ancient times made the Moon an important cultural influence on language, calendars, art and mythology. The Moon's gravitational influence produces the ocean tides and the minute lengthening of the day. The Moon's current orbital distance, about thirty times the diameter of the Earth, causes it to appear almost the same size in the sky as the Sun, allowing it to cover the Sun nearly precisely in total solar eclipses.
 The Moon is the only celestial body on which humans have landed. While the Soviet Union's Luna programme was the first to reach the Moon with unmanned spacecraft in 1959, the United States' NASA Apollo program achieved the only manned missions to date, beginning with the first manned lunar orbiting mission by Apollo 8 in 1968, and six manned lunar landings between 1969 and 1972—the first being Apollo 11. These missions returned over 380 kg of lunar rocks, which have been used to develop a detailed geological understanding of the Moon's origins (it is thought to have formed some 4.5 billion years ago in a giant impact event involving Earth), the formation of its internal structure, and its subsequent history.
 After the Apollo 17 mission in 1972, the Moon has been visited only by unmanned spacecraft, notably by the final Soviet Lunokhod rover. Since 2004, Japan, China, India, the United States, and the European Space Agency have each sent lunar orbiters. These spacecraft have contributed to confirming the discovery of lunar water ice in permanently shadowed craters at the poles and bound into the lunar regolith. Future manned missions to the Moon have been planned, including government as well as privately funded efforts. The Moon remains, under the Outer Space Treaty, free to all nations to explore for peaceful purposes.","very_long,web_text"
@@ -7366,6 +7343,20 @@ Many schools of thought have debated the idea of duty. While many assert mankind
 68413,mturk_file_9.csv,1318,aluminum,"Aluminium or aluminum is a silvery white member of the boron group of chemical elements. It has the symbol Al, and its atomic number is 13. It is not soluble in water under normal circumstances. Aluminium is the third most abundant element (after oxygen and silicon), and the most abundant metal, in the Earth's crust. It makes up about 8% by weight of the Earth's solid surface. Aluminium metal is too reactive chemically to occur natively. Instead, it is found combined in over 270 different minerals.[4] The chief ore of aluminium is bauxite.
 Aluminium is remarkable for the metal's low density and for its ability to resist corrosion due to the phenomenon of passivation. Structural components made from aluminium and its alloys are vital to the aerospace industry and are important in other areas of transportation and structural materials. The most useful compounds of aluminium, at least on a weight basis, are the oxides and sulfates.
 Despite its prevalence in the environment, aluminium salts are not known to be used by any form of life. In keeping with its pervasiveness, it is well tolerated by plants and animals.[5] Because of their prevalence, potential biological roles, beneficial and otherwise, aluminium compounds are of continuing interest.","very_long,web_text"
+68414,mturk_file_9.csv,831,guilt,"a. The fact of being responsible for the commission of an offense. See Synonyms at blame.
+b. Law The fact of having been found to have violated a criminal law; legal culpability.
+c. Responsibility for a mistake or error.
+2.
+a. Remorseful awareness of having done something wrong.
+b. Self-reproach for supposed inadequacy or wrongdoing.
+tr.v. guilt·ed, guilt·ing, guilts
+To make or try to make (someone) feel guilty.",article_text
+68415,mturk_file_9.csv,831,me,"also Me. Maine
+2.
+a. mechanical engineer
+b. mechanical engineering
+3. medical examiner
+4. Middle English",article_text
 68416,mturk_file_9.csv,831,moon,"often Moon The natural satellite of Earth, visible by reflection of sunlight and having a slightly elliptical orbit, approximately 356,000 kilometers (221,600 miles) distant at perigee and 406,997 kilometers (252,950 miles) at apogee. Its mean diameter is 3,475 kilometers (2,160 miles), its mass approximately one eightieth that of Earth, and its average period of revolution around Earth 29 days 12 hours 44 minutes calculated with respect to the sun.
 2. A natural satellite revolving around a planet.
 3. The moon as it appears at a particular time in its cycle of phases: a gibbous moon.
@@ -7384,7 +7375,7 @@ b. The compulsion felt to meet such obligation.
 6.
 a. The work performed by a machine under specified conditions.
 b. A measure of efficiency expressed as the amount of work done per unit of energy used.
-7. The total volume of water required to irrigate a given area in order to cultivate a specific crop until harvest.",very_long
+7. The total volume of water required to irrigate a given area in order to cultivate a specific crop until harvest.","very_long,article_text"
 68418,mturk_file_9.csv,831,aluminum,"A silvery-white, ductile metallic element, the most abundant in the earth's crust but found only in combination, chiefly in bauxite. Having good conductive and thermal properties, it is used to form many hard, light, corrosion-resistant alloys. Atomic number 13; atomic weight 26.98; melting point 660.2°C; boiling point 2,467°C; specific gravity 2.69; valence 3. See Table at element.",semicolon_definition
 68429,mturk_file_9.csv,1466,close,Close means near and close means To shut,original_cleaning
 68432,mturk_file_9.csv,1466,doughnut,means dought,original_cleaning
@@ -7401,7 +7392,7 @@ Other:
 ""Close"", a common stair or entryway in a Scottish tenement
 close() – a low level IO function on file descriptor in C programming
 Closing (real estate)
-close, old English term for an estate, as in a close of land",very_long
+close, old English term for an estate, as in a close of land","very_long,article_text"
 68435,mturk_file_9.csv,1318,ocean,"An ocean (from Greek Ὠκεανὸς, ""okeanos"" Oceanus
 ) is a major body of saline water, and a principal component of the hydrosphere. Approximately 71% of the Earth's surface (~3.6×108 km2
 ) is covered by ocean, a continuous body of water that is customarily divided into several principal oceans and smaller seas.
@@ -7414,7 +7405,7 @@ Advice in aspect-oriented programming, a piece of code executed when a join poin
 Pay advice, also known as pay slip
 Legal advice, the giving of a formal and binding opinion regarding the substance or procedure of the law
 Advice column, a regular feature on a website or in a newspaper or magazine
-Advice, a single by Christina Grimmie",very_long
+Advice, a single by Christina Grimmie","very_long,article_text"
 68437,mturk_file_9.csv,1318,doughnut,"A doughnut or donut ( /ˈdoʊnət/ or /ˈdoʊnʌt/) is a fried dough food and is popular in many countries and prepared in various forms as a sweet (or occasionally savory) snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty outlets. They are usually sweet, deep-fried from a flour dough, and shaped in rings or flattened spheres that sometimes contain fillings. Other types of dough such as potato can also be used as well as other batters, and various toppings and flavorings are used for different types.
 The two most common types are the toroidal ring doughnut and the filled doughnut, a flattened sphere injected with jam (or jelly), cream, custard, or other sweet fillings. A small spherical piece of dough may be cooked as a doughnut hole. Baked doughnuts are a variation cooked in an oven instead of being deep fried. Doughnut varieties are also divided into cake and risen type doughnuts.
 Various doughnut incarnations are popular around the globe. Shapes include rings, balls, and flattened spheres, as well as ear shapes, twists and other forms. Not all doughnuts are sweet: in Southern India for instance, savory doughnuts called vadai are served.",very_long
@@ -7601,17 +7592,9 @@ deterrent example, object lesson, lesson, example - punishment intended as a war
 3. One or more sheets of paper bearing writing or printing, especially:
 a. A formal written composition intended to be published, presented, or read aloud; a scholarly essay or treatise.
 b. A piece of written work for school; a report or theme.
-c. An official document, especially one establishing the identity of the bearer. Often used in the plural.","very_long,semicolon_definition"
+c. An official document, especially one establishing the identity of the bearer. Often used in the plural.","very_long,semicolon_definition,article_text"
+68651,mturk_file_9.csv,950,doughnut,"doughnut varieties, Food, Disambiguation",article_text
 68655,mturk_file_9.csv,1277,advice,"An opinion recommended or offered, as worthy to be followed; counsel.",long_duplicate
-68718,mturk_file_9.csv,1512,soda,"beverage, carbonated water, fizzy drink",original_cleaning
-68728,mturk_file_9.csv,970,soda,"Carbon-die-oxide,for digestion,a relief drink,sometimes with alcohol.",original_cleaning
-68733,mturk_file_9.csv,1282,soda,"pop, coke, drink, refreshment, bubbly",original_cleaning
-68738,mturk_file_9.csv,1513,soda,"bubbly, drink, related to softdrinks, sweet",original_cleaning
-68743,mturk_file_9.csv,778,soda,have water+salt,original_cleaning
-68748,mturk_file_9.csv,786,soda,"softdrinks , carbonated drinks",original_cleaning
-68758,mturk_file_9.csv,1497,soda,drinks,original_cleaning
-68773,mturk_file_9.csv,1454,soda,"CARBONATED WATER, BEVERAGE PRODUCT, SODIUM CARBONATE, SALTINE",original_cleaning
-68783,mturk_file_9.csv,806,soda,sodium hydroxide.,original_cleaning
 68788,mturk_file_9.csv,831,soda,"A soft drink (also called soda, pop, coke,[1] soda pop, fizzy drink, tonic, or carbonated beverage) is a non-alcoholic beverage that typically contains water (often, but not always carbonated water), a sweetener, and a flavoring agent. The sweetener may be sugar, high-fructose corn syrup, or a sugar substitute (in the case of diet drinks).
 A soft drink may also contain caffeine or fruit juice, or both.
 Examples of beverages not considered to be soft drinks are: pure juice, hot chocolate, tea, coffee, milk, and milkshakes. Beverages like Gatorade and Powerade may meet the definition of a soft drink but are usually called sports drinks.
@@ -7621,6 +7604,9 @@ Soft drinks may be served chilled or at room temperature. They are rarely heated
 68789,mturk_file_9.csv,831,in,"The INRegistry has been created by NIXI, the National Internet eXchange of India. NIXI is a Not-for-Profit Company under Section 25 of the Indian Companies Act, 1956, with the objective of facilitating improved Internet services in the country.
 
 Under NIXI, the INRegistry functions as an autonomous body with primary responsibility for maintaining the .IN ccTLD and ensuring its operational stability, reliability, and security. It will implement the various elements of the new policy set out by the Government of India and its Ministry of Communications and Information Technology, Department of Information Technology.",very_long
+68790,mturk_file_9.csv,831,winner,"Winner(s) or The Winner(s) may refer to:
+Champion, the victor in a challenge or contest.
+.",article_text
 68791,mturk_file_9.csv,831,noise,"Sound or a sound that is loud, unpleasant, unexpected, or undesired.
 b. Sound or a sound of any kind: The only noise was the wind in the pines.
 2. A loud outcry or commotion: the noise of the mob; a lot of noise over the new law.
@@ -7629,7 +7615,15 @@ b. Sound or a sound of any kind: The only noise was the wind in the pines.
 5. Informal
 a. A complaint or protest.
 b. Rumor; talk.
-c. noises Remarks or actions intended to convey a specific impression or to attract attention: ""The U.S. is making appropriately friendly noises to the","very_long,semicolon_definition"
+c. noises Remarks or actions intended to convey a specific impression or to attract attention: ""The U.S. is making appropriately friendly noises to the","very_long,semicolon_definition,article_text"
+68792,mturk_file_9.csv,831,legend,"a. An unverified story handed down from earlier times, especially one popularly believed to be historical.
+b. A body or collection of such stories.
+c. A romanticized or popularized myth of modern times.
+2. One that inspires legends or achieves legendary fame.
+3.
+a. An inscription or a title on an object, such as a coin.
+b. An explanatory caption accompanying an illustration.
+c. An explanatory table or list of the symbols appearing on a map or chart.",article_text
 68793,mturk_file_9.csv,1312,soda,"water, gas water, water filled with carbon dioxide, stops thirst, gives cool, soda water",original_cleaning
 68798,mturk_file_9.csv,774,soda,"a drink, a compound of sodium, soda water, is liquid",original_cleaning
 68803,mturk_file_9.csv,1514,soda,"carbonated water, water in which carbon dioxide gas is dissolved, used for making soft drinks, used along with whiskey or rum.",original_cleaning
@@ -7660,6 +7654,7 @@ in the act of, during the process of, while occupied with; see during, meanwhile
 68873,mturk_file_9.csv,1353,soda,"Carbonated water, A sweet Drink, Sodium carbonate, Sodium Bicarbonate is baking soda",original_cleaning
 68878,mturk_file_9.csv,1261,soda,"carbonated drink, liquid, drink, gas rich drink",original_cleaning
 68883,mturk_file_9.csv,1517,soda,"carbonated water,chemically combined sodium; washing soda",original_cleaning
+68888,mturk_file_9.csv,1509,soda,"a carbonated, sugary beverage",original_cleaning
 68893,mturk_file_9.csv,819,soda,"colourless,gas,fizzy,cool,fresh,drink",original_cleaning
 68898,mturk_file_9.csv,1483,soda,"drink, mixer, pop, seltzer, tonic",original_cleaning
 68903,mturk_file_9.csv,1318,soda,"Carbonated water, also known as ""soda water""",original_cleaning
@@ -7962,14 +7957,14 @@ d. The back part of the hindquarter of a meat animal.
 6. A stage of a journey or course, especially:
 a. Nautical The distance traveled by a sailing vessel on a single tack.
 b. The part of an air route or a flight pattern that is between two successive stops, positions, or changes in direction.
-c. One of several contests that must be successfully completed in order to determine the winner of a competition.",very_long
+c. One of several contests that must be successfully completed in order to determine the winner of a competition.","very_long,article_text"
 69174,mturk_file_9.csv,831,can,"a. Used to indicate physical or mental ability: I can carry both suitcases. Can you remember the war?
 b. Used to indicate possession of a specified power, right, or privilege: The President can veto congressional bills.
 c. Used to indicate possession of a specified capability or skill: I can tune the harpsichord as well as play it.
 2.
 a. Used to indicate possibility or probability: I wonder if my long lost neighbor can still be alive. Such things can and do happen.
 b. Used to indicate that which is permitted, as by conscience or feelings: One can hardly blame you for being upset.
-c. Used to indicate probability or possibility under the specified circumstances: They can hardly have intended to do that.",very_long
+c. Used to indicate probability or possibility under the specified circumstances: They can hardly have intended to do that.","very_long,article_text"
 69176,mturk_file_9.csv,831,preview,"An advance showing, as of a movie or art exhibition, to which a selected audience is invited before public presentation begins.
 2. An advance viewing or exhibition, especially the presentation of several scenes advertising a forthcoming movie; a trailer.
 3. An introductory or preliminary message, sample, or overview; a foretaste.
@@ -7984,6 +7979,16 @@ advanced, au courant, brand-new, contemporary, current, cutting-edge, dewy, diff
 69238,mturk_file_9.csv,1318,legs,"A leg is a weight bearing and locomotive structure, usually having a columnar shape. During locomotion, legs function as ""extensible struts""[1] - the combination of movements at all joints can be modeled as a single, linear element capable of changing length and rotating about an omnidirectional ""hip"" joint.
 As an anatomical animal structure it is used for locomotion. The distal end is often modified to distribute force (such as a foot). Most animals have an even number of legs.
 As a component of furniture it is used for the economy of materials needed to provide the support for the useful surface, the table top or chair seat.","very_long,web_text"
+69239,mturk_file_9.csv,1318,can,"Can may refer to:
+
+Container
+
+Aluminum can
+Steel can, an airtight tinplate container for storing food and other predominantly liquid products
+Beverage can, a can designed to hold a single serving of a beverage
+Oil can
+Canning, a process of preserving food
+Canister",article_text
 69240,mturk_file_9.csv,1318,tornado,"A tornado is a violent, dangerous, rotating column of air that is in contact with both the surface of the earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud. They are often referred to as a twister or a cyclone, although the word cyclone is used in meteorology in a wider sense, to name any closed low pressure circulation. Tornadoes come in many shapes and sizes, but are typically in the form of a visible condensation funnel, whose narrow end touches the earth and is often encircled by a cloud of debris and dust. Most tornadoes have wind speeds less than 110 miles per hour (177 km/h), are approximately 250 feet (80 m) across, and travel a few miles (several kilometers) before dissipating. The most extreme tornadoes can attain wind speeds of more than 300 mph (480 km/h), stretch more than two miles (3 km) across, and stay on the ground for dozens of miles (more than 100 km).
 Various types of tornadoes include the landspout, multiple vortex tornado, and waterspout. Waterspouts are characterized by a spiraling funnel-shaped wind current, connecting to a large cumulus or cumulonimbus cloud. They are generally classified as non-supercellular tornadoes that develop over bodies of water. These spiraling columns of air frequently develop in tropical areas close to the equator, and are less common at high latitudes. Other tornado-like phenomena that exist in nature include the gustnado, dust devil, fire whirls, and steam devil.
 Tornadoes have been observed on every continent except Antarctica. However, the vast majority of tornadoes in the world occur in the Tornado Alley region of the United States, although they can occur nearly anywhere in North America. They also occasionally occur in south-central and eastern Asia, the Philippines, south east Asia, like Malaysia, northern and east-central South America, Southern Africa, northwestern and southeast Europe, western and southeastern Australia, and New Zealand. Tornadoes can be detected before or as they occur through the use of Pulse-Doppler radar by recognizing patterns in velocity and reflectivity data, such as hook echoes, as well as by the efforts of storm spotters.
@@ -8151,7 +8156,10 @@ c. A joking mood or attitude: She made the remark in sport.
 5.
 a. One known for the manner of one's acceptance of rules, especially of a game, or of a difficult situation: a poor sport.
 b. Informal One who accepts rules or difficult situations well.
-c. Informal A pleasant companion: was a real sport during the trip.","very_long,semicolon_definition"
+c. Informal A pleasant companion: was a real sport during the trip.","very_long,semicolon_definition,article_text"
+69509,mturk_file_9.csv,831,hamburger,"a. Ground meat, usually beef.
+b. A patty of such meat.
+2. A sandwich made with a patty of ground meat usually in a roll or bun.",article_text
 69510,mturk_file_9.csv,831,follower,"One who subscribes to the teachings or methods of another; an adherent: a follower of Gandhi.
 2. A servant; a subordinate.
 3. A fan; an enthusiast.
@@ -8164,6 +8172,13 @@ invisible, unseeable - impossible or nearly impossible to see; imperceptible by 
 secret
 concealed - hidden on any grounds for any motive; ""a concealed weapon""; ""a concealed compartment in his briefcase""
 3.	hidden - difficult to find; ""hidden valleys""; ""a hidden cave""; ""an obscure retreat""","very_long,semicolon_definition"
+69512,mturk_file_9.csv,831,leaf,"A usually green, flattened, lateral structure attached to a stem and functioning as a principal organ of photosynthesis and transpiration in most plants.
+2. A leaflike organ or structure.
+3.
+a. Leaves considered as a group; foliage.
+b. The state or time of having or showing leaves: trees in full leaf.
+4. The leaves of a plant used or processed for a specific purpose: large supplies of tobacco leaf.
+5. Any of the sheets of paper bound in a book, each side of which constitutes a page.",article_text
 69518,mturk_file_9.csv,1496,sport,"Physical activity, physical exertion and skill that is governed by a set of rules or customs and often undertaken competitively, An active pastime; recreation, A person who lives a jolly, extravagant life, Amorous dalliance; lovemaking,To play or frolic,To joke or trifle",semicolon_definition
 69520,mturk_file_9.csv,1496,follower,"One who subscribes to the teachings or methods of another; an adherent, A servant; a subordinate, A fan; an enthusiast,One that imitates or copies another,A machine element moved by another machine element,a person who accepts the teachings of another; disciple; adherent, an attendant or henchman,an enthusiast or supporter, as of a sport or team, a male admirer, Rare a pursuer, (Engineering / Mechanical Engineering) a machine part that derives its motion by following the motion of another part",semicolon_definition
 69521,mturk_file_9.csv,1496,hidden,"A past participle of hide,concealed or obscured,not accessible to view; ""concealed (or hidden) damage""; ""in stormy weather the stars are out of sight"",designed to elude detection; ""a hidden room or place of concealment such as a priest hole""; ""a secret passage""; ""the secret compartment in the desk"", difficult to find; ""hidden valleys""; ""a hidden cave""; ""an obscure retreat"",secret, veiled, dark, mysterious, obscure, mystical, mystic, shrouded, occult, latent, cryptic, hermetic, ulterior, abstruse, recondite, hermetical,concealed, covered, secret, covert, unseen, clandestine, secreted, under wraps, unrevealed.","original_cleaning,very_long,semicolon_definition"
@@ -8221,7 +8236,7 @@ In songs:
 ""Again"", by Yui Sakakibara
 ""Again"", by Shizuka Kudo
 In video games:
-""Again"" (video game), a 2009 adventure game for the Nintendo DS",very_long
+""Again"" (video game), a 2009 adventure game for the Nintendo DS","very_long,article_text"
 69674,mturk_file_9.csv,1318,love,"The word ""love"" can have a variety of related but distinct meanings in different contexts. Often, other languages use multiple words to express some of the different concepts that English relies mainly on ""love"" to encapsulate; one example is the plurality of Greek words for ""love."" Cultural differences in conceptualizing love thus make it doubly difficult to establish any universal definition.
 Although the nature or essence of love is a subject of frequent debate, different aspects of the word can be clarified by determining what isn't love. As a general expression of positive sentiment (a stronger form of like), love is commonly contrasted with hate (or neutral apathy); as a less sexual and more emotionally intimate form of romantic attachment, love is commonly contrasted with lust; and as an interpersonal relationship with romantic overtones, love is sometimes contrasted with friendship, although the word love is often applied to close friendships.
 
@@ -8242,6 +8257,14 @@ Quantitatively, temperature is measured with thermometers, which may be calibrat
 
 Thermal vibration of a segment of protein alpha helix. The amplitude of the vibrations increases with temperature.
 Temperature plays an important role in all fields of natural science, including physics, geology, chemistry, atmospheric sciences and biology.",very_long
+69677,mturk_file_9.csv,1318,tired,"Tired may refer to:
+Fatigue (medical), a feeling of exhaustion
+""Tired"", a song by Rollins Band on Weight from 1994
+""Tired"", a song by Willa Ford on Willa Was Here from 2001
+""Tired"", a song by LCD Soundsystem on LCD Soundsystem from 2005
+""Tired"", a song by Adele on 19 from 2007
+""Tired"", a song originally performed by Tabitha's Secret, covered by Matchbox Twenty
+Tired (EP), a 2002 EP by Monkey Majik",article_text
 69702,mturk_file_9.csv,1529,tired,"To diminish the strength, to exhaust the interest/patience",original_cleaning
 69709,mturk_file_9.csv,957,love,"a profoundly tender, passionate affection for another person,a feeling of warm personal attachment or deep affection, as for a parent, child, or friend,sexual passion or desire,a person toward whom love is felt; beloved person; sweetheart,",semicolon_definition
 69712,mturk_file_9.csv,957,tired,"exhausted, as by exertion; fatigued or sleepy,weary or bored,hackneyed; stale, as a joke, phrase, or sermon, impatient or disgusted.",semicolon_definition
@@ -8325,7 +8348,7 @@ In songs:
 
 In video games:
 
-    ""Again"" (video game), a 2009 adventure game for the Nintendo DS","very_long,long_duplicate"
+    ""Again"" (video game), a 2009 adventure game for the Nintendo DS","very_long,article_text,long_duplicate"
 69834,mturk_file_9.csv,1473,love,"Love is an emotion of strong affection and personal attachment.[1] In philosophical context, love is a virtue representing all of human kindness, compassion, and affection. Love is central to many religions, as in the Christian phrase, ""God is love"" or Agape in the Canonical gospels.[2] Love may also be described as actions towards others (or oneself) based on compassion, or as actions towards others based on affection.[3]
 
 In English, love refers to a variety of different feelings, states, and attitudes, ranging from pleasure (""I loved that meal"") to interpersonal attraction (""I love my partner""). ""Love"" may refer specifically to the passionate desire and intimacy of romantic love, to the sexual love of eros, to the emotional closeness of familial love, or the platonic love that defines friendship,[4] to the profound oneness or devotion of religious love.[5] This diversity of uses and meanings, combined with the complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to other emotional states.
@@ -8826,7 +8849,11 @@ b. Sexual intercourse.
 c. A love affair.
 4. An intense emotional attachment, as for a pet or treasured object.
 5. A person who is the object of deep or intense affection or attraction; beloved. Often used as a term of endearment.
-6. An expression of one's affection: Send him my love.","original_cleaning,very_long,semicolon_definition"
+6. An expression of one's affection: Send him my love.","original_cleaning,very_long,semicolon_definition,article_text"
+69900,mturk_file_9.csv,831,tired,"1.
+a. Exhausted of strength or energy; fatigued.
+b. Impatient; bored: tired of the same old sandwiches.
+2. Overused; hackneyed: a tired joke.",article_text
 69916,mturk_file_9.csv,1345,wine,"Mauve, lilac, lavender, violet, plum, amethyst",original_cleaning
 69921,mturk_file_9.csv,1310,wine,"1.
 the fermented juice of grapes, made in many varieties, such as red, white, sweet, dry, still, and sparkling, for use as a beverage, in cooking, in religious rites, etc., and usually having an alcoholic content of 14 percent or less.
@@ -9144,7 +9171,7 @@ In computing and technology:
     layer (object-oriented design)
     DVD layer, such as in DVD Dual layer recording
     Layer (HTML tag) a deprecated <iframe>-like tag, unique to Netscape 4 browsers
-    A layer of objects in CAD",very_long
+    A layer of objects in CAD","very_long,article_text"
 69968,mturk_file_9.csv,957,song,"a short metrical composition intended or adapted for singing,  especially one in rhymed stanzas; a lyric; a ballad,poetical composition,a musical piece adapted for singing  or simulating a piece to be sung.",semicolon_definition
 70011,mturk_file_9.csv,1318,wine,"Wine is an alcoholic beverage, made of fermented fruit juice, usually from grapes.[1] The natural chemical balance of grapes lets them ferment without the addition of sugars, acids, enzymes, or other nutrients.[2] Grape wine is produced by fermenting crushed grapes using various types of yeast. Yeast consumes the sugars in the grapes and converts them into alcohol. Different varieties of grapes and strains of yeasts produce different types of wine.
 Wines made from other fruits, such as apples and berries, are usually named after the fruit from which they are produced (for example, apple wine or elderberry wine) and are generically called fruit wine or country wine (not to be confused with the French term vin de pays). Others, such as barley wine and rice wine (i.e., sake), are made from starch-based materials and resemble beer and spirit more than wine, while ginger wine is fortified with brandy. In these cases, the term ""wine"" refers to the higher alcohol content rather than the production process.[3] The commercial use of the English word ""wine"" (and its equivalent in other languages) is protected by law in many jurisdictions.[4]
@@ -9181,7 +9208,7 @@ map layer: a set of graphical information, especially in geographic information 
 layer (object-oriented design)
 DVD layer, such as in DVD Dual layer recording
 Layer (HTML tag) a deprecated <iframe>-like tag, unique to Netscape 4 browsers
-A layer of objects in CAD",very_long
+A layer of objects in CAD","very_long,article_text"
 70041,mturk_file_9.csv,853,wine,"the fermented juice of grapes, used as an alcoholic beverage and in cooking, religious ceremonies, etc.: wines vary in color (red, white, rose, etc.) and sugar content (sweet, dry, etc.), may be effervescent (sparkling) , and are sometimes strengthened with additional alcohol (fortified)",original_cleaning
 70042,mturk_file_9.csv,853,try,"to put to the proof; test,to subject to trials, annoyance, etc.; afflict: Job was sorely tried,to subject to a severe test or strain: rigors that try  one's stamina,to test the operation or effect of; experiment with; make a trial of: to try a new recipe,to attempt to find out or determine by experiment or effort: to try one's fortune in another city,attempt, essay, undertake, exert (oneself), contend, strive, make an effort, risk, have a try, contest, wrangle, labor, work, aspire, propose, seek, try to reach, do what one can, tackle, venture, struggle for, compete for, speculate, make every effort, put oneself out, vie for, aspire to, attack*, make a bid for*, beat one's brains*, bear down*, shoot at*, shoot for*, drive for*, chip away at*, do one's best*, bend over backward*, make a pass at*, go after*, go out of the way*, give a workout*, do all in one's power*, go through fire and water*, buckle down*, lift a finger*, break an arm*, break a blood vessel*, lay oneself out*, lay to*, do oneself justice*, have a go at*, make a go of it*, go all out*, leave no stone unturned*, move heaven and earth*, hump it*, file a strong bid*, go all lengths*, go to market*, knock oneself out*, bunch the hits*, break one's neck*, bust a gut*, take a crack at*, give it a whirl*, fight the good fight*.","original_cleaning,very_long,semicolon_definition"
 70044,mturk_file_9.csv,853,oyster,"any of various bivalve mollusks with an irregularly shaped, unequal shell, living attached to rocks, other shells, etc., and widely used as food,#  the soft, edible part of such a mollusk
@@ -9243,6 +9270,11 @@ act, move .",original_cleaning
 70170,mturk_file_9.csv,1020,layer,"3 types of layer,inner layer,ozone layer,thin structure composed of a single thickness of cells",original_cleaning
 70175,mturk_file_9.csv,1247,layer,a distinct mass different from those around it,original_cleaning
 70179,mturk_file_9.csv,1508,oyster,"oyster is used as a common name for a number of distinct groups of bivalve molluscs which live in marine or brackish habitats. oyster are commonly consumed, cooked or raw, by humans.",original_cleaning
+70181,mturk_file_9.csv,831,wine,"1.
+a. A beverage made of the fermented juice of any of various kinds of grapes, usually containing from 10 to 15 percent alcohol by volume.
+b. A beverage made of the fermented juice of any of various other fruits or plants.
+2. Something that intoxicates or exhilarates.
+3. The color of red wine.",article_text
 70182,mturk_file_9.csv,831,try,"to attempt to do or accomplish: Try it before you say it's simple.
 2.
 to test the effect or result of (often followed by out ): to try a new method; to try a recipe out.
@@ -9252,6 +9284,20 @@ to endeavor to evaluate by experiment or experience: to try a new field; to try 
 to test the quality, value, fitness, accuracy, etc., of: Will you try a spoonful of this and tell me what you think of it?
 5.
 Law . to examine and determine judicially, as a cause; determine judicially the guilt or innocence of (a person)","very_long,semicolon_definition,long_duplicate"
+70183,mturk_file_9.csv,831,song,". Music
+a. A brief composition written or adapted for singing.
+b. The act or art of singing: broke into song.
+2. A distinctive or characteristic sound made by an animal, such as a bird or an insect.
+3.
+a. Poetry; verse.
+b. A lyric poem or ballad.",article_text
+70184,mturk_file_9.csv,831,oyster,"a. Any of several edible bivalve mollusks of the family Ostreidae, especially of the genera Crassostrea and Ostrea, that live chiefly in shallow marine waters and have a rough, irregularly shaped shell.
+b. Any of various similar or related bivalve mollusks, such as the pearl oyster.
+2. An edible bit of muscle found in the hollow of the pelvic bone of a fowl.
+3.
+a. A special delicacy.
+b. Something from which benefits may be extracted.
+4. Slang A close-mouthed person.",article_text
 70185,mturk_file_9.csv,831,layer,"a. One that lays: a tile layer.
 b. A hen kept for laying eggs.
 2.
@@ -9259,7 +9305,7 @@ a. A single thickness of a material covering a surface or forming an overlying p
 b. A usually horizontal deposit or expanse; a stratum: layers of sedimentary rock; a layer of warm air.
 c. A depth or level: a poem with several layers of meaning.
 3. Botany A stem that is covered with soil for rooting while still part of the living plant.
-4. An item of clothing worn over or under another.","very_long,semicolon_definition"
+4. An item of clothing worn over or under another.","very_long,semicolon_definition,article_text"
 70265,mturk_file_9.csv,1277,pledge,"The transfer of possession of personal property from a debtor to a creditor as security for a debt or engagement; also, the contract created between the debtor and creditor by a thing being so delivered or deposited, forming a species of bailment; also, that which is so delivered or deposited; something put in pawn.",semicolon_definition
 70301,mturk_file_9.csv,1473,owner,"Ownership is the state or fact of exclusive rights and control over property, which may be an object, land/real estate or intellectual property. Ownership involves multiple rights, collectively referred to as title, which may be separated and held by different parties. The concept of ownership has existed for thousands of years and in all cultures. Over the millennia, however, and across cultures what is considered eligible to be property and how that property is regarded culturally is very different. Ownership is the basis for many other concepts that form the foundations of ancient and modern societies such as money, trade, debt, bankruptcy, the criminality of theft and private vs. public property. Ownership is the key building block in the development of the capitalist socio-economic system.
 
@@ -9560,6 +9606,15 @@ When fighting, cats make themselves appear more impressive and threatening by ra
 70304,mturk_file_9.csv,864,cats,A small carnivorous mammal domesticated since early times as a catcher of rats and mice,original_cleaning
 70306,mturk_file_9.csv,864,vacation,leisure time away from work devoted to rest or pleasure,original_cleaning
 70307,mturk_file_9.csv,864,pledge,A solemn binding promise to do,original_cleaning
+70308,mturk_file_9.csv,831,owner,"Of or belonging to oneself or itself: She makes her own clothes.
+n.
+That which belongs to one: I wanted a room of my own.
+v. owned, own·ing, owns
+v.tr.
+1.
+a. To have or possess as property: owns a chain of restaurants.
+b. To have control over: For a time, enemy planes owned the skies.
+2. To admit as being in accordance with fact, truth, or a claim; acknowledge.",article_text
 70309,mturk_file_9.csv,831,cats,"A small carnivorous mammal (Felis catus or F. domesticus) domesticated since early times as a catcher of rats and mice and as a pet and existing in several distinctive breeds and varieties.
 b. Any of various other carnivorous mammals of the family Felidae, which includes the lion, tiger, leopard, and lynx.
 c. The fur of a domestic cat.
@@ -9573,18 +9628,18 @@ b. A player or devotee of jazz music.
 a. A cathead.
 b. A device for raising an anchor to the cathead.
 c. A catboat.
-d. A catamaran.",very_long
+d. A catamaran.","very_long,article_text"
 70310,mturk_file_9.csv,831,communism,"A theoretical economic system characterized by the collective ownership of property and by the organization of labor for the common advantage of all members.
 2. Communism
 a. A system of government in which the state plans and controls the economy and a single, often authoritarian party holds power, claiming to make progress toward a higher social order in which all goods are equally shared by the people.
-b. The Marxist-Leninist version of Communist doctrine that advocates the overthrow of capitalism by the revolution of the proletariat.",very_long
+b. The Marxist-Leninist version of Communist doctrine that advocates the overthrow of capitalism by the revolution of the proletariat.","very_long,article_text"
 70311,mturk_file_9.csv,831,vacation,"1. A period of time devoted to pleasure, rest, or relaxation, especially one with pay granted to an employee.
 2.
 a. A holiday.
 b. A fixed period of holidays, especially one during which a school, court, or business suspends activities.
 3. Archaic The act or an instance of vacating.
 intr.v. va·ca·tioned, va·ca·tion·ing, va·ca·tions
-To take or spend a vacation.",numbered_senses
+To take or spend a vacation.","numbered_senses,article_text"
 70312,mturk_file_9.csv,831,pledge,"A solemn binding promise to do, give, or refrain from doing something: signed a pledge never to reveal the secret; a pledge of money to a charity.
 2.
 a. Something given or held as security to guarantee payment of a debt or fulfillment of an obligation.
@@ -9596,7 +9651,7 @@ b. The contract by which such delivery is made.
 5. A person who has been accepted for membership in a fraternity or similar organization and has promised to join but has not yet been initiated.
 6. The act of drinking in honor of someone; a toast.
 7. A vow to abstain from alcoholic liquor: ex-drinkers who have taken the pledge.
-v. pledged, pledg·ing, pledg·es","very_long,semicolon_definition"
+v. pledged, pledg·ing, pledg·es","very_long,semicolon_definition,article_text"
 70314,mturk_file_9.csv,787,cats,"1.
 a small domesticated carnivore, Felis domestica  or F. catus,  bred in a number of varieties.
 2.
@@ -9955,7 +10010,7 @@ Contents
 [edit] See also
 
     Do (disambiguation)
-    Doh (disambiguation)",very_long
+    Doh (disambiguation)","very_long,article_text"
 70525,mturk_file_9.csv,1473,sentence,"Sentence or sentencing may refer to:
 
     Sentence (linguistics), a grammatical unit of language
@@ -9964,7 +10019,7 @@ Contents
     Sentence (law), a penalty applied to a person or entity found guilty of a criminal act
     ""Sentencing"" (The Wire), the thirteenth episode of The Wire
     Sentences, a 12-century book of theology by Peter Lombard
-    Sentences: The Life of MF Grimm, an autobiographical graphic novel by the MF Grimm, published by Vertigo in 2007",very_long
+    Sentences: The Life of MF Grimm, an autobiographical graphic novel by the MF Grimm, published by Vertigo in 2007","very_long,article_text"
 70526,mturk_file_9.csv,1473,upstairs,"""Stairs"" redirects here. For other uses, see Stairs (disambiguation).
 ""Staircase"" redirects here. For other uses, see Staircase (disambiguation).
 This article is about the construction. For the song by Led Zeppelin, see Stairway to Heaven.
@@ -10210,7 +10265,7 @@ The world's longest stairway at the Niesenbahn funicular in Switzerland has 11,6
     The CN Tower's staircase reaches the main deck level after 1,776 steps and the Sky Pod above after 2,579 steps; it is the tallest metal staircase on Earth.
     The Penrose stairs, devised by Lionel and Roger Penrose, are a famous impossible object. The image distorts perspective in such a manner that the stairs appear to be never-ending, a physical impossibility. The image was adopted by M. C. Escher in his iconic lithograph Ascending and Descending.
     The World Trade Center Survivors' Staircase is the last visible structure above ground level at the World Trade Center site. It was originally two outdoor flights of granite-clad stairs and an escalator that connected Vesey Street to the World Trade Center's Austin J. Tobin Plaza. During the September 11, 2001, attacks, the stairs served as an escape route for hundreds of evacuees from 5 World Trade Center, a 9-floor building adjacent to the 110-story towers.
-    Stairwell A was the lone stairway left intact after the second plane hit the South Tower of the World Trade Center during the September 11 attacks. It wa","very_long,semicolon_definition,web_text"
+    Stairwell A was the lone stairway left intact after the second plane hit the South Tower of the World Trade Center during the September 11 attacks. It wa","very_long,semicolon_definition,web_text,article_text"
 70532,mturk_file_9.csv,1467,eyes,eye (noun) Each of a pair of globular organs of sight in the head of humans and vertebrate animals: | a thing resembling,"original_cleaning,pos_tag"
 70534,mturk_file_9.csv,1467,sentence,"sentence (noun) a set of words that is complete in itself, typically containing a subject and predicate, conveying",pos_tag
 70535,mturk_file_9.csv,1467,upstairs,upstairs (adverb)on or to an upper floor of a building: (adjective) Situated on an upper floor: (noun) an upper floor,"original_cleaning,pos_tag"
@@ -10272,7 +10327,7 @@ c. The pigmented iris of this organ.
 5.
 a. A way of regarding something; a point of view: To my eye, the decorations are excellent.
 b. Attention: The lavish window display immediately got my eye.
-c. Watchful attention or supervision: always under his boss's eye; kept an eye on her valuables.","very_long,numbered_senses,semicolon_definition"
+c. Watchful attention or supervision: always under his boss's eye; kept an eye on her valuables.","very_long,numbered_senses,semicolon_definition,article_text"
 70678,mturk_file_9.csv,831,doe,"doe or does
 1. The female of a deer or related animal.
 2. The female of various mammals, such as the hare, goat, or kangaroo.",numbered_senses
@@ -10283,7 +10338,7 @@ b. The penalty meted out.
 3. Archaic A maxim.
 4. Obsolete An opinion, especially one given formally after deliberation.
 tr.v. sen·tenced, sen·tenc·ing, sen·tenc·es Law
-To pronounce sentence upon (one adjudged guilty). See Synonyms at condemn.",very_long
+To pronounce sentence upon (one adjudged guilty). See Synonyms at condemn.","very_long,article_text"
 70680,mturk_file_9.csv,831,upstairs,". A grammatical unit that is syntactically independent and has a subject that is expressed or, as in imperative sentences, understood and a predicate that contains at least one finite verb.
 2. Law
 a. A court judgment, especially a judicial decision of the punishment to be inflicted on one adjudged guilty.
@@ -10291,7 +10346,7 @@ b. The penalty meted out.
 3. Archaic A maxim.
 4. Obsolete An opinion, especially one given formally after deliberation.
 tr.v. sen·tenced, sen·tenc·ing, sen·tenc·es Law
-To pronounce sentence upon (one adjudged guilty). See Synonyms at condemn.",very_long
+To pronounce sentence upon (one adjudged guilty). See Synonyms at condemn.","very_long,article_text"
 70708,mturk_file_9.csv,1360,doe,"The female of a deer or related animal, The female of various mammals, such as the hare, goat, or kangaroo.",long_duplicate
 70711,mturk_file_9.csv,1360,bush,"A shrub or branch, A thicket, or place abounding in trees or shrubs; a wild forest, The tail, or brush, of a fox, To furnish with a bush, or lining; as, to bush a pivot hole",semicolon_definition
 70724,mturk_file_9.csv,878,sentence,"A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence typically.	Choose and use particular words in order to say or write.",original_cleaning
@@ -10386,7 +10441,7 @@ Sport
 Wairarapa Bush Rugby Football Union in New Zealand
 Bush Rugby Football Union, a former team which combined with Wairarapa to form the above side
 Vessels
-USS Bush, two destroyers in the United States Navy",very_long
+USS Bush, two destroyers in the United States Navy","very_long,article_text"
 70796,mturk_file_9.csv,1475,bush,a small cluster of shrubs appearing as a single plant.,long_duplicate
 70887,mturk_file_9.csv,1318,minute,"A minute is a unit of measurement of time or of angle. The minute is a unit of time equal to 1/60th (the first sexagesimal fraction) of an hour or 60 seconds. In the UTC time scale, a minute on rare occasions has 59 or 61 seconds; see leap second. The minute is not an SI unit; however, it is accepted for use with SI units. The SI symbol for minute or minutes is min (for time measurement) or apostrophe after a number, eg 5' (for angle measurement, even if it is informally used for time).","original_cleaning,semicolon_definition"
 70888,mturk_file_9.csv,1318,order,"Order may refer to:
@@ -10461,7 +10516,7 @@ Order of Mass, the set of texts of the Roman Catholic Church Latin Rite Mass tha
 Media and entertainment
 
 Order (album), 2009 album by German band Maroon
-Orders (film), a 1974 film by Canadian filmmaker, Michel Brault","very_long,web_text"
+Orders (film), a 1974 film by Canadian filmmaker, Michel Brault","very_long,web_text,article_text"
 70889,mturk_file_9.csv,1318,eleven,"Eleven can refer to:
 The year 11
 The year 11 BC
@@ -10678,7 +10733,7 @@ Communities Helping All Neighbors Gain Empowerment (CHANGE), a civic organizatio
 Change (TV series), 2008 Japanese television drama starring Takuya Kimura and Eri Fukatsu
 Change: The Magazine of Higher Learning, a journal published for the Carnegie Foundation for the Advancement of Teaching by Heldref Publications
 Change.gov, the website for the Obama administration's transition (November 2008 to January 2009)
-Change 2011, a Finnish political party",very_long
+Change 2011, a Finnish political party","very_long,article_text"
 70892,mturk_file_9.csv,1310,minute,"1.
 being in accordance with the actual state or conditions; conforming to reality or fact; not false: a true story.
 2.
@@ -10791,7 +10846,7 @@ In astronomy, the minute is a unit of angle, the minute of right ascension. It i
 
 The Earth turns on its polar axis through fifteen minutes of arc in every minute of sidereal time. One minute of arc at the Earth's equator is approximately one nautical mile.
 
-In old astronomical texts minute can also mean a unit of time equal to 1/60th of a day (24 usual minutes). These minutes correspond to the Latin diei scrupulis, and used to express periods of planetary motions. For example, Kepler in Harmonices Mundi gives Saturn year as 10759D12', that is 10759 (Earth) days, 4 hours, and 48 (usual) minutes (roughly 29.5 years),","very_long,semicolon_definition,web_text"
+In old astronomical texts minute can also mean a unit of time equal to 1/60th of a day (24 usual minutes). These minutes correspond to the Latin diei scrupulis, and used to express periods of planetary motions. For example, Kepler in Harmonices Mundi gives Saturn year as 10759D12', that is 10759 (Earth) days, 4 hours, and 48 (usual) minutes (roughly 29.5 years),","very_long,semicolon_definition,web_text,article_text"
 70948,mturk_file_9.csv,1473,order,"Order may refer to:
 [edit] Ordinality
 
@@ -10875,7 +10930,7 @@ See Order (mathematics), a disambiguation page
 [edit] Media and entertainment
 
     Order (album), 2009 album by German band Maroon
-    Orders (film), a 1974 film by Canadian filmmaker, Michel Brault","very_long,web_text"
+    Orders (film), a 1974 film by Canadian filmmaker, Michel Brault","very_long,web_text,article_text"
 70949,mturk_file_9.csv,1473,eleven,"Eleven can refer to:
 
     The year 11
@@ -11076,7 +11131,7 @@ Songs
 [edit] Other uses
 
     Boss, Missouri
-    Boss, an alternate name for one personality type in the Enneagram of Personality theory",very_long
+    Boss, an alternate name for one personality type in the Enneagram of Personality theory","very_long,article_text"
 70951,mturk_file_9.csv,1473,change,"Change may refer to:
 [edit] The process of becoming different
 
@@ -11167,7 +11222,7 @@ Songs
     Chang'e (disambiguation)
     ""Changing"", a song by Saosin from the album In Search of Solid Ground
     Identity and change
-    Impermanence",very_long
+    Impermanence","very_long,article_text"
 70952,mturk_file_9.csv,1466,minute,part of time,original_cleaning
 70953,mturk_file_9.csv,1466,order,force to do work,original_cleaning
 70957,mturk_file_9.csv,806,minute,60 seconds,original_cleaning
@@ -11194,7 +11249,7 @@ a. The established system of social organization: ""Every revolution exaggerates
 b. A condition in which freedom from disorder or disruption is maintained through respect for established authority: finally restored order in the rebellious provinces.
 4. A sequence or arrangement of successive things: changed the order of the files.
 5. The prescribed form or customary procedure: the order of worship.
-6. An authoritative indication to be obeyed; a command or direction.",very_long
+6. An authoritative indication to be obeyed; a command or direction.","very_long,article_text"
 71080,mturk_file_9.csv,831,boss,"a. An employer or a supervisor.
 b. One who makes decisions or exercises authority.
 2. A professional politician who controls a party or a political machine.
@@ -11205,7 +11260,7 @@ v.tr.
 v.intr.
 To be or act as a supervisor or controlling element.
 adj. Slang
-First-rate; topnotch.",numbered_senses
+First-rate; topnotch.","numbered_senses,article_text"
 71081,mturk_file_9.csv,831,change,"a. To cause to be different: change the spelling of a word.
 b. To give a completely different form or appearance to; transform: changed the yard into a garden.
 2. To give and receive reciprocally; interchange: change places.
@@ -11214,7 +11269,7 @@ b. To give a completely different form or appearance to; transform: changed the 
 a. To lay aside, abandon, or leave for another; switch: change methods; change sides.
 b. To transfer from (one conveyance) to another: change planes.
 5. To give or receive the equivalent of (money) in lower denominations or in foreign currency.
-6. To put a fresh covering on:","very_long,semicolon_definition"
+6. To put a fresh covering on:","very_long,semicolon_definition,article_text"
 71086,mturk_file_9.csv,957,change,"to give and take reciprocally; interchange: to change places with someone,to transfer from one (conveyance) to another,to substitute another or others for; exchange  for something else, usually of the same kind,to make the form, nature, content, future course, etc., of (something) different from what it is or from what it would be if left alone: to change one's name.","original_cleaning,semicolon_definition"
 71127,mturk_file_9.csv,1483,outdoors,"bucolic surroundings, country, countryside, environment, fresh air, garden, green earth, hill, mountain, open, out-of-doors, patio, without, woods, yard",original_cleaning
 71132,mturk_file_9.csv,1318,outdoors,"1out·doors adv \ˌau̇t-ˈdȯrz; ˈau̇t-ˈ\
@@ -11240,6 +11295,8 @@ Antonyms: indoors
 Rhymes with OUTDOORS
 
 Azores, indoors",very_long
+71133,mturk_file_9.csv,1318,scratch,"Scratch may refer to:
+A mark or indentation on a surface: Abrasion (mechanical)",article_text
 71134,mturk_file_9.csv,1318,apart,"1apart adv \ə-ˈpärt\
 
 Definition of APART
@@ -11335,7 +11392,7 @@ b. Away from another or others: grew apart over the years; decided to live apart
 3. One from another: I can't tell the twins apart.
 4. Aside or in reserve, as for a separate use or purpose: funds set apart for the project.
 5. As a distinct item or entity: Quality sets it apart.
-6. So as to except or exclude from consideration; aside",semicolon_definition
+6. So as to except or exclude from consideration; aside","semicolon_definition,article_text"
 71375,mturk_file_9.csv,831,son,"1. One's male child.
 2. A male descendant.
 3. A man considered as if in a relationship of child to parent: a son of the soil.
@@ -11357,6 +11414,7 @@ b. Away from another or others: grew apart over the years; decided to live apart
 72897,word_list_10_long.csv,1551,wound,Don't know,original_cleaning
 72955,word_list_10_long.csv,1552,tape,"is sticky, used to hold things together, you rip it, comes in different brands/kinds",original_cleaning
 73239,word_list_10_long.csv,1551,find,Don't Know,original_cleaning
+73472,word_list_10_long.csv,1556,beast,"dangerous creature, may refer to actual animal/ person or imaginary creature",article_text
 73582,word_list_10_long.csv,1552,zero,has no value,original_cleaning
 73695,word_list_10_long.csv,1551,fragile,Don't Know,original_cleaning
 73809,word_list_10_long.csv,1551,question,Don't Know,original_cleaning
@@ -11540,6 +11598,7 @@ based on examination of an item's desirable vs undesirable qualities","original_
 89295,word_list_5_long.csv,2126,amateur,"novice, probationer, putterer, recruit, tenderfoot, tyro",original_cleaning
 89380,word_list_5_long.csv,2143,analysis,analysis: examination of facts to draw a conclusion; scientific; philosophical; academic; chemical analysis; search for truth; a study,original_cleaning
 89405,word_list_5_long.csv,2148,analysis,is a process or a conclusion which breaks something down into definitive parts which can be quantified; is basic and integral to the scientific method.,original_cleaning
+89434,word_list_5_long.csv,2154,attendance,"Attendance has several meanings. Attendance can refer to how many people are going to a place, or it may refer to a United States student's time spent in school.",article_text
 89435,word_list_5_long.csv,2154,analysis,a formal review/test of a thesis or idea; findings based on thorough research and close examination; a determination or official opinion,"original_cleaning,semicolon_definition"
 89465,word_list_5_long.csv,2160,analysis,"is a process of using reason, dissecting data, forming and testing an hypothesis thereby derived, or forming generalizations from an examination of component facts.",original_cleaning
 89470,word_list_5_long.csv,2161,analysis,process of analyzing; part of a research,original_cleaning
@@ -12268,6 +12327,7 @@ has a double m",original_cleaning
 
 Many meanings,",original_cleaning
 111372,word_list_5_long.csv,6543,inability,"unable to do something, lacking in ability, inadequacy",original_cleaning
+111381,word_list_5_long.csv,6545,identical,"exactly the same, may refer to monozygotic twins, opposite of fraternal when referring to twins",article_text
 111416,word_list_5_long.csv,6552,inertia,"inertia: the tendency of matter to occupy the same place at the same time; a ball sitting on a table is said to have inertia because it is not moving, but if I knock the ball off the table with my hand and it falls to the floor it now has inertia because it is not stationary; inertia is often a term for laziness, as I am sitting here watching television for so long that I have inertia and don't feel like getting up and cooking dinner",semicolon_definition
 111683,word_list_5_long.csv,6605,lane,"road
 path",original_cleaning
@@ -12457,7 +12517,7 @@ take notes in this book",original_cleaning
 119627,word_list_5_long.csv,8195,oval,"oblong
 round
 stretched circle shape",original_cleaning
-119855,word_list_5_long.csv,8241,officer,"authority figure in a business, government or organization; sometimes wears a uniform; sometimes may refer to the upper tier of military",semicolon_definition
+119855,word_list_5_long.csv,8241,officer,"authority figure in a business, government or organization; sometimes wears a uniform; sometimes may refer to the upper tier of military","semicolon_definition,article_text"
 119902,word_list_5_long.csv,8250,pail,"bucket
 small container",original_cleaning
 119903,word_list_5_long.csv,8250,norm,"The most usual thing.
@@ -12476,6 +12536,7 @@ to take over",original_cleaning
 
 Parachutes, nylons (stockings made from nylons), windbreaker, pantyhose,",original_cleaning
 120267,word_list_5_long.csv,8323,obnoxious,is a description of something or someone that is very unpleasant; could be a loud and overbearing person or a nasty smell; is always a negative feature; makes one want to run away and escape.,semicolon_definition
+120348,word_list_5_long.csv,8339,pair,"implies two, may refer to identical or similar items, implies a set",article_text
 120674,word_list_5_long.csv,8405,paddy,"1. A type of bird 
 2. A flooded field where rice is grown",original_cleaning
 120777,word_list_5_long.csv,8425,ornament,"a decoration; to decorate, make pretty with things; a girl or other useless person who is just around to make a social event look better; trimmings for a Christmas tree;a plant; a kind of musical note that is not the primary one and is just there for fanciness/effect",semicolon_definition
@@ -12607,6 +12668,7 @@ removal",original_cleaning
 125980,word_list_5_long.csv,9467,research,"to look into deeper
 study",original_cleaning
 126104,word_list_5_long.csv,9492,reality,"is someone's perception of what is, as opposed to what is only imagined; is often seen as tangible as opposed to abstract; is supposed to be fact.",semicolon_definition
+126191,word_list_5_long.csv,9509,production,"The act of producing goods, may refer to a theatrical performance.",article_text
 126257,word_list_5_long.csv,9522,row,"1) vertical column, can be on spreadsheet or an array, or the like. 2) act of moving a canoe with an oar.","original_cleaning,numbered_senses"
 126462,word_list_5_long.csv,9563,runner,"opposite of walking
 marathon
@@ -13004,7 +13066,6 @@ excellent",original_cleaning
 142294,word_long_all.csv,12372,house,"where you live, has bedrooms, kitchen, bathrooms",original_cleaning
 142295,word_long_all.csv,12373,house,"family, a building, could be made on cement, wood, or stucko, a place of shelter, a place of serenity, a place of comfort, has rooms, generally has four sides",original_cleaning
 142296,word_long_all.csv,12374,house,"is a place of living for families or individuals, inside usually contains bedrooms, a kitchen, and one or more bathrooms, made of different materials depending on the area or country",original_cleaning
-142297,word_long_all.csv,12375,house,House,original_cleaning
 142298,word_long_all.csv,12376,house,"a home, where we go for safety, where the family lives",original_cleaning
 142299,word_long_all.csv,12377,house,"place of residence, consists of a roof and siding, some have a garage, contains a kitchen, bathroom, bedroom, and livingroom, has a door and windows. comes in many colors",original_cleaning
 142300,word_long_all.csv,12378,house,"tv, street, home, building, live",original_cleaning
@@ -13161,7 +13222,6 @@ excellent",original_cleaning
 144503,word_long_all.csv,12395,tall,"height, sports, handsome, people, growth, can be measured",original_cleaning
 144504,word_long_all.csv,12396,tall,"is something I have to look up at, is towering",original_cleaning
 144505,word_long_all.csv,12397,tall,not short. high abouve ground.,original_cleaning
-144506,word_long_all.csv,12398,tall,"wide, big, sky scrapper, basketball player",original_cleaning
 144507,word_long_all.csv,12399,tall,"not a noun, a description of height,  a vertical measurement",original_cleaning
 144508,word_long_all.csv,12400,tall,"big, large",original_cleaning
 144509,word_long_all.csv,12401,tall,"someone who has more height than others, something that most basketball players have.",original_cleaning
@@ -13231,6 +13291,7 @@ excellent",original_cleaning
 146837,word_long_all.csv,12418,shallow,"not deep, swimming pools, the outfield in a baseball or softball game, a person whose actions are considered low",long_duplicate
 146930,word_long_all.csv,12418,shame,"painful feeling after doing something bad or wrong, conscience, disgrace, regret",long_duplicate
 147022,word_long_all.csv,12418,stiff,"hard to move, firm, rigid, strong, forceful, powerful, an object, not moving",long_duplicate
+147106,word_long_all.csv,12502,stiff,"hard, rigid, unmoving, may refer to a physical state of the body and its unwillingness or inability to move or the mental state of being unwilling to change one's mind, strict",article_text
 147114,word_long_all.csv,12418,strap,"a narrow strip of flexible material that fastens or holds something together, a seatbelt is one example, a shoulder strap, a watchband, machinery",long_duplicate
 147206,word_long_all.csv,12418,straw,"something to drink through, a tube, usually made of plastic, straw hat, suck beverage from container, yellow",long_duplicate
 147390,word_long_all.csv,12418,thousand,"a large number or amount, M, fourth digit from the right",long_duplicate
@@ -13254,6 +13315,7 @@ excellent",original_cleaning
 150298,word_long_all.csv,12526,beam,"ray protruding from a laser, any fast moving line of very high energy material, impressive, made of steel, supports structures, combined with other beams to make very tall structures, made of wood",original_cleaning
 150299,word_long_all.csv,12527,beam,"hot,lazer",original_cleaning
 151496,word_long_all.csv,12522,robbery,"is when someone steals something from another person. its illegal. any objects can be stolen in a robbery. the reasons for a robbery to take place can vary, it can happen anywhere and to anyone by anyone. normally the police get involved. sometimes what is stolen is retrieved, sometimes not.",web_text
+151901,word_long_all.csv,12525,staff,"group of people, may refer to staff as in a stick, staff as in the five horizontal lines in which notes are placed on for music, or the staff of a gun.",article_text
 152150,word_long_all.csv,12506,taste,"is a luxury, is subjective",original_cleaning
 152151,word_long_all.csv,12507,taste,The sense designated by your nose and tongue. Defines what foods are desirable or undesirable to eat according to pleasure.,original_cleaning
 152152,word_long_all.csv,12508,taste,food buds one of your senses mouth,original_cleaning
@@ -13364,12 +13426,15 @@ excellent",original_cleaning
 160719,word_long_all.csv,12726,weight,"the measurement of the pull of gravity on an object, can be measured on the earth, on the moon, differences occur on different planet sizes, measured in pounds, kilograms, grams, weight of a person, body mass index, body weight, fat content, muscle content, overweight, obese, binge eating, underweight, anorexic, bulimic, anorexia nervosa, bulimia nervosa, purging, binging, healthy weight, functions as a use of determining overall physical health of a person or animal, used to weigh objects as well, anvil, food weight (oz), ounces",very_long
 160782,word_long_all.csv,12702,apology,?,original_cleaning
 160790,word_long_all.csv,12710,apology,"sorry, regret, plea, excuse , forgive, forget",original_cleaning
+161256,word_long_all.csv,12707,early,near the first part of a timelinecan refer to when we were a young childmay refer to an arrival time,article_text
+161390,word_long_all.csv,12707,hungry,want to eatneed to eatmay refer to an individual who really needs or wants something.,article_text
 162360,word_long_all.csv,12679,span,?,original_cleaning
 162647,word_long_all.csv,12699,vision,"created from images taken in by your eyes; can behave abnormally (blurry vision, blackout vision); can be affected by things like alcohol and drugs; used by almost all people; can be taken away from you; used to expose you to the world around you; the people who do use vision, use it all the time",semicolon_definition
 162748,word_long_all.csv,12737,alcohol,"sweet, sour, bitter, wiskey, beer, wine, expensive, addictive, tastey, in eggnog, served at events, common at holidays, common at parties, cause loss of control, cause relaxation, mixed drinks, alcoholics, fruity, cause sickness when over indulged, compromise driving and opperating abilities, in the united states reserved for those twenty-one and older, served at bars and restaurants, sold in stores, made at home, taken fishing, taken to the lake, drank heavily at brandings, beverage, liquid, in glasses cans plastic cups and coconut shells, have umbrellas and straws, served with garnishing.",very_long
 163582,word_long_all.csv,12746,spoiled,"means two things: 1. get everything you ask for and live luxurious or 2. gone bad ex. the milk is spoiled; neither are very good meanings, would not want to be titled with this adjective",numbered_senses
 163790,word_long_all.csv,12768,appendage,I am not positive of the definition of appendage sorry,original_cleaning
 164092,word_long_all.csv,12764,oligarchy,no idea,original_cleaning
+164194,word_long_all.csv,12758,spin,To turn in a clockwise or counterclockwise motion at any given speed. May refer to an individual or an object in motion.,article_text
 164372,word_long_all.csv,12785,argument,fight spat disagreement,original_cleaning
 164374,word_long_all.csv,12787,argument,"When two or more people disagree on a specific topic an argument may ensue. It is simply a clash of idea's on one singular point of view or prefferance. Some people argue over whether or not someone should lead the country others argue over what the best food is. Many couples and spouses have numerous arguments over a myriad of topics, such as wheather the dog should be fixed, or as to wheather they should have children or buy a new car. Many religeous problems start with a simple disagreement within the church and so an argument springs up.",very_long
 164391,word_long_all.csv,12804,argument,fight disagreement,original_cleaning
@@ -13468,12 +13533,14 @@ excellent",original_cleaning
 175108,word_long_all.csv,13119,zit,a cutaneous infection that presents as a small ring of red inflammed tissue located concentrically around a white head; the white being pus that is formed from the act of the immune system immunoglobulins negating a bacterial infection; a component of a common pubescent curse known as acne that generally occurs during secondary sexual development in both sexes.,semicolon_definition
 175142,word_long_all.csv,13153,bow,"Can refer to a orderly piece of ribbon used for decorative purposes, a medieval ranged weapon that shoots arrows, or a complimentary piece to a stringed instrument such as a cello or violin.  Def. 1: physically thin, often shiny, makes rustle, taste of plastic, no smell. Def. 2&3: Physically: has a hard, yet flexible backing with a grouping of strings that are used to produce a sound or propel and arrow (respectively).  No smell,  or taste.  Sounds: can either be a sharp twang or a slow dull  sound based on how strenuous the string is plucked/pulled.",very_long
 175832,word_long_all.csv,13159,hound,"""Hound"" is synonymous to the word ""dog"". it is a four legged mammal. it will have fur/hair depending on the bread.",original_cleaning
+176022,word_long_all.csv,13146,market,"is a place of sales, may refer to economy, money, business, grows, shrinks,",article_text
 176166,word_long_all.csv,13154,narrow,"is a synonym for tight, thin, slim, slender, small, limited, close; is a word to describe a street, path, area; narrow-minded",semicolon_definition
 176577,word_long_all.csv,13154,roses,"are flowers, given to girls on Valentine's day, anniversaries, birthdays and special occasions; they are red and have thorns; smell good",semicolon_definition
 177208,word_long_all.csv,13240,alright,"modern word; correctly: all right, meaning everything is okay, all is well.",original_cleaning
 177215,word_long_all.csv,13247,alright,"word used to agree, word used for acceptance of an idea, not the correct word - should be 'all right'",original_cleaning
 177216,word_long_all.csv,13248,alright,"Meaning somthing is okay or acceptable; Can refer to someone, something, a place or even an action or performed act.",original_cleaning
 177217,word_long_all.csv,13249,alright,mediocre,original_cleaning
+177349,word_long_all.csv,13247,average,"not the best, not the worst, in the middle, may refer to a set of numbers added together then divided by the number of numbers, also known as the median",article_text
 177752,word_long_all.csv,13248,dependent,usually refers to a person themselves or how they act; a dependant can be a child or an invalid that relies on others in their life for support or help of some kind; or if you are dependant on something personal well being,semicolon_definition
 177782,word_long_all.csv,13211,experiment,"is found in science and psychology classes, is used for research, is supposed to be objective, follows the scientific method, can involve surveys, uses observation, can show relationships and causes and effects, can have a placebo effect, can be cruel or inhumane, can be used in a multitude of ways such as dissecting or asking questions, is in horror and science fiction films and books, is Frankenstein, used by scientists and students, sometimes requires volunteers, increases knowledge and understanding, is interesting, can use flasks and chemicals, can use computers and graphs",very_long
 178152,word_long_all.csv,13248,modern,"New; shiny; abstract. Sometimes refers to a type of art, looked at differently compared to the naturalistic style of rennisance art; Bold; usually holds some kind of statement to be different or expensive; houses and furniture considered to be different or modern are considered cool and in style.",semicolon_definition

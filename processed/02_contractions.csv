@@ -37447,6 +37447,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 38056,626,animal,dog cat fish,dog cat fish
 38057,626,glue,white sticky,white sticky
 38058,626,hole,golf fall,golf fall
+38059,626,cheap,inexpensive affordable low quality,inexpensive affordable low quality
 38060,626,sports,baseball tennis soccer,baseball tennis soccer
 38061,626,drugs,marijuana cocaine,marijuana cocaine
 38062,626,orgasm,sex,sex
@@ -40171,6 +40172,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 40867,671,animal,"a mamal, many different kinds of animals, dogs are animals, monkeys, cats,","a mamal, many different kinds of animals, dogs are animals, monkeys, cats,"
 40868,671,glue,used to place two parts together,used to place two parts together
 40869,671,hole,made by digging,made by digging
+40870,671,cheap,not expensive,not expensive
 40871,671,sports,"football, basketball, baseball, soccer, lacrosse, rugby, swimming, tennis, golf, hockey, water polo, gymnastics","football, basketball, baseball, soccer, lacrosse, rugby, swimming, tennis, golf, hockey, water polo, gymnastics"
 40872,671,drugs,"marijuana, cocaine, alchohal, lsd, mushrooms, herion, angle dust, crack, crystal meth","marijuana, cocaine, alchohal, lsd, mushrooms, herion, angle dust, crack, crystal meth"
 40873,671,orgasm,the act of reaching ones sexual peak,the act of reaching ones sexual peak
@@ -41813,6 +41815,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 42557,699,animal,"i love to hunt many different animals, deer turkey duck","i love to hunt many different animals, deer turkey duck"
 42558,699,glue,"made from horses, holds things together","made from horses, holds things together"
 42559,699,hole,"hole in the hide outfitters, in oxford","hole in the hide outfitters, in oxford"
+42560,699,cheap,not expensive,not expensive
 42561,699,sports,"action, horses, rodeo= the real sport","action, horses, rodeo= the real sport"
 42562,699,drugs,"not good for your body,","not good for your body,"
 42563,699,orgasm,"something saving until marriage, a gift from the lord","something saving until marriage, a gift from the lord"
@@ -41873,6 +41876,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 42619,700,animal,a mammal that ususaly has four legs such as a cat or dog.,a mammal that ususaly has four legs such as a cat or dog.
 42620,700,glue,what holds things together usually white.,what holds things together usually white.
 42621,700,hole,"dark, black, what rabbits live in .","dark, black, what rabbits live in ."
+42622,700,cheap,"not expensive,","not expensive,"
 42623,700,sports,things people play to keep entertained usualy played with balls.,things people play to keep entertained usualy played with balls.
 42624,700,drugs,"things people take to get on a different level, wrong,","things people take to get on a different level, wrong,"
 42625,700,orgasm,"exciting, fantastic, pleasurable, happy, thrilling","exciting, fantastic, pleasurable, happy, thrilling"
@@ -43399,6 +43403,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44187,725,rule,"break, the law, poilce, life","break, the law, poilce, life"
 44188,725,bath,"water, bubbles, clean, shower","water, bubbles, clean, shower"
 44189,726,zebra,black and white,black and white
+44190,726,house,family,family
 44191,726,fudge,"delicious, square, bad for you, cavaties","delicious, square, bad for you, cavaties"
 44192,726,girls,"makeup, fashion","makeup, fashion"
 44193,726,tree,"brown, green, leaves,animals","brown, green, leaves,animals"
@@ -43522,6 +43527,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44311,727,search,"to look for,find","to look for,find"
 44312,727,rock,"very hard, belongs outside, lots of times used to be thrown","very hard, belongs outside, lots of times used to be thrown"
 44313,728,zebra,"animal,has strips,see them in the zoo, eat grass, smells,","animal,has strips,see them in the zoo, eat grass, smells,"
+44314,728,house,"small or large, furniture in it, appliance, kitchen,food,comfortable,beds,quiet place,shelter,bricks or wood,","small or large, furniture in it, appliance, kitchen,food,comfortable,beds,quiet place,shelter,bricks or wood,"
 44315,728,fudge,"chocolate,delicious taste,put it on cookies,icream, and fruit,unhealthy, snack,nasty, sticky","chocolate,delicious taste,put it on cookies,icream, and fruit,unhealthy, snack,nasty, sticky"
 44316,728,girls,"ethinics, pretty,outgoing,mean,short hair, long hair, or either no hair, nails, make-up,stuck up,punk,models, sorririties,love boys, pretty dress, high heels, earrings,squeeky voices,","ethinics, pretty,outgoing,mean,short hair, long hair, or either no hair, nails, make-up,stuck up,punk,models, sorririties,love boys, pretty dress, high heels, earrings,squeeky voices,"
 44317,728,tree,"brown trunk, limbs, apples,roots, dirt pine cones, green leaves, use for paper, pencil, desk,","brown trunk, limbs, apples,roots, dirt pine cones, green leaves, use for paper, pencil, desk,"
@@ -43765,6 +43771,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44557,731,quiet,"library, boredom, peaceful, testing area","library, boredom, peaceful, testing area"
 44558,731,search,"to find, games, research, boring, exhausting","to find, games, research, boring, exhausting"
 44560,732,zebra,"is black and white stripes, has a mane, lives in the wild","is black and white stripes, has a mane, lives in the wild"
+44561,732,house,"bedroom, bathroom, kitchen, dining room, garage, laundry room, family","bedroom, bathroom, kitchen, dining room, garage, laundry room, family"
 44562,732,fudge,"chocolate, brown, sweet, baked,","chocolate, brown, sweet, baked,"
 44563,732,girls,"intimidating, high heels, drama, come in packs","intimidating, high heels, drama, come in packs"
 44564,732,tree,"nature, assorted leaves, brown trunk, fruits, squirrels, birds","nature, assorted leaves, brown trunk, fruits, squirrels, birds"
@@ -43811,6 +43818,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44605,732,search,"find, looking","find, looking"
 44606,732,rock,"stone, song, pebble","stone, song, pebble"
 44607,733,zebra,"horse, saddle, africa, black and white, clothing,","horse, saddle, africa, black and white, clothing,"
+44608,733,house,"shelter, room, safety, kitchen, living, doors, windows","shelter, room, safety, kitchen, living, doors, windows"
 44609,733,fudge,"cake, brownie, fat, treat, wrapper, sugar, bake,","cake, brownie, fat, treat, wrapper, sugar, bake,"
 44610,733,girls,"beyonce, alicia keys, shakira, models, dancing, clubs, class","beyonce, alicia keys, shakira, models, dancing, clubs, class"
 44611,733,tree,"leaves, branch, stump, bark, maple, red oak, fall","leaves, branch, stump, bark, maple, red oak, fall"
@@ -43872,6 +43880,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44667,733,search,"look, find, lost, phone","look, find, lost, phone"
 44668,733,rock,"the wrestler, boulder, rock n roll, gardens,","the wrestler, boulder, rock n roll, gardens,"
 44669,734,zebra,"exotic, animal, lives in africa","exotic, animal, lives in africa"
+44670,734,house,"shelter, mortgage, furniture, family","shelter, mortgage, furniture, family"
 44671,734,fudge,"sweet, brown, high calorie, good","sweet, brown, high calorie, good"
 44672,734,girls,"sweet, innocent, pretty, great heart","sweet, innocent, pretty, great heart"
 44673,734,tree,"fruit, shade, leaves, colorful","fruit, shade, leaves, colorful"
@@ -43932,6 +43941,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44729,734,search,"look, find","look, find"
 44730,734,rock,"hard, concrete, slide,","hard, concrete, slide,"
 44731,735,zebra,"animal, white with black stripes, found in africa, usually at zoos","animal, white with black stripes, found in africa, usually at zoos"
+44732,735,house,"home, shelter, protection, air conditioner/heat, staircase, bed","home, shelter, protection, air conditioner/heat, staircase, bed"
 44733,735,fudge,"chocolate, rich, fattening, thick, tastey","chocolate, rich, fattening, thick, tastey"
 44734,735,girls,"long hair, bows, jewelry, fingernail polish, skirts, sandals","long hair, bows, jewelry, fingernail polish, skirts, sandals"
 44735,735,tree,"outside, tall, brown, thick trunk, green leaves, roots, shade, you can climb","outside, tall, brown, thick trunk, green leaves, roots, shade, you can climb"
@@ -43993,6 +44003,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44791,735,search,"seek, look, lost,missing, find, abducted","seek, look, lost,missing, find, abducted"
 44792,735,rock,"hard, gray, pond, drive way, parking lot, busted windshield","hard, gray, pond, drive way, parking lot, busted windshield"
 44793,736,zebra,"black and white stripes,","black and white stripes,"
+44794,736,house,"home, where i live","home, where i live"
 44795,736,fudge,chocolate,chocolate
 44796,736,girls,different body features,different body features
 44797,736,tree,leaves,leaves
@@ -44054,6 +44065,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44853,736,search,find,find
 44854,736,rock,nature,nature
 44855,737,zebra,"stripes, horse, black, white, trot, gallop","stripes, horse, black, white, trot, gallop"
+44856,737,house,"bedroom, bathroom, kitchen, shelter, work, yard","bedroom, bathroom, kitchen, shelter, work, yard"
 44857,737,fudge,"chocolate, white, dark, brownie, nuts, square, chunks","chocolate, white, dark, brownie, nuts, square, chunks"
 44858,737,girls,"boobs, vagina, long hair, sweet , petite","boobs, vagina, long hair, sweet , petite"
 44859,737,tree,"bark, leaf, limb, stump, big, small, hickory, bonzai","bark, leaf, limb, stump, big, small, hickory, bonzai"
@@ -44115,6 +44127,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44915,737,search,"chase, hunt, exploration, inspection, seizure, quest","chase, hunt, exploration, inspection, seizure, quest"
 44916,737,rock,"ground, heavy, solid, smooth, rough","ground, heavy, solid, smooth, rough"
 44917,738,zebra,"animal, black and white stripes, lives at zoo, not a pet, like a horse","animal, black and white stripes, lives at zoo, not a pet, like a horse"
+44918,738,house,"where you live with your family, shelter","where you live with your family, shelter"
 44919,738,fudge,"chocolate, delicious, type of candy, chewy, fudgy brownies","chocolate, delicious, type of candy, chewy, fudgy brownies"
 44920,738,girls,"not boys, cute girls, grow up to become women and have babies","not boys, cute girls, grow up to become women and have babies"
 44921,738,tree,"plant, outdoors, big and tall, part of nature","plant, outdoors, big and tall, part of nature"
@@ -44176,6 +44189,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 44977,738,search,"goggle, yahoo, trying to find something but doesnt necessarily have to be online ha","goggle, yahoo, trying to find something but doesnt necessarily have to be online ha"
 44978,738,rock,"hard, sometimes round but can be different shapes, big or small, naturally occurring substance","hard, sometimes round but can be different shapes, big or small, naturally occurring substance"
 44979,739,zebra,"black and white color, hairy, animal, walks, runs like horse, zoo animal","black and white color, hairy, animal, walks, runs like horse, zoo animal"
+44980,739,house,"bricks, where you live, family, cement, windows, doors, tv, beds, cook, sleep","bricks, where you live, family, cement, windows, doors, tv, beds, cook, sleep"
 44981,739,fudge,"chocolate, vanilla, brown, with nuts, hard or chewy","chocolate, vanilla, brown, with nuts, hard or chewy"
 44983,739,tree,"tall, leaves, brown, green, treehouse, birds live there, sap, pine, oak, rope swing","tall, leaves, brown, green, treehouse, birds live there, sap, pine, oak, rope swing"
 44984,739,string,"shoe string, tie, white","shoe string, tie, white"
@@ -44360,6 +44374,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45163,741,search,"a word used to describe an action, a word used to invoke a person's response","a word used to describe an action, a word used to invoke a person response"
 45164,741,rock,"a hard place, multi-colored, can roll, can slide, can be broken apart, can never be solid once shattered, a hard form of earth","a hard place, multi-colored, can roll, can slide, can be broken apart, can never be solid once shattered, a hard form of earth"
 45165,742,zebra,"animal, mammel, stripes, horse, four legs, herbivore, black, white, peaceful","animal, mammel, stripes, horse, four legs, herbivore, black, white, peaceful"
+45166,742,house,"residence, dwelling, home, windows, doors, rooms, family, history, warmth, security","residence, dwelling, home, windows, doors, rooms, family, history, warmth, security"
 45167,742,fudge,"dark, chocolate, sweet, fattening, enjoyable, happiness, ice cream, candy, love","dark, chocolate, sweet, fattening, enjoyable, happiness, ice cream, candy, love"
 45168,742,girls,"pretty, beauty, female, child birth, periods, happy, confused, pink, hearts, love","pretty, beauty, female, child birth, periods, happy, confused, pink, hearts, love"
 45169,742,tree,"nature, history, elderly, branches, strength, leaves, roots, birds, seasonal, life cycle","nature, history, elderly, branches, strength, leaves, roots, birds, seasonal, life cycle"
@@ -44420,6 +44435,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45225,742,search,"explore, expidition, looking, lost, timely","explore, expidition, looking, lost, timely"
 45226,742,rock,"hard, solid, grey, hurt, land, nature, foundation","hard, solid, grey, hurt, land, nature, foundation"
 45227,743,zebra,"animal, big, black, white, different color.","animal, big, black, white, different color."
+45228,743,house,"family, pretty, made of bricks, nice.","family, pretty, made of bricks, nice."
 45229,743,fudge,chocolate that you eat,chocolate that you eat
 45230,743,girls,human being,human being
 45231,743,tree,a nonliving item that is grown,a nonliving item that is grown
@@ -44539,6 +44555,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45346,744,quiet,"loud, mouse","loud, mouse"
 45347,744,rock,"hard, boulder, gravel, band, concert, singer","hard, boulder, gravel, band, concert, singer"
 45348,745,zebra,"strips, animal, horse like","strips, animal, horse like"
+45349,745,house,"family, furniture, mortage","family, furniture, mortage"
 45350,745,fudge,"chocolate, nuts","chocolate, nuts"
 45351,745,girls,"dolls, playhouse, dresses, ponytails","dolls, playhouse, dresses, ponytails"
 45352,745,tree,"branches, leaves, birds","branches, leaves, birds"
@@ -44661,6 +44678,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45469,746,search,"meaning, truth, find, soul","meaning, truth, find, soul"
 45470,746,rock,"hard, small, medium, large, gravel, broken windows, skipping stones, river, climbing, boulders, pet rock, yard decoration, fish tanks","hard, small, medium, large, gravel, broken windows, skipping stones, river, climbing, boulders, pet rock, yard decoration, fish tanks"
 45471,747,zebra,"animal,horse, mammal,","animal,horse, mammal,"
+45472,747,house,"place,building,","place,building,"
 45473,747,fudge,"chocolate, sweet, coca, sugar","chocolate, sweet, coca, sugar"
 45474,747,girls,"females, mammals, pretty,","females, mammals, pretty,"
 45475,747,tree,"leaves, bark, brown, paper","leaves, bark, brown, paper"
@@ -44722,6 +44740,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45531,747,search,"find, seek, looking","find, seek, looking"
 45532,747,rock,"hard, outside,","hard, outside,"
 45533,748,zebra,"an animal, stripes, black and white,","an animal, stripes, black and white,"
+45534,748,house,"my room, where i live, building, shelter, comfort","my room, where i live, building, shelter, comfort"
 45535,748,fudge,"chocolate, icecream, sweet","chocolate, icecream, sweet"
 45536,748,girls,"boys, females, males, ladies, women","boys, females, males, ladies, women"
 45537,748,tree,"branch, bark, green and brown, apple tree, the park","branch, bark, green and brown, apple tree, the park"
@@ -44783,6 +44802,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45593,748,search,"found, google, looking for","found, google, looking for"
 45594,748,rock,"hard, rock paper scissors,","hard, rock paper scissors,"
 45595,749,zebra,"black and white stripes, animal, africa, mammal, zebra cakes, madagascar","black and white stripes, animal, africa, mammal, zebra cakes, madagascar"
+45596,749,house,"brick, home, family, kinds, land, money","brick, home, family, kinds, land, money"
 45597,749,fudge,"chocolate, food, christmas, fat, grandma, yummy,","chocolate, food, christmas, fat, grandma, yummy,"
 45598,749,girls,"sex, hair, eyes, shopping, clothes, emotional, smart","sex, hair, eyes, shopping, clothes, emotional, smart"
 45599,749,tree,"woods, bark, green, tall, magnolia, pine,","woods, bark, green, tall, magnolia, pine,"
@@ -44844,6 +44864,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45655,749,search,"look, find, destroy, mission, locate, hunt, dogs, party, spotter","look, find, destroy, mission, locate, hunt, dogs, party, spotter"
 45656,749,rock,"and a hard place, nature, hard, skipping rocks, boulder, mountain, erosion, mudslide, stoning, punishment","and a hard place, nature, hard, skipping rocks, boulder, mountain, erosion, mudslide, stoning, punishment"
 45657,750,zebra,lion,lion
+45658,750,house,trailor,trailor
 45659,750,fudge,candy,candy
 45660,750,girls,young ladies,young ladies
 45661,750,tree,flowers,flowers
@@ -44905,6 +44926,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45717,750,search,look,look
 45718,750,rock,stones,stones
 45719,751,zebra,"stripes, animal, fruit stripe gum, africa, rugs, horses, hunting, zoo, ace ventura","stripes, animal, fruit stripe gum, africa, rugs, horses, hunting, zoo, ace ventura"
+45720,751,house,"home, family, residence, roof, security","home, family, residence, roof, security"
 45721,751,fudge,"chocolate, dark, sweet, sugar, thick, calories, cake, warm","chocolate, dark, sweet, sugar, thick, calories, cake, warm"
 45722,751,girls,"high maintenance, talkative, smart, responsible, fun","high maintenance, talkative, smart, responsible, fun"
 45723,751,tree,"bark, green, leaves, firewood, forest,","bark, green, leaves, firewood, forest,"
@@ -44951,6 +44973,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45764,751,sword,"sharp, blood, merlin, blade","sharp, blood, merlin, blade"
 45765,751,rock,"hard, stone, wall, wrestling, movies","hard, stone, wall, wrestling, movies"
 45766,752,zebra,"black, white, stripe, four legs, africa, lion,","black, white, stripe, four legs, africa, lion,"
+45767,752,house,"living, family, kitchen, bedrooms, living room, yard, neighborhood,","living, family, kitchen, bedrooms, living room, yard, neighborhood,"
 45768,752,fudge,"chocolate, thick, christmas, batch,","chocolate, thick, christmas, batch,"
 45769,752,girls,"wife, female, woman, dress, make up","wife, female, woman, dress, make up"
 45770,752,tree,"bush, green, leaves, tall, forest, woods,","bush, green, leaves, tall, forest, woods,"
@@ -45074,6 +45097,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 45888,753,search,"find, found, relocate","find, found, relocate"
 45889,753,rock,"massive,limestone","massive,limestone"
 45890,754,zebra,"its an animal, its black and white, its fast, eats grass","its an animal, its black and white, its fast, eats grass"
+45891,754,house,"bathroom, bed, television, pictures, couch, bed, food, water, dishes","bathroom, bed, television, pictures, couch, bed, food, water, dishes"
 45892,754,fudge,"brown, sweet, ice cream, sugar, cake,","brown, sweet, ice cream, sugar, cake,"
 45893,754,girls,"long hair, comestics, drama, stubborn, pretty, smart, shy","long hair, comestics, drama, stubborn, pretty, smart, shy"
 45894,754,tree,"tall, big, leaf, brown, green, shade, birds,","tall, big, leaf, brown, green, shade, birds,"
@@ -45196,6 +45220,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46012,755,search,"look, google, find","look, google, find"
 46013,755,rock,"hard, stone, crystal, diamond, dirty","hard, stone, crystal, diamond, dirty"
 46014,756,zebra,"black and white, stripes, type of horse","black and white, stripes, type of horse"
+46015,756,house,"bedrooms, bathrooms, kitchen, doors, windows, brick","bedrooms, bathrooms, kitchen, doors, windows, brick"
 46016,756,fudge,"chewy, chocolate, white or brown, shaped, rectangular","chewy, chocolate, white or brown, shaped, rectangular"
 46017,756,girls,"long hair, short, whiny, emotional, physically weak","long hair, short, whiny, emotional, physically weak"
 46018,756,tree,"tall, brown, leaves, branch","tall, brown, leaves, branch"
@@ -45256,6 +45281,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46074,756,search,"find, scavenger hunt, google","find, scavenger hunt, google"
 46075,756,rock,"hard, colored, small, large, sharp, blunt, soft, rough","hard, colored, small, large, sharp, blunt, soft, rough"
 46076,757,zebra,black white horse africa,black white horse africa
+46077,757,house,bathroom kitchen living room,bathroom kitchen living room
 46078,757,fudge,food,food
 46079,757,girls,breasts,breasts
 46080,757,tree,leaves,leaves
@@ -45316,6 +45342,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46136,757,search,found,found
 46137,757,rock,dirt,dirt
 46138,758,zebra,stripes animal four legs africa,stripes animal four legs africa
+46139,758,house,walls safety people food warm,walls safety people food warm
 46140,758,fudge,chocolate food sugar,chocolate food sugar
 46141,758,girls,pretty crazy fun unpredictable,pretty crazy fun unpredictable
 46142,758,tree,tall short paper bark leaves,tall short paper bark leaves
@@ -45377,6 +45404,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46198,758,search,lookin for something lost,lookin for something lost
 46199,758,rock,earth mountains cliffs meteors,earth mountains cliffs meteors
 46200,759,zebra,"is an animal, has short hair, is white and black, 4 legs,","is an animal, has short hair, is white and black, 4 legs,"
+46201,759,house,"brick, provides shelter, two stories, has windows, in neighborhood,","brick, provides shelter, two stories, has windows, in neighborhood,"
 46202,759,fudge,"chocolate, brown, yummy, soft, hard to make","chocolate, brown, yummy, soft, hard to make"
 46203,759,girls,"shopping, pretty, gossip, dresses, makeup,beauty, shoes, lip gloss","shopping, pretty, gossip, dresses, makeup,beauty, shoes, lip gloss"
 46204,759,tree,"tall, outside, leaves, can climb, tree house, swing,","tall, outside, leaves, can climb, tree house, swing,"
@@ -45438,6 +45466,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46260,759,search,"look for, find, locate, lost, discover, hunt, explore","look for, find, locate, lost, discover, hunt, explore"
 46261,759,rock,"dirt, hard, outside, skipping rocks, collection","dirt, hard, outside, skipping rocks, collection"
 46262,760,zebra,stripes black white animal wild zoo,stripes black white animal wild zoo
+46263,760,house,doors windows roof brick rooms paint kicthen living room bedrooms garage driveway,doors windows roof brick rooms paint kicthen living room bedrooms garage driveway
 46265,760,girls,feminine long hair make up painted nails boyfriends clothes shopping bikinis purses jewelry pink purple,feminine long hair make up painted nails boyfriends clothes shopping bikinis purses jewelry pink purple
 46266,760,tree,trunk leaves green brown branhes bugs outdoors pretty shade,trunk leaves green brown branhes bugs outdoors pretty shade
 46267,760,string,shoe laces small skinny bendable,shoe laces small skinny bendable
@@ -45621,6 +45650,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46446,762,search,"find, lost, avalanches, firefighters","find, lost, avalanches, firefighters"
 46447,762,rock,"solid, hard, big or small, can be found in the woods, or on the ground","solid, hard, big or small, can be found in the woods, or on the ground"
 46448,763,zebra,"animal, has stripes, black and white, looks like a horse, usually lives in the wilderness","animal, has stripes, black and white, looks like a horse, usually lives in the wilderness"
+46449,763,house,"where someone lives, shelter, can be decorated, called a home","where someone lives, shelter, can be decorated, called a home"
 46450,763,fudge,"chocolate, brown, goes on icecream, can be melted or heated up","chocolate, brown, goes on icecream, can be melted or heated up"
 46451,763,girls,"pink, mean, caddy, long hair, make up,","pink, mean, caddy, long hair, make up,"
 46452,763,tree,"green leaves, brown bark, outdoors, planted grows flowers or fruits on them","green leaves, brown bark, outdoors, planted grows flowers or fruits on them"
@@ -45681,6 +45711,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46507,763,quiet,"shh, library, study, bedtime","shh, library, study, bedtime"
 46508,763,search,"find, ask, look for","find, ask, look for"
 46509,763,rock,"hard, everywhere on the ground","hard, everywhere on the ground"
+46511,764,house,"home, living, resting, sleeping, kitchen, bedrooms, bathrooms, showers, family, television","home, living, resting, sleeping, kitchen, bedrooms, bathrooms, showers, family, television"
 46512,764,fudge,"chocolate, brown, m and ms, gooey, square, oven, hot, delicious, nuts, peanut butter, thick","chocolate, brown, m and ms, gooey, square, oven, hot, delicious, nuts, peanut butter, thick"
 46513,764,girls,"pink, skirts, dresses, high heel shoes, panty hose, bras, bikinis, hearts, kisses, boys, tank tops","pink, skirts, dresses, high heel shoes, panty hose, bras, bikinis, hearts, kisses, boys, tank tops"
 46514,764,tree,"green, big, carbon dioxide, forest, nature, leaves, limbs, trunk, roots, water, air,","green, big, carbon dioxide, forest, nature, leaves, limbs, trunk, roots, water, air,"
@@ -45740,6 +45771,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 46570,764,search,"discover, christopher columbus, national treasure,","discover, christopher columbus, national treasure,"
 46571,764,rock,"boulder, gravel, earth, mountains, climb, sharp, round, dull, hard, heavy, unmovable,","boulder, gravel, earth, mountains, climb, sharp, round, dull, hard, heavy, unmovable,"
 46572,765,zebra,"stripes, hooves, four legs, wild","stripes, hooves, four legs, wild"
+46573,765,house,"bed, chair, living room, kitchen, tv","bed, chair, living room, kitchen, tv"
 46574,765,fudge,"chocolate, square, delicious, peanuts, oven, bake, brown,","chocolate, square, delicious, peanuts, oven, bake, brown,"
 46576,765,tree,"green, brown, big, photosynthesis, carbon, forest, leaves, stems, roots","green, brown, big, photosynthesis, carbon, forest, leaves, stems, roots"
 46577,765,string,"long, smooth, thread, dental floss, line","long, smooth, thread, dental floss, line"
@@ -47785,7 +47817,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 48781,816,raw,"meat, flesh, sea food, vegetables & material","meat, flesh, sea food, vegetables & material"
 48783,906,cause,"the producer of an effect, result, or consequence.","the producer of an effect, result, or consequence."
 48784,906,flowers,"for the indie pop band, see language of flowers (band). for the song written by the composer edward elgar, see the language of flowers.","for the indie pop band, see language of flowers (band). for the song written by the composer edward elgar, see the language of flowers."
-48785,906,life,meaning of life (disambiguation).,meaning of life (disambiguation).
 48786,906,raw,unprotected sex,unprotected sex
 48787,906,unclear,not clear or definite; ambiguous,not clear or definite; ambiguous
 48788,827,cause,"a person or thing that acts, happens, or exists in such a way that some specific thing happens as a result","a person or thing that acts, happens, or exists in such a way that some specific thing happens as a result"
@@ -50665,7 +50696,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 51876,847,dam,"a structure, build to restrict water flow in a river , which inturn can be used to produce electricity or irrigation projects.","a structure, build to restrict water flow in a river , which inturn can be used to produce electricity or irrigation projects."
 51877,847,id,"a short term used for identity , which may refer an email id , photo id, or any identity forms issued by government or private concerns.","a short term used for identity , which may refer an email id , photo id, or any identity forms issued by government or private concerns."
 51878,847,off,a word used to describe some kind of a voidness.,a word used to describe some kind of a voidness.
-51879,847,web,a network made up of something may refer to world wide web or a spider web,a network made up of something may refer to world wide web or a spider web
 51881,807,dam,"where water stores,storing place","where water stores,storing place"
 51882,807,id,"identity card,email id, recognize","identity card,email id, recognize"
 51883,807,off,"turn off,switch off,hats off","turn off,switch off,hats off"
@@ -54892,6 +54922,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 56515,958,lot,"lot means a draw, an activity to take a decision by drawing something and held upon luck","lot means a draw, an activity to take a decision by drawing something and held upon luck"
 56516,958,odd,"odd means strange , that is the one which is unique from others","odd means strange , that is the one which is unique from others"
 56517,784,cold,not hot/feelingless/emotionless,not hot/feelingless/emotionless
+56518,784,cop,policeofficer,policeofficer
 56519,784,gather,collect/understand/get together/accumulate,collect/understand/get together/accumulate
 56520,784,lot,numerous/many/much,numerous/many/much
 56521,784,odd,strange/weird/out of the ordinary,strange/weird/out of the ordinary
@@ -64937,7 +64968,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 67578,812,picket,"piquet, pale, lookout, lookout man, scout, sentinel, sentry,","piquet, pale, lookout, lookout man, scout, sentinel, sentry,"
 67579,812,monthly,"month wise, month cycle","month wise, month cycle"
 67584,831,monthly,"a unit of time corresponding approximately to one cycle of the moon's phases, or about 30 days or 4 weeks. 2. abbr. mo. one of the 12 divisions of a year as determined by a calendar, especially the gregorian calendar. also called calendar month. 3. a period extending from a date in one calendar month to the corresponding date in the following month. 4. a sidereal month. 5. a lunar month. 6. a solar month.","a unit of time corresponding approximately to one cycle of the moon phases, or about 30 days or 4 weeks. 2. abbr. mo. one of the 12 divisions of a year as determined by a calendar, especially the gregorian calendar. also called calendar month. 3. a period extending from a date in one calendar month to the corresponding date in the following month. 4. a sidereal month. 5. a lunar month. 6. a solar month."
-67588,1473,picket,"picket may refer to: picketing (protest), a form of protest a climbing tool used to anchor a rope picket fence screw picket, a tethering device picket line, to tether horses picket (military), a military formation picket, a piece in fairy chess picket pool, a micro betting pool picquet, a medieval military punishment","picket may refer to: picketing (protest), a form of protest a climbing tool used to anchor a rope picket fence screw picket, a tethering device picket line, to tether horses picket (military), a military formation picket, a piece in fairy chess picket pool, a micro betting pool picquet, a medieval military punishment"
 67590,770,shy,"drawing back from contact or familiarity with others,distrustful,not having paid an amount due, as one's ante in poker","drawing back from contact or familiarity with others,distrustful,not having paid an amount due, as  ante in poker"
 67593,770,picket,"a pointed stake often driven into the ground to support a fence, secure a tent, tether animals, mark points in surveying, or, when pointed at the top, serve as a defense.","a pointed stake often driven into the ground to support a fence, secure a tent, tether animals, mark points in surveying, or, when pointed at the top, serve as a defense."
 67595,1469,shy,"lacking confidence in the presence of others ,especially strangers;not wanting to attract attention :he is too shy to go to parties.","lacking confidence in the presence of others ,especially strangers;not wanting to attract attention :he is too shy to go to parties."
@@ -65105,7 +65135,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 67777,1454,hoop,"part of a barrel, apparatus in rythmic gymnastics","part of a barrel, apparatus in rythmic gymnastics"
 67778,1454,picket,"a form of protest, against","a form of protest, against"
 67779,1454,monthly,"every 30 days, unit of time, period","every 30 days, unit of time, period"
-67782,1318,hoop,"hoop may refer to: hoop (rhythmic gymnastics) is one apparatus in rhythmic gymnastics hoop (magazine), an american basketball magazine ""hoops"" (song), a song by ruby hoops (video game), a basketball video game hooping, a modern subculture revolving around hoopdance basketball or hoops celtic f.c. or the hoops shamrock rovers f.c. or the hoops queens park rangers or the hoops shamrock rovers hoops, an irish basketball club hoop, part of a barrel hoops 3d graphics system","hoop may refer to: hoop (rhythmic gymnastics) is one apparatus in rhythmic gymnastics hoop (magazine), an american basketball magazine ""hoops"" (song), a song by ruby hoops (video game), a basketball video game hooping, a modern subculture revolving around hoopdance basketball or hoops celtic f.c. or the hoops shamrock rovers f.c. or the hoops queens park rangers or the hoops shamrock rovers hoops, an irish basketball club hoop, part of a barrel hoops 3d graphics system"
 67786,774,thought,"an idea, a piece of imagination, related to mind,","an idea, a piece of imagination, related to mind,"
 67787,774,hoop,"is a game, a circular band of metal,a jockey","is a game, a circular band of metal,a jockey"
 67788,774,picket,"is placing of soldiers at a post,type of fence, a stake pegged into ground","is placing of soldiers at a post,type of fence, a stake pegged into ground"
@@ -65129,16 +65158,22 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 67811,823,thought,"thought :- consideration, contemplation, planning, plan, scheme, design, intention, expectation, hope, prospect, anticipation, dream .","thought :- consideration, contemplation, planning, plan, scheme, design, intention, expectation, hope, prospect, anticipation, dream ."
 67814,823,monthly,"monthly:-aperiodic,semiannual,yearbook,momently,biweekly ,biennial.","monthly:-aperiodic,semiannual,yearbook,momently,biweekly ,biennial."
 67819,874,cracker,"a dry biscuit, a firework that cracks,to cause to make a sudden sound,to break or snap apart","a dry biscuit, a firework that cracks,to cause to make a sudden sound,to break or snap apart"
+67820,874,something,"an unknown thing, some truth unspecified,undetermined,a certain indefinite thing","an unknown thing, some truth unspecified,undetermined,a certain indefinite thing"
 67821,874,shove,"to push rudely or roughly,to jostle,to push some thing or some one with force","to push rudely or roughly,to jostle,to push some thing or some one with force"
 67822,874,true,"real, truthful, agreeing with fact, genuine, loyal or faithful","real, truthful, agreeing with fact, genuine, loyal or faithful"
 67823,874,diary,"a daily record, a book for keeping record, a personal record of events and observations,","a daily record, a book for keeping record, a personal record of events and observations,"
+67824,1454,cracker,"explosive device, large amount of noise, firecracker","explosive device, large amount of noise, firecracker"
+67825,1454,something,"little, no nothing","little, no nothing"
 67826,1454,shove,"album, jackyl, second album, music","album, jackyl, second album, music"
 67827,1454,true,"reality, being in accord with fact","reality, being in accord with fact"
 67828,1454,diary,"milk product, cow, chocolates, cheese, curd","milk product, cow, chocolates, cheese, curd"
+67829,909,cracker,"it is mental,it is bursting things producing heat,it is thefting another things,it is negative thinking person,it is a thing and thinks.","it is mental,it is bursting things producing heat,it is thefting another things,it is negative thinking person,it is a thing and thinks."
+67830,909,something,"it is cycological thinking that act as real, it is imagination,it is creativity,it is innovative.","it is cycological thinking that act as real, it is imagination,it is creativity,it is innovative."
 67831,909,shove,to push forward or along.to push rudely or roughly. to push someone or something with force.the act of shoving;,to push forward or along.to push rudely or roughly. to push someone or something with force.the act of shoving;
 67832,909,true,"it is god,it is respect,it is humanisum,it is fear, it is real.","it is god,it is respect,it is humanisum,it is fear, it is real."
 67833,909,diary,"it is recording of day to day information ,it is note book,it is record,it is journal, it is time of his or her life explanation things,it is memorable things.","it is recording of day to day information ,it is note book,it is record,it is journal, it is time of his or her life explanation things,it is memorable things."
 67834,843,cracker,a fire cracker,a fire cracker
+67835,843,something,unspecified thing,unspecified thing
 67836,843,shove,means push,means push
 67837,843,true,real,real
 67838,843,diary,milk farm,milk farm
@@ -65146,6 +65181,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 67841,1360,shove,"to push or put in a rough, careless, or hasty manner, thrust, to force by other than physical means","to push or put in a rough, careless, or hasty manner, thrust, to force by other than physical means"
 67842,1360,true,"consistent with fact or reality, not false or erroneous, truthful, real, genuine","consistent with fact or reality, not false or erroneous, truthful, real, genuine"
 67843,1360,diary,"a daily record, especially a personal record of events, experiences, and observations; a journal, a book for use in keeping a personal record.","a daily record, especially a personal record of events, experiences, and observations; a journal, a book for use in keeping a personal record."
+67845,1472,something,a thing or item.,a thing or item.
 67846,1472,shove,push. nudge.,push. nudge.
 67849,1480,cracker,"a thin or crisp biscuit, a firecracker, braggart, boaster, a person or thing that cracks,","a thin or crisp biscuit, a firecracker, braggart, boaster, a person or thing that cracks,"
 67850,1480,something,"a certain undetermined or unspecified thing, an additional amount, a person or thing of some value or consequence,","a certain undetermined or unspecified thing, an additional amount, a person or thing of some value or consequence,"
@@ -65156,6 +65192,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 67856,1295,shove,"push without gentleness, boost, drive, buck, dig, bulldoze, cream, elbow, nudge, hustle, jostle, impel, jam, jab, poke, thrust, press, shoulder, propel, prod, pull, advance, hoist, heave, raise, elevate, push, usually up, hoist, lift,","push without gentleness, boost, drive, buck, dig, bulldoze, cream, elbow, nudge, hustle, jostle, impel, jam, jab, poke, thrust, press, shoulder, propel, prod, pull, advance, hoist, heave, raise, elevate, push, usually up, hoist, lift,"
 67857,1295,true,"concordant with facts, accurate, authentic, actual valid, real, direct, honest, exact, genuine, bona fide, correct, indubitable, legal, kosher, natural, on target, proper, regular, sincere, typical, unquestionable, veritable, veracious, corrupt, deceitful, fraudulent, invalid, correctly, perfectly, properly, truthfully, veraciously, wrongly,","concordant with facts, accurate, authentic, actual valid, real, direct, honest, exact, genuine, bona fide, correct, indubitable, legal, kosher, natural, on target, proper, regular, sincere, typical, unquestionable, veritable, veracious, corrupt, deceitful, fraudulent, invalid, correctly, perfectly, properly, truthfully, veraciously, wrongly,"
 67858,1295,diary,"producer of milk products, buttery, dairy farm, cow barn, creamery, factory, pasteurizing plant, farm","producer of milk products, buttery, dairy farm, cow barn, creamery, factory, pasteurizing plant, farm"
+67864,1366,cracker,"snack food, crispy crunchy, usually eating with something else on top of it, like cheese for example.","snack food, crispy crunchy, usually eating with something else on top of it, like cheese for example."
 67865,1366,something,a word to describe a noun.,a word to describe a noun.
 67866,1366,shove,to push,to push
 67867,1366,true,"not a lie, the truth","not a lie, the truth"
@@ -65173,7 +65210,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 67896,825,shove,"push, thrust, propel","push, thrust, propel"
 67897,825,true,"accurate, right, correct","accurate, right, correct"
 67898,825,diary,"journal, record, chronicle","journal, record, chronicle"
-67900,1303,something,a certain indefinite thing,a certain indefinite thing
 67901,1303,shove,to push rudely,to push rudely
 67902,1303,true,reliable,reliable
 67903,1303,diary,a book uses for personal records,a book uses for personal records
@@ -65209,13 +65245,13 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 67956,951,shove,"shove off,thrust,squeeze.","shove off,thrust,squeeze."
 67957,951,true,"story,life,picture,test,proof.","story,life,picture,test,proof."
 67958,951,diary,"daily,milk,food,ghee.","daily,milk,food,ghee."
+67960,792,something,unspecified thing,unspecified thing
 67961,792,shove,to push roughly,to push roughly
 67962,792,true,genuine,genuine
 67963,792,diary,a calender book for recording something,a calender book for recording something
 67966,806,shove,to push roughly or rudely,to push roughly or rudely
 67967,806,true,sincere,sincere
 67968,806,diary,a shop or company that sells milk,a shop or company that sells milk
-67969,1474,cracker,"redneck, biscuit, eat with cheese","redneck, biscuit, eat with cheese"
 67971,1474,shove,"push, move with force, evil act","push, move with force, evil act"
 67972,1474,true,"not false, say what really is the case","not false, say what really is the case"
 67973,1474,diary,"private thoughts, secrets, anne frank","private thoughts, secrets, anne frank"
@@ -65259,6 +65295,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68046,957,shove,"to move along by force from behind; push,to push roughly or rudely, often vulgar,to go away; depart.","to move along by force from behind; push,to push roughly or rudely, often vulgar,to go away; depart."
 68047,957,true,"real; genuine; authentic,being or reflecting the essential or genuine character of something,sincere; not deceitful,being in accordance with the actual state or conditions; conforming to reality or fact; not false.","real; genuine; authentic,being or reflecting the essential or genuine character of something,sincere; not deceitful,being in accordance with the actual state or conditions; conforming to reality or fact; not false."
 68048,957,diary,"a daily record, usually private, especially of the writer's own experiences, observations, feelings, attitudes, etc,a book for keeping such a record,a book or pad containing pages marked and arranged in calendar order, in which to note appointments and the like.","a daily record, usually private, especially of the writer own experiences, observations, feelings, attitudes, etc,a book for keeping such a record,a book or pad containing pages marked and arranged in calendar order, in which to note appointments and the like."
+68054,864,cracker,"one that crack,especially","one that crack,especially"
 68056,864,shove,to push rudely or roughly,to push rudely or roughly
 68057,864,true,truth description,truth description
 68058,864,diary,a book to note down appointments or some important work to do,a book to note down appointments or some important work to do
@@ -65270,29 +65307,38 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68066,1262,shove,push vigorously,push vigorously
 68067,1262,true,in accordance with fact or reality,in accordance with fact or reality
 68068,1262,diary,daily record of events or thoughts,daily record of events or thoughts
+68069,1469,cracker,"a thin crisp biscuit, a small exploding firework:fire crackers.","a thin crisp biscuit, a small exploding firework:fire crackers."
 68071,1469,shove,a push :to thrust.,a push :to thrust.
 68072,1469,true,telling of something that really happened:not invented;ageeing with fact:not wrong:,telling of something that really happened:not invented;ageeing with fact:not wrong:
 68073,1469,diary,"a shop supplieng milk, butter cheese etc.","a shop supplieng milk, butter cheese etc."
+68074,1476,cracker,"a salty biscuit, baked, make out of flour","a salty biscuit, baked, make out of flour"
 68076,1476,shove,"to push something into another thing, to stuff something, to push roughly","to push something into another thing, to stuff something, to push roughly"
 68077,1476,true,"correct, the right thing, opposite of false","correct, the right thing, opposite of false"
 68078,1476,diary,building to process cheese & milk products,building to process cheese & milk products
+68079,903,cracker,"firework,biscuit","firework,biscuit"
 68081,903,shove,"push, push vigorously","push, push vigorously"
 68082,903,true,"real, fact","real, fact"
 68083,903,diary,"book for writing events daily,book for noting engagements","book for writing events daily,book for noting engagements"
+68084,770,cracker,"a thin crisp wafer or biscuit, usually made of unsweetened dough,one that cracks, especially","a thin crisp wafer or biscuit, usually made of unsweetened dough,one that cracks, especially"
 68086,770,shove,"to push forward or along,to push rudely or roughly","to push forward or along,to push rudely or roughly"
 68087,770,true,"real; genuine, reliable; accurate, faithful","real; genuine, reliable; accurate, faithful"
 68088,770,diary,"a daily record, especially a personal record of events, experiences, and observations; a journal.","a daily record, especially a personal record of events, experiences, and observations; a journal."
+68089,822,cracker,a person or device that cracks,a person or device that cracks
 68091,822,shove,"to push or thrust, as along a surface","to push or thrust, as along a surface"
 68092,822,true,faithful,faithful
 68093,822,diary,"a daily written record of the writer's own experiences, thoughts, etc","a daily written record of the writer own experiences, thoughts, etc"
+68094,1464,cracker,a crispt material that can be added to various soups or eaten with cheese or simply by itself,a crispt material that can be added to various soups or eaten with cheese or simply by itself
 68096,1464,shove,to physically push an object or person in a different direction,to physically push an object or person in a different direction
 68097,1464,true,what is real,what is real
 68098,1464,diary,a journal kept by a man or woman relaying their thoughts and feelings,a journal kept by a man or woman relaying their thoughts and feelings
+68099,1277,cracker,"one who, or that which, cracks.","one who, or that which, cracks."
 68102,1277,true,"conformable to fact; in accordance with the actual state of things; correct; not false, erroneous, inaccurate, or the like; as, a true relation or narration; a true history; a declaration is true when it states the facts.","conformable to fact; in accordance with the actual state of things; correct; not false, erroneous, inaccurate, or the like; as, a true relation or narration; a true history; a declaration is true when it states the facts."
 68103,1277,diary,"lasting for one day; as, a diary fever.","lasting for one day; as, a diary fever."
+68104,1477,cracker,a thin crisp biscuit or a firecracker,a thin crisp biscuit or a firecracker
 68106,1477,shove,to move along by force,to move along by force
 68107,1477,true,"real, genuine","real, genuine"
 68108,1477,diary,"a daily record, usually private","a daily record, usually private"
+68109,1478,cracker,creates noise pollution,creates noise pollution
 68111,1478,shove,beared,beared
 68112,1478,true,lies was great movie,lies was great movie
 68113,1478,diary,is used to write,is used to write
@@ -65537,8 +65583,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68406,950,moon,"natural satellite, night moon, solar eclipses.","natural satellite, night moon, solar eclipses."
 68407,950,duty,"on duty, government staff, soldier,","on duty, government staff, soldier,"
 68408,950,aluminum,"chemical elements. aluminium oxide, silvery gray metallic","chemical elements. aluminium oxide, silvery gray metallic"
-68414,831,guilt,"a. the fact of being responsible for the commission of an offense. see synonyms at blame. b. law the fact of having been found to have violated a criminal law; legal culpability. c. responsibility for a mistake or error. 2. a. remorseful awareness of having done something wrong. b. self-reproach for supposed inadequacy or wrongdoing. tr.v. guilt·ed, guilt·ing, guilts to make or try to make (someone) feel guilty.","a. the fact of being responsible for the commission of an offense. see synonyms at blame. b. law the fact of having been found to have violated a criminal law; legal culpability. c. responsibility for a mistake or error. 2. a. remorseful awareness of having done something wrong. b. self-reproach for supposed inadequacy or wrongdoing. tr.v. guilt·ed, guilt·ing, guilts to make or try to make (someone) feel guilty."
-68415,831,me,also me. maine 2. a. mechanical engineer b. mechanical engineering 3. medical examiner 4. middle english,also me. maine 2. a. mechanical engineer b. mechanical engineering 3. medical examiner 4. middle english
 68419,786,close,"opposite of open, stick together,","opposite of open, stick together,"
 68420,786,ocean,"body of water, big portion of the earth","body of water, big portion of the earth"
 68421,786,advice,"opinion, to give counsel","opinion, to give counsel"
@@ -65710,7 +65754,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68648,950,close,"closing, end, final, finishing","closing, end, final, finishing"
 68649,950,ocean,"world ocean, long water, water cycle","world ocean, long water, water cycle"
 68650,950,advice,"opinion, legal advice","opinion, legal advice"
-68651,950,doughnut,"doughnut varieties, food, disambiguation","doughnut varieties, food, disambiguation"
 68652,950,paper,"writing, wood range, history of paper, paper making","writing, wood range, history of paper, paper making"
 68653,1277,close,"to stop, or fill up, as an opening; to shut; as, to close the eyes; to close a door.","to stop, or fill up, as an opening; to shut; as, to close the eyes; to close a door."
 68654,1277,ocean,"the whole body of salt water which covers more than three fifths of the surface of the globe; called also the sea, or great sea.","the whole body of salt water which covers more than three fifths of the surface of the globe; called also the sea, or great sea."
@@ -65776,6 +65819,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68715,1479,advice,"helpful, suggestion,comment, agney aunt,thoughtful","helpful, suggestion,comment, agney aunt,thoughtful"
 68716,1479,doughnut,"ring, cake, fried, sugar, fat,","ring, cake, fried, sugar, fat,"
 68717,1479,paper,"material, writing, wrapping,sheet, newspaper","material, writing, wrapping,sheet, newspaper"
+68718,1512,soda,"beverage, carbonated water, fizzy drink","beverage, carbonated water, fizzy drink"
 68719,1512,in,"preposition, it shows location, shows that something is inside (into) something else","preposition, it shows location, shows that something is inside (into) something else"
 68720,1512,winner,"someone who comes victorious, takes a first place","someone who comes victorious, takes a first place"
 68721,1512,noise,"loud sound, distraction, group of sounds,","loud sound, distraction, group of sounds,"
@@ -65785,22 +65829,27 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68725,818,winner,"one who wins the contest or anything, win, gets reward","one who wins the contest or anything, win, gets reward"
 68726,818,noise,"unwanted sound, unbearable, audible, irritating","unwanted sound, unbearable, audible, irritating"
 68727,818,legend,"a great or known person of his field, expert, famous, respected","a great or known person of his field, expert, famous, respected"
+68728,970,soda,"carbon-die-oxide,for digestion,a relief drink,sometimes with alcohol.","carbon-die-oxide,for digestion,a relief drink,sometimes with alcohol."
 68729,970,in,"inner,allow to,under,a hide.","inner,allow to,under,a hide."
 68730,970,winner,"successor,no.1,gets gold medal,a leader in sports.","successor,no.1,gets gold medal,a leader in sports."
 68731,970,noise,"makes pollution,count by decibals,makes heart beat higher.","makes pollution,count by decibals,makes heart beat higher."
 68732,970,legend,"related with history,ancient miracles,older stories","related with history,ancient miracles,older stories"
+68733,1282,soda,"pop, coke, drink, refreshment, bubbly","pop, coke, drink, refreshment, bubbly"
 68734,1282,in,"amid, among, cool, hip, inside, enter","amid, among, cool, hip, inside, enter"
 68735,1282,winner,"champion, best, awarded, top, won","champion, best, awarded, top, won"
 68736,1282,noise,"loud, hear, ears, clank, pound, sound","loud, hear, ears, clank, pound, sound"
 68737,1282,legend,"hero, idol, adored, myth, story","hero, idol, adored, myth, story"
+68738,1513,soda,"bubbly, drink, related to softdrinks, sweet","bubbly, drink, related to softdrinks, sweet"
 68739,1513,in,"inside a place or object, preposition","inside a place or object, preposition"
 68740,1513,winner,"opposite of loser, victorious, happy","opposite of loser, victorious, happy"
 68741,1513,noise,"loud sounds, disturbs people, ruins hearing","loud sounds, disturbs people, ruins hearing"
 68742,1513,legend,"well-known, mythical","well-known, mythical"
+68743,778,soda,have water+salt,have water+salt
 68744,778,in,inside,inside
 68745,778,winner,firstprize,firstprize
 68746,778,noise,irritate sound,irritate sound
 68747,778,legend,gender,gender
+68748,786,soda,"softdrinks , carbonated drinks","softdrinks , carbonated drinks"
 68749,786,in,"inside, opposite of out","inside, opposite of out"
 68750,786,winner,"opposite of loser, the one who had the prize","opposite of loser, the one who had the prize"
 68751,786,noise,"nuisance, not pleasing to the ears","nuisance, not pleasing to the ears"
@@ -65810,6 +65859,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68755,843,winner,one who wins,one who wins
 68756,843,noise,unwanted sound,unwanted sound
 68757,843,legend,popular myth of modern times,popular myth of modern times
+68758,1497,soda,drinks,drinks
 68759,1497,in,"inside, inner","inside, inner"
 68760,1497,winner,"ictor , conqueror ,vanquisher","ictor , conqueror ,vanquisher"
 68761,1497,noise,"uproar , sound , hubbub","uproar , sound , hubbub"
@@ -65824,6 +65874,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68770,1320,winner,game,game
 68771,1320,noise,it can produce sound,it can produce sound
 68772,1320,legend,great man,great man
+68773,1454,soda,"carbonated water, beverage product, sodium carbonate, saltine","carbonated water, beverage product, sodium carbonate, saltine"
 68774,1454,in,"abbreviation of inch, unit of length","abbreviation of inch, unit of length"
 68775,1454,winner,"successor, victory, first prize","successor, victory, first prize"
 68776,1454,noise,"unwanted sound, shouting, audio","unwanted sound, shouting, audio"
@@ -65833,12 +65884,11 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68780,1303,winner,a victor,a victor
 68781,1303,noise,sound that is loud,sound that is loud
 68782,1303,legend,luminary,luminary
+68783,806,soda,sodium hydroxide.,sodium hydroxide.
 68784,806,in,used to indicate inclusion within space,used to indicate inclusion within space
 68785,806,winner,a person or thing that wins,a person or thing that wins
 68786,806,noise,a sound of any kind,a sound of any kind
 68787,806,legend,an inscription,an inscription
-68790,831,winner,"winner(s) or the winner(s) may refer to: champion, the victor in a challenge or contest. .","winner(s) or the winner(s) may refer to: champion, the victor in a challenge or contest. ."
-68792,831,legend,"a. an unverified story handed down from earlier times, especially one popularly believed to be historical. b. a body or collection of such stories. c. a romanticized or popularized myth of modern times. 2. one that inspires legends or achieves legendary fame. 3. a. an inscription or a title on an object, such as a coin. b. an explanatory caption accompanying an illustration. c. an explanatory table or list of the symbols appearing on a map or chart.","a. an unverified story handed down from earlier times, especially one popularly believed to be historical. b. a body or collection of such stories. c. a romanticized or popularized myth of modern times. 2. one that inspires legends or achieves legendary fame. 3. a. an inscription or a title on an object, such as a coin. b. an explanatory caption accompanying an illustration. c. an explanatory table or list of the symbols appearing on a map or chart."
 68794,1312,in,"inside, in the house, in the shop, in the area, in the bottom. in the earth","inside, in the house, in the shop, in the area, in the bottom. in the earth"
 68795,1312,winner,"congratulation, happiness, success, victor, succeeder, achiever, winner of the game, leader","congratulation, happiness, success, victor, succeeder, achiever, winner of the game, leader"
 68796,1312,noise,"sound, pollution, high frequency sound, decibel, noise polution, sound reduction, acoustic properties, guitar sound, music sound","sound, pollution, high frequency sound, decibel, noise polution, sound reduction, acoustic properties, guitar sound, music sound"
@@ -65914,7 +65964,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 68885,1517,winner,"sucessfull person, victor","sucessfull person, victor"
 68886,1517,noise,"unwanted sound, disturbance","unwanted sound, disturbance"
 68887,1517,legend,a body or collection of such stories,a body or collection of such stories
-68888,1509,soda,"a carbonated, sugary beverage","a carbonated, sugary beverage"
 68889,1509,in,to be smaller and in the same area of something,to be smaller and in the same area of something
 68890,1509,winner,first place,first place
 68891,1509,noise,"loud, obnoxious sounds","loud, obnoxious sounds"
@@ -66192,7 +66241,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 69235,823,tornado,"tornado :-whirlwind, cyclone, twister, hurricane, typhoon, blow; storm .","tornado :-whirlwind, cyclone, twister, hurricane, typhoon, blow; storm ."
 69236,823,preview,"preview :- house trailer, trailer, prevue, preview, dawdler, poke, drone, lagger, laggard .","preview :- house trailer, trailer, prevue, preview, dawdler, poke, drone, lagger, laggard ."
 69237,823,new,"new:-fresh, young, raw, novel, unexampled, newfangled","new:-fresh, young, raw, novel, unexampled, newfangled"
-69239,1318,can,"can may refer to: container aluminum can steel can, an airtight tinplate container for storing food and other predominantly liquid products beverage can, a can designed to hold a single serving of a beverage oil can canning, a process of preserving food canister","can may refer to: container aluminum can steel can, an airtight tinplate container for storing food and other predominantly liquid products beverage can, a can designed to hold a single serving of a beverage oil can canning, a process of preserving food canister"
 69243,950,legs,"foot, human leg,robotic leg","foot, human leg,robotic leg"
 69244,950,can,"oil can, river can, tinplate","oil can, river can, tinplate"
 69245,950,tornado,"cyclone, twister, cloud","cyclone, twister, cloud"
@@ -66432,8 +66480,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 69503,834,sport,"a pro or recreational physical activity, often involving a point system","a pro or recreational physical activity, often involving a point system"
 69505,834,follower,"something that is behind a peron, or word. someone in pursuit of another.","something that is behind a peron, or word. someone in pursuit of another."
 69507,834,leaf,green tree and plant foliage. a page in a book.,green tree and plant foliage. a page in a book.
-69509,831,hamburger,"a. ground meat, usually beef. b. a patty of such meat. 2. a sandwich made with a patty of ground meat usually in a roll or bun.","a. ground meat, usually beef. b. a patty of such meat. 2. a sandwich made with a patty of ground meat usually in a roll or bun."
-69512,831,leaf,"a usually green, flattened, lateral structure attached to a stem and functioning as a principal organ of photosynthesis and transpiration in most plants. 2. a leaflike organ or structure. 3. a. leaves considered as a group; foliage. b. the state or time of having or showing leaves: trees in full leaf. 4. the leaves of a plant used or processed for a specific purpose: large supplies of tobacco leaf. 5. any of the sheets of paper bound in a book, each side of which constitutes a page.","a usually green, flattened, lateral structure attached to a stem and functioning as a principal organ of photosynthesis and transpiration in most plants. 2. a leaflike organ or structure. 3. a. leaves considered as a group; foliage. b. the state or time of having or showing leaves: trees in full leaf. 4. the leaves of a plant used or processed for a specific purpose: large supplies of tobacco leaf. 5. any of the sheets of paper bound in a book, each side of which constitutes a page."
 69513,818,sport,"game, played by teams, usually have referee, indoor and outdoor","game, played by teams, usually have referee, indoor and outdoor"
 69514,818,hamburger,"fastfood, sandwich, usually contains meat, tasty , spicy","fastfood, sandwich, usually contains meat, tasty , spicy"
 69515,818,follower,"disciple, student, follows guru or teacher","disciple, student, follows guru or teacher"
@@ -66579,7 +66625,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 69670,951,bible,"holy book,christians.","holy book,christians."
 69671,951,temperature,"high,low,hot,cold,fever.","high,low,hot,cold,fever."
 69672,951,tired,"sleeping,writing,reading,resting,working.","sleeping,writing,reading,resting,working."
-69677,1318,tired,"tired may refer to: fatigue (medical), a feeling of exhaustion ""tired"", a song by rollins band on weight from 1994 ""tired"", a song by willa ford on willa was here from 2001 ""tired"", a song by lcd soundsystem on lcd soundsystem from 2005 ""tired"", a song by adele on 19 from 2007 ""tired"", a song originally performed by tabitha's secret, covered by matchbox twenty tired (ep), a 2002 ep by monkey majik","tired may refer to: fatigue (medical), a feeling of exhaustion ""tired"", a song by rollins band on weight from 1994 ""tired"", a song by willa ford on willa was here from 2001 ""tired"", a song by lcd soundsystem on lcd soundsystem from 2005 ""tired"", a song by adele on 19 from 2007 ""tired"", a song originally performed by tabitha secret, covered by matchbox twenty tired (ep), a 2002 ep by monkey majik"
 69678,1359,again,"repeat ,working on a work once more , doing something more than one time , loop","repeat ,working on a work once more , doing something more than one time , loop"
 69679,1359,love,"a feeling shared between two people , a special feeling , concerns about another person or animal , a concept used for getting close to others","a feeling shared between two people , a special feeling , concerns about another person or animal , a concept used for getting close to others"
 69680,1359,bible,"the spiritual book on christianity,a holy book on jesus and his deeds ,a book with lot of writings , can be used as a life guide to forgive and forget many things to be happy","the spiritual book on christianity,a holy book on jesus and his deeds ,a book with lot of writings , can be used as a life guide to forgive and forget many things to be happy"
@@ -66785,7 +66830,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 69896,831,again,"a unit of time corresponding approximately to one cycle of the moon's phases, or about 30 days or 4 weeks. 2. abbr. mo. one of the 12 divisions of a year as determined by a calendar, especially the gregorian calendar. also called calendar month. 3. a period extending from a date in one calendar month to the corresponding date in the following month. 4. a sidereal month. 5. a lunar month. 6. a solar month.","a unit of time corresponding approximately to one cycle of the moon phases, or about 30 days or 4 weeks. 2. abbr. mo. one of the 12 divisions of a year as determined by a calendar, especially the gregorian calendar. also called calendar month. 3. a period extending from a date in one calendar month to the corresponding date in the following month. 4. a sidereal month. 5. a lunar month. 6. a solar month."
 69898,831,bible,". the sacred book of christianity, a collection of ancient writings including the books of both the old testament and the new testament. b. the hebrew scriptures, the sacred book of judaism. c. a particular copy of a bible: the old family bible. d. a book or collection of writings constituting the sacred text of a religion.",". the sacred book of christianity, a collection of ancient writings including the books of both the old testament and the new testament. b. the hebrew scriptures, the sacred book of judaism. c. a particular copy of a bible: the old family bible. d. a book or collection of writings constituting the sacred text of a religion."
 69899,831,temperature,"a measure of the warmth or coldness of an object or substance with reference to some standard value. the temperature of two systems is the same when the systems are in thermal equilibrium. 2. physiology, pathology . a. the degree of heat in a living body, normally about 98.6°f (37°c) in humans. b. the excess of this above the normal. 3. obsolete . mildness, as of the weather. 4. obsolete . temperament.","a measure of the warmth or coldness of an object or substance with reference to some standard value. the temperature of two systems is the same when the systems are in thermal equilibrium. 2. physiology, pathology . a. the degree of heat in a living body, normally about 98.6°f (37°c) in humans. b. the excess of this above the normal. 3. obsolete . mildness, as of the weather. 4. obsolete . temperament."
-69900,831,tired,1. a. exhausted of strength or energy; fatigued. b. impatient; bored: tired of the same old sandwiches. 2. overused; hackneyed: a tired joke.,1. a. exhausted of strength or energy; fatigued. b. impatient; bored: tired of the same old sandwiches. 2. overused; hackneyed: a tired joke.
 69901,1454,again,"repeat, same process","repeat, same process"
 69902,1454,love,"affection, like, emotioal feeling","affection, like, emotioal feeling"
 69903,1454,bible,collection of primary religious texts,collection of primary religious texts
@@ -67028,9 +67072,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 70177,1508,try,"attempt , stive, stuggle, endeavour, aim, seek, undertake , make an effort.","attempt , stive, stuggle, endeavour, aim, seek, undertake , make an effort."
 70178,1508,song,"cry , noise, sound , blast , blare, clatter, racket.","cry , noise, sound , blast , blare, clatter, racket."
 70180,1508,layer,"coating, coat, flim, sheet deposit, cover, level.","coating, coat, flim, sheet deposit, cover, level."
-70181,831,wine,"1. a. a beverage made of the fermented juice of any of various kinds of grapes, usually containing from 10 to 15 percent alcohol by volume. b. a beverage made of the fermented juice of any of various other fruits or plants. 2. something that intoxicates or exhilarates. 3. the color of red wine.","1. a. a beverage made of the fermented juice of any of various kinds of grapes, usually containing from 10 to 15 percent alcohol by volume. b. a beverage made of the fermented juice of any of various other fruits or plants. 2. something that intoxicates or exhilarates. 3. the color of red wine."
-70183,831,song,". music a. a brief composition written or adapted for singing. b. the act or art of singing: broke into song. 2. a distinctive or characteristic sound made by an animal, such as a bird or an insect. 3. a. poetry; verse. b. a lyric poem or ballad.",". music a. a brief composition written or adapted for singing. b. the act or art of singing: broke into song. 2. a distinctive or characteristic sound made by an animal, such as a bird or an insect. 3. a. poetry; verse. b. a lyric poem or ballad."
-70184,831,oyster,"a. any of several edible bivalve mollusks of the family ostreidae, especially of the genera crassostrea and ostrea, that live chiefly in shallow marine waters and have a rough, irregularly shaped shell. b. any of various similar or related bivalve mollusks, such as the pearl oyster. 2. an edible bit of muscle found in the hollow of the pelvic bone of a fowl. 3. a. a special delicacy. b. something from which benefits may be extracted. 4. slang a close-mouthed person.","a. any of several edible bivalve mollusks of the family ostreidae, especially of the genera crassostrea and ostrea, that live chiefly in shallow marine waters and have a rough, irregularly shaped shell. b. any of various similar or related bivalve mollusks, such as the pearl oyster. 2. an edible bit of muscle found in the hollow of the pelvic bone of a fowl. 3. a. a special delicacy. b. something from which benefits may be extracted. 4. slang a close-mouthed person."
 70186,812,wine,"wine-colored, wine-coloured, vino","wine-colored, wine-coloured, vino"
 70187,812,try,"attempt, effort, endeavor, endeavour, try on, render, sample, taste, try out, strain, stress, hear, adjudicate, judge, assay, essay, seek, examine, prove, test","attempt, effort, endeavor, endeavour, try on, render, sample, taste, try out, strain, stress, hear, adjudicate, judge, assay, essay, seek, examine, prove, test"
 70188,812,song,"strain, birdcall, birdsong, call, vocal, song dynasty, sung,","strain, birdcall, birdsong, call, vocal, song dynasty, sung,"
@@ -67147,7 +67188,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 70300,1312,pledge,"oath, confidence, self-assurance, self-confidence, authority, assurance, pledge, sureness, toast","oath, confidence, self-assurance, self-confidence, authority, assurance, pledge, sureness, toast"
 70303,864,owner,one who owns,one who owns
 70305,864,communism,a scheme of equalizing the social conditions of life,a scheme of equalizing the social conditions of life
-70308,831,owner,"of or belonging to oneself or itself: she makes her own clothes. n. that which belongs to one: i wanted a room of my own. v. owned, own·ing, owns v.tr. 1. a. to have or possess as property: owns a chain of restaurants. b. to have control over: for a time, enemy planes owned the skies. 2. to admit as being in accordance with fact, truth, or a claim; acknowledge.","of or belonging to oneself or itself: she makes her own clothes. n. that which belongs to one: i wanted a room of my own. v. owned, own·ing, owns v.tr. 1. a. to have or possess as property: owns a chain of restaurants. b. to have control over: for a time, enemy planes owned the skies. 2. to admit as being in accordance with fact, truth, or a claim; acknowledge."
 70313,787,owner,a person who owns; possessor; proprietor.,a person who owns; possessor; proprietor.
 70318,908,owner,"one who owns,one who has the title or right to possess a thing,legal heir.","one who owns,one who has the title or right to possess a thing,legal heir."
 70320,908,communism,"sharing of wealth by taking away from those who have,rule by the workers,workers right above individual right,enemy of capitalism,wealth to be shared according to each ones contribution.","sharing of wealth by taking away from those who have,rule by the workers,workers right above individual right,enemy of capitalism,wealth to be shared according to each ones contribution."
@@ -67858,7 +67898,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 71129,1483,apart,"afar, alone, aloof, aside, away, by itself, cut off, disassociated, disconnected, distant, distinct, divorced, excluded, exclusively, freely, independent, independently, individually, isolated, lone wolf, separated, separately, singly, special, to itself, to one side","afar, alone, aloof, aside, away, by itself, cut off, disassociated, disconnected, distant, distinct, divorced, excluded, exclusively, freely, independent, independently, individually, isolated, lone wolf, separated, separately, singly, special, to itself, to one side"
 71130,1483,son,"boy, dependent, descendant, heir, junior, offspring, scion","boy, dependent, descendant, heir, junior, offspring, scion"
 71131,1483,river,"administrate, be in the driver's seat, be in the saddle, boss, carry out, conduct, control, crack the whip, direct, execute, govern, head, head up, hold the reins, oversee, pull the strings, pull the wires, render, ride herd on, run, run the show, sit on top of, sup","administrate, be in the driver seat, be in the saddle, boss, carry out, conduct, control, crack the whip, direct, execute, govern, head, head up, hold the reins, oversee, pull the strings, pull the wires, render, ride herd on, run, run the show, sit on top of, sup"
-71133,1318,scratch,scratch may refer to: a mark or indentation on a surface: abrasion (mechanical),scratch may refer to: a mark or indentation on a surface: abrasion (mechanical)
 71135,1318,son,a son is a male offspring; a boy or man in relation to his parents,a son is a male offspring; a boy or man in relation to his parents
 71137,1264,outdoors,"out-of-doors, outside, in the open, in the open air, opposite of indoors","out-of-doors, outside, in the open, in the open air, opposite of indoors"
 71138,1264,scratch,"scrape, rub, cut, score, damage a part","scrape, rub, cut, score, damage a part"
@@ -70165,7 +70204,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 73469,1553,beast,"creature, monster","creature, monster"
 73470,1554,beast,"monster, strong, scary, large, hairy, massive","monster, strong, scary, large, hairy, massive"
 73471,1555,beast,"an angry animal, monster","an angry animal, monster"
-73472,1556,beast,"dangerous creature, may refer to actual animal/ person or imaginary creature","dangerous creature, may refer to actual animal/ person or imaginary creature"
 73473,1557,beast,"generally is a animal, sometimes used to describe mean people, lives in the wild","generally is a animal, sometimes used to describe mean people, lives in the wild"
 73474,1558,beast,"big, animal, scary","big, animal, scary"
 73475,1559,beast,"scary, beauty","scary, beauty"
@@ -85950,7 +85988,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 89431,2153,assignment,"something you have to do, work, school, college","something you have to do, work, school, college"
 89432,2154,anisette,do not know,do not know
 89433,2154,astrology,"astrology: the study of star signs, the belief that the planets impact human behavior","astrology: the study of star signs, the belief that the planets impact human behavior"
-89434,2154,attendance,"attendance has several meanings. attendance can refer to how many people are going to a place, or it may refer to a united states student's time spent in school.","attendance has several meanings. attendance can refer to how many people are going to a place, or it may refer to a united states student time spent in school."
 89436,2154,assignment,"work, homework","work, homework"
 89437,2155,anisette,"booze, drink","booze, drink"
 89438,2155,astrology,"uses times and dates and stars, fortune telling","uses times and dates and stars, fortune telling"
@@ -107448,7 +107485,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 111378,6544,labyrinth,"maze, often complicated","maze, often complicated"
 111379,6545,injection,injection with niddle,injection with niddle
 111380,6545,hedge,"a ground of plants, something surrounding an object, to protect","a ground of plants, something surrounding an object, to protect"
-111381,6545,identical,"exactly the same, may refer to monozygotic twins, opposite of fraternal when referring to twins","exactly the same, may refer to monozygotic twins, opposite of fraternal when referring to twins"
 111382,6545,inability,"not able, stupid.","not able, stupid."
 111383,6545,labyrinth,"a maze which has a single exit/entrance and generally has a monster at the middle, a twisty turning path that is hard to navigate, something that is extremely complex and difficult to understand.","a maze which has a single exit/entrance and generally has a monster at the middle, a twisty turning path that is hard to navigate, something that is extremely complex and difficult to understand."
 111384,6546,injection,an instance of injecting or being injected,an instance of injecting or being injected
@@ -116297,7 +116333,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 120345,8339,offend,"to hurt, to make sad","to hurt, to make sad"
 120346,8339,pebble,"a piece of gravel, a shingle","a piece of gravel, a shingle"
 120347,8339,obnoxious,"annoying, aggravating, displeasing","annoying, aggravating, displeasing"
-120348,8339,pair,"implies two, may refer to identical or similar items, implies a set","implies two, may refer to identical or similar items, implies a set"
 120349,8340,overview,"the whole thing, to go over, to review","the whole thing, to go over, to review"
 120350,8340,offend,"bother, shock, unpleasant","bother, shock, unpleasant"
 120351,8340,pebble,"stone, walkway, shoe, rock","stone, walkway, shoe, rock"
@@ -122066,7 +122101,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 126188,9509,racket,"paddle with a fibrous grill, sports, tennis","paddle with a fibrous grill, sports, tennis"
 126189,9509,reality,"real life, now","real life, now"
 126190,9509,responsibility,having a duty that you must fulfill,having a duty that you must fulfill
-126191,9509,production,"the act of producing goods, may refer to a theatrical performance.","the act of producing goods, may refer to a theatrical performance."
 126192,9509,roman,"person from rome, ancient group of people","person from rome, ancient group of people"
 126193,9510,racket,"noise, cacophony, tennis paddle","noise, cacophony, tennis paddle"
 126194,9510,reality,"the objective world, tangible world of cause and effect, the opposite of fantasy","the objective world, tangible world of cause and effect, the opposite of fantasy"
@@ -137915,6 +137949,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 142253,12409,heat,"a warm temperature, can come from the sun, can come from some type of a heating source","a warm temperature, can come from the sun, can come from some type of a heating source"
 142254,12410,heat,"hot, opposite of cold","hot, opposite of cold"
 142255,12411,heat,"is warmth, the opposite of cold, can burn you, fire makes heat, is how summertime feels,","is warmth, the opposite of cold, can burn you, fire makes heat, is how summertime feels,"
+142297,12375,house,house,house
 142334,12334,hurricane,"a terrible windstorm, a cyclone, tropical storm, katrina, new orleans","a terrible windstorm, a cyclone, tropical storm, katrina, new orleans"
 142335,12335,hurricane,"a storm, the name of a wrestlers characters name. it has high winds, rain, hail. found in the ocean. storm can go on to land.","a storm, the name of a wrestlers characters name. it has high winds, rain, hail. found in the ocean. storm can go on to land."
 142336,12336,hurricane,"powerful weather system, start in ocean, can cause lots of destruction","powerful weather system, start in ocean, can cause lots of destruction"
@@ -139967,6 +140002,7 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 144467,12359,tall,"increased height, big","increased height, big"
 144468,12360,tall,greater than average height,greater than average height
 144469,12361,tall,"big, fat, large, lanky, jeans, beer, glass, men, athlete","big, fat, large, lanky, jeans, beer, glass, men, athlete"
+144506,12398,tall,"wide, big, sky scrapper, basketball player","wide, big, sky scrapper, basketball player"
 144520,12334,tea,"made from leaves, hot or cold, herbal, water, goes in a cup, calming effect","made from leaves, hot or cold, herbal, water, goes in a cup, calming effect"
 144521,12335,tea,"drink, ice tea, southern drink. hot tea. tea tree","drink, ice tea, southern drink. hot tea. tea tree"
 144522,12336,tea,"typically comes in tea bags, natural herbs, good when you are sick, thought of as a proper drink, hot or cold","typically comes in tea bags, natural herbs, good when you are sick, thought of as a proper drink, hot or cold"
@@ -142497,7 +142533,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 147103,12499,stiff,"cant move, body","cant move, body"
 147104,12500,stiff,"difficult to move, tired, tense","difficult to move, tired, tense"
 147105,12501,stiff,"hard, not bending","hard, not bending"
-147106,12502,stiff,"hard, rigid, unmoving, may refer to a physical state of the body and its unwillingness or inability to move or the mental state of being unwilling to change one's mind, strict","hard, rigid, unmoving, may refer to a physical state of the body and its unwillingness or inability to move or the mental state of being unwilling to change  mind, strict"
 147107,12503,stiff,"hard, solid","hard, solid"
 147108,12504,stiff,"no flex, a person with no sense of humor, no fun, boring","no flex, a person with no sense of humor, no fun, boring"
 147109,12413,strap,"strap: holds things togther,could be at the top of a shirt,","strap: holds things togther,could be at the top of a shirt,"
@@ -147269,7 +147304,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 151898,12522,staff,"are a group of people who work for someone or a company. they do work. it can be a mix of both males and females. they can work at someones home or at a busniess. there can be just a few people, or a lot. the jobs of what they do can widely range. the age group is usually at least 15+.","are a group of people who work for someone or a company. they do work. it can be a mix of both males and females. they can work at someones home or at a busniess. there can be just a few people, or a lot. the jobs of what they do can widely range. the age group is usually at least 15+."
 151899,12523,staff,hired group of people assigned to do a certain duty,hired group of people assigned to do a certain duty
 151900,12524,staff,a group of people working for a particular company or cause.,a group of people working for a particular company or cause.
-151901,12525,staff,"group of people, may refer to staff as in a stick, staff as in the five horizontal lines in which notes are placed on for music, or the staff of a gun.","group of people, may refer to staff as in a stick, staff as in the five horizontal lines in which notes are placed on for music, or the staff of a gun."
 151902,12526,staff,"long stick, made of metal, made of wood, belongs to wizards, workers at a building, members of a team","long stick, made of metal, made of wood, belongs to wizards, workers at a building, members of a team"
 151903,12527,staff,"people that work for a company, friends, enemies, teamwork, dedicated,","people that work for a company, friends, enemies, teamwork, dedicated,"
 151904,12528,staff,an infection,an infection
@@ -156514,7 +156548,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 161253,12704,early,"childhood, morning, school, work, not late","childhood, morning, school, work, not late"
 161254,12705,early,before needed or wanted.,before needed or wanted.
 161255,12706,early,"getting up, showing up before somthing starts,","getting up, showing up before somthing starts,"
-161256,12707,early,near the first part of a timeline can refer to when we were a young child may refer to an arrival time,near the first part of a timeline can refer to when we were a young child may refer to an arrival time
 161257,12708,early,"waking up in the morning, breakfast, time for work, time for school, first part of the day, sun rises, dew on the grass","waking up in the morning, breakfast, time for work, time for school, first part of the day, sun rises, dew on the grass"
 161258,12709,early,"before planned, babies delivered before due date, describes an event in time","before planned, babies delivered before due date, describes an event in time"
 161259,12710,early,"morning, soon, previous, new, young , original, initia, ahead of time.","morning, soon, previous, new, young , original, initia, ahead of time."
@@ -156648,7 +156681,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 161387,12704,hungry,"food, need food, soup, sandwich, lunch, dinner","food, need food, soup, sandwich, lunch, dinner"
 161388,12705,hungry,to want(in most cases food but you can be hungry for other things),to want(in most cases food but you can be hungry for other things)
 161389,12706,hungry,"eat, food, humans eat food when they are hungry, we must do this every day,","eat, food, humans eat food when they are hungry, we must do this every day,"
-161390,12707,hungry,want to eat need to eat may refer to an individual who really needs or wants something.,want to eat need to eat may refer to an individual who really needs or wants something.
 161391,12708,hungry,"stomach growling, uneasy feeling, wanting to eat, stomach hurting, waking up, after a workout, not eating all day","stomach growling, uneasy feeling, wanting to eat, stomach hurting, waking up, after a workout, not eating all day"
 161392,12709,hungry,"needing food, requiring sustinence, body telling mind it needs nutrients, a feeling caused by release of hormones","needing food, requiring sustinence, body telling mind it needs nutrients, a feeling caused by release of hormones"
 161393,12710,hungry,"munchies, food,greedy, feed, grocery.","munchies, food,greedy, feed, grocery."
@@ -159446,7 +159478,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 164191,12755,spin,"movement of turning in axis, often creates a repetitive circular/ elliptical motion.","movement of turning in axis, often creates a repetitive circular/ elliptical motion."
 164192,12756,spin,"to go in a circle in one place, makes you dizzy, certain amusement rides spin","to go in a circle in one place, makes you dizzy, certain amusement rides spin"
 164193,12757,spin,"the little sit-n-spin device i enjoyed as a kid, the spinning around that can cause centrifugal force to make it hard to stay toward the center, merry-go-rounds, medical centrifuges, the way the earth rotates around its center axis as we make our daily journeys that carry us in ellipses around the sun","the little sit-n-spin device i enjoyed as a kid, the spinning around that can cause centrifugal force to make it hard to stay toward the center, merry-go-rounds, medical centrifuges, the way the earth rotates around its center axis as we make our daily journeys that carry us in ellipses around the sun"
-164194,12758,spin,to turn in a clockwise or counterclockwise motion at any given speed. may refer to an individual or an object in motion.,to turn in a clockwise or counterclockwise motion at any given speed. may refer to an individual or an object in motion.
 164195,12759,spin,"is a verb, not a noun, makes me sick, can be fun on roller coasters,make me think of childhood, the office chair i am sitting in can spin around","is a verb, not a noun, makes me sick, can be fun on roller coasters,make me think of childhood, the office chair i am sitting in can spin around"
 164196,12760,spin,"move in circles, could mean a cycle on a washing machine, become dizzy, spiral,","move in circles, could mean a cycle on a washing machine, become dizzy, spiral,"
 164197,12761,spin,"dizzy, turning, rotating, laughing, playing, crying, wheels, yo-yo, blenders.","dizzy, turning, rotating, laughing, playing, crying, wheels, yo-yo, blenders."
@@ -171176,7 +171207,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 176019,13143,market,"place to shop, has food, fresh food","place to shop, has food, fresh food"
 176020,13144,market,"grocery store, sells fresh fruit and vegetables,","grocery store, sells fresh fruit and vegetables,"
 176021,13145,market,"some kind of society ex (stock market, grocery market, money market), crowded, full of supplies, collects something, place to go, jobs, consists of many people","some kind of society ex (stock market, grocery market, money market), crowded, full of supplies, collects something, place to go, jobs, consists of many people"
-176022,13146,market,"is a place of sales, may refer to economy, money, business, grows, shrinks,","is a place of sales, may refer to economy, money, business, grows, shrinks,"
 176023,13147,market,"a place where you can get groceries and other goods, lots of stores in one place, big, busy, people always there, spend money","a place where you can get groceries and other goods, lots of stores in one place, big, busy, people always there, spend money"
 176024,13148,market,"is a place to get food, is a place to get clothes, is loud, is crowded, has many different locations, is fun, can drive to get there, can walk there, can smell good, can smell bad","is a place to get food, is a place to get clothes, is loud, is crowded, has many different locations, is fun, can drive to get there, can walk there, can smell good, can smell bad"
 176025,13149,market,shopping,shopping
@@ -172497,7 +172527,6 @@ row_id,subject_id,cue,answer_clean,answer_contractions
 177346,13244,average,"not below standard, not above standard, middle, can be used to discover a grade, used in math","not below standard, not above standard, middle, can be used to discover a grade, used in math"
 177347,13245,average,"normal, getting a c in a class, not being exceptional, just like everyone else, dont stand out or get attention, nothing wonderful.","normal, getting a c in a class, not being exceptional, just like everyone else, dont stand out or get attention, nothing wonderful."
 177348,13246,average,"is a quantity, is a rating, a norm example: we usaually get an average of 2ft of snow per year in springfield every winter.","is a quantity, is a rating, a norm example: we usaually get an average of 2ft of snow per year in springfield every winter."
-177349,13247,average,"not the best, not the worst, in the middle, may refer to a set of numbers added together then divided by the number of numbers, also known as the median","not the best, not the worst, in the middle, may refer to a set of numbers added together then divided by the number of numbers, also known as the median"
 177350,13248,average,the line at which something could either be superior or basic; the line that the majority of a population is at,the line at which something could either be superior or basic; the line that the majority of a population is at
 177351,13249,average,normal,normal
 177352,13250,average,"above the minimum, below the max, not the best, not the least, middle","above the minimum, below the max, not the best, not the least, middle"

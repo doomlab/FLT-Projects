@@ -37447,6 +37447,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 38056,626,627,individual_subjects.csv,animal,dog cat fish,dog cat fish
 38057,626,627,individual_subjects.csv,glue,white sticky,white sticky
 38058,626,627,individual_subjects.csv,hole,golf fall,golf fall
+38059,626,627,individual_subjects.csv,cheap,inexpensive affordable low quality,inexpensive affordable low quality
 38060,626,627,individual_subjects.csv,sports,baseball tennis soccer,baseball tennis soccer
 38061,626,627,individual_subjects.csv,drugs,marijuana cocaine,marijuana cocaine
 38062,626,627,individual_subjects.csv,orgasm,sex,sex
@@ -40171,6 +40172,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 40867,671,672,individual_subjects.csv,animal,"A mamal, many different kinds of animals, dogs are animals, monkeys, cats,","a mamal, many different kinds of animals, dogs are animals, monkeys, cats,"
 40868,671,672,individual_subjects.csv,glue,used to place two parts together,used to place two parts together
 40869,671,672,individual_subjects.csv,hole,made by digging,made by digging
+40870,671,672,individual_subjects.csv,cheap,not expensive,not expensive
 40871,671,672,individual_subjects.csv,sports,"football, basketball, baseball, soccer, lacrosse, rugby, swimming, tennis, golf, hockey, water polo, gymnastics","football, basketball, baseball, soccer, lacrosse, rugby, swimming, tennis, golf, hockey, water polo, gymnastics"
 40872,671,672,individual_subjects.csv,drugs,"marijuana, cocaine, alchohal, LSD, mushrooms, herion,  angle dust, crack, crystal meth","marijuana, cocaine, alchohal, lsd, mushrooms, herion, angle dust, crack, crystal meth"
 40873,671,672,individual_subjects.csv,orgasm,the act of reaching ones sexual peak,the act of reaching ones sexual peak
@@ -41813,6 +41815,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 42557,699,700,individual_subjects.csv,animal,"i love to hunt many different animals, deer turkey duck","i love to hunt many different animals, deer turkey duck"
 42558,699,700,individual_subjects.csv,glue,"made from horses, holds things together","made from horses, holds things together"
 42559,699,700,individual_subjects.csv,hole,"hole in the hide outfitters, in oxford","hole in the hide outfitters, in oxford"
+42560,699,700,individual_subjects.csv,cheap,not expensive,not expensive
 42561,699,700,individual_subjects.csv,sports,"action, horses, rodeo= the real sport","action, horses, rodeo= the real sport"
 42562,699,700,individual_subjects.csv,drugs,"Not good for your body,","not good for your body,"
 42563,699,700,individual_subjects.csv,orgasm,"Something saving until marriage, a gift from the Lord","something saving until marriage, a gift from the lord"
@@ -41873,6 +41876,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 42619,700,701,individual_subjects.csv,animal,a mammal that ususaly has four legs such as a cat or dog.,a mammal that ususaly has four legs such as a cat or dog.
 42620,700,701,individual_subjects.csv,glue,what holds things together usually white.,what holds things together usually white.
 42621,700,701,individual_subjects.csv,hole,"dark, black, what rabbits live in .","dark, black, what rabbits live in ."
+42622,700,701,individual_subjects.csv,cheap,"not expensive,","not expensive,"
 42623,700,701,individual_subjects.csv,sports,things people play to keep entertained usualy played with balls.,things people play to keep entertained usualy played with balls.
 42624,700,701,individual_subjects.csv,drugs,"things people take to get on a different level, wrong,","things people take to get on a different level, wrong,"
 42625,700,701,individual_subjects.csv,orgasm,"exciting, fantastic, pleasurable, happy, thrilling","exciting, fantastic, pleasurable, happy, thrilling"
@@ -43399,6 +43403,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44187,725,726,individual_subjects.csv,rule,"break, the law, poilce, life","break, the law, poilce, life"
 44188,725,726,individual_subjects.csv,bath,"water, bubbles, clean, shower","water, bubbles, clean, shower"
 44189,726,727,individual_subjects.csv,zebra,black and white,black and white
+44190,726,727,individual_subjects.csv,house,family,family
 44191,726,727,individual_subjects.csv,fudge,"delicious, square, bad for you, cavaties","delicious, square, bad for you, cavaties"
 44192,726,727,individual_subjects.csv,girls,"makeup, fashion","makeup, fashion"
 44193,726,727,individual_subjects.csv,tree,"brown, green, leaves,animals","brown, green, leaves,animals"
@@ -43522,6 +43527,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44311,727,728,individual_subjects.csv,search,"To look for,find","to look for,find"
 44312,727,728,individual_subjects.csv,rock,"Very hard, belongs outside, lots of times used to be thrown","very hard, belongs outside, lots of times used to be thrown"
 44313,728,729,individual_subjects.csv,zebra,"animal,has strips,see them in the zoo, eat grass, smells,","animal,has strips,see them in the zoo, eat grass, smells,"
+44314,728,729,individual_subjects.csv,house,"small or large, furniture in it, appliance, kitchen,food,comfortable,beds,quiet place,shelter,bricks or wood,","small or large, furniture in it, appliance, kitchen,food,comfortable,beds,quiet place,shelter,bricks or wood,"
 44315,728,729,individual_subjects.csv,fudge,"chocolate,delicious taste,put it on cookies,icream, and fruit,unhealthy, snack,nasty, sticky","chocolate,delicious taste,put it on cookies,icream, and fruit,unhealthy, snack,nasty, sticky"
 44316,728,729,individual_subjects.csv,girls,"ethinics, pretty,outgoing,mean,short hair, long hair, or either no hair, nails, make-up,stuck up,punk,models, sorririties,love boys, pretty dress, high heels, earrings,squeeky voices,","ethinics, pretty,outgoing,mean,short hair, long hair, or either no hair, nails, make-up,stuck up,punk,models, sorririties,love boys, pretty dress, high heels, earrings,squeeky voices,"
 44317,728,729,individual_subjects.csv,tree,"brown trunk, limbs, apples,roots, dirt pine cones, green leaves, use for paper, pencil, desk,","brown trunk, limbs, apples,roots, dirt pine cones, green leaves, use for paper, pencil, desk,"
@@ -43765,6 +43771,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44557,731,732,individual_subjects.csv,quiet,"library, boredom, peaceful, testing area","library, boredom, peaceful, testing area"
 44558,731,732,individual_subjects.csv,search,"to find, games, research, boring, exhausting","to find, games, research, boring, exhausting"
 44560,732,733,individual_subjects.csv,zebra,"is black and white stripes, has a mane, lives in the wild","is black and white stripes, has a mane, lives in the wild"
+44561,732,733,individual_subjects.csv,house,"bedroom, bathroom, kitchen, dining room, garage, laundry room, family","bedroom, bathroom, kitchen, dining room, garage, laundry room, family"
 44562,732,733,individual_subjects.csv,fudge,"chocolate, brown, sweet, baked,","chocolate, brown, sweet, baked,"
 44563,732,733,individual_subjects.csv,girls,"intimidating, high heels, drama, come in packs","intimidating, high heels, drama, come in packs"
 44564,732,733,individual_subjects.csv,tree,"nature, assorted leaves, brown trunk, fruits, squirrels, birds","nature, assorted leaves, brown trunk, fruits, squirrels, birds"
@@ -43811,6 +43818,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44605,732,733,individual_subjects.csv,search,"find, looking","find, looking"
 44606,732,733,individual_subjects.csv,rock,"stone, song, pebble","stone, song, pebble"
 44607,733,734,individual_subjects.csv,zebra,"horse, saddle, Africa, black and white, clothing,","horse, saddle, africa, black and white, clothing,"
+44608,733,734,individual_subjects.csv,house,"shelter, room, safety, kitchen, living, doors, windows","shelter, room, safety, kitchen, living, doors, windows"
 44609,733,734,individual_subjects.csv,fudge,"cake, brownie, fat, treat, wrapper, sugar, bake,","cake, brownie, fat, treat, wrapper, sugar, bake,"
 44610,733,734,individual_subjects.csv,girls,"Beyonce, Alicia Keys, Shakira, models, dancing, clubs, class","beyonce, alicia keys, shakira, models, dancing, clubs, class"
 44611,733,734,individual_subjects.csv,tree,"leaves, branch, stump, bark, maple, red oak, Fall","leaves, branch, stump, bark, maple, red oak, fall"
@@ -43872,6 +43880,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44667,733,734,individual_subjects.csv,search,"look, find, lost, phone","look, find, lost, phone"
 44668,733,734,individual_subjects.csv,rock,"The wrestler, boulder, Rock n Roll, Gardens,","the wrestler, boulder, rock n roll, gardens,"
 44669,734,735,individual_subjects.csv,zebra,"Exotic, animal, lives in africa","exotic, animal, lives in africa"
+44670,734,735,individual_subjects.csv,house,"shelter, mortgage, furniture, family","shelter, mortgage, furniture, family"
 44671,734,735,individual_subjects.csv,fudge,"sweet, brown, high calorie, good","sweet, brown, high calorie, good"
 44672,734,735,individual_subjects.csv,girls,"sweet, innocent, pretty, great heart","sweet, innocent, pretty, great heart"
 44673,734,735,individual_subjects.csv,tree,"fruit, shade, leaves, colorful","fruit, shade, leaves, colorful"
@@ -43932,6 +43941,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44729,734,735,individual_subjects.csv,search,"look, find","look, find"
 44730,734,735,individual_subjects.csv,rock,"hard, concrete, slide,","hard, concrete, slide,"
 44731,735,736,individual_subjects.csv,zebra,"animal, white with black stripes, found in africa, usually at zoos","animal, white with black stripes, found in africa, usually at zoos"
+44732,735,736,individual_subjects.csv,house,"home, shelter, protection, air conditioner/heat, staircase, bed","home, shelter, protection, air conditioner/heat, staircase, bed"
 44733,735,736,individual_subjects.csv,fudge,"chocolate, rich, fattening, thick, tastey","chocolate, rich, fattening, thick, tastey"
 44734,735,736,individual_subjects.csv,girls,"long hair, bows, jewelry, fingernail polish, skirts, sandals","long hair, bows, jewelry, fingernail polish, skirts, sandals"
 44735,735,736,individual_subjects.csv,tree,"outside, tall, brown, thick trunk, green leaves, roots, shade, you can climb","outside, tall, brown, thick trunk, green leaves, roots, shade, you can climb"
@@ -43993,6 +44003,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44791,735,736,individual_subjects.csv,search,"seek, look, lost,missing, find, abducted","seek, look, lost,missing, find, abducted"
 44792,735,736,individual_subjects.csv,rock,"hard, gray, pond, drive way, parking lot, busted windshield","hard, gray, pond, drive way, parking lot, busted windshield"
 44793,736,737,individual_subjects.csv,zebra,"black and white stripes,","black and white stripes,"
+44794,736,737,individual_subjects.csv,house,"home, where i live","home, where i live"
 44795,736,737,individual_subjects.csv,fudge,chocolate,chocolate
 44796,736,737,individual_subjects.csv,girls,different body features,different body features
 44797,736,737,individual_subjects.csv,tree,leaves,leaves
@@ -44054,6 +44065,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44853,736,737,individual_subjects.csv,search,find,find
 44854,736,737,individual_subjects.csv,rock,nature,nature
 44855,737,738,individual_subjects.csv,zebra,"stripes, horse, black, white, trot, gallop","stripes, horse, black, white, trot, gallop"
+44856,737,738,individual_subjects.csv,house,"bedroom, bathroom, kitchen, shelter, work, yard","bedroom, bathroom, kitchen, shelter, work, yard"
 44857,737,738,individual_subjects.csv,fudge,"chocolate, white, dark, brownie, nuts, square, chunks","chocolate, white, dark, brownie, nuts, square, chunks"
 44858,737,738,individual_subjects.csv,girls,"boobs, vagina, long hair, sweet , petite","boobs, vagina, long hair, sweet , petite"
 44859,737,738,individual_subjects.csv,tree,"bark, leaf, limb, stump, big, small, hickory, bonzai","bark, leaf, limb, stump, big, small, hickory, bonzai"
@@ -44115,6 +44127,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44915,737,738,individual_subjects.csv,search,"chase, hunt, exploration, inspection, seizure, quest","chase, hunt, exploration, inspection, seizure, quest"
 44916,737,738,individual_subjects.csv,rock,"ground, heavy, solid, smooth, rough","ground, heavy, solid, smooth, rough"
 44917,738,739,individual_subjects.csv,zebra,"animal, black and white stripes, lives at zoo, not a pet, like a horse","animal, black and white stripes, lives at zoo, not a pet, like a horse"
+44918,738,739,individual_subjects.csv,house,"where you live with your family, shelter","where you live with your family, shelter"
 44919,738,739,individual_subjects.csv,fudge,"chocolate, delicious, type of candy, chewy, fudgy brownies","chocolate, delicious, type of candy, chewy, fudgy brownies"
 44920,738,739,individual_subjects.csv,girls,"not boys, cute girls, grow up to become women and have babies","not boys, cute girls, grow up to become women and have babies"
 44921,738,739,individual_subjects.csv,tree,"plant, outdoors, big and tall, part of nature","plant, outdoors, big and tall, part of nature"
@@ -44176,6 +44189,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 44977,738,739,individual_subjects.csv,search,"goggle, yahoo, trying to find something but doesnt necessarily have to be online ha","goggle, yahoo, trying to find something but doesnt necessarily have to be online ha"
 44978,738,739,individual_subjects.csv,rock,"hard, sometimes round but can be different shapes, big or small, naturally occurring substance","hard, sometimes round but can be different shapes, big or small, naturally occurring substance"
 44979,739,740,individual_subjects.csv,zebra,"black and white color, hairy, animal, walks, runs like horse, zoo animal","black and white color, hairy, animal, walks, runs like horse, zoo animal"
+44980,739,740,individual_subjects.csv,house,"bricks, where you live, family, cement, windows, doors, tv, beds, cook, sleep","bricks, where you live, family, cement, windows, doors, tv, beds, cook, sleep"
 44981,739,740,individual_subjects.csv,fudge,"chocolate, vanilla, brown, with nuts, hard or chewy","chocolate, vanilla, brown, with nuts, hard or chewy"
 44983,739,740,individual_subjects.csv,tree,"tall, leaves, brown, green, treehouse, birds live there, sap, pine, oak, rope swing","tall, leaves, brown, green, treehouse, birds live there, sap, pine, oak, rope swing"
 44984,739,740,individual_subjects.csv,string,"shoe string, tie, white","shoe string, tie, white"
@@ -44360,6 +44374,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45163,741,742,individual_subjects.csv,search,"a word used to describe an action, a word used to invoke a person's response","a word used to describe an action, a word used to invoke a person's response"
 45164,741,742,individual_subjects.csv,rock,"a hard place, multi-colored, can roll, can slide, can be broken apart, can never be solid once shattered, a hard form of earth","a hard place, multi-colored, can roll, can slide, can be broken apart, can never be solid once shattered, a hard form of earth"
 45165,742,743,individual_subjects.csv,zebra,"ANIMAL, MAMMEL, STRIPES, HORSE, FOUR LEGS, HERBIVORE, BLACK, WHITE, PEACEFUL","animal, mammel, stripes, horse, four legs, herbivore, black, white, peaceful"
+45166,742,743,individual_subjects.csv,house,"RESIDENCE, DWELLING, HOME, WINDOWS, DOORS, ROOMS, FAMILY, HISTORY, WARMTH, SECURITY","residence, dwelling, home, windows, doors, rooms, family, history, warmth, security"
 45167,742,743,individual_subjects.csv,fudge,"DARK, CHOCOLATE, SWEET, FATTENING, ENJOYABLE, HAPPINESS, ICE CREAM, CANDY, LOVE","dark, chocolate, sweet, fattening, enjoyable, happiness, ice cream, candy, love"
 45168,742,743,individual_subjects.csv,girls,"PRETTY, BEAUTY, FEMALE, CHILD BIRTH, PERIODS, HAPPY, CONFUSED, PINK, HEARTS, LOVE","pretty, beauty, female, child birth, periods, happy, confused, pink, hearts, love"
 45169,742,743,individual_subjects.csv,tree,"NATURE, HISTORY, ELDERLY, BRANCHES, STRENGTH, LEAVES, ROOTS, BIRDS, SEASONAL, LIFE CYCLE","nature, history, elderly, branches, strength, leaves, roots, birds, seasonal, life cycle"
@@ -44420,6 +44435,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45225,742,743,individual_subjects.csv,search,"EXPLORE, EXPIDITION, LOOKING, LOST, TIMELY","explore, expidition, looking, lost, timely"
 45226,742,743,individual_subjects.csv,rock,"HARD, SOLID, GREY, HURT, LAND, NATURE, FOUNDATION","hard, solid, grey, hurt, land, nature, foundation"
 45227,743,744,individual_subjects.csv,zebra,"animal, big, black, white, different color.","animal, big, black, white, different color."
+45228,743,744,individual_subjects.csv,house,"family, pretty, made of bricks, nice.","family, pretty, made of bricks, nice."
 45229,743,744,individual_subjects.csv,fudge,chocolate that you eat,chocolate that you eat
 45230,743,744,individual_subjects.csv,girls,human being,human being
 45231,743,744,individual_subjects.csv,tree,a nonliving item that is grown,a nonliving item that is grown
@@ -44539,6 +44555,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45346,744,745,individual_subjects.csv,quiet,"loud, mouse","loud, mouse"
 45347,744,745,individual_subjects.csv,rock,"hard, boulder, gravel, band, concert, singer","hard, boulder, gravel, band, concert, singer"
 45348,745,746,individual_subjects.csv,zebra,"strips, animal, horse like","strips, animal, horse like"
+45349,745,746,individual_subjects.csv,house,"family, furniture, mortage","family, furniture, mortage"
 45350,745,746,individual_subjects.csv,fudge,"chocolate, nuts","chocolate, nuts"
 45351,745,746,individual_subjects.csv,girls,"dolls, playhouse, dresses, ponytails","dolls, playhouse, dresses, ponytails"
 45352,745,746,individual_subjects.csv,tree,"branches, leaves, birds","branches, leaves, birds"
@@ -44661,6 +44678,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45469,746,747,individual_subjects.csv,search,"meaning, truth, find, soul","meaning, truth, find, soul"
 45470,746,747,individual_subjects.csv,rock,"hard, small, medium, large, gravel, broken windows, skipping stones, river, climbing, boulders, pet rock, yard decoration, fish tanks","hard, small, medium, large, gravel, broken windows, skipping stones, river, climbing, boulders, pet rock, yard decoration, fish tanks"
 45471,747,748,individual_subjects.csv,zebra,"animal,horse, mammal,","animal,horse, mammal,"
+45472,747,748,individual_subjects.csv,house,"place,building,","place,building,"
 45473,747,748,individual_subjects.csv,fudge,"chocolate, sweet, coca, sugar","chocolate, sweet, coca, sugar"
 45474,747,748,individual_subjects.csv,girls,"females, mammals, pretty,","females, mammals, pretty,"
 45475,747,748,individual_subjects.csv,tree,"leaves, bark, brown, paper","leaves, bark, brown, paper"
@@ -44722,6 +44740,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45531,747,748,individual_subjects.csv,search,"find, seek, looking","find, seek, looking"
 45532,747,748,individual_subjects.csv,rock,"hard, outside,","hard, outside,"
 45533,748,749,individual_subjects.csv,zebra,"an animal, stripes, black and white,","an animal, stripes, black and white,"
+45534,748,749,individual_subjects.csv,house,"my room, where I live, building, shelter, comfort","my room, where i live, building, shelter, comfort"
 45535,748,749,individual_subjects.csv,fudge,"chocolate, icecream, sweet","chocolate, icecream, sweet"
 45536,748,749,individual_subjects.csv,girls,"boys, females, males, ladies, women","boys, females, males, ladies, women"
 45537,748,749,individual_subjects.csv,tree,"branch, bark, green and brown, apple tree, the park","branch, bark, green and brown, apple tree, the park"
@@ -44783,6 +44802,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45593,748,749,individual_subjects.csv,search,"found, google, looking for","found, google, looking for"
 45594,748,749,individual_subjects.csv,rock,"hard, rock paper scissors,","hard, rock paper scissors,"
 45595,749,750,individual_subjects.csv,zebra,"black and white stripes, animal, Africa, mammal, Zebra cakes, Madagascar","black and white stripes, animal, africa, mammal, zebra cakes, madagascar"
+45596,749,750,individual_subjects.csv,house,"brick, home, family, kinds, land, money","brick, home, family, kinds, land, money"
 45597,749,750,individual_subjects.csv,fudge,"chocolate, food, Christmas, fat, Grandma, yummy,","chocolate, food, christmas, fat, grandma, yummy,"
 45598,749,750,individual_subjects.csv,girls,"sex, hair, eyes, shopping, clothes, emotional, smart","sex, hair, eyes, shopping, clothes, emotional, smart"
 45599,749,750,individual_subjects.csv,tree,"woods, bark, green, tall, Magnolia, Pine,","woods, bark, green, tall, magnolia, pine,"
@@ -44844,6 +44864,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45655,749,750,individual_subjects.csv,search,"look, find, destroy, mission, locate, hunt, dogs, party, spotter","look, find, destroy, mission, locate, hunt, dogs, party, spotter"
 45656,749,750,individual_subjects.csv,rock,"and a hard place, nature, hard, skipping rocks, boulder, mountain, erosion, mudslide, stoning, punishment","and a hard place, nature, hard, skipping rocks, boulder, mountain, erosion, mudslide, stoning, punishment"
 45657,750,751,individual_subjects.csv,zebra,lion,lion
+45658,750,751,individual_subjects.csv,house,trailor,trailor
 45659,750,751,individual_subjects.csv,fudge,candy,candy
 45660,750,751,individual_subjects.csv,girls,young ladies,young ladies
 45661,750,751,individual_subjects.csv,tree,flowers,flowers
@@ -44905,6 +44926,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45717,750,751,individual_subjects.csv,search,look,look
 45718,750,751,individual_subjects.csv,rock,stones,stones
 45719,751,752,individual_subjects.csv,zebra,"stripes, animal, fruit stripe gum, africa, rugs, horses, hunting, zoo, ace ventura","stripes, animal, fruit stripe gum, africa, rugs, horses, hunting, zoo, ace ventura"
+45720,751,752,individual_subjects.csv,house,"home, family, residence, roof, security","home, family, residence, roof, security"
 45721,751,752,individual_subjects.csv,fudge,"chocolate, dark, sweet, sugar, thick, calories, cake, warm","chocolate, dark, sweet, sugar, thick, calories, cake, warm"
 45722,751,752,individual_subjects.csv,girls,"high maintenance, talkative, smart, responsible, fun","high maintenance, talkative, smart, responsible, fun"
 45723,751,752,individual_subjects.csv,tree,"bark, green, leaves, firewood, forest,","bark, green, leaves, firewood, forest,"
@@ -44951,6 +44973,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45764,751,752,individual_subjects.csv,sword,"sharp, blood, merlin, blade","sharp, blood, merlin, blade"
 45765,751,752,individual_subjects.csv,rock,"hard, stone, wall, wrestling, movies","hard, stone, wall, wrestling, movies"
 45766,752,753,individual_subjects.csv,zebra,"Black, white, stripe, four legs, africa, lion,","black, white, stripe, four legs, africa, lion,"
+45767,752,753,individual_subjects.csv,house,"living, family, kitchen, bedrooms, living room, yard, neighborhood,","living, family, kitchen, bedrooms, living room, yard, neighborhood,"
 45768,752,753,individual_subjects.csv,fudge,"chocolate, thick, christmas, batch,","chocolate, thick, christmas, batch,"
 45769,752,753,individual_subjects.csv,girls,"wife, female, woman, dress, make up","wife, female, woman, dress, make up"
 45770,752,753,individual_subjects.csv,tree,"bush, green, leaves, tall, forest, woods,","bush, green, leaves, tall, forest, woods,"
@@ -45074,6 +45097,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 45888,753,754,individual_subjects.csv,search,"find, found, relocate","find, found, relocate"
 45889,753,754,individual_subjects.csv,rock,"massive,limestone","massive,limestone"
 45890,754,755,individual_subjects.csv,zebra,"its an animal, its black and white, its fast, eats grass","its an animal, its black and white, its fast, eats grass"
+45891,754,755,individual_subjects.csv,house,"bathroom, bed, television, pictures, couch, bed, food, water, dishes","bathroom, bed, television, pictures, couch, bed, food, water, dishes"
 45892,754,755,individual_subjects.csv,fudge,"brown, sweet, ice cream, sugar, cake,","brown, sweet, ice cream, sugar, cake,"
 45893,754,755,individual_subjects.csv,girls,"long hair, comestics, drama, stubborn, pretty, smart, shy","long hair, comestics, drama, stubborn, pretty, smart, shy"
 45894,754,755,individual_subjects.csv,tree,"tall, big, leaf, brown, green, shade, birds,","tall, big, leaf, brown, green, shade, birds,"
@@ -45196,6 +45220,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46012,755,756,individual_subjects.csv,search,"look, google, find","look, google, find"
 46013,755,756,individual_subjects.csv,rock,"hard, stone, crystal, diamond, dirty","hard, stone, crystal, diamond, dirty"
 46014,756,757,individual_subjects.csv,zebra,"black and white, stripes, type of horse","black and white, stripes, type of horse"
+46015,756,757,individual_subjects.csv,house,"bedrooms, bathrooms, kitchen, doors, windows, brick","bedrooms, bathrooms, kitchen, doors, windows, brick"
 46016,756,757,individual_subjects.csv,fudge,"chewy, chocolate, white or brown, shaped, rectangular","chewy, chocolate, white or brown, shaped, rectangular"
 46017,756,757,individual_subjects.csv,girls,"long hair, short, whiny, emotional, physically weak","long hair, short, whiny, emotional, physically weak"
 46018,756,757,individual_subjects.csv,tree,"tall, brown, leaves, branch","tall, brown, leaves, branch"
@@ -45256,6 +45281,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46074,756,757,individual_subjects.csv,search,"find, scavenger hunt, google","find, scavenger hunt, google"
 46075,756,757,individual_subjects.csv,rock,"hard, colored, small, large, sharp, blunt, soft, rough","hard, colored, small, large, sharp, blunt, soft, rough"
 46076,757,758,individual_subjects.csv,zebra,black white horse africa,black white horse africa
+46077,757,758,individual_subjects.csv,house,bathroom kitchen living room,bathroom kitchen living room
 46078,757,758,individual_subjects.csv,fudge,food,food
 46079,757,758,individual_subjects.csv,girls,breasts,breasts
 46080,757,758,individual_subjects.csv,tree,leaves,leaves
@@ -45316,6 +45342,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46136,757,758,individual_subjects.csv,search,found,found
 46137,757,758,individual_subjects.csv,rock,dirt,dirt
 46138,758,759,individual_subjects.csv,zebra,stripes animal four legs africa,stripes animal four legs africa
+46139,758,759,individual_subjects.csv,house,walls safety people food warm,walls safety people food warm
 46140,758,759,individual_subjects.csv,fudge,chocolate food sugar,chocolate food sugar
 46141,758,759,individual_subjects.csv,girls,pretty crazy fun unpredictable,pretty crazy fun unpredictable
 46142,758,759,individual_subjects.csv,tree,tall short paper bark leaves,tall short paper bark leaves
@@ -45377,6 +45404,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46198,758,759,individual_subjects.csv,search,lookin for something lost,lookin for something lost
 46199,758,759,individual_subjects.csv,rock,earth mountains cliffs meteors,earth mountains cliffs meteors
 46200,759,760,individual_subjects.csv,zebra,"is an animal, has short hair, is white and black, 4 legs,","is an animal, has short hair, is white and black, 4 legs,"
+46201,759,760,individual_subjects.csv,house,"brick, provides shelter, two stories, has windows, in neighborhood,","brick, provides shelter, two stories, has windows, in neighborhood,"
 46202,759,760,individual_subjects.csv,fudge,"chocolate, brown, yummy, soft, hard to make","chocolate, brown, yummy, soft, hard to make"
 46203,759,760,individual_subjects.csv,girls,"shopping, pretty, gossip, dresses, makeup,beauty, shoes, lip gloss","shopping, pretty, gossip, dresses, makeup,beauty, shoes, lip gloss"
 46204,759,760,individual_subjects.csv,tree,"tall, outside, leaves, can climb, tree house, swing,","tall, outside, leaves, can climb, tree house, swing,"
@@ -45438,6 +45466,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46260,759,760,individual_subjects.csv,search,"look for, find, locate, lost, discover, hunt, explore","look for, find, locate, lost, discover, hunt, explore"
 46261,759,760,individual_subjects.csv,rock,"dirt, hard, outside, skipping rocks, collection","dirt, hard, outside, skipping rocks, collection"
 46262,760,761,individual_subjects.csv,zebra,stripes black white animal wild zoo,stripes black white animal wild zoo
+46263,760,761,individual_subjects.csv,house,doors windows roof brick rooms paint kicthen living room bedrooms garage driveway,doors windows roof brick rooms paint kicthen living room bedrooms garage driveway
 46265,760,761,individual_subjects.csv,girls,feminine long hair make up painted nails boyfriends clothes shopping bikinis purses jewelry pink purple,feminine long hair make up painted nails boyfriends clothes shopping bikinis purses jewelry pink purple
 46266,760,761,individual_subjects.csv,tree,trunk leaves green brown branhes bugs outdoors pretty shade,trunk leaves green brown branhes bugs outdoors pretty shade
 46267,760,761,individual_subjects.csv,string,shoe laces small skinny bendable,shoe laces small skinny bendable
@@ -45621,6 +45650,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46446,762,763,individual_subjects.csv,search,"find, lost, avalanches, firefighters","find, lost, avalanches, firefighters"
 46447,762,763,individual_subjects.csv,rock,"solid, hard, big or small, can be found in the woods, or on the ground","solid, hard, big or small, can be found in the woods, or on the ground"
 46448,763,764,individual_subjects.csv,zebra,"animal, has stripes, black and white, looks like a horse, usually lives in the wilderness","animal, has stripes, black and white, looks like a horse, usually lives in the wilderness"
+46449,763,764,individual_subjects.csv,house,"where someone lives, shelter, can be decorated, called a home","where someone lives, shelter, can be decorated, called a home"
 46450,763,764,individual_subjects.csv,fudge,"chocolate, brown, goes on icecream, can be melted or heated up","chocolate, brown, goes on icecream, can be melted or heated up"
 46451,763,764,individual_subjects.csv,girls,"pink, mean, caddy, long hair, make up,","pink, mean, caddy, long hair, make up,"
 46452,763,764,individual_subjects.csv,tree,"green leaves, brown bark, outdoors, planted grows flowers or fruits on them","green leaves, brown bark, outdoors, planted grows flowers or fruits on them"
@@ -45681,6 +45711,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46507,763,764,individual_subjects.csv,quiet,"shh, library, study, bedtime","shh, library, study, bedtime"
 46508,763,764,individual_subjects.csv,search,"find, ask, look for","find, ask, look for"
 46509,763,764,individual_subjects.csv,rock,"hard, everywhere on the ground","hard, everywhere on the ground"
+46511,764,765,individual_subjects.csv,house,"home, living, resting, sleeping, kitchen, bedrooms, bathrooms, showers, family, television","home, living, resting, sleeping, kitchen, bedrooms, bathrooms, showers, family, television"
 46512,764,765,individual_subjects.csv,fudge,"chocolate, brown, m and ms, gooey, square, oven, hot, delicious, nuts, peanut butter, thick","chocolate, brown, m and ms, gooey, square, oven, hot, delicious, nuts, peanut butter, thick"
 46513,764,765,individual_subjects.csv,girls,"pink, skirts, dresses, high heel shoes, panty hose, bras, bikinis, hearts, kisses, boys, tank tops","pink, skirts, dresses, high heel shoes, panty hose, bras, bikinis, hearts, kisses, boys, tank tops"
 46514,764,765,individual_subjects.csv,tree,"green, big, carbon dioxide, forest, nature, leaves, limbs, trunk, roots, water, air,","green, big, carbon dioxide, forest, nature, leaves, limbs, trunk, roots, water, air,"
@@ -45740,6 +45771,7 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 46570,764,765,individual_subjects.csv,search,"discover, Christopher Columbus, National Treasure,","discover, christopher columbus, national treasure,"
 46571,764,765,individual_subjects.csv,rock,"boulder, gravel, earth, mountains, climb, sharp, round, dull, hard, heavy, unmovable,","boulder, gravel, earth, mountains, climb, sharp, round, dull, hard, heavy, unmovable,"
 46572,765,766,individual_subjects.csv,zebra,"stripes, hooves, four legs, wild","stripes, hooves, four legs, wild"
+46573,765,766,individual_subjects.csv,house,"bed, chair, living room, kitchen, tv","bed, chair, living room, kitchen, tv"
 46574,765,766,individual_subjects.csv,fudge,"chocolate, square, delicious, peanuts, oven, bake, brown,","chocolate, square, delicious, peanuts, oven, bake, brown,"
 46576,765,766,individual_subjects.csv,tree,"green, brown, big, photosynthesis, carbon, forest, leaves, stems, roots","green, brown, big, photosynthesis, carbon, forest, leaves, stems, roots"
 46577,765,766,individual_subjects.csv,string,"long, smooth, thread, dental floss, line","long, smooth, thread, dental floss, line"
@@ -47785,7 +47817,6 @@ row_id,subject_id,file_subject_id,source_file,cue,answer_raw,answer_clean
 48781,816,4722c98540,mturk_file_1.csv,raw,"Meat, Flesh, Sea food, Vegetables & Material","meat, flesh, sea food, vegetables & material"
 48783,906,1ab0f34a24,mturk_file_1.csv,cause,"The producer of an effect, result, or consequence.","the producer of an effect, result, or consequence."
 48784,906,1ab0f34a24,mturk_file_1.csv,flowers,"For the indie pop band, see Language of Flowers (band). For the song written by the composer Edward Elgar, see The Language of Flowers.","for the indie pop band, see language of flowers (band). for the song written by the composer edward elgar, see the language of flowers."
-48785,906,1ab0f34a24,mturk_file_1.csv,life,Meaning of life (disambiguation).,meaning of life (disambiguation).
 48786,906,1ab0f34a24,mturk_file_1.csv,raw,Unprotected Sex,unprotected sex
 48787,906,1ab0f34a24,mturk_file_1.csv,unclear,not clear or definite; ambiguous,not clear or definite; ambiguous
 48788,827,5146be6c32,mturk_file_1.csv,cause,"a person or thing that acts, happens, or exists in such a way that some specific thing happens as a result","a person or thing that acts, happens, or exists in such a way that some specific thing happens as a result"
@@ -50671,7 +50702,6 @@ Stare, an indie band from Norfolk, England","stare:staring, a prolonged gaze or 
 51876,847,32d9d483a3,mturk_file_1.csv,dam,"A structure, build to restrict water flow in a river , which inturn can be used to produce electricity or irrigation projects.","a structure, build to restrict water flow in a river , which inturn can be used to produce electricity or irrigation projects."
 51877,847,32d9d483a3,mturk_file_1.csv,id,"A short term used for Identity , which may refer an email id , photo id, or any identity forms issued by government or private concerns.","a short term used for identity , which may refer an email id , photo id, or any identity forms issued by government or private concerns."
 51878,847,32d9d483a3,mturk_file_1.csv,off,a word used to describe some kind of a voidness.,a word used to describe some kind of a voidness.
-51879,847,32d9d483a3,mturk_file_1.csv,web,a network made up of something may refer to world wide web or a spider web,a network made up of something may refer to world wide web or a spider web
 51881,807,96824489d6,mturk_file_1.csv,dam,"where water stores,storing place","where water stores,storing place"
 51882,807,96824489d6,mturk_file_1.csv,id,"identity card,email id, recognize","identity card,email id, recognize"
 51883,807,96824489d6,mturk_file_1.csv,off,"turn off,switch off,hats off","turn off,switch off,hats off"
@@ -54900,6 +54930,7 @@ B: Task i.e I have a job to...",a: employment� i found a job posted... b: task
 56515,958,c7a444cfae,mturk_file_3.csv,lot,"Lot means a draw, an activity to take a decision by drawing something and held upon luck","lot means a draw, an activity to take a decision by drawing something and held upon luck"
 56516,958,c7a444cfae,mturk_file_3.csv,odd,"Odd means strange , that is the one which is unique from others","odd means strange , that is the one which is unique from others"
 56517,784,e97ff5f954,mturk_file_3.csv,cold,not hot/feelingless/emotionless,not hot/feelingless/emotionless
+56518,784,e97ff5f954,mturk_file_3.csv,cop,policeofficer,policeofficer
 56519,784,e97ff5f954,mturk_file_3.csv,gather,collect/understand/get together/accumulate,collect/understand/get together/accumulate
 56520,784,e97ff5f954,mturk_file_3.csv,lot,numerous/many/much,numerous/many/much
 56521,784,e97ff5f954,mturk_file_3.csv,odd,strange/weird/out of the ordinary,strange/weird/out of the ordinary
@@ -65032,18 +65063,6 @@ Varieties include: lager, bock, ale, stout, porter, light, dry, ice, heavy, dark
 4. A sidereal month.
 5. A lunar month.
 6. A solar month.","a unit of time corresponding approximately to one cycle of the moon's phases, or about 30 days or 4 weeks. 2. abbr. mo. one of the 12 divisions of a year as determined by a calendar, especially the gregorian calendar. also called calendar month. 3. a period extending from a date in one calendar month to the corresponding date in the following month. 4. a sidereal month. 5. a lunar month. 6. a solar month."
-67588,1473,43f7e46034,mturk_file_9.csv,picket,"Picket may refer to:
-
-    Picketing (protest), a form of protest
-    A climbing tool used to anchor a rope
-    Picket fence
-    Screw picket, a tethering device
-    Picket line, to tether horses
-    Picket (military), a military formation
-    Picket, a piece in fairy chess
-    Picket Pool, a micro betting pool
-
-    Picquet, a medieval military punishment","picket may refer to: picketing (protest), a form of protest a climbing tool used to anchor a rope picket fence screw picket, a tethering device picket line, to tether horses picket (military), a military formation picket, a piece in fairy chess picket pool, a micro betting pool picquet, a medieval military punishment"
 67590,770,95e2618c28,mturk_file_9.csv,shy,"Drawing back from contact or familiarity with others,Distrustful,Not having paid an amount due, as one's ante in poker","drawing back from contact or familiarity with others,distrustful,not having paid an amount due, as one's ante in poker"
 67593,770,95e2618c28,mturk_file_9.csv,picket,"A pointed stake often driven into the ground to support a fence, secure a tent, tether animals, mark points in surveying, or, when pointed at the top, serve as a defense.","a pointed stake often driven into the ground to support a fence, secure a tent, tether animals, mark points in surveying, or, when pointed at the top, serve as a defense."
 67595,1469,0611e09ef3,mturk_file_9.csv,shy,"lacking confidence in the presence of others ,especially strangers;not wanting to attract attention :He is too shy to go to parties.","lacking confidence in the presence of others ,especially strangers;not wanting to attract attention :he is too shy to go to parties."
@@ -65231,19 +65250,6 @@ continuing or lasting for a month.","pertaining to a month, or to each month. 2.
 67777,1454,43135d06e2,mturk_file_9.csv,hoop,"part of a barrel, apparatus in rythmic gymnastics","part of a barrel, apparatus in rythmic gymnastics"
 67778,1454,43135d06e2,mturk_file_9.csv,picket,"a form of protest, against","a form of protest, against"
 67779,1454,43135d06e2,mturk_file_9.csv,monthly,"every 30 days, unit of time, period","every 30 days, unit of time, period"
-67782,1318,4792a552bb,mturk_file_9.csv,hoop,"Hoop may refer to:
-Hoop (rhythmic gymnastics) is one apparatus in Rhythmic Gymnastics
-Hoop (magazine), an American basketball magazine
-""Hoops"" (song), a song by Ruby
-Hoops (video game), a basketball video game
-Hooping, a modern subculture revolving around hoopdance
-Basketball or Hoops
-Celtic F.C. or the Hoops
-Shamrock Rovers F.C. or the Hoops
-Queens Park Rangers or the Hoops
-Shamrock Rovers Hoops, an Irish basketball club
-Hoop, part of a barrel
-HOOPS 3D Graphics System","hoop may refer to: hoop (rhythmic gymnastics) is one apparatus in rhythmic gymnastics hoop (magazine), an american basketball magazine ""hoops"" (song), a song by ruby hoops (video game), a basketball video game hooping, a modern subculture revolving around hoopdance basketball or hoops celtic f.c. or the hoops shamrock rovers f.c. or the hoops queens park rangers or the hoops shamrock rovers hoops, an irish basketball club hoop, part of a barrel hoops 3d graphics system"
 67786,774,ab266a6b3c,mturk_file_9.csv,thought,"an idea, a piece of imagination, related to mind,","an idea, a piece of imagination, related to mind,"
 67787,774,ab266a6b3c,mturk_file_9.csv,hoop,"is a game, a circular band of metal,a jockey","is a game, a circular band of metal,a jockey"
 67788,774,ab266a6b3c,mturk_file_9.csv,picket,"is placing of soldiers at a post,type of fence, a stake pegged into ground","is placing of soldiers at a post,type of fence, a stake pegged into ground"
@@ -65267,16 +65273,22 @@ HOOPS 3D Graphics System","hoop may refer to: hoop (rhythmic gymnastics) is one 
 67811,823,cc0fd23c05,mturk_file_9.csv,thought,"Thought :- consideration, contemplation, planning, plan, scheme, design, intention, expectation, hope, prospect, anticipation, dream .","thought :- consideration, contemplation, planning, plan, scheme, design, intention, expectation, hope, prospect, anticipation, dream ."
 67814,823,cc0fd23c05,mturk_file_9.csv,monthly,"Monthly:-aperiodic,semiannual,yearbook,momently,biweekly ,biennial.","monthly:-aperiodic,semiannual,yearbook,momently,biweekly ,biennial."
 67819,874,5c88d6dd6c,mturk_file_9.csv,cracker,"a dry biscuit, a firework that cracks,to cause to make a sudden sound,to break or snap apart","a dry biscuit, a firework that cracks,to cause to make a sudden sound,to break or snap apart"
+67820,874,5c88d6dd6c,mturk_file_9.csv,something,"an unknown thing, some truth unspecified,undetermined,a certain indefinite thing","an unknown thing, some truth unspecified,undetermined,a certain indefinite thing"
 67821,874,5c88d6dd6c,mturk_file_9.csv,shove,"to push rudely or roughly,to jostle,to push some thing or some one with force","to push rudely or roughly,to jostle,to push some thing or some one with force"
 67822,874,5c88d6dd6c,mturk_file_9.csv,true,"real, truthful, agreeing with fact, genuine, loyal or faithful","real, truthful, agreeing with fact, genuine, loyal or faithful"
 67823,874,5c88d6dd6c,mturk_file_9.csv,diary,"a daily record, a book for keeping record, a personal record of events and observations,","a daily record, a book for keeping record, a personal record of events and observations,"
+67824,1454,43135d06e2,mturk_file_9.csv,cracker,"explosive device, large amount of noise, firecracker","explosive device, large amount of noise, firecracker"
+67825,1454,43135d06e2,mturk_file_9.csv,something,"little, no nothing","little, no nothing"
 67826,1454,43135d06e2,mturk_file_9.csv,shove,"album, jackyl, second album, music","album, jackyl, second album, music"
 67827,1454,43135d06e2,mturk_file_9.csv,true,"reality, being in accord with fact","reality, being in accord with fact"
 67828,1454,43135d06e2,mturk_file_9.csv,diary,"milk product, cow, chocolates, cheese, curd","milk product, cow, chocolates, cheese, curd"
+67829,909,f5d0e4b4a2,mturk_file_9.csv,cracker,"it is mental,it is bursting things producing heat,it is thefting another things,it is negative thinking person,it is a thing and thinks.","it is mental,it is bursting things producing heat,it is thefting another things,it is negative thinking person,it is a thing and thinks."
+67830,909,f5d0e4b4a2,mturk_file_9.csv,something,"it is cycological thinking that act as real, it is imagination,it is  creativity,it is innovative.","it is cycological thinking that act as real, it is imagination,it is creativity,it is innovative."
 67831,909,f5d0e4b4a2,mturk_file_9.csv,shove,To push forward or along.To push rudely or roughly. To push someone or something with force.The act of shoving;,to push forward or along.to push rudely or roughly. to push someone or something with force.the act of shoving;
 67832,909,f5d0e4b4a2,mturk_file_9.csv,true,"It is god,it is respect,it is humanisum,it is fear, it is real.","it is god,it is respect,it is humanisum,it is fear, it is real."
 67833,909,f5d0e4b4a2,mturk_file_9.csv,diary,"it is recording of day to day information ,it is note book,it is record,it is journal, it is time of his or her life explanation things,it is memorable things.","it is recording of day to day information ,it is note book,it is record,it is journal, it is time of his or her life explanation things,it is memorable things."
 67834,843,2b15616b23,mturk_file_9.csv,cracker,a fire cracker,a fire cracker
+67835,843,2b15616b23,mturk_file_9.csv,something,unspecified thing,unspecified thing
 67836,843,2b15616b23,mturk_file_9.csv,shove,means push,means push
 67837,843,2b15616b23,mturk_file_9.csv,true,real,real
 67838,843,2b15616b23,mturk_file_9.csv,diary,milk farm,milk farm
@@ -65284,6 +65296,7 @@ HOOPS 3D Graphics System","hoop may refer to: hoop (rhythmic gymnastics) is one 
 67841,1360,10d4f79779,mturk_file_9.csv,shove,"to push or put in a rough, careless, or hasty manner, thrust, to force by other than physical means","to push or put in a rough, careless, or hasty manner, thrust, to force by other than physical means"
 67842,1360,10d4f79779,mturk_file_9.csv,true,"Consistent with fact or reality, not false or erroneous, Truthful, Real, genuine","consistent with fact or reality, not false or erroneous, truthful, real, genuine"
 67843,1360,10d4f79779,mturk_file_9.csv,diary,"A daily record, especially a personal record of events, experiences, and observations; a journal, A book for use in keeping a personal record.","a daily record, especially a personal record of events, experiences, and observations; a journal, a book for use in keeping a personal record."
+67845,1472,df5ff96a53,mturk_file_9.csv,something,A thing or item.,a thing or item.
 67846,1472,df5ff96a53,mturk_file_9.csv,shove,Push. Nudge.,push. nudge.
 67849,1480,5c443771e9,mturk_file_9.csv,cracker,"a thin or crisp biscuit, a firecracker, braggart, boaster, a person or thing that cracks,","a thin or crisp biscuit, a firecracker, braggart, boaster, a person or thing that cracks,"
 67850,1480,5c443771e9,mturk_file_9.csv,something,"a certain undetermined or unspecified thing, an additional amount, a person or thing of some value or consequence,","a certain undetermined or unspecified thing, an additional amount, a person or thing of some value or consequence,"
@@ -65294,6 +65307,7 @@ HOOPS 3D Graphics System","hoop may refer to: hoop (rhythmic gymnastics) is one 
 67856,1295,ce58ffe106,mturk_file_9.csv,shove,"push without gentleness, boost, drive, buck, dig, bulldoze, cream, elbow, nudge, hustle, jostle, impel, jam, jab, poke, thrust, press, shoulder, propel, prod, pull, advance, hoist, heave, raise, elevate, push, usually up, hoist, lift,","push without gentleness, boost, drive, buck, dig, bulldoze, cream, elbow, nudge, hustle, jostle, impel, jam, jab, poke, thrust, press, shoulder, propel, prod, pull, advance, hoist, heave, raise, elevate, push, usually up, hoist, lift,"
 67857,1295,ce58ffe106,mturk_file_9.csv,true,"concordant with facts, accurate, authentic, actual valid, real, direct, honest, exact, genuine, bona fide, correct, indubitable, legal, kosher, natural, on target, proper, regular, sincere, typical, unquestionable, veritable, veracious, corrupt, deceitful, fraudulent, invalid, correctly, perfectly, properly, truthfully, veraciously, wrongly,","concordant with facts, accurate, authentic, actual valid, real, direct, honest, exact, genuine, bona fide, correct, indubitable, legal, kosher, natural, on target, proper, regular, sincere, typical, unquestionable, veritable, veracious, corrupt, deceitful, fraudulent, invalid, correctly, perfectly, properly, truthfully, veraciously, wrongly,"
 67858,1295,ce58ffe106,mturk_file_9.csv,diary,"producer of milk products, buttery, dairy farm, cow barn, creamery, factory, pasteurizing plant, farm","producer of milk products, buttery, dairy farm, cow barn, creamery, factory, pasteurizing plant, farm"
+67864,1366,cef0fec366,mturk_file_9.csv,cracker,"snack food, crispy crunchy, usually eating with something else on top of it, like cheese for example.","snack food, crispy crunchy, usually eating with something else on top of it, like cheese for example."
 67865,1366,cef0fec366,mturk_file_9.csv,something,a word to describe a noun.,a word to describe a noun.
 67866,1366,cef0fec366,mturk_file_9.csv,shove,to push,to push
 67867,1366,cef0fec366,mturk_file_9.csv,true,"not a lie, the truth","not a lie, the truth"
@@ -65311,7 +65325,6 @@ HOOPS 3D Graphics System","hoop may refer to: hoop (rhythmic gymnastics) is one 
 67896,825,86dc19ebbd,mturk_file_9.csv,shove,"push, thrust, propel","push, thrust, propel"
 67897,825,86dc19ebbd,mturk_file_9.csv,true,"accurate, right, correct","accurate, right, correct"
 67898,825,86dc19ebbd,mturk_file_9.csv,diary,"journal, record, chronicle","journal, record, chronicle"
-67900,1303,92ea18c297,mturk_file_9.csv,something,a certain indefinite thing,a certain indefinite thing
 67901,1303,92ea18c297,mturk_file_9.csv,shove,To push rudely,to push rudely
 67902,1303,92ea18c297,mturk_file_9.csv,true,reliable,reliable
 67903,1303,92ea18c297,mturk_file_9.csv,diary,a book uses for personal records,a book uses for personal records
@@ -65347,13 +65360,13 @@ HOOPS 3D Graphics System","hoop may refer to: hoop (rhythmic gymnastics) is one 
 67956,951,932ad1fc41,mturk_file_9.csv,shove,"shove off,thrust,squeeze.","shove off,thrust,squeeze."
 67957,951,932ad1fc41,mturk_file_9.csv,true,"story,life,picture,test,proof.","story,life,picture,test,proof."
 67958,951,932ad1fc41,mturk_file_9.csv,diary,"daily,milk,food,ghee.","daily,milk,food,ghee."
+67960,792,6b2ac0ef88,mturk_file_9.csv,something,unspecified thing,unspecified thing
 67961,792,6b2ac0ef88,mturk_file_9.csv,shove,to push roughly,to push roughly
 67962,792,6b2ac0ef88,mturk_file_9.csv,true,genuine,genuine
 67963,792,6b2ac0ef88,mturk_file_9.csv,diary,a calender book for recording something,a calender book for recording something
 67966,806,cdf81c2126,mturk_file_9.csv,shove,to push roughly or rudely,to push roughly or rudely
 67967,806,cdf81c2126,mturk_file_9.csv,true,sincere,sincere
 67968,806,cdf81c2126,mturk_file_9.csv,diary,a shop or company that sells milk,a shop or company that sells milk
-67969,1474,85e1f85b71,mturk_file_9.csv,cracker,"redneck, biscuit, eat with cheese","redneck, biscuit, eat with cheese"
 67971,1474,85e1f85b71,mturk_file_9.csv,shove,"push, move with force, evil act","push, move with force, evil act"
 67972,1474,85e1f85b71,mturk_file_9.csv,true,"not false, Say what really is the case","not false, say what really is the case"
 67973,1474,85e1f85b71,mturk_file_9.csv,diary,"private thoughts, secrets, anne frank","private thoughts, secrets, anne frank"
@@ -65399,6 +65412,7 @@ Also called cracker bonbon. a small paper roll used as a party favor, that usual
 68046,957,2a6566d746,mturk_file_9.csv,shove,"to move along by force from behind; push,to push roughly or rudely, Often Vulgar,to go away; depart.","to move along by force from behind; push,to push roughly or rudely, often vulgar,to go away; depart."
 68047,957,2a6566d746,mturk_file_9.csv,true,"real; genuine; authentic,being or reflecting the essential or genuine character of something,sincere; not deceitful,being in accordance with the actual state or conditions; conforming to reality or fact; not false.","real; genuine; authentic,being or reflecting the essential or genuine character of something,sincere; not deceitful,being in accordance with the actual state or conditions; conforming to reality or fact; not false."
 68048,957,2a6566d746,mturk_file_9.csv,diary,"a daily record, usually private, especially of the writer's own experiences, observations, feelings, attitudes, etc,a book for keeping such a record,a book or pad containing pages marked and arranged in calendar order, in which to note appointments and the like.","a daily record, usually private, especially of the writer's own experiences, observations, feelings, attitudes, etc,a book for keeping such a record,a book or pad containing pages marked and arranged in calendar order, in which to note appointments and the like."
+68054,864,af2803583c,mturk_file_9.csv,cracker,"one that crack,especially","one that crack,especially"
 68056,864,af2803583c,mturk_file_9.csv,shove,to push rudely or roughly,to push rudely or roughly
 68057,864,af2803583c,mturk_file_9.csv,true,truth description,truth description
 68058,864,af2803583c,mturk_file_9.csv,diary,a book to note down appointments or some important work to do,a book to note down appointments or some important work to do
@@ -65410,29 +65424,38 @@ Also called cracker bonbon. a small paper roll used as a party favor, that usual
 68066,1262,7cf403bfc3,mturk_file_9.csv,shove,push vigorously,push vigorously
 68067,1262,7cf403bfc3,mturk_file_9.csv,true,in accordance with fact or reality,in accordance with fact or reality
 68068,1262,7cf403bfc3,mturk_file_9.csv,diary,daily record of events or thoughts,daily record of events or thoughts
+68069,1469,0611e09ef3,mturk_file_9.csv,cracker,"a thin crisp biscuit, a small exploding firework:fire crackers.","a thin crisp biscuit, a small exploding firework:fire crackers."
 68071,1469,0611e09ef3,mturk_file_9.csv,shove,a push :to thrust.,a push :to thrust.
 68072,1469,0611e09ef3,mturk_file_9.csv,true,telling of something that really happened:not invented;ageeing with fact:not wrong:,telling of something that really happened:not invented;ageeing with fact:not wrong:
 68073,1469,0611e09ef3,mturk_file_9.csv,diary,"a shop supplieng milk, butter cheese etc.","a shop supplieng milk, butter cheese etc."
+68074,1476,5d21d0b3ae,mturk_file_9.csv,cracker,"a salty biscuit, baked, make out of flour","a salty biscuit, baked, make out of flour"
 68076,1476,5d21d0b3ae,mturk_file_9.csv,shove,"to push something into another thing, to stuff something, to push roughly","to push something into another thing, to stuff something, to push roughly"
 68077,1476,5d21d0b3ae,mturk_file_9.csv,true,"correct, the right thing, opposite of false","correct, the right thing, opposite of false"
 68078,1476,5d21d0b3ae,mturk_file_9.csv,diary,building to process cheese & milk products,building to process cheese & milk products
+68079,903,fe5a703d9c,mturk_file_9.csv,cracker,"firework,biscuit","firework,biscuit"
 68081,903,fe5a703d9c,mturk_file_9.csv,shove,"push, push vigorously","push, push vigorously"
 68082,903,fe5a703d9c,mturk_file_9.csv,true,"real, fact","real, fact"
 68083,903,fe5a703d9c,mturk_file_9.csv,diary,"book for writing events daily,book for noting engagements","book for writing events daily,book for noting engagements"
+68084,770,95e2618c28,mturk_file_9.csv,cracker,"A thin crisp wafer or biscuit, usually made of unsweetened dough,One that cracks, especially","a thin crisp wafer or biscuit, usually made of unsweetened dough,one that cracks, especially"
 68086,770,95e2618c28,mturk_file_9.csv,shove,"To push forward or along,To push rudely or roughly","to push forward or along,to push rudely or roughly"
 68087,770,95e2618c28,mturk_file_9.csv,true,"Real; genuine, Reliable; accurate, Faithful","real; genuine, reliable; accurate, faithful"
 68088,770,95e2618c28,mturk_file_9.csv,diary,"A daily record, especially a personal record of events, experiences, and observations; a journal.","a daily record, especially a personal record of events, experiences, and observations; a journal."
+68089,822,a99eff3ef7,mturk_file_9.csv,cracker,a person or device that cracks,a person or device that cracks
 68091,822,a99eff3ef7,mturk_file_9.csv,shove,"to push or thrust, as along a surface","to push or thrust, as along a surface"
 68092,822,a99eff3ef7,mturk_file_9.csv,true,faithful,faithful
 68093,822,a99eff3ef7,mturk_file_9.csv,diary,"a daily written record of the writer's own experiences, thoughts, etc","a daily written record of the writer's own experiences, thoughts, etc"
+68094,1464,ffd05a2b19,mturk_file_9.csv,cracker,a crispt material that can be added to various soups or eaten with cheese or simply by itself,a crispt material that can be added to various soups or eaten with cheese or simply by itself
 68096,1464,ffd05a2b19,mturk_file_9.csv,shove,to physically push an object or person in a different direction,to physically push an object or person in a different direction
 68097,1464,ffd05a2b19,mturk_file_9.csv,true,what is real,what is real
 68098,1464,ffd05a2b19,mturk_file_9.csv,diary,a journal kept by a man or woman relaying their thoughts and feelings,a journal kept by a man or woman relaying their thoughts and feelings
+68099,1277,d2238a631b,mturk_file_9.csv,cracker,"One who, or that which, cracks.","one who, or that which, cracks."
 68102,1277,d2238a631b,mturk_file_9.csv,true,"Conformable to fact; in accordance with the actual state of things; correct; not false, erroneous, inaccurate, or the like; as, a true relation or narration; a true history; a declaration is true when it states the facts.","conformable to fact; in accordance with the actual state of things; correct; not false, erroneous, inaccurate, or the like; as, a true relation or narration; a true history; a declaration is true when it states the facts."
 68103,1277,d2238a631b,mturk_file_9.csv,diary,"lasting for one day; as, a diary fever.","lasting for one day; as, a diary fever."
+68104,1477,61776e43e9,mturk_file_9.csv,cracker,a thin crisp biscuit or a firecracker,a thin crisp biscuit or a firecracker
 68106,1477,61776e43e9,mturk_file_9.csv,shove,to move along by force,to move along by force
 68107,1477,61776e43e9,mturk_file_9.csv,true,"real, genuine","real, genuine"
 68108,1477,61776e43e9,mturk_file_9.csv,diary,"a daily record, usually private","a daily record, usually private"
+68109,1478,1b9c766662,mturk_file_9.csv,cracker,creates noise pollution,creates noise pollution
 68111,1478,1b9c766662,mturk_file_9.csv,shove,beared,beared
 68112,1478,1b9c766662,mturk_file_9.csv,true,lies was great movie,lies was great movie
 68113,1478,1b9c766662,mturk_file_9.csv,diary,is used to write,is used to write
@@ -65700,20 +65723,6 @@ of or involving an obsessive interest in one's own satisfaction: the me decade."
 68406,950,7a0b7cea54,mturk_file_9.csv,moon,"Natural satellite, Night Moon,  Solar eclipses.","natural satellite, night moon, solar eclipses."
 68407,950,7a0b7cea54,mturk_file_9.csv,duty,"On Duty,  Government Staff,  Soldier,","on duty, government staff, soldier,"
 68408,950,7a0b7cea54,mturk_file_9.csv,aluminum,"Chemical elements. aluminium oxide, silvery gray metallic","chemical elements. aluminium oxide, silvery gray metallic"
-68414,831,6be52007c6,mturk_file_9.csv,guilt,"a. The fact of being responsible for the commission of an offense. See Synonyms at blame.
-b. Law The fact of having been found to have violated a criminal law; legal culpability.
-c. Responsibility for a mistake or error.
-2.
-a. Remorseful awareness of having done something wrong.
-b. Self-reproach for supposed inadequacy or wrongdoing.
-tr.v. guilt·ed, guilt·ing, guilts
-To make or try to make (someone) feel guilty.","a. the fact of being responsible for the commission of an offense. see synonyms at blame. b. law the fact of having been found to have violated a criminal law; legal culpability. c. responsibility for a mistake or error. 2. a. remorseful awareness of having done something wrong. b. self-reproach for supposed inadequacy or wrongdoing. tr.v. guilt·ed, guilt·ing, guilts to make or try to make (someone) feel guilty."
-68415,831,6be52007c6,mturk_file_9.csv,me,"also Me. Maine
-2.
-a. mechanical engineer
-b. mechanical engineering
-3. medical examiner
-4. Middle English",also me. maine 2. a. mechanical engineer b. mechanical engineering 3. medical examiner 4. middle english
 68419,786,d6fbaf0859,mturk_file_9.csv,close,"opposite of open, stick together,","opposite of open, stick together,"
 68420,786,d6fbaf0859,mturk_file_9.csv,ocean,"body of water, big portion of the earth","body of water, big portion of the earth"
 68421,786,d6fbaf0859,mturk_file_9.csv,advice,"opinion, to give counsel","opinion, to give counsel"
@@ -65894,7 +65903,6 @@ raised doughnut - a doughnut made light with yeast rather than baking powder","a
 68648,950,7a0b7cea54,mturk_file_9.csv,close,"Closing, End, Final, Finishing","closing, end, final, finishing"
 68649,950,7a0b7cea54,mturk_file_9.csv,ocean,"World Ocean, Long water, Water cycle","world ocean, long water, water cycle"
 68650,950,7a0b7cea54,mturk_file_9.csv,advice,"Opinion, Legal Advice","opinion, legal advice"
-68651,950,7a0b7cea54,mturk_file_9.csv,doughnut,"doughnut varieties, Food, Disambiguation","doughnut varieties, food, disambiguation"
 68652,950,7a0b7cea54,mturk_file_9.csv,paper,"Writing, wood range, History of Paper, Paper Making","writing, wood range, history of paper, paper making"
 68653,1277,d2238a631b,mturk_file_9.csv,close,"To stop, or fill up, as an opening; to shut; as, to close the eyes; to close a door.","to stop, or fill up, as an opening; to shut; as, to close the eyes; to close a door."
 68654,1277,d2238a631b,mturk_file_9.csv,ocean,"The whole body of salt water which covers more than three fifths of the surface of the globe; called also the sea, or great sea.","the whole body of salt water which covers more than three fifths of the surface of the globe; called also the sea, or great sea."
@@ -65960,6 +65968,7 @@ raised doughnut - a doughnut made light with yeast rather than baking powder","a
 68715,1479,fe6c3218eb,mturk_file_9.csv,advice,"helpful, suggestion,comment, agney aunt,thoughtful","helpful, suggestion,comment, agney aunt,thoughtful"
 68716,1479,fe6c3218eb,mturk_file_9.csv,doughnut,"ring, cake, fried, sugar, fat,","ring, cake, fried, sugar, fat,"
 68717,1479,fe6c3218eb,mturk_file_9.csv,paper,"material, writing, wrapping,sheet, newspaper","material, writing, wrapping,sheet, newspaper"
+68718,1512,1a7084480f,mturk_file_9.csv,soda,"beverage, carbonated water, fizzy drink","beverage, carbonated water, fizzy drink"
 68719,1512,1a7084480f,mturk_file_9.csv,in,"preposition, it shows location, shows that something is inside (into) something else","preposition, it shows location, shows that something is inside (into) something else"
 68720,1512,1a7084480f,mturk_file_9.csv,winner,"someone who comes victorious, takes a first place","someone who comes victorious, takes a first place"
 68721,1512,1a7084480f,mturk_file_9.csv,noise,"loud sound, distraction, group of sounds,","loud sound, distraction, group of sounds,"
@@ -65969,22 +65978,27 @@ raised doughnut - a doughnut made light with yeast rather than baking powder","a
 68725,818,3c84e2112e,mturk_file_9.csv,winner,"one who wins the contest or anything, win, gets reward","one who wins the contest or anything, win, gets reward"
 68726,818,3c84e2112e,mturk_file_9.csv,noise,"unwanted sound, unbearable, audible, irritating","unwanted sound, unbearable, audible, irritating"
 68727,818,3c84e2112e,mturk_file_9.csv,legend,"a great or known person of his field, expert, famous, respected","a great or known person of his field, expert, famous, respected"
+68728,970,c284e4a997,mturk_file_9.csv,soda,"Carbon-die-oxide,for digestion,a relief drink,sometimes with alcohol.","carbon-die-oxide,for digestion,a relief drink,sometimes with alcohol."
 68729,970,c284e4a997,mturk_file_9.csv,in,"inner,allow to,under,a hide.","inner,allow to,under,a hide."
 68730,970,c284e4a997,mturk_file_9.csv,winner,"Successor,No.1,gets Gold medal,a leader in sports.","successor,no.1,gets gold medal,a leader in sports."
 68731,970,c284e4a997,mturk_file_9.csv,noise,"Makes pollution,count by decibals,makes heart beat higher.","makes pollution,count by decibals,makes heart beat higher."
 68732,970,c284e4a997,mturk_file_9.csv,legend,"related with history,ancient miracles,older stories","related with history,ancient miracles,older stories"
+68733,1282,a878e75949,mturk_file_9.csv,soda,"pop, coke, drink, refreshment, bubbly","pop, coke, drink, refreshment, bubbly"
 68734,1282,a878e75949,mturk_file_9.csv,in,"amid, among, cool, hip, inside, enter","amid, among, cool, hip, inside, enter"
 68735,1282,a878e75949,mturk_file_9.csv,winner,"champion, best, awarded, top, won","champion, best, awarded, top, won"
 68736,1282,a878e75949,mturk_file_9.csv,noise,"loud, hear, ears, clank, pound, sound","loud, hear, ears, clank, pound, sound"
 68737,1282,a878e75949,mturk_file_9.csv,legend,"hero, idol, adored, myth, story","hero, idol, adored, myth, story"
+68738,1513,cb82bc68a5,mturk_file_9.csv,soda,"bubbly, drink, related to softdrinks, sweet","bubbly, drink, related to softdrinks, sweet"
 68739,1513,cb82bc68a5,mturk_file_9.csv,in,"inside a place or object, preposition","inside a place or object, preposition"
 68740,1513,cb82bc68a5,mturk_file_9.csv,winner,"opposite of loser, victorious, happy","opposite of loser, victorious, happy"
 68741,1513,cb82bc68a5,mturk_file_9.csv,noise,"loud sounds, disturbs people, ruins hearing","loud sounds, disturbs people, ruins hearing"
 68742,1513,cb82bc68a5,mturk_file_9.csv,legend,"well-known, mythical","well-known, mythical"
+68743,778,eb09612a37,mturk_file_9.csv,soda,have water+salt,have water+salt
 68744,778,eb09612a37,mturk_file_9.csv,in,inside,inside
 68745,778,eb09612a37,mturk_file_9.csv,winner,firstprize,firstprize
 68746,778,eb09612a37,mturk_file_9.csv,noise,irritate sound,irritate sound
 68747,778,eb09612a37,mturk_file_9.csv,legend,gender,gender
+68748,786,d6fbaf0859,mturk_file_9.csv,soda,"softdrinks , carbonated drinks","softdrinks , carbonated drinks"
 68749,786,d6fbaf0859,mturk_file_9.csv,in,"inside, opposite of out","inside, opposite of out"
 68750,786,d6fbaf0859,mturk_file_9.csv,winner,"opposite of loser, the one who had the prize","opposite of loser, the one who had the prize"
 68751,786,d6fbaf0859,mturk_file_9.csv,noise,"nuisance, not pleasing to the ears","nuisance, not pleasing to the ears"
@@ -65994,6 +66008,7 @@ raised doughnut - a doughnut made light with yeast rather than baking powder","a
 68755,843,2b15616b23,mturk_file_9.csv,winner,one who wins,one who wins
 68756,843,2b15616b23,mturk_file_9.csv,noise,unwanted sound,unwanted sound
 68757,843,2b15616b23,mturk_file_9.csv,legend,popular myth of modern times,popular myth of modern times
+68758,1497,569626741c,mturk_file_9.csv,soda,drinks,drinks
 68759,1497,569626741c,mturk_file_9.csv,in,"inside, inner","inside, inner"
 68760,1497,569626741c,mturk_file_9.csv,winner,"ictor , conqueror ,vanquisher","ictor , conqueror ,vanquisher"
 68761,1497,569626741c,mturk_file_9.csv,noise,"uproar , sound , hubbub","uproar , sound , hubbub"
@@ -66008,6 +66023,7 @@ raised doughnut - a doughnut made light with yeast rather than baking powder","a
 68770,1320,0ff6f25e1c,mturk_file_9.csv,winner,game,game
 68771,1320,0ff6f25e1c,mturk_file_9.csv,noise,it can produce sound,it can produce sound
 68772,1320,0ff6f25e1c,mturk_file_9.csv,legend,great man,great man
+68773,1454,43135d06e2,mturk_file_9.csv,soda,"CARBONATED WATER, BEVERAGE PRODUCT, SODIUM CARBONATE, SALTINE","carbonated water, beverage product, sodium carbonate, saltine"
 68774,1454,43135d06e2,mturk_file_9.csv,in,"Abbreviation of Inch, Unit of length","abbreviation of inch, unit of length"
 68775,1454,43135d06e2,mturk_file_9.csv,winner,"successor, victory, first prize","successor, victory, first prize"
 68776,1454,43135d06e2,mturk_file_9.csv,noise,"unwanted sound, shouting, audio","unwanted sound, shouting, audio"
@@ -66017,21 +66033,11 @@ raised doughnut - a doughnut made light with yeast rather than baking powder","a
 68780,1303,92ea18c297,mturk_file_9.csv,winner,a victor,a victor
 68781,1303,92ea18c297,mturk_file_9.csv,noise,Sound that is loud,sound that is loud
 68782,1303,92ea18c297,mturk_file_9.csv,legend,luminary,luminary
+68783,806,cdf81c2126,mturk_file_9.csv,soda,sodium hydroxide.,sodium hydroxide.
 68784,806,cdf81c2126,mturk_file_9.csv,in,used to indicate inclusion within space,used to indicate inclusion within space
 68785,806,cdf81c2126,mturk_file_9.csv,winner,a person or thing that wins,a person or thing that wins
 68786,806,cdf81c2126,mturk_file_9.csv,noise,a sound of any kind,a sound of any kind
 68787,806,cdf81c2126,mturk_file_9.csv,legend,an inscription,an inscription
-68790,831,6be52007c6,mturk_file_9.csv,winner,"Winner(s) or The Winner(s) may refer to:
-Champion, the victor in a challenge or contest.
-.","winner(s) or the winner(s) may refer to: champion, the victor in a challenge or contest. ."
-68792,831,6be52007c6,mturk_file_9.csv,legend,"a. An unverified story handed down from earlier times, especially one popularly believed to be historical.
-b. A body or collection of such stories.
-c. A romanticized or popularized myth of modern times.
-2. One that inspires legends or achieves legendary fame.
-3.
-a. An inscription or a title on an object, such as a coin.
-b. An explanatory caption accompanying an illustration.
-c. An explanatory table or list of the symbols appearing on a map or chart.","a. an unverified story handed down from earlier times, especially one popularly believed to be historical. b. a body or collection of such stories. c. a romanticized or popularized myth of modern times. 2. one that inspires legends or achieves legendary fame. 3. a. an inscription or a title on an object, such as a coin. b. an explanatory caption accompanying an illustration. c. an explanatory table or list of the symbols appearing on a map or chart."
 68794,1312,e592776b4d,mturk_file_9.csv,in,"inside, in the house, in the shop, in the area, in the bottom. in the earth","inside, in the house, in the shop, in the area, in the bottom. in the earth"
 68795,1312,e592776b4d,mturk_file_9.csv,winner,"congratulation, happiness, success, victor, succeeder, achiever, winner of the game, leader","congratulation, happiness, success, victor, succeeder, achiever, winner of the game, leader"
 68796,1312,e592776b4d,mturk_file_9.csv,noise,"sound, pollution, high frequency sound, decibel, noise polution, sound reduction, acoustic properties, guitar sound, music sound","sound, pollution, high frequency sound, decibel, noise polution, sound reduction, acoustic properties, guitar sound, music sound"
@@ -66117,7 +66123,6 @@ caption, motto, inscription, title, key; see also writing","a legend is a story 
 68885,1517,12a1e3558e,mturk_file_9.csv,winner,"sucessfull person, victor","sucessfull person, victor"
 68886,1517,12a1e3558e,mturk_file_9.csv,noise,"unwanted sound, disturbance","unwanted sound, disturbance"
 68887,1517,12a1e3558e,mturk_file_9.csv,legend,a body or collection of such stories,a body or collection of such stories
-68888,1509,3682090ac3,mturk_file_9.csv,soda,"a carbonated, sugary beverage","a carbonated, sugary beverage"
 68889,1509,3682090ac3,mturk_file_9.csv,in,to be smaller and in the same area of something,to be smaller and in the same area of something
 68890,1509,3682090ac3,mturk_file_9.csv,winner,first place,first place
 68891,1509,3682090ac3,mturk_file_9.csv,noise,"loud, obnoxious sounds","loud, obnoxious sounds"
@@ -66438,16 +66443,6 @@ young","brand-new, bran-new, spic-and-span, spick-and-span fresh hot, red-hot ne
 69235,823,cc0fd23c05,mturk_file_9.csv,tornado,"Tornado :-whirlwind, cyclone, twister, hurricane, typhoon, blow; storm .","tornado :-whirlwind, cyclone, twister, hurricane, typhoon, blow; storm ."
 69236,823,cc0fd23c05,mturk_file_9.csv,preview,"Preview :- house trailer, trailer, prevue, preview, dawdler, poke, drone, lagger, laggard .","preview :- house trailer, trailer, prevue, preview, dawdler, poke, drone, lagger, laggard ."
 69237,823,cc0fd23c05,mturk_file_9.csv,new,"New:-fresh, young, raw, novel, unexampled, newfangled","new:-fresh, young, raw, novel, unexampled, newfangled"
-69239,1318,4792a552bb,mturk_file_9.csv,can,"Can may refer to:
-
-Container
-
-Aluminum can
-Steel can, an airtight tinplate container for storing food and other predominantly liquid products
-Beverage can, a can designed to hold a single serving of a beverage
-Oil can
-Canning, a process of preserving food
-Canister","can may refer to: container aluminum can steel can, an airtight tinplate container for storing food and other predominantly liquid products beverage can, a can designed to hold a single serving of a beverage oil can canning, a process of preserving food canister"
 69243,950,7a0b7cea54,mturk_file_9.csv,legs,"Foot, Human Leg,Robotic leg","foot, human leg,robotic leg"
 69244,950,7a0b7cea54,mturk_file_9.csv,can,"Oil Can, River Can, tinplate","oil can, river can, tinplate"
 69245,950,7a0b7cea54,mturk_file_9.csv,tornado,"cyclone,  twister,  cloud","cyclone, twister, cloud"
@@ -66692,16 +66687,6 @@ leaflet, needle, bract, petiole, blade, frond, stalk,  scale, protective leaf, f
 69503,834,5a97554418,mturk_file_9.csv,sport,"A pro or recreational physical activity, often involving a point system","a pro or recreational physical activity, often involving a point system"
 69505,834,5a97554418,mturk_file_9.csv,follower,"Something that is behind a peron, or word. Someone in pursuit of another.","something that is behind a peron, or word. someone in pursuit of another."
 69507,834,5a97554418,mturk_file_9.csv,leaf,Green tree and plant foliage. A page in a book.,green tree and plant foliage. a page in a book.
-69509,831,6be52007c6,mturk_file_9.csv,hamburger,"a. Ground meat, usually beef.
-b. A patty of such meat.
-2. A sandwich made with a patty of ground meat usually in a roll or bun.","a. ground meat, usually beef. b. a patty of such meat. 2. a sandwich made with a patty of ground meat usually in a roll or bun."
-69512,831,6be52007c6,mturk_file_9.csv,leaf,"A usually green, flattened, lateral structure attached to a stem and functioning as a principal organ of photosynthesis and transpiration in most plants.
-2. A leaflike organ or structure.
-3.
-a. Leaves considered as a group; foliage.
-b. The state or time of having or showing leaves: trees in full leaf.
-4. The leaves of a plant used or processed for a specific purpose: large supplies of tobacco leaf.
-5. Any of the sheets of paper bound in a book, each side of which constitutes a page.","a usually green, flattened, lateral structure attached to a stem and functioning as a principal organ of photosynthesis and transpiration in most plants. 2. a leaflike organ or structure. 3. a. leaves considered as a group; foliage. b. the state or time of having or showing leaves: trees in full leaf. 4. the leaves of a plant used or processed for a specific purpose: large supplies of tobacco leaf. 5. any of the sheets of paper bound in a book, each side of which constitutes a page."
 69513,818,3c84e2112e,mturk_file_9.csv,sport,"game, played by teams, usually have referee, indoor and outdoor","game, played by teams, usually have referee, indoor and outdoor"
 69514,818,3c84e2112e,mturk_file_9.csv,hamburger,"fastfood, sandwich, usually contains meat, tasty , spicy","fastfood, sandwich, usually contains meat, tasty , spicy"
 69515,818,3c84e2112e,mturk_file_9.csv,follower,"disciple, student, follows guru or teacher","disciple, student, follows guru or teacher"
@@ -66847,14 +66832,6 @@ b. The state or time of having or showing leaves: trees in full leaf.
 69670,951,932ad1fc41,mturk_file_9.csv,bible,"holy book,christians.","holy book,christians."
 69671,951,932ad1fc41,mturk_file_9.csv,temperature,"high,low,hot,cold,fever.","high,low,hot,cold,fever."
 69672,951,932ad1fc41,mturk_file_9.csv,tired,"sleeping,writing,reading,resting,working.","sleeping,writing,reading,resting,working."
-69677,1318,4792a552bb,mturk_file_9.csv,tired,"Tired may refer to:
-Fatigue (medical), a feeling of exhaustion
-""Tired"", a song by Rollins Band on Weight from 1994
-""Tired"", a song by Willa Ford on Willa Was Here from 2001
-""Tired"", a song by LCD Soundsystem on LCD Soundsystem from 2005
-""Tired"", a song by Adele on 19 from 2007
-""Tired"", a song originally performed by Tabitha's Secret, covered by Matchbox Twenty
-Tired (EP), a 2002 EP by Monkey Majik","tired may refer to: fatigue (medical), a feeling of exhaustion ""tired"", a song by rollins band on weight from 1994 ""tired"", a song by willa ford on willa was here from 2001 ""tired"", a song by lcd soundsystem on lcd soundsystem from 2005 ""tired"", a song by adele on 19 from 2007 ""tired"", a song originally performed by tabitha's secret, covered by matchbox twenty tired (ep), a 2002 ep by monkey majik"
 69678,1359,694b2d8fb5,mturk_file_9.csv,again,"repeat ,working on a work once more , doing something more than one time , loop","repeat ,working on a work once more , doing something more than one time , loop"
 69679,1359,694b2d8fb5,mturk_file_9.csv,love,"a feeling shared between two people , a special feeling , concerns about another person or animal , a concept used for getting close to others","a feeling shared between two people , a special feeling , concerns about another person or animal , a concept used for getting close to others"
 69680,1359,694b2d8fb5,mturk_file_9.csv,bible,"the spiritual book on Christianity,a holy book on Jesus and his deeds ,a book with lot of writings , can be used as a life guide to forgive and forget many things to be happy","the spiritual book on christianity,a holy book on jesus and his deeds ,a book with lot of writings , can be used as a life guide to forgive and forget many things to be happy"
@@ -67078,10 +67055,6 @@ the excess of this above the normal.
 Obsolete . mildness, as of the weather.
 4.
 Obsolete . temperament.","a measure of the warmth or coldness of an object or substance with reference to some standard value. the temperature of two systems is the same when the systems are in thermal equilibrium. 2. physiology, pathology . a. the degree of heat in a living body, normally about 98.6°f (37°c) in humans. b. the excess of this above the normal. 3. obsolete . mildness, as of the weather. 4. obsolete . temperament."
-69900,831,6be52007c6,mturk_file_9.csv,tired,"1.
-a. Exhausted of strength or energy; fatigued.
-b. Impatient; bored: tired of the same old sandwiches.
-2. Overused; hackneyed: a tired joke.",1. a. exhausted of strength or energy; fatigued. b. impatient; bored: tired of the same old sandwiches. 2. overused; hackneyed: a tired joke.
 69901,1454,43135d06e2,mturk_file_9.csv,again,"REPEAT, same process","repeat, same process"
 69902,1454,43135d06e2,mturk_file_9.csv,love,"AFFECTION, like, emotioal feeling","affection, like, emotioal feeling"
 69903,1454,43135d06e2,mturk_file_9.csv,bible,collection of primary religious texts,collection of primary religious texts
@@ -67333,25 +67306,6 @@ oyster white.","any of several edible, marine, bivalve mollusks of the family os
 70177,1508,7716859c62,mturk_file_9.csv,try,"attempt , stive, stuggle, endeavour, aim, seek, undertake , make an effort.","attempt , stive, stuggle, endeavour, aim, seek, undertake , make an effort."
 70178,1508,7716859c62,mturk_file_9.csv,song,"cry , noise, sound , blast , blare, clatter, racket.","cry , noise, sound , blast , blare, clatter, racket."
 70180,1508,7716859c62,mturk_file_9.csv,layer,"coating, coat, flim, sheet deposit, cover, level.","coating, coat, flim, sheet deposit, cover, level."
-70181,831,6be52007c6,mturk_file_9.csv,wine,"1.
-a. A beverage made of the fermented juice of any of various kinds of grapes, usually containing from 10 to 15 percent alcohol by volume.
-b. A beverage made of the fermented juice of any of various other fruits or plants.
-2. Something that intoxicates or exhilarates.
-3. The color of red wine.","1. a. a beverage made of the fermented juice of any of various kinds of grapes, usually containing from 10 to 15 percent alcohol by volume. b. a beverage made of the fermented juice of any of various other fruits or plants. 2. something that intoxicates or exhilarates. 3. the color of red wine."
-70183,831,6be52007c6,mturk_file_9.csv,song,". Music
-a. A brief composition written or adapted for singing.
-b. The act or art of singing: broke into song.
-2. A distinctive or characteristic sound made by an animal, such as a bird or an insect.
-3.
-a. Poetry; verse.
-b. A lyric poem or ballad.",". music a. a brief composition written or adapted for singing. b. the act or art of singing: broke into song. 2. a distinctive or characteristic sound made by an animal, such as a bird or an insect. 3. a. poetry; verse. b. a lyric poem or ballad."
-70184,831,6be52007c6,mturk_file_9.csv,oyster,"a. Any of several edible bivalve mollusks of the family Ostreidae, especially of the genera Crassostrea and Ostrea, that live chiefly in shallow marine waters and have a rough, irregularly shaped shell.
-b. Any of various similar or related bivalve mollusks, such as the pearl oyster.
-2. An edible bit of muscle found in the hollow of the pelvic bone of a fowl.
-3.
-a. A special delicacy.
-b. Something from which benefits may be extracted.
-4. Slang A close-mouthed person.","a. any of several edible bivalve mollusks of the family ostreidae, especially of the genera crassostrea and ostrea, that live chiefly in shallow marine waters and have a rough, irregularly shaped shell. b. any of various similar or related bivalve mollusks, such as the pearl oyster. 2. an edible bit of muscle found in the hollow of the pelvic bone of a fowl. 3. a. a special delicacy. b. something from which benefits may be extracted. 4. slang a close-mouthed person."
 70186,812,2622f61522,mturk_file_9.csv,wine,"wine-colored, wine-coloured, vino","wine-colored, wine-coloured, vino"
 70187,812,2622f61522,mturk_file_9.csv,try,"attempt, effort, endeavor, endeavour, try on, render, sample, taste, try out, strain, stress, hear, adjudicate, judge, assay, essay, seek, examine, prove, test","attempt, effort, endeavor, endeavour, try on, render, sample, taste, try out, strain, stress, hear, adjudicate, judge, assay, essay, seek, examine, prove, test"
 70188,812,2622f61522,mturk_file_9.csv,song,"strain, birdcall, birdsong, call, vocal, song dynasty, sung,","strain, birdcall, birdsong, call, vocal, song dynasty, sung,"
@@ -67468,15 +67422,6 @@ b. Something from which benefits may be extracted.
 70300,1312,e592776b4d,mturk_file_9.csv,pledge,"oath,  confidence, self-assurance, self-confidence, authority, assurance, pledge, sureness, toast","oath, confidence, self-assurance, self-confidence, authority, assurance, pledge, sureness, toast"
 70303,864,af2803583c,mturk_file_9.csv,owner,One who owns,one who owns
 70305,864,af2803583c,mturk_file_9.csv,communism,A scheme of equalizing the social conditions of life,a scheme of equalizing the social conditions of life
-70308,831,6be52007c6,mturk_file_9.csv,owner,"Of or belonging to oneself or itself: She makes her own clothes.
-n.
-That which belongs to one: I wanted a room of my own.
-v. owned, own·ing, owns
-v.tr.
-1.
-a. To have or possess as property: owns a chain of restaurants.
-b. To have control over: For a time, enemy planes owned the skies.
-2. To admit as being in accordance with fact, truth, or a claim; acknowledge.","of or belonging to oneself or itself: she makes her own clothes. n. that which belongs to one: i wanted a room of my own. v. owned, own·ing, owns v.tr. 1. a. to have or possess as property: owns a chain of restaurants. b. to have control over: for a time, enemy planes owned the skies. 2. to admit as being in accordance with fact, truth, or a claim; acknowledge."
 70313,787,0da623e05b,mturk_file_9.csv,owner,a person who owns;  possessor; proprietor.,a person who owns; possessor; proprietor.
 70318,908,33cd6db15a,mturk_file_9.csv,owner,"One who owns,One who has the title or right to possess a thing,Legal heir.","one who owns,one who has the title or right to possess a thing,legal heir."
 70320,908,33cd6db15a,mturk_file_9.csv,communism,"Sharing of wealth by taking away from those who have,Rule by the workers,Workers right above individual right,Enemy of capitalism,Wealth to be shared according to each ones contribution.","sharing of wealth by taking away from those who have,rule by the workers,workers right above individual right,enemy of capitalism,wealth to be shared according to each ones contribution."
@@ -68212,8 +68157,6 @@ Special stairways include escalators and ladders. Some alternatives to stairways
 71129,1483,1c6ee77d92,mturk_file_9.csv,apart,"afar, alone, aloof, aside, away, by itself, cut off, disassociated, disconnected, distant, distinct, divorced, excluded, exclusively, freely, independent, independently, individually, isolated, lone wolf, separated, separately, singly, special, to itself, to one side","afar, alone, aloof, aside, away, by itself, cut off, disassociated, disconnected, distant, distinct, divorced, excluded, exclusively, freely, independent, independently, individually, isolated, lone wolf, separated, separately, singly, special, to itself, to one side"
 71130,1483,1c6ee77d92,mturk_file_9.csv,son,"boy, dependent, descendant, heir, junior, offspring, scion","boy, dependent, descendant, heir, junior, offspring, scion"
 71131,1483,1c6ee77d92,mturk_file_9.csv,river,"administrate, be in the driver's seat, be in the saddle, boss, carry out, conduct, control, crack the whip, direct, execute, govern, head, head up, hold the reins, oversee, pull the strings, pull the wires, render, ride herd on, run, run the show, sit on top of, sup","administrate, be in the driver's seat, be in the saddle, boss, carry out, conduct, control, crack the whip, direct, execute, govern, head, head up, hold the reins, oversee, pull the strings, pull the wires, render, ride herd on, run, run the show, sit on top of, sup"
-71133,1318,4792a552bb,mturk_file_9.csv,scratch,"Scratch may refer to:
-A mark or indentation on a surface: Abrasion (mechanical)",scratch may refer to: a mark or indentation on a surface: abrasion (mechanical)
 71135,1318,4792a552bb,mturk_file_9.csv,son,A son is a male offspring; a boy or man in relation to his parents,a son is a male offspring; a boy or man in relation to his parents
 71137,1264,aeac64a7e8,mturk_file_9.csv,outdoors,"Out-of-Doors, Outside, In the Open, In the Open Air, Opposite of Indoors","out-of-doors, outside, in the open, in the open air, opposite of indoors"
 71138,1264,aeac64a7e8,mturk_file_9.csv,scratch,"Scrape, Rub, Cut, Score, Damage a part","scrape, rub, cut, score, damage a part"
@@ -70525,7 +70468,6 @@ A large quantity of a flowing substance: ""great rivers of molten lava""; ""the 
 73469,1553,64897,word_list_10_long.csv,beast,"creature, monster","creature, monster"
 73470,1554,62764,word_list_10_long.csv,beast,"monster, strong, scary, large, hairy, massive","monster, strong, scary, large, hairy, massive"
 73471,1555,62740,word_list_10_long.csv,beast,"an angry animal, monster","an angry animal, monster"
-73472,1556,62536,word_list_10_long.csv,beast,"dangerous creature, may refer to actual animal/ person or imaginary creature","dangerous creature, may refer to actual animal/ person or imaginary creature"
 73473,1557,63100,word_list_10_long.csv,beast,"generally is a animal, sometimes used to describe mean people, lives in the wild","generally is a animal, sometimes used to describe mean people, lives in the wild"
 73474,1558,63385,word_list_10_long.csv,beast,"big, animal, scary","big, animal, scary"
 73475,1559,63868,word_list_10_long.csv,beast,"scary, beauty","scary, beauty"
@@ -86331,7 +86273,6 @@ Beauty, first impression, clothing, rounding the bend","coming into sight, outwa
 89431,2153,343,word_list_5_long.csv,assignment,"something you have to do, work, school, college","something you have to do, work, school, college"
 89432,2154,344,word_list_5_long.csv,anisette,Do not know,do not know
 89433,2154,344,word_list_5_long.csv,astrology,"astrology: the study of star signs, the belief that the planets impact human behavior","astrology: the study of star signs, the belief that the planets impact human behavior"
-89434,2154,344,word_list_5_long.csv,attendance,"Attendance has several meanings. Attendance can refer to how many people are going to a place, or it may refer to a United States student's time spent in school.","attendance has several meanings. attendance can refer to how many people are going to a place, or it may refer to a united states student's time spent in school."
 89436,2154,344,word_list_5_long.csv,assignment,"work, homework","work, homework"
 89437,2155,345,word_list_5_long.csv,anisette,"booze, drink","booze, drink"
 89438,2155,345,word_list_5_long.csv,astrology,"uses times and dates and stars, fortune telling","uses times and dates and stars, fortune telling"
@@ -107887,7 +107828,6 @@ create something from scratch",to be the one that originates something inventor 
 111378,6544,4734,word_list_5_long.csv,labyrinth,"maze, often complicated","maze, often complicated"
 111379,6545,4735,word_list_5_long.csv,injection,injection with niddle,injection with niddle
 111380,6545,4735,word_list_5_long.csv,hedge,"a ground of plants, something surrounding an object, to protect","a ground of plants, something surrounding an object, to protect"
-111381,6545,4735,word_list_5_long.csv,identical,"exactly the same, may refer to monozygotic twins, opposite of fraternal when referring to twins","exactly the same, may refer to monozygotic twins, opposite of fraternal when referring to twins"
 111382,6545,4735,word_list_5_long.csv,inability,"not able, stupid.","not able, stupid."
 111383,6545,4735,word_list_5_long.csv,labyrinth,"a maze which has a single exit/entrance and generally has a monster at the middle, a twisty turning path that is hard to navigate, something that is extremely complex and difficult to understand.","a maze which has a single exit/entrance and generally has a monster at the middle, a twisty turning path that is hard to navigate, something that is extremely complex and difficult to understand."
 111384,6546,4736,word_list_5_long.csv,injection,An instance of injecting or being injected,an instance of injecting or being injected
@@ -116763,7 +116703,6 @@ vomiting",to feel sick not feeling well vomiting
 120345,8339,6529,word_list_5_long.csv,offend,"to hurt, to make sad","to hurt, to make sad"
 120346,8339,6529,word_list_5_long.csv,pebble,"a piece of gravel, a shingle","a piece of gravel, a shingle"
 120347,8339,6529,word_list_5_long.csv,obnoxious,"Annoying, aggravating, displeasing","annoying, aggravating, displeasing"
-120348,8339,6529,word_list_5_long.csv,pair,"implies two, may refer to identical or similar items, implies a set","implies two, may refer to identical or similar items, implies a set"
 120349,8340,6530,word_list_5_long.csv,overview,"the whole thing, to go over, to review","the whole thing, to go over, to review"
 120350,8340,6530,word_list_5_long.csv,offend,"bother, shock, unpleasant","bother, shock, unpleasant"
 120351,8340,6530,word_list_5_long.csv,pebble,"stone, walkway, shoe, rock","stone, walkway, shoe, rock"
@@ -122559,7 +122498,6 @@ The marks, such as period, comma, and parentheses, used in writing to separate s
 126188,9509,7699,word_list_5_long.csv,racket,"paddle with a fibrous grill, sports, tennis","paddle with a fibrous grill, sports, tennis"
 126189,9509,7699,word_list_5_long.csv,reality,"Real life, now","real life, now"
 126190,9509,7699,word_list_5_long.csv,responsibility,having a duty that you must fulfill,having a duty that you must fulfill
-126191,9509,7699,word_list_5_long.csv,production,"The act of producing goods, may refer to a theatrical performance.","the act of producing goods, may refer to a theatrical performance."
 126192,9509,7699,word_list_5_long.csv,roman,"person from Rome, ancient group of people","person from rome, ancient group of people"
 126193,9510,7700,word_list_5_long.csv,racket,"noise, cacophony, tennis paddle","noise, cacophony, tennis paddle"
 126194,9510,7700,word_list_5_long.csv,reality,"the objective world, tangible world of cause and effect, the opposite of fantasy","the objective world, tangible world of cause and effect, the opposite of fantasy"
@@ -138461,6 +138399,7 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 142253,12409,76,word_long_all.csv,heat,"a warm temperature, can come from the sun, can come from some type of a heating source","a warm temperature, can come from the sun, can come from some type of a heating source"
 142254,12410,77,word_long_all.csv,heat,"hot, opposite of cold","hot, opposite of cold"
 142255,12411,78,word_long_all.csv,heat,"is warmth, the opposite of cold, can burn you, fire makes heat, is how summertime feels,","is warmth, the opposite of cold, can burn you, fire makes heat, is how summertime feels,"
+142297,12375,42,word_long_all.csv,house,House,house
 142334,12334,1,word_long_all.csv,hurricane,"a terrible windstorm, a cyclone, tropical storm, Katrina, New Orleans","a terrible windstorm, a cyclone, tropical storm, katrina, new orleans"
 142335,12335,2,word_long_all.csv,hurricane,"a storm, the name of a wrestlers characters name. it has high winds, rain, hail. found in the ocean. storm can go on to land.","a storm, the name of a wrestlers characters name. it has high winds, rain, hail. found in the ocean. storm can go on to land."
 142336,12336,3,word_long_all.csv,hurricane,"Powerful weather system, start in ocean, can cause lots of destruction","powerful weather system, start in ocean, can cause lots of destruction"
@@ -140513,6 +140452,7 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 144467,12359,26,word_long_all.csv,tall,"increased height, big","increased height, big"
 144468,12360,27,word_long_all.csv,tall,greater than average height,greater than average height
 144469,12361,28,word_long_all.csv,tall,"big, fat, large, lanky, jeans, beer, glass, men, athlete","big, fat, large, lanky, jeans, beer, glass, men, athlete"
+144506,12398,65,word_long_all.csv,tall,"wide, big, sky scrapper, basketball player","wide, big, sky scrapper, basketball player"
 144520,12334,1,word_long_all.csv,tea,"Made from leaves, Hot or cold, herbal, water, goes in a cup, calming effect","made from leaves, hot or cold, herbal, water, goes in a cup, calming effect"
 144521,12335,2,word_long_all.csv,tea,"drink, ice tea, southern drink. hot tea. tea tree","drink, ice tea, southern drink. hot tea. tea tree"
 144522,12336,3,word_long_all.csv,tea,"typically comes in tea bags, natural herbs, good when you are sick, thought of as a proper drink, hot or cold","typically comes in tea bags, natural herbs, good when you are sick, thought of as a proper drink, hot or cold"
@@ -143043,7 +142983,6 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 147103,12499,166,word_long_all.csv,stiff,"cant move, body","cant move, body"
 147104,12500,167,word_long_all.csv,stiff,"difficult to move, tired, tense","difficult to move, tired, tense"
 147105,12501,168,word_long_all.csv,stiff,"hard, not bending","hard, not bending"
-147106,12502,169,word_long_all.csv,stiff,"hard, rigid, unmoving, may refer to a physical state of the body and its unwillingness or inability to move or the mental state of being unwilling to change one's mind, strict","hard, rigid, unmoving, may refer to a physical state of the body and its unwillingness or inability to move or the mental state of being unwilling to change one's mind, strict"
 147107,12503,170,word_long_all.csv,stiff,"hard, solid","hard, solid"
 147108,12504,171,word_long_all.csv,stiff,"no flex, a person with no sense of humor, no fun, boring","no flex, a person with no sense of humor, no fun, boring"
 147109,12413,80,word_long_all.csv,strap,"Strap: Holds things togther,Could be at the top of a shirt,","strap: holds things togther,could be at the top of a shirt,"
@@ -147815,7 +147754,6 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 151898,12522,189,word_long_all.csv,staff,"are a group of people who work for someone or a company. they do work. it can be a mix of both males and females. they can work at someones home or at a busniess. there can be just a few people, or a lot. the jobs of what they do can widely range. the age group is usually at least 15+.","are a group of people who work for someone or a company. they do work. it can be a mix of both males and females. they can work at someones home or at a busniess. there can be just a few people, or a lot. the jobs of what they do can widely range. the age group is usually at least 15+."
 151899,12523,190,word_long_all.csv,staff,hired group of people assigned to do a certain duty,hired group of people assigned to do a certain duty
 151900,12524,191,word_long_all.csv,staff,a group of people working for a particular company or cause.,a group of people working for a particular company or cause.
-151901,12525,192,word_long_all.csv,staff,"group of people, may refer to staff as in a stick, staff as in the five horizontal lines in which notes are placed on for music, or the staff of a gun.","group of people, may refer to staff as in a stick, staff as in the five horizontal lines in which notes are placed on for music, or the staff of a gun."
 151902,12526,193,word_long_all.csv,staff,"long stick, made of metal, made of wood, belongs to wizards, workers at a building, members of a team","long stick, made of metal, made of wood, belongs to wizards, workers at a building, members of a team"
 151903,12527,194,word_long_all.csv,staff,"people that work for a company, friends, enemies, teamwork, dedicated,","people that work for a company, friends, enemies, teamwork, dedicated,"
 151904,12528,195,word_long_all.csv,staff,an infection,an infection
@@ -157060,7 +156998,6 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 161253,12704,371,word_long_all.csv,early,"childhood, morning, school, work, not late","childhood, morning, school, work, not late"
 161254,12705,372,word_long_all.csv,early,before needed or wanted.,before needed or wanted.
 161255,12706,373,word_long_all.csv,early,"getting up, showing up before somthing starts,","getting up, showing up before somthing starts,"
-161256,12707,374,word_long_all.csv,early,near the first part of a timelinecan refer to when we were a young childmay refer to an arrival time,near the first part of a timeline can refer to when we were a young child may refer to an arrival time
 161257,12708,375,word_long_all.csv,early,"Waking up in the morning, breakfast, time for work, time for school, first part of the day, sun rises, dew on the grass","waking up in the morning, breakfast, time for work, time for school, first part of the day, sun rises, dew on the grass"
 161258,12709,376,word_long_all.csv,early,"before planned, babies delivered before due date, describes an event in time","before planned, babies delivered before due date, describes an event in time"
 161259,12710,377,word_long_all.csv,early,"morning, soon, previous, new, young , original, initia, ahead of time.","morning, soon, previous, new, young , original, initia, ahead of time."
@@ -157194,7 +157131,6 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 161387,12704,371,word_long_all.csv,hungry,"food, need food, soup, sandwich, lunch, dinner","food, need food, soup, sandwich, lunch, dinner"
 161388,12705,372,word_long_all.csv,hungry,to want(in most cases food but you can be hungry for other things),to want(in most cases food but you can be hungry for other things)
 161389,12706,373,word_long_all.csv,hungry,"eat, food, humans eat food when they are hungry, we must do this every day,","eat, food, humans eat food when they are hungry, we must do this every day,"
-161390,12707,374,word_long_all.csv,hungry,want to eatneed to eatmay refer to an individual who really needs or wants something.,want to eat need to eat may refer to an individual who really needs or wants something.
 161391,12708,375,word_long_all.csv,hungry,"stomach growling, uneasy feeling, wanting to eat, stomach hurting, waking up, after a workout, not eating all day","stomach growling, uneasy feeling, wanting to eat, stomach hurting, waking up, after a workout, not eating all day"
 161392,12709,376,word_long_all.csv,hungry,"needing food, requiring sustinence, body telling mind it needs nutrients, a feeling caused by release of hormones","needing food, requiring sustinence, body telling mind it needs nutrients, a feeling caused by release of hormones"
 161393,12710,377,word_long_all.csv,hungry,"munchies, food,greedy, feed, grocery.","munchies, food,greedy, feed, grocery."
@@ -159992,7 +159928,6 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 164191,12755,422,word_long_all.csv,spin,"movement of turning in axis, often creates a repetitive circular/ elliptical motion.","movement of turning in axis, often creates a repetitive circular/ elliptical motion."
 164192,12756,423,word_long_all.csv,spin,"to go in a circle in one place, makes you dizzy, certain amusement rides spin","to go in a circle in one place, makes you dizzy, certain amusement rides spin"
 164193,12757,424,word_long_all.csv,spin,"the little sit-n-spin device I enjoyed as a kid, the spinning around that can cause centrifugal force to make it hard to stay toward the center, merry-go-rounds, medical centrifuges, the way the earth rotates around its center axis as we make our daily journeys that carry us in ellipses around the sun","the little sit-n-spin device i enjoyed as a kid, the spinning around that can cause centrifugal force to make it hard to stay toward the center, merry-go-rounds, medical centrifuges, the way the earth rotates around its center axis as we make our daily journeys that carry us in ellipses around the sun"
-164194,12758,425,word_long_all.csv,spin,To turn in a clockwise or counterclockwise motion at any given speed. May refer to an individual or an object in motion.,to turn in a clockwise or counterclockwise motion at any given speed. may refer to an individual or an object in motion.
 164195,12759,426,word_long_all.csv,spin,"is a verb, not a noun, makes me sick, can be fun on roller coasters,make me think of childhood, the office chair I am sitting in can spin around","is a verb, not a noun, makes me sick, can be fun on roller coasters,make me think of childhood, the office chair i am sitting in can spin around"
 164196,12760,427,word_long_all.csv,spin,"move in circles, could mean a cycle on a washing machine, become dizzy, spiral,","move in circles, could mean a cycle on a washing machine, become dizzy, spiral,"
 164197,12761,428,word_long_all.csv,spin,"dizzy, turning, rotating, laughing, playing, crying, wheels, yo-yo, blenders.","dizzy, turning, rotating, laughing, playing, crying, wheels, yo-yo, blenders."
@@ -171722,7 +171657,6 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 176019,13143,810,word_long_all.csv,market,"place to shop, has food, fresh food","place to shop, has food, fresh food"
 176020,13144,811,word_long_all.csv,market,"grocery store, sells fresh fruit and vegetables,","grocery store, sells fresh fruit and vegetables,"
 176021,13145,812,word_long_all.csv,market,"some kind of society ex (stock market, grocery market, money market), crowded, full of supplies, collects something, place to go, jobs, consists of many people","some kind of society ex (stock market, grocery market, money market), crowded, full of supplies, collects something, place to go, jobs, consists of many people"
-176022,13146,813,word_long_all.csv,market,"is a place of sales, may refer to economy, money, business, grows, shrinks,","is a place of sales, may refer to economy, money, business, grows, shrinks,"
 176023,13147,814,word_long_all.csv,market,"a place where you can get groceries and other goods, lots of stores in one place, big, busy, people always there, spend money","a place where you can get groceries and other goods, lots of stores in one place, big, busy, people always there, spend money"
 176024,13148,815,word_long_all.csv,market,"is a place to get food, is a place to get clothes, is loud, is crowded, has many different locations, is fun, can drive to get there, can walk there, can smell good, can smell bad","is a place to get food, is a place to get clothes, is loud, is crowded, has many different locations, is fun, can drive to get there, can walk there, can smell good, can smell bad"
 176025,13149,816,word_long_all.csv,market,Shopping,shopping
@@ -173043,7 +172977,6 @@ Lawn furniture, summer, cool drinks, porch, rocking, talking","twigs woven into 
 177346,13244,911,word_long_all.csv,average,"not below standard, not above standard, middle, can be used to discover a grade, used in math","not below standard, not above standard, middle, can be used to discover a grade, used in math"
 177347,13245,912,word_long_all.csv,average,"normal, getting a C in a class, not being exceptional, just like everyone else, dont stand out or get attention, nothing wonderful.","normal, getting a c in a class, not being exceptional, just like everyone else, dont stand out or get attention, nothing wonderful."
 177348,13246,913,word_long_all.csv,average,"is a quantity, is a rating, a norm    Example: we usaually get an average of 2ft of snow per year in springfield every winter. ","is a quantity, is a rating, a norm example: we usaually get an average of 2ft of snow per year in springfield every winter."
-177349,13247,914,word_long_all.csv,average,"not the best, not the worst, in the middle, may refer to a set of numbers added together then divided by the number of numbers, also known as the median","not the best, not the worst, in the middle, may refer to a set of numbers added together then divided by the number of numbers, also known as the median"
 177350,13248,915,word_long_all.csv,average,the line at which something could either be superior or basic; the line that the majority of a population is at,the line at which something could either be superior or basic; the line that the majority of a population is at
 177351,13249,916,word_long_all.csv,average,normal,normal
 177352,13250,917,word_long_all.csv,average,"above the minimum, below the max, not the best, not the least, middle","above the minimum, below the max, not the best, not the least, middle"

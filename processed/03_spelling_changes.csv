@@ -983,6 +983,7 @@ hashbrowns,hash browns,hand_fix,5
 peanutbutter,peanut butter,hand_fix,4
 excersize,exercise,hand_fix,4
 noone,no one,hand_fix,4
+trailor,trailer,hand_fix,4
 migrains,migraines,hand_fix,4
 stickey,sticky,hand_fix,4
 fullstop,full stop,hand_fix,4
@@ -1027,7 +1028,6 @@ niagra,niagara,hand_fix,3
 beginng,beginning,hand_fix,3
 embarass,embarrass,hand_fix,3
 slimmy,slimy,hand_fix,3
-trailor,trailer,hand_fix,3
 celcius,celsius,hand_fix,3
 preditor,predator,hand_fix,3
 mamals,mammals,hand_fix,3
@@ -1910,7 +1910,7 @@ backcountry,back country,split_word,2
 betterhalf,better half,split_word,2
 homosapiens,homo sapiens,split_word,2
 drugmaker,drug maker,split_word,2
-hoopdance,hoop dance,split_word,2
+softdrinks,soft drinks,split_word,2
 fastfood,fast food,split_word,2
 upperfloor,upper floor,split_word,2
 notecards,note cards,split_word,2
@@ -2018,6 +2018,7 @@ rulegovern,rule govern,split_word,1
 knightrider,knight rider,split_word,1
 commoncold,common cold,split_word,1
 nextstep,next step,split_word,1
+policeofficer,police officer,split_word,1
 forecastable,forecast able,split_word,1
 childsplay,child splay,split_word,1
 autoplay,auto play,split_word,1
@@ -2031,6 +2032,7 @@ interestable,interest able,split_word,1
 timepass,time pass,split_word,1
 lunchmeat,lunch meat,split_word,1
 easygroup,easy group,split_word,1
+hoopdance,hoop dance,split_word,1
 monthwise,month wise,split_word,1
 highcourt,high court,split_word,1
 middlefried,middle fried,split_word,1
@@ -2741,6 +2743,7 @@ threatning,threatening,symspell_confirmed,2
 decription,description,symspell_confirmed,2
 ferminted,fermented,symspell_confirmed,2
 embarrassement,embarrassment,symspell_confirmed,2
+mortage,mortgage,symspell_confirmed,2
 maintenence,maintenance,symspell_confirmed,2
 titantic,titanic,symspell_confirmed,2
 femanine,feminine,symspell_confirmed,2
@@ -3766,6 +3769,7 @@ creepty,creepy,symspell_confirmed,1
 dicover,discover,symspell_confirmed,1
 brakfast,breakfast,symspell_confirmed,1
 barefoof,barefoot,symspell_confirmed,1
+kicthen,kitchen,symspell_confirmed,1
 branhes,branches,symspell_confirmed,1
 receipes,recipes,symspell_confirmed,1
 tanggled,tangled,symspell_confirmed,1
@@ -4502,7 +4506,6 @@ hiney,honey,symspell_confirmed,1
 umblilical,umbilical,symspell_confirmed,1
 catagorize,categorize,symspell_confirmed,1
 demonstrati,demonstrate,symspell_confirmed,1
-mortage,mortgage,symspell_confirmed,1
 retts,rests,symspell_confirmed,1
 spred,speed,symspell_confirmed,1
 usded,used,symspell_confirmed,1
@@ -6746,10 +6749,11 @@ haut,hat,symspell_rare,1
 neigbhourhood,neighbourhood,symspell_rare,1
 abudance,abundance,symspell_rare,1
 reson,reason,symspell_rare,1
-picquet,piquet,symspell_rare,1
 plae,place,symspell_rare,1
 peack,pack,symspell_rare,1
+cycological,cytological,symspell_rare,1
 ageeing,agreeing,symspell_rare,1
+crispt,crisp,symspell_rare,1
 comitting,committing,symspell_rare,1
 vebal,verbal,symspell_rare,1
 agney,agnes,symspell_rare,1

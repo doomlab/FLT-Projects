@@ -45,3 +45,5 @@ Run in order with the `flt-nlp` environment (`environment.yml`; then `python -m 
 
 `row_id` (the row in `all_data.csv`) follows every answer through all steps.
 
+
+`08_words.csv` also has `n_took` (people who answered the cue, before any exclusions) and `n_final` (people who still have a word for it); `08_cue_counts.csv` has both for every cue. Use `n_final`, not the 2019 N values, for shares. Cues with a small `n_final` (for example `something`, `soda`, `cracker`, where workers pasted dictionary definitions) have very little usable data.
