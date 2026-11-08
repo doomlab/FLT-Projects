@@ -838,10 +838,26 @@ row_id,source_file,subject_id,word,answer,reason
 5. Genetics . genetic map.","original_cleaning,semicolon_definition"
 46653,mturk_file_1.csv,769,town,"a thickly populated area, usually smaller than a city and larger than a village, having fixed boundaries and certain local powers of government; a densely populated area of considerable size, as a city or borough; (especially in New England) a municipal corporation with less elaborate organization and powers than a city; (in most U.S. states except those of New England) a township; any urban area, as contrasted with its surrounding countryside.",semicolon_definition
 46656,mturk_file_1.csv,770,map,"A representation, usually on a plane surface, of a region of the earth or heavens.",original_cleaning
+46689,mturk_file_1.csv,777,boxer,noun a member of a fiercely nationalistic Chinese secret society which flourished in the 19th century.,rejected_hit
+46690,mturk_file_1.csv,777,dancer,noun a system of aerobic exercise using dance movements.,rejected_hit
+46691,mturk_file_1.csv,777,map,"a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",rejected_hit
+46692,mturk_file_1.csv,777,plain,not decorated or elaborate; simple or ordinary. without a pattern; in only one colour. unmarked; without identification: a plain envelope.,rejected_hit
+46693,mturk_file_1.csv,777,town,"a built-up area with a name, defined boundaries, and local government, that is larger than a village and generally smaller than a city. ØBritish dated the chief city or town of a region.",rejected_hit
+46694,mturk_file_1.csv,778,dancer,dancing,rejected_hit
+46695,mturk_file_1.csv,778,map,world design,rejected_hit
+46696,mturk_file_1.csv,778,plain,empty,rejected_hit
+46697,mturk_file_1.csv,778,town,city,rejected_hit
 46703,mturk_file_1.csv,780,boxer,"someone who takes part in the sport of  boxing 
-    He was a  heavyweight  boxer before he became an actor.",original_cleaning
+    He was a  heavyweight  boxer before he became an actor.","original_cleaning,rejected_hit"
+46704,mturk_file_1.csv,780,dancer,I never knew you were such a good dancer.,rejected_hit
+46705,mturk_file_1.csv,780,map,a  road  map,rejected_hit
+46706,mturk_file_1.csv,780,plain,He prefers plain food - nothing too fancy.,rejected_hit
+46707,mturk_file_1.csv,780,town,a fishing/mining town,rejected_hit
 46918,mturk_file_1.csv,823,boxer,"pugilist, bagger, packer, meat packer, boxer, backpacker",long_duplicate
 46919,mturk_file_1.csv,823,dancer,"professional dancer, social dancer, terpsichorean, dancer",long_duplicate
+46973,mturk_file_1.csv,831,april,"The ""Days of April""  is a name appropriated in French history to a series of insurrections at Lyons .April is the fourth month of the year",rejected_hit
+46974,mturk_file_1.csv,831,first,coming before all others in times,rejected_hit
+46975,mturk_file_1.csv,831,kidnap,take someone by force and hold them captive in order to obtain money for their release,rejected_hit
 46976,mturk_file_1.csv,831,specific,"1.
 having a special application, bearing, or reference; specifying, explicit, or definite: to state one's specific purpose.
 2.
@@ -851,40 +867,54 @@ peculiar or proper to somebody or something, as qualities, characteristics, effe
 4.
 of a special or particular kind.
 5.
-concerned specifically with the item or subject named (used in combination): The Secretary addressed himself to crop-specific problem","original_cleaning,very_long,numbered_senses"
+concerned specifically with the item or subject named (used in combination): The Secretary addressed himself to crop-specific problem","original_cleaning,very_long,numbered_senses,rejected_hit"
+46977,mturk_file_1.csv,831,time,"a period,the unlimited continued progress of existence and events in the past,past and future.",rejected_hit
 47041,mturk_file_1.csv,837,specific,"Explicitly set forth, definite,Relating to, characterizing,  distinguishing, 
 Special, distinctive, or unique,  a particular thing, Clearly, fully, emphatically expressed
 
 
 Read more: http://www.answers.com/topic/specific#ixzz1fpLaAxtE",web_text
+47083,mturk_file_1.csv,777,april,noun the fourth month of the year.,rejected_hit
 47084,mturk_file_1.csv,777,first,"ordinal number 
 1	coming before all others in time or order; earliest; 1st.before doing something else. 
 2	foremost in position, rank, or importance. British a place in the top grade in an examination for a degree. 
-3	for the first time. informal something never previously occurring or done.","original_cleaning,numbered_senses,semicolon_definition"
+3	for the first time. informal something never previously occurring or done.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 47085,mturk_file_1.csv,777,kidnap,"verb (kidnaps, kidnapping, kidnapped; United States also kidnaps, kidnaping, kidnaped) abduct and hold captive, typically to obtain a ransom. 
-n	noun an instance of kidnapping.",original_cleaning
+n	noun an instance of kidnapping.","original_cleaning,rejected_hit"
 47086,mturk_file_1.csv,777,specific,"1	clearly defined or identified. precise and clear: when ordering goods be specific. relating uniquely to a particular subject. 
 2	Biology relating to or connected with species or a species. 
-3	(of a duty or a tax) levied at a fixed rate per physical unit of the thing taxed, regardless of its price.","original_cleaning,numbered_senses"
+3	(of a duty or a tax) levied at a fixed rate per physical unit of the thing taxed, regardless of its price.","original_cleaning,numbered_senses,rejected_hit"
 47087,mturk_file_1.csv,777,time,"1	the indefinite continued progress of existence and events in the past, present, and future, regarded as a whole. 
-2	a point of time as measured in hours and minutes past midnight or noon. the favourable or appropriate moment to do something: it was time to go. (a time) an indefinite period. (also times) a period characterized by particular events or circumstances:","original_cleaning,numbered_senses"
+2	a point of time as measured in hours and minutes past midnight or noon. the favourable or appropriate moment to do something: it was time to go. (a time) an indefinite period. (also times) a period characterized by particular events or circumstances:","original_cleaning,numbered_senses,rejected_hit"
 47103,mturk_file_1.csv,808,april,"April:April is the fourth month of the year in the Julian and Gregorian calendars, and one of four months with a length of 30 days. April was originally the second month of the Roman calendar, before January and February were added by King Numa Pompilius about 700 BC. It became the fourth month of the calendar year (the year when twelve months are displayed in order) during the time of the decemvirs about 450 BC, when it also was given 29 days. The derivation of the name is uncertain. The traditional etymology is from the Latin aperire",very_long
 47104,mturk_file_1.csv,808,first,"First:First or 1st is the ordinal form of the number one.All pages beginning with ""First"" All pages with titles containing ""First"".
 Book:FIRST",original_cleaning
 47106,mturk_file_1.csv,808,specific,"Specific:Specificity Specific, a cure or therapy for a specific illness
 Law .Specific deterrence, focussed on an individual",original_cleaning
+47178,mturk_file_1.csv,780,april,This has been one of the driest Aprils for years.,rejected_hit
+47179,mturk_file_1.csv,780,first,This is my first visit to New York,rejected_hit
+47180,mturk_file_1.csv,780,kidnap,The wife of a businessman has been kidnapped from her home in Surrey,rejected_hit
+47181,mturk_file_1.csv,780,specific,The virus attacks specific cells in the brain.,rejected_hit
+47182,mturk_file_1.csv,780,time,He wants to  spend  more time with his family.,rejected_hit
 47215,mturk_file_1.csv,823,kidnap,"scam, hornswoggle, snatch up, cabbage, filch, con, kidnap, rook, abduct, swindle, bunco, snarf, purloin, pinch, nobble, gyp, goldbrick, victimize, mulct, hook, lift, diddle, gip, short-change, snatch, swipe, defraud, pilfer, sneak, snap, abstract",long_duplicate
 47216,mturk_file_1.csv,823,specific,"particular proposition, item, specific, particular, detail",long_duplicate
 47217,mturk_file_1.csv,823,time,"magazine, clip, snip, clipping, metre, sentence, prison term, fourth dimension, time, cartridge holder, meter, cartridge clip, clock time",long_duplicate
+47273,mturk_file_1.csv,780,back,"When you take the scissors, remember to put them back.",rejected_hit
+47274,mturk_file_1.csv,780,eggs,scrambled eggs on toast,rejected_hit
+47275,mturk_file_1.csv,780,monster,prehistoric monsters,rejected_hit
+47276,mturk_file_1.csv,780,square,First draw a square.,rejected_hit
+47277,mturk_file_1.csv,780,stair,Go up the stairs and her office is on the right.,rejected_hit
 47278,mturk_file_1.csv,777,back,"1	the rear surface of the human body from the shoulders to the hips. the corresponding upper surface of an animal's body. the spine. the main structure of a ship's hull or an aircraft's fuselage. 
 2	the side or part of something away from the spectator or from the direction in which it moves or faces. the side or part of an object opposed to the one that is normally seen or used. the part of a chair against which the sitter's back rests. 
-3	a player in a team game who plays in a defensive position behind the forwards.","original_cleaning,very_long,numbered_senses"
+3	a player in a team game who plays in a defensive position behind the forwards.","original_cleaning,very_long,numbered_senses,rejected_hit"
+47279,mturk_file_1.csv,777,eggs,"noun any of a number of plants with yellow flowers marked with orange, red, or brown, supposedly suggestive of eggs and bacon, especially bird's-foot trefoil.",rejected_hit
 47280,mturk_file_1.csv,777,monster,"1	a large, ugly, and frightening imaginary creature. an inhumanly cruel or wicked person. humorous a rude or badly behaved child. 
 2	a congenitally malformed or mutant animal or plant. 
-3	[as modifier] informal extraordinarily large.","original_cleaning,numbered_senses"
+3	[as modifier] informal extraordinarily large.","original_cleaning,numbered_senses,rejected_hit"
 47281,mturk_file_1.csv,777,square,"1	a plane figure with four equal straight sides and four right angles. something that is the shape of a square or a cube. historical a body of infantry drawn up in rectangular form. 
 2	an open, typically four-sided, area surrounded by buildings. Cricket a closer-cut area at the center of a ground, any strip of which may be prepared as a wicket. an area within a military barracks or camp used for drill. United States a block of buildings bounded by four streets. 
-3	the product of a number multiplied by itself.","original_cleaning,very_long,numbered_senses"
+3	the product of a number multiplied by itself.","original_cleaning,very_long,numbered_senses,rejected_hit"
+47282,mturk_file_1.csv,777,stair,noun each of a set of fixed steps. (stairs) a set of such steps leading from one floor of a building to another.,rejected_hit
 47352,mturk_file_1.csv,803,back,Back: The rear surface of the human body from the shoulders to the hips.,original_cleaning
 47362,mturk_file_1.csv,770,back,"The posterior portion of the trunk of the human body between the neck and the pelvis; the dorsum,The reverse side",original_cleaning
 47377,mturk_file_1.csv,812,back,"backrest, binding, book binding, cover, rear, dorsum, backbone, rachis, spinal column, spine, vertebral column",original_cleaning
@@ -925,7 +955,7 @@ and Ovum, a female egg cell",original_cleaning
 47664,mturk_file_1.csv,831,clear,"free from darkness, obscurity, or cloudiness:
 bright; shining:
 distinctly perceptible to the ear; easily heard
-without discoloration, defect, or blemish:","original_cleaning,semicolon_definition"
+without discoloration, defect, or blemish:","original_cleaning,semicolon_definition,rejected_hit"
 47665,mturk_file_1.csv,831,false,". not in accordance with the fact or reality or actuality
 2. arising from error
 3. erroneous and usually accidental
@@ -935,28 +965,40 @@ without discoloration, defect, or blemish:","original_cleaning,semicolon_definit
 7. designed to deceive
 8. inaccurate in pitch
 9. adopted in order to deceive
-10. (used especially of persons) not dependable in devotion or affection; unfaithful","original_cleaning,semicolon_definition"
+10. (used especially of persons) not dependable in devotion or affection; unfaithful","original_cleaning,semicolon_definition,rejected_hit"
+47666,mturk_file_1.csv,831,indoors,"used inside the building, into or inside the building.",rejected_hit
+47667,mturk_file_1.csv,831,name,word or words which someones or something is known.,rejected_hit
+47668,mturk_file_1.csv,831,tart,"spark or acid in taste,sharp or hurtful",rejected_hit
 47669,mturk_file_1.csv,813,clear,"the state of being free of suspicion 
  open",original_cleaning
 47670,mturk_file_1.csv,813,false,"off-key, mistaken, simulated, imitation, faux, untrue, assumed, delusive, sham, put on, pretended, sour, fake, fictitious, fictive",long_duplicate
 47671,mturk_file_1.csv,813,indoors,"inside, at bottom, in spite of appearance, deep down, indoors, inwardly, at heart, within",long_duplicate
 47673,mturk_file_1.csv,813,tart,"prostitute, lady of pleasure, cyprian, whore, bawd, woman of the street, tart, fancy woman, cocotte, kept woman, working girl, sporting lady, mistress, harlot",long_duplicate
+47679,mturk_file_1.csv,769,clear,"free from darkness, obscurity, or cloudiness; light: a clear day; transparent; pellucid: clear water; without discoloration, defect, or blemish: a clear complexion; a clear pane of glass; of a pure, even color: a clear yellow; sily seen; sharply defined: a clear outline.",rejected_hit
+47680,mturk_file_1.csv,769,false,not true or correct; erroneous: a false statement; uttering or declaring what is untrue: a false witness; not faithful or loyal; treacherous: a false friend; tending to deceive or mislead; deceptive: a false impression; not genuine; counterfeit.,rejected_hit
+47681,mturk_file_1.csv,769,indoors,in or into a house or building: We stayed indoors during the storm.inside or into a house or other building,rejected_hit
 47682,mturk_file_1.csv,769,name,"a word or a combination of words by which a person, place, or thing, a body or class, or any object of thought is designated, called, or known; mere designation, as distinguished from fact: He was a king in name only; an appellation, title, or epithet, applied descriptively, in honor, abuse, etc. 
-a reputation of a particular kind given by common opinion: to protect one's good name; a distinguished, famous, or great reputation; fame: to make a name for oneself;","original_cleaning,semicolon_definition"
-47745,mturk_file_1.csv,808,indoors,"Indoors:is A house is a building or structure that has the ability to be occupied for dwelling by human beings or other creatures. The term house includes many kinds of different dwellings ranging from rudimentary huts of nomadic tribes to free standing individual structures.[1] In some contexts, ""house"" may mean the same as dwelling, residence, home, abode, lodging, accommodation, or housing, among other meanings.",web_text
+a reputation of a particular kind given by common opinion: to protect one's good name; a distinguished, famous, or great reputation; fame: to make a name for oneself;","original_cleaning,semicolon_definition,rejected_hit"
+47683,mturk_file_1.csv,769,tart,"sharp to the taste; sour or acid: Tart apples are best for pie; astringent, acrid, piquant; sharp in character, spirit, or expression; cutting; biting: a tart remark; sarcastic, barbed, caustic, acerbic, acrimonious; a small pie filled with cooked fruit or other sweetened preparation, usually having no top crust; a covered pie containing fruit or the like.",rejected_hit
+47743,mturk_file_1.csv,808,clear,"Clear:Clear, Alaska is an unincorporated community in Denali Borough, Alaska, United States",rejected_hit
+47744,mturk_file_1.csv,808,false,"False:False (logic) Lie or falsehood, a type of deception in the form of an untruthful statement Falsity or falsehood, in law, deceitfulness by one party that results in damage to another Falsies padding for use in a brassiere to create the appearance of larger breasts FALSE, a programming language",rejected_hit
+47745,mturk_file_1.csv,808,indoors,"Indoors:is A house is a building or structure that has the ability to be occupied for dwelling by human beings or other creatures. The term house includes many kinds of different dwellings ranging from rudimentary huts of nomadic tribes to free standing individual structures.[1] In some contexts, ""house"" may mean the same as dwelling, residence, home, abode, lodging, accommodation, or housing, among other meanings.","web_text,rejected_hit"
+47746,mturk_file_1.csv,808,name,"Name:A name is a word or term used for identification. Names can identify a class or category of things, or a single thing, either uniquely, or within a given context. A personal name identifies a specific unique and identifiable individual person, and may or may not include a middle name.",rejected_hit
+47747,mturk_file_1.csv,808,tart,"Tart:A tart is a baked dish consisting of a filling over a pastry base with an open top not covered with pastry. The pastry is usually shortcrust pastry; the filling may be sweet or savoury, though modern tarts are usually fruit-based, sometimes with custard.",rejected_hit
 47755,mturk_file_1.csv,770,indoors,"In or into a house or building, inside or into a house or other building
 ,",original_cleaning
 47848,mturk_file_1.csv,777,clear,"1	easy to perceive or understand. leaving or feeling no doubt: it was clear that they were in a trap. 
-2	transparent; unclouded. free of mist; having good visibility. (of a person's skin) free from blemishes. (of a color) pure and intense.","original_cleaning,numbered_senses,semicolon_definition"
+2	transparent; unclouded. free of mist; having good visibility. (of a person's skin) free from blemishes. (of a color) pure and intense.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 47849,mturk_file_1.csv,777,false,"1	not according with truth or fact. invalid or illegal: false imprisonment. 
 2	deliberately intended to deceive. artificial. 
 3	not actually so; illusory. used in names of plants, animals, and gems that superficially resemble the thing properly so called, e.g. false scorpion. 
-4	disloyal.","original_cleaning,numbered_senses"
+4	disloyal.","original_cleaning,numbered_senses,rejected_hit"
 47850,mturk_file_1.csv,777,indoors,"adverb into or within a building. 
-	noun the area or space inside a building.",original_cleaning
+	noun the area or space inside a building.","original_cleaning,rejected_hit"
 47851,mturk_file_1.csv,777,name,"1	a word or set of words by which someone or something is known, addressed, or referred to. 
 2	a famous person. a reputation, especially a good one. 
-3	(in the UK) an insurance underwriter belonging to a Loyd's syndicate.","original_cleaning,numbered_senses"
+3	(in the UK) an insurance underwriter belonging to a Loyd's syndicate.","original_cleaning,numbered_senses,rejected_hit"
+47852,mturk_file_1.csv,777,tart,noun an open pastry case containing a sweet or savory filling.,rejected_hit
 47868,mturk_file_1.csv,885,clear,"To clear anything or to clear any doubt.
 it mean to remove.",original_cleaning
 47884,mturk_file_1.csv,780,false,"ot real, but made to look or seem real 
@@ -976,44 +1018,69 @@ any spatial attributes (especially as defined by outline)",original_cleaning
 48013,mturk_file_1.csv,803,america,America: A landmass in the western hemisphere that consists of the continents of North and South America joined by the Isthmus of Panama.,original_cleaning
 48038,mturk_file_1.csv,890,america,"big, capitalist society, high crime rate, no health care, high economic mobility",original_cleaning
 48048,mturk_file_1.csv,777,america,"adjective relating to or characteristic of the United States. relating to the continents of America. 
-	noun a native or inhabitant of the United States. a native or inhabitant of any of the countries of North, South, or Central America.",original_cleaning
+	noun a native or inhabitant of the United States. a native or inhabitant of any of the countries of North, South, or Central America.","original_cleaning,rejected_hit"
 48049,mturk_file_1.csv,777,desert,"1	callously or treacherously abandon. 
 2	[usually as adjective deserted] leave (a place), causing it to appear empty. 
-3	illegally leave the armed forces.","original_cleaning,numbered_senses"
+3	illegally leave the armed forces.","original_cleaning,numbered_senses,rejected_hit"
 48050,mturk_file_1.csv,777,honest,"1	free of deceit; truthful and sincere. earned fairly through hard work: an honest living. (of an action) well intentioned even if misguided: an honest mistake. 
 2	simple and unpretentious: good honest food with no gimmicks. 
-	adverb informal genuinely; really.","original_cleaning,numbered_senses,semicolon_definition"
+	adverb informal genuinely; really.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 48051,mturk_file_1.csv,777,shape,"1	the external form, outline, or contours of someone or something. a specific form or guise assumed by someone or something: a fiend in human shape. 
-2	a geometric figure such as a rectangle. a piece of material, paper, etc., made or cut in a particular form.","original_cleaning,numbered_senses"
-48052,mturk_file_1.csv,777,way,"1	a method, style, or manner of doing something. the typical manner in which someone behaves or in which something happens. formal or Scottish a person's occupation or line of business.",original_cleaning
+2	a geometric figure such as a rectangle. a piece of material, paper, etc., made or cut in a particular form.","original_cleaning,numbered_senses,rejected_hit"
+48052,mturk_file_1.csv,777,way,"1	a method, style, or manner of doing something. the typical manner in which someone behaves or in which something happens. formal or Scottish a person's occupation or line of business.","original_cleaning,rejected_hit"
 48053,mturk_file_1.csv,843,america,It is one of the country.,original_cleaning
 48083,mturk_file_1.csv,853,america,"America is the term most often used to refer to the united states ,when pluralized,American can refers to all of north,central and south America.one or both of continents  in western hemisphere.the united states of America.US",original_cleaning
 48258,mturk_file_1.csv,813,club,"baseball club, ball club, club, nine 
-a team of professional baseball players who play and travel together",original_cleaning
+a team of professional baseball players who play and travel together","original_cleaning,rejected_hit"
 48259,mturk_file_1.csv,813,encourage,"promote, advance, boost, further, encourage 
-contribute to the progress or growth of",original_cleaning
+contribute to the progress or growth of","original_cleaning,rejected_hit"
 48260,mturk_file_1.csv,813,hands,"hands, custody 
-(with `in') guardianship over; in divorce cases it is the right to house and care for and discipline a child",original_cleaning
+(with `in') guardianship over; in divorce cases it is the right to house and care for and discipline a child","original_cleaning,rejected_hit"
 48261,mturk_file_1.csv,813,newton,"Newton, Isaac Newton, Sir Isaac Newton 
-English mathematician and physicist; remembered for developing the calculus and for his law of gravitation and his three laws of motion (1642-1727)",original_cleaning
+English mathematician and physicist; remembered for developing the calculus and for his law of gravitation and his three laws of motion (1642-1727)","original_cleaning,rejected_hit"
+48262,mturk_file_1.csv,813,there,a location other than here; that place,rejected_hit
 48296,mturk_file_1.csv,811,newton,I recall this word related to figs.,original_cleaning
+48343,mturk_file_1.csv,852,club,"i am member on gods on country, the club gives self confidancy",rejected_hit
+48344,mturk_file_1.csv,852,encourage,"i am encourage on my sisters,iam give a small gift this gives encourage, motivate",rejected_hit
+48345,mturk_file_1.csv,852,hands,"this my hands, i am working on my hands",rejected_hit
+48346,mturk_file_1.csv,852,newton,"a famous scientiste,  newton pawer",rejected_hit
+48347,mturk_file_1.csv,852,there,"there is a men ,",rejected_hit
+48423,mturk_file_1.csv,808,club,"Club:A club is an association of two or more people united by a common interest or goal. A service club, for example, exists for voluntary or charitable activities; there are clubs devoted to hobbies and sports, social activities clubs, political and religious clubs, and so forth.",rejected_hit
+48424,mturk_file_1.csv,808,encourage,"Encourage:Courage International is an apostolate and Christian ministry of the Roman Catholic Church, which ministers to those with same-sex attractions.",rejected_hit
+48425,mturk_file_1.csv,808,hands,"Hands:is  a prehensile, multi-fingered extremity located at the end of an arm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. A few other vertebrates such as the koala (which has two opposable thumbs on each ""hand"" and fingerprints remarkably similar to human fingerprints) are often described as having either ""hands"" or ""paws"" on their front limbs.",rejected_hit
+48426,mturk_file_1.csv,808,newton,"Newton:Newton is a contraction of ""New Town"", the name of many places in English-speaking countries.",rejected_hit
+48427,mturk_file_1.csv,808,there,"There: There (film), 2009 Turkish film (Turkish title: Orada)
+There (Public Figure), Alias of Paul Bird.
+There (novel), by Marie-Louise Fitzpatrick
+There (virtual world)",rejected_hit
 48428,mturk_file_1.csv,767,club,"A group of persons organized for a social,literary,athletic,political or other purpose.",long_duplicate
 48458,mturk_file_1.csv,777,club,"1	an association dedicated to a particular interest or activity. an organization constituted to play matches in a particular sport. 
 2	an organization offering members social amenities, meals, and temporary residence. 
-3	a nightclub with dance music.","original_cleaning,numbered_senses"
+3	a nightclub with dance music.","original_cleaning,numbered_senses,rejected_hit"
+48459,mturk_file_1.csv,777,encourage,"verb give support, confidence, or hope to. help or stimulate the development of.",rejected_hit
+48460,mturk_file_1.csv,777,hands,noun & verb variant spelling of Hansel.,rejected_hit
+48461,mturk_file_1.csv,777,newton,"noun Physics the SI unit of force, equal to the force that would give a mass of one kilogram an acceleration of one meter per second per second.",rejected_hit
 48462,mturk_file_1.csv,777,there,"1	in, at, or to that place or position. in that respect; on that issue. 
 2	used in attracting attention to someone or something. 
-3	(usually there is/are) used to indicate the fact or existence of something.","original_cleaning,numbered_senses"
+3	(usually there is/are) used to indicate the fact or existence of something.","original_cleaning,numbered_senses,rejected_hit"
 48495,mturk_file_1.csv,806,hands,the corresponding part of the forelimb in any of the higher vertebrates,long_duplicate
 48503,mturk_file_1.csv,906,club,"A stout heavy stick, usually thicker at one end, suitable for use as a weapon; a cudgel.",long_duplicate
 48505,mturk_file_1.csv,906,hands,"""Idioms with Hand""",original_cleaning
 48506,mturk_file_1.csv,906,newton,"Newton Mearns is a suburban town in East Renfrewshire, Scotland. It lies 7 miles (11.3 km) southwest of Glasgow City Centre on the main road to Ayrshire, 410 feet (125.0 m) above sea level.[2] It has a population of approximately 22,637.[3]",web_text
+48518,mturk_file_1.csv,780,cause,I believe we have/there is  just  cause  (= a fair reason)   for  taking this action.,rejected_hit
+48519,mturk_file_1.csv,780,flowers,to pick flowers,rejected_hit
+48520,mturk_file_1.csv,780,life,Life's too short to worry about money!,rejected_hit
+48521,mturk_file_1.csv,780,raw,raw fish,rejected_hit
+48522,mturk_file_1.csv,780,unclear,It's unclear  wh ether he arrived before or after the shot was fired.,rejected_hit
 48543,mturk_file_1.csv,813,cause,"causal agency, reason, lawsuit, movement, suit, crusade, drive, effort, causa, causal agent, grounds, campaign, case",long_duplicate
 48659,mturk_file_1.csv,914,flowers,"Flowers: Are the beautiful part of many plants; botanically contain the plants sexual organs; often are white or brightly colored, sometimes fragrant",semicolon_definition
+48753,mturk_file_1.csv,777,cause,"a person or thing that gives rise to an action, phenomenon, or condition. reasonable grounds for a belief or action.",rejected_hit
+48754,mturk_file_1.csv,777,flowers,plural noun [treated as singular] Chemistry a fine yellow powdered form of sulphur produced by sublimation.,rejected_hit
+48755,mturk_file_1.csv,777,life,"the condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, functional activity, and continual change preceding death. living things and their activity.",rejected_hit
 48756,mturk_file_1.csv,777,raw,"1	(of food) uncooked. 
-2	(of a material or substance) in its natural state; not processed. (of data) not organized, analysed, or evaluated.","original_cleaning,numbered_senses"
+2	(of a material or substance) in its natural state; not processed. (of data) not organized, analysed, or evaluated.","original_cleaning,numbered_senses,rejected_hit"
 48757,mturk_file_1.csv,777,unclear,"1	not easy to see, hear, or understand. 
-2	not obvious, definite, or certain.","original_cleaning,numbered_senses"
+2	not obvious, definite, or certain.","original_cleaning,numbered_senses,rejected_hit"
 48766,mturk_file_1.csv,831,raw,"(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes
 2. having the surface exposed and painful
 3. not treated with heat to prepare it for eating
@@ -1030,26 +1097,40 @@ English mathematician and physicist; remembered for developing the calculus and 
 Hawaiian flowers",original_cleaning
 48892,mturk_file_1.csv,827,vanish,"To pass out of sight, especially quickly disappear.",long_duplicate
 48921,mturk_file_1.csv,891,sexy,arousing or tending to arouse sexual desire or interest,long_duplicate
+49058,mturk_file_1.csv,780,wool,The blankets are made from wool and the sheets from cotton.,rejected_hit
+49059,mturk_file_1.csv,780,date,What is your date  of birth ?,rejected_hit
+49060,mturk_file_1.csv,780,wife,I met Greg's wife for the first time.,rejected_hit
+49061,mturk_file_1.csv,780,sexy,He's very sexy.,rejected_hit
+49062,mturk_file_1.csv,780,vanish,The child vanished while on her way home from school.,rejected_hit
+49063,mturk_file_1.csv,777,wool,"noun the fine, soft curly or wavy hair forming the coat of a sheep, goat, or similar animal, especially when shorn and made into cloth or yarn. the soft underfur or down of some other mammals. a metal or mineral made into a mass of fine fibres: lead wool.",rejected_hit
 49064,mturk_file_1.csv,777,date,"1	the day of the month or year as specified by a number. 
 2	a day or year when a given event occurred or will occur. (dates) the years of a person's birth and death or of the beginning and end of a period or event. the period of time to which something belongs. 
-3	a social or romantic appointment.","original_cleaning,numbered_senses"
+3	a social or romantic appointment.","original_cleaning,numbered_senses,rejected_hit"
+49065,mturk_file_1.csv,777,wife,"noun (plural wives) a married woman considered in relation to her husband. archaic or dialect a woman, especially an old or uneducated one.",rejected_hit
 49066,mturk_file_1.csv,777,sexy,"1	sexually attractive or exciting. sexually aroused. 
-2	informal very exciting or appealing.","original_cleaning,numbered_senses"
+2	informal very exciting or appealing.","original_cleaning,numbered_senses,rejected_hit"
 49067,mturk_file_1.csv,777,vanish,"1	disappear suddenly and completely. gradually cease to exist. 
-2	Mathematics become zero.","original_cleaning,numbered_senses"
+2	Mathematics become zero.","original_cleaning,numbered_senses,rejected_hit"
 49161,mturk_file_1.csv,770,white,"The achromatic color of maximum lightness; the color of objects that reflect nearly all light of all visible wavelengths; the complement or antagonist of black, the other extreme of the neutral gray series. Although typically a response to maximum stimulation of the retina, the perception of white appears always to depend on contrast.",semicolon_definition
 49171,mturk_file_1.csv,813,white,"whiteness, ovalbumin, albumen, flannel, tweed, gabardine, egg white",long_duplicate
 49172,mturk_file_1.csv,813,trick,"deception, joke, trick, illusion, legerdemain, magic trick, caper, put-on, fast one, thaumaturgy, antic, prank, magic, whoremaster, john, conjuration, whoremonger, conjuring trick",long_duplicate
+49203,mturk_file_1.csv,777,africa,"noun a person from Africa, especially a black person. 
+	adjective relating to Africa or Africans.",rejected_hit
 49204,mturk_file_1.csv,777,fiction,"1	prose literature, especially novels, describing imaginary events and people. 
-2	a thing that is invented or untrue. a false belief or statement, accepted as true because it is expedient to do so.","original_cleaning,numbered_senses"
+2	a thing that is invented or untrue. a false belief or statement, accepted as true because it is expedient to do so.","original_cleaning,numbered_senses,rejected_hit"
 49205,mturk_file_1.csv,777,illegal,"adjective contrary to or forbidden by law. 
-	noun chiefly North American an illegal immigrant.",original_cleaning
+	noun chiefly North American an illegal immigrant.","original_cleaning,rejected_hit"
 49206,mturk_file_1.csv,777,white,"1	of the color of milk or fresh snow, due to the reflection of all visible rays of light. very pale. British (of coffee or tea) served with milk. (of food such as bread or rice) light in color through having been refined. 
 2	relating to or denoting a human group having light-colored skin, especially of European ancestry. 
-3	morally or spiritually pure.","original_cleaning,numbered_senses"
+3	morally or spiritually pure.","original_cleaning,numbered_senses,rejected_hit"
 49207,mturk_file_1.csv,777,trick,"1	a cunning or skilful act or scheme intended to deceive or outwit someone. a mischievous practical joke. a skilful act performed for entertainment. an illusion: a trick of the light. [as modifier] intended to mystify or create an illusion: a trick question. 
 2	a peculiar or characteristic habit or mannerism. 
-3	(in bridge, whist, etc.) a sequence of cards forming a single round of play.","original_cleaning,numbered_senses"
+3	(in bridge, whist, etc.) a sequence of cards forming a single round of play.","original_cleaning,numbered_senses,rejected_hit"
+49238,mturk_file_1.csv,780,africa,someone from Africa,rejected_hit
+49239,mturk_file_1.csv,780,fiction,a writer of children's fiction,rejected_hit
+49240,mturk_file_1.csv,780,illegal,Prostitution is illegal in some countries.,rejected_hit
+49241,mturk_file_1.csv,780,white,white bread,rejected_hit
+49242,mturk_file_1.csv,780,trick,It's a bit of trick  photography  - she's meant to look like she's walking on water.,rejected_hit
 49244,mturk_file_1.csv,864,fiction,An imaginative creation or a pretense that does not represent actuality but has been invented.,long_duplicate
 49258,mturk_file_1.csv,831,africa,the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean,long_duplicate
 49260,mturk_file_1.csv,831,illegal,prohibited by law or by official or accepted rules,long_duplicate
@@ -1068,32 +1149,49 @@ Example: This shirt is stained too much that I have to wash it right now.",origi
 49461,mturk_file_1.csv,945,turn,"change direction, chance, change of posture and sometimes position. 
 Example one: Its your turn to play. 
 Example two: Go straight and take a right, go on till the dead end, turn to the left, you will find the cyber center.",original_cleaning
-49497,mturk_file_1.csv,780,beef,The spaghetti sauce is made with  UK      minced / US      ground  beef.,original_cleaning
+49497,mturk_file_1.csv,780,beef,The spaghetti sauce is made with  UK      minced / US      ground  beef.,"original_cleaning,rejected_hit"
+49498,mturk_file_1.csv,780,dictionary,"To check how a word is spelt, look it up in a dictionary.",rejected_hit
+49499,mturk_file_1.csv,780,manners,Don't they teach you table manners at school?,rejected_hit
+49500,mturk_file_1.csv,780,stain,Tomato sauce stains terribly - it's really difficult to get it out of clothes.,rejected_hit
+49501,mturk_file_1.csv,780,turn,Turn the steering wheel as quickly as you can.,rejected_hit
 49582,mturk_file_1.csv,777,beef,"1	the flesh of a cow, bull, or ox, used as food. (plural beeves ) Farming a cow, bull, or ox fattened for its meat. 
 2	informal flesh with well-developed muscle. strength or power. the substance of a matter. 
-3	(plural beefs) informal a complaint or grievance.","original_cleaning,numbered_senses"
+3	(plural beefs) informal a complaint or grievance.","original_cleaning,numbered_senses,rejected_hit"
+49583,mturk_file_1.csv,777,dictionary,"noun (plural dictionaries) a book that lists the words of a language in alphabetical order and gives their meaning, or their equivalent in a different language.",rejected_hit
 49584,mturk_file_1.csv,777,manners,"1	a way in which something is done or happens. 
 2	a style in literature or art. 
 3	(manner of) chiefly literary a kind or sort. 
 4	a person's outward bearing or way of behaving towards others. 
-5	(manners) polite or well-bred social behavior. social behavior or habits.","original_cleaning,numbered_senses"
+5	(manners) polite or well-bred social behavior. social behavior or habits.","original_cleaning,numbered_senses,rejected_hit"
 49585,mturk_file_1.csv,777,stain,"1	mark or discolor with something that is not easily removed. 
 2	damage (someone's or something's reputation). 
-3	color with a penetrative dye or chemical.","original_cleaning,numbered_senses"
+3	color with a penetrative dye or chemical.","original_cleaning,numbered_senses,rejected_hit"
 49586,mturk_file_1.csv,777,turn,"1	move in a circular direction wholly or partly around an axis. twist or sprain (an ankle). 
-2	move into a different position, especially so as to face the opposite direction. change or cause to change direction. (of the tide) change from flood to ebb or vice avers. pass round (the flank or defensive lines of an army) so as to attack from the side or rear. archaic bend back (the edge of a blade) so as to make it blunt.","original_cleaning,numbered_senses"
+2	move into a different position, especially so as to face the opposite direction. change or cause to change direction. (of the tide) change from flood to ebb or vice avers. pass round (the flank or defensive lines of an army) so as to attack from the side or rear. archaic bend back (the edge of a blade) so as to make it blunt.","original_cleaning,numbered_senses,rejected_hit"
 49587,mturk_file_1.csv,811,beef,meat from a cow,original_cleaning
 49612,mturk_file_1.csv,808,beef,"Beef:is Beef recipes,Beef stroganoff,Rap beef,the flesh of a cow, steer, or bull raised and killed for its meat.",original_cleaning
 49652,mturk_file_1.csv,813,beef,"beef cattle, beef, kick, bitch, gripe, boeuf, squawk",long_duplicate
 49653,mturk_file_1.csv,813,dictionary,"mental lexicon, vocabulary, dictionary, lexicon",long_duplicate
 49654,mturk_file_1.csv,813,manners,"address, adroitness, discretion, manners, readiness, courtesy, ingenuity, politeness, tact, dexterity",long_duplicate
+49767,mturk_file_1.csv,777,asia,noun a strong-flavored cow's milk cheese made in northern Italy.,rejected_hit
 49768,mturk_file_1.csv,777,decay,"1	rot or cause to rot through the action of bacteria and fungi; decompose. decline in quality or vigor; deteriorate. 
-2	Physics (of a radioactive substance, particle, etc.) undergo change to a different form by emitting radiation.","original_cleaning,numbered_senses,semicolon_definition"
+2	Physics (of a radioactive substance, particle, etc.) undergo change to a different form by emitting radiation.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
+49769,mturk_file_1.csv,777,math,noun North American mathematics.,rejected_hit
 49770,mturk_file_1.csv,777,shop,"1	a building or part of a building where goods or services are sold. Ø an act of going shopping. 
-2	a place where things are manufactured or repaired; a workshop.","original_cleaning,numbered_senses"
-49812,mturk_file_1.csv,770,asia,"(Placename) the largest of the continents, bordering on the Arctic Ocean, the Pacific Ocean, the Indian Ocean, and the Mediterranean and Red Seas in the west. It includes the large peninsulas of Asia Minor, India, Arabia, and Indochina and the island groups of Japan, Indonesia, the Philippines, and Ceylon (Sri Lanka); contains the mountain ranges of the Hindu Kush, Himalayas, Pamirs, Tian Shan, Urals, and Caucasus, the great plateaus of India, Iran, and Tibet, vast plains and deserts, and the valleys of many large rivers including the Mekong, Irrawaddy, Indus, Ganges, Tigris, and Euphrates",very_long
+2	a place where things are manufactured or repaired; a workshop.","original_cleaning,numbered_senses,rejected_hit"
+49771,mturk_file_1.csv,777,suffocate,verb die or cause to die from lack of air or inability to breathe. have or cause to have difficulty in breathing.,rejected_hit
+49812,mturk_file_1.csv,770,asia,"(Placename) the largest of the continents, bordering on the Arctic Ocean, the Pacific Ocean, the Indian Ocean, and the Mediterranean and Red Seas in the west. It includes the large peninsulas of Asia Minor, India, Arabia, and Indochina and the island groups of Japan, Indonesia, the Philippines, and Ceylon (Sri Lanka); contains the mountain ranges of the Hindu Kush, Himalayas, Pamirs, Tian Shan, Urals, and Caucasus, the great plateaus of India, Iran, and Tibet, vast plains and deserts, and the valleys of many large rivers including the Mekong, Irrawaddy, Indus, Ganges, Tigris, and Euphrates","very_long,rejected_hit"
+49813,mturk_file_1.csv,770,decay,"Biology To break down into component parts,The destruction or decomposition of organic matter as a result of bacterial or fungal action",rejected_hit
+49814,mturk_file_1.csv,770,math,(Mathematics) US and Canadian informal short for mathematics Brit equivalent maths,rejected_hit
+49815,mturk_file_1.csv,770,shop,"A small retail store or a specialty department in a large store, A place for manufacturing or repairing goods or machinery",rejected_hit
+49816,mturk_file_1.csv,770,suffocate,"To kill or destroy by preventing access of air or oxygen,To impair the respiration of; asphyxiate",rejected_hit
+49917,mturk_file_1.csv,871,asia,"asia:
+The largest of the world's continents, constituting nearly one-third of the landmass, lying entirely north of the equator except for...",rejected_hit
+49918,mturk_file_1.csv,871,decay,decay:(of organic matter) Rot or decompose through the action of bacteria and fungi.,rejected_hit
+49919,mturk_file_1.csv,871,math,Math:mathematics: a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement,rejected_hit
 49920,mturk_file_1.csv,871,shop,"Shop:	
-A building or part of a building where goods or services are sold; a store.",long_duplicate
+A building or part of a building where goods or services are sold; a store.","rejected_hit,long_duplicate"
+49921,mturk_file_1.csv,871,suffocate,Suffocate: Die or cause to die from lack of air or inability to breathe.,rejected_hit
 49952,mturk_file_1.csv,817,asia,the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations,semicolon_definition
 49982,mturk_file_1.csv,813,asia,the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations,"semicolon_definition,long_duplicate"
 49983,mturk_file_1.csv,813,decay,"disintegration, fall, decay, downslope, descent, radioactive decay, decomposition, declension, decline, declivity, declination, diminution",long_duplicate
@@ -1109,6 +1207,9 @@ Example: I love Halloween because it gives me a chance to showcase my wackiness 
 Example: I kept asking my girlfriend not to misunderstand me, but she took me in the wrong sense and ditched me. :(",original_cleaning
 50120,mturk_file_1.csv,945,states,"Provinces in a country, when referring to a mind state, Shortly called states for United states of America, country divided in different territories, plural for state. 
 Example: There are 29 states in India and 8 union territories.",original_cleaning
+50161,mturk_file_1.csv,852,can't,"can, i can't this work",rejected_hit
+50162,mturk_file_1.csv,852,halloween,hallow,rejected_hit
+50163,mturk_file_1.csv,852,states,"this is a kerala state,",rejected_hit
 50195,mturk_file_1.csv,813,halloween,"Halloween, Hallowe'en, Allhallows Eve 
 the evening before All Saints' Day; often devoted to pranks played by young people",original_cleaning
 50215,mturk_file_1.csv,796,halloween,the night of 31 october when children dress in special clothes and people try to frighten each other,long_duplicate
@@ -1118,7 +1219,11 @@ the evening before All Saints' Day; often devoted to pranks played by young peop
 50339,mturk_file_1.csv,777,can't,"1	the first letter of the alphabet. 
 2	denoting the first, best, or most important in a set. 
 3	Music the sixth note of the diatonic scale of C major, having a standard frequency of 440 Hz. 
-4	the human blood type (in the ABO system) containing the A antigen and lacking the B.","original_cleaning,numbered_senses"
+4	the human blood type (in the ABO system) containing the A antigen and lacking the B.","original_cleaning,numbered_senses,rejected_hit"
+50340,mturk_file_1.csv,777,halloween,"noun the night of 31 October, the eve of All Saints' Day.",rejected_hit
+50341,mturk_file_1.csv,777,misunderstand,verb: (past and past participle misunderstood ) fail to understand correctly.,rejected_hit
+50342,mturk_file_1.csv,777,slut,noun: a slovenly or promiscuous woman.,rejected_hit
+50343,mturk_file_1.csv,777,states,noun: British a school funded and controlled by the state.,rejected_hit
 50360,mturk_file_1.csv,864,halloween,"Halloween is believed to have roots in the ancient Celtic festival of Samhain, marking the last days of autumn.
 The Halloween Deception",original_cleaning
 50389,mturk_file_1.csv,813,bat,"bat, cricket bat, chiropteran, squash racket, at-bat, squash racquet",original_cleaning
@@ -1126,25 +1231,33 @@ The Halloween Deception",original_cleaning
 fasten by sewing; do needlework",original_cleaning
 50393,mturk_file_1.csv,813,thaw,"thaw, melt, thawing, melting 
 the process whereby heat changes something from a solid to a liquid",original_cleaning
-50414,mturk_file_1.csv,831,bat,"Bat Mitzvah literally translates as ""daughter of commandment."" The word ""bat"" means ""daughter"" in Aramaic, which was the commonly spoken vernacular language of the Jewish people (and much of the Middle East) from around 500 B.C.E. to 400 C.E. The word ""mitzvah"" is Hebrew for ""commandment."" The term ""bat mitzvah"" refers to two things: it is used to describe a girl when she comes of age at 12-years-old and also refers to the religious ceremony in more liberal Jewish communities that accompanies a girl becoming a Bat Mitzvah. Often a celebratory party will follow the ceremony and that party is also called a bat mitzvah.","original_cleaning,very_long"
+50414,mturk_file_1.csv,831,bat,"Bat Mitzvah literally translates as ""daughter of commandment."" The word ""bat"" means ""daughter"" in Aramaic, which was the commonly spoken vernacular language of the Jewish people (and much of the Middle East) from around 500 B.C.E. to 400 C.E. The word ""mitzvah"" is Hebrew for ""commandment."" The term ""bat mitzvah"" refers to two things: it is used to describe a girl when she comes of age at 12-years-old and also refers to the religious ceremony in more liberal Jewish communities that accompanies a girl becoming a Bat Mitzvah. Often a celebratory party will follow the ceremony and that party is also called a bat mitzvah.","original_cleaning,very_long,rejected_hit"
+50415,mturk_file_1.csv,831,condom,"A condom is a device, usually made of latex, used to avoid pregnancy and/or sexually transmitted diseases such as gonorrhea, syphilis, and human immunodeficiency virus (HIV). Condoms are also known as prophylactics, as well as the popular slang term ""rubbers."" There are male and female versions of condoms.",rejected_hit
 50416,mturk_file_1.csv,831,major,"greater in size, extent, or amount
-a commissioned military officer ranking below a lieutenant colonel and above a captain.",original_cleaning
+a commissioned military officer ranking below a lieutenant colonel and above a captain.","original_cleaning,rejected_hit"
+50417,mturk_file_1.csv,831,sew,"Sew - to fasten, attach or join (pieces of cloth or other materials) by usign a thread repeatedly inserted by a needle and drawn tight",rejected_hit
+50418,mturk_file_1.csv,831,thaw,to pass or change from a frozen to a liquid or semiliquid state; melt,rejected_hit
 50419,mturk_file_1.csv,878,bat,"Bat - it can be a thing made from wood or plastic ( Playing bat like cricket bat or badminton bat),  a bird most probably seen in the night",original_cleaning
 50424,mturk_file_1.csv,799,bat,wood,original_cleaning
 50454,mturk_file_1.csv,777,bat,"1	an implement with a handle and a solid surface, used in sports such as cricket or baseball for hitting the ball. 
-2	a slab on which pottery is formed, dried, or fired.","original_cleaning,numbered_senses"
+2	a slab on which pottery is formed, dried, or fired.","original_cleaning,numbered_senses,rejected_hit"
+50455,mturk_file_1.csv,777,condom,noun a thin rubber sheath worn on the penis during sexual intercourse as a contraceptive or to protect against infection.,rejected_hit
 50456,mturk_file_1.csv,777,major,"1	important, serious, or significant. greater or more important; main. 
-2	Music (of a scale) having intervals of a semitone between the third and fourth, and seventh and eighth degrees. Contrasted with minor. (of an interval) equivalent to that between the tonic and another note of a major scale, and greater by a semitone than the corresponding minor interval. [post positive] (of a key) based on a major scale: Prelude in G Major.","original_cleaning,numbered_senses"
+2	Music (of a scale) having intervals of a semitone between the third and fourth, and seventh and eighth degrees. Contrasted with minor. (of an interval) equivalent to that between the tonic and another note of a major scale, and greater by a semitone than the corresponding minor interval. [post positive] (of a key) based on a major scale: Prelude in G Major.","original_cleaning,numbered_senses,rejected_hit"
 50457,mturk_file_1.csv,777,sew,"1	join, fasten, or repair by making stitches with a needle and thread or a sewing machine. 
-2	(sew something up) informal bring something to a favorable state or conclusion.","original_cleaning,numbered_senses"
+2	(sew something up) informal bring something to a favorable state or conclusion.","original_cleaning,numbered_senses,rejected_hit"
 50458,mturk_file_1.csv,777,thaw,"1	(of ice, snow, or a frozen thing) become liquid or soft as a result of warming up. (it thaws, it is thawing, etc.) the weather becomes warmer and causes snow and ice to melt. cause to thaw. 
 2	(of a part of the body) become warm enough to stop feeling numb. 
-3	make or become friendlier or more cordial.","original_cleaning,numbered_senses"
+3	make or become friendlier or more cordial.","original_cleaning,numbered_senses,rejected_hit"
 50459,mturk_file_1.csv,843,bat,a cricket material made of wood to smash the ball,original_cleaning
 50464,mturk_file_1.csv,883,bat,fly in night.,original_cleaning
 50469,mturk_file_1.csv,972,bat,"1. Nocturnal animal that lives in caves.
 2. To hit something, to knock it out of the way.
-3. Long, slender object used to hit something out of the way (i.e. ball, as in baseball)","original_cleaning,numbered_senses"
+3. Long, slender object used to hit something out of the way (i.e. ball, as in baseball)","original_cleaning,numbered_senses,rejected_hit"
+50470,mturk_file_1.csv,972,condom,"A thin device used as a blockade, typically used on the male genitalia to prevent sperm from entering the female vagina",rejected_hit
+50471,mturk_file_1.csv,972,major,"The main thing, the biggest item, not small",rejected_hit
+50472,mturk_file_1.csv,972,sew,"To use needle and thread to attach two items together, stitching",rejected_hit
+50473,mturk_file_1.csv,972,thaw,"Melting, leaving a frozen item at room temperature, applying heat to a frozen item, sudden appearance of sun after many days of snow and ice",rejected_hit
 50474,mturk_file_1.csv,770,bat,"A stout wooden stick,A blow, such as one delivered with a stick.",original_cleaning
 50477,mturk_file_1.csv,770,sew,"To make, repair, or fasten by stitching, as with a needle and thread or a sewing machine",long_duplicate
 50499,mturk_file_1.csv,803,bat,"Bat: An implement with a handle and a solid surface, usually of wood, used for hitting the ball in games such as baseball, cricket, and table...",original_cleaning
@@ -1165,22 +1278,39 @@ A thin rubber sheath worn on a man's penis during sexual intercourse as a contra
 
 
 Read more: http://www.answers.com/topic/true#ixzz1fpOzCthv",web_text
+50866,mturk_file_1.csv,780,center,US   for   centre,rejected_hit
+50867,mturk_file_1.csv,780,frankenstein,something that destroys or harms the person or people who created it,rejected_hit
 50868,mturk_file_1.csv,780,irritating,"making you feel annoyed 
-  an irritating habit",original_cleaning
+  an irritating habit","original_cleaning,rejected_hit"
+50869,mturk_file_1.csv,780,record,"I tried to phone her, but all I got was a recorded message saying that she was away for the weekend.",rejected_hit
+50870,mturk_file_1.csv,780,true,I don't believe these exam results are a true  reflection  of your abilities.,rejected_hit
 50911,mturk_file_1.csv,823,center,"affection, warmness, affectionateness, substance, center of attention, center field, philia, plaza, meat, centre, center, tenderness, snapper, core, marrow, sum, fondness, nerve, ticker, nerve center, shopping center, midsection, optic, midriff, kernel, nitty-gritty, spirit,",original_cleaning
 50952,mturk_file_1.csv,813,frankenstein,an agency that escapes control and destroys its creator,long_duplicate
 50955,mturk_file_1.csv,813,true,"on-key, truthful, true(a), dependable, true(p), rightful(a), dead on target, honest, genuine, lawful, unfeigned, straight, reliable",original_cleaning
+50991,mturk_file_1.csv,831,center,"It means from the centre of one object to the centre of another. For instance, wall studs are usually 16 inches on centre. So, from the centre of one stud to the centre of the next stud it is 16 inches",rejected_hit
 50992,mturk_file_1.csv,831,frankenstein,"Frankenstein; or, The Modern Prometheus is a novel written by Mary Shelley about an experiment that produces a monster.an agency that escapes control and destroys its creator
 2. the monster created by Frankenstein in a gothic novel by Mary Wollstonecraft Shelley (the creator's name is commonly used to refer to his creation)
-3. the fictional Swiss scientist who was the protagonist in a gothic novel by Mary Wollstonecraft Shelley; he created a monster from parts of corpses","original_cleaning,semicolon_definition"
+3. the fictional Swiss scientist who was the protagonist in a gothic novel by Mary Wollstonecraft Shelley; he created a monster from parts of corpses","original_cleaning,semicolon_definition,rejected_hit"
+50993,mturk_file_1.csv,831,irritating,o rouse to impatience or anger; annoy: a loud bossy voice that irritates listeners. See Synonyms at annoy.,rejected_hit
+50994,mturk_file_1.csv,831,record,"The record means that you are stating something, re-stating something, and it is so TRUE that it could be documented and RECORDED. And once stated, should not be asked again to repeat.",rejected_hit
 50995,mturk_file_1.csv,831,true,"Real; genuine. See Synonyms at authentic.
-3. Reliable; accurate",original_cleaning
+3. Reliable; accurate","original_cleaning,rejected_hit"
+51006,mturk_file_1.csv,780,artist,"someone who paints, draws or makes sculptures 
+    Monet is one of my favourite artists.",rejected_hit
 51007,mturk_file_1.csv,780,death,"he disease causes thousands of deaths a year.   
-  Do you believe in life after death?",original_cleaning
+  Do you believe in life after death?","original_cleaning,rejected_hit"
+51008,mturk_file_1.csv,780,laugh,I laughed  till  I  cried .,rejected_hit
+51009,mturk_file_1.csv,780,poem,The poet recited some of her recent poems.,rejected_hit
+51010,mturk_file_1.csv,780,stare,"Don't stare  at  people like that, it's rude.",rejected_hit
 51073,mturk_file_1.csv,987,laugh,"To express certain emotions, especially mirth or delight, by a series of spontaneous, usually unarticulated sounds often accompanied by corresponding facial and bodily movements",long_duplicate
 51074,mturk_file_1.csv,987,poem,"It is the thesis of the great psychoanalyst Victor Frankl that man can endure any hardship as long as he can find meaning in the experience. Incidentally, as a survivor of Nazi Concentration Camps he was in a position to know. Thankfully, most of us are not tested in such extreme conditions. However, the principle is the same. Human beings cannot live without meaning. Depression is the natural outcome of living a life that is bereft of purpose.
 
 It is the thesis of the great psychoanalyst Victor Frankl that man can endure any hardship as long as he can find meaning in the experience. Incidentally, as a survivor of Nazi Concentration Camps he was in a position to know. Thankfully, most of us are not tested in such extreme conditions. However, the principle is the same. Human beings cannot live without meaning. Depression is the natural outcome of living a life that is bereft of purpose.","original_cleaning,very_long"
+51101,mturk_file_1.csv,827,artist,This article is about the general concept of Art. For the categories of different artistic disciplines see The arts.,rejected_hit
+51102,mturk_file_1.csv,827,death,Death is the permanent termination of the biological functions that sustain a living organism.,rejected_hit
+51103,mturk_file_1.csv,827,laugh,"Laughing is a reaction to certain stimuli, fundamentally stress and which serves as an emotional balancing mechanism.",rejected_hit
+51104,mturk_file_1.csv,827,poem,Poem a making or forming or creating or the art of poetry is a form of literary art in which language is used for its aesthetic.,rejected_hit
+51105,mturk_file_1.csv,827,stare,to look fixedly often with wide-open eyes,rejected_hit
 51202,mturk_file_1.csv,853,death,"death is an act of passing away,the end of life,dying,loss of life,departure,brain death,expiration,failure of vital functions,darkness,failing,
 caused to be killed.",original_cleaning
 51217,mturk_file_1.csv,831,death,". The act of dying; termination of life.
@@ -1193,28 +1323,30 @@ caused to be killed.",original_cleaning
 
  express happiness, jest, cheerful, to show happiness by peculiar movement of the muscles of the face",original_cleaning
 51281,mturk_file_1.csv,777,artist,"1	a person who creates paintings or drawings as a profession or hobby. a person who practices or performs any of the creative arts. 
-2	informal a habitual practitioner of a specified activity: a con artist.","original_cleaning,numbered_senses"
+2	informal a habitual practitioner of a specified activity: a con artist.","original_cleaning,numbered_senses,rejected_hit"
 51282,mturk_file_1.csv,777,death,"1	the action or fact of dying or being killed. an instance of a person or an animal dying. 
 2	the state of being dead. (Death) the personification of the power that destroys life, often represented as a skeleton or an old man holding a scythe. 
-3	the destruction or end of something: the death of her hopes.","original_cleaning,numbered_senses"
+3	the destruction or end of something: the death of her hopes.","original_cleaning,numbered_senses,rejected_hit"
 51283,mturk_file_1.csv,777,laugh,"1	make the sounds and movements that express lively amusement and sometimes also derision. (laugh at) ridicule; scorn. 
 2	(laugh something off) dismiss something by treating it in a light-heated way. 
-3	(be laughing) informal be in a fortunate or successful position.","original_cleaning,numbered_senses"
+3	(be laughing) informal be in a fortunate or successful position.","original_cleaning,numbered_senses,rejected_hit"
+51284,mturk_file_1.csv,777,poem,"noun a literary composition that is given intensity by particular attention to diction (sometimes involving rhyme), rhythm, and imagery.",rejected_hit
 51285,mturk_file_1.csv,777,stare,"1	look fixedly at someone or something with the eyes wide open. (stare someone out/down) look fixedly at someone until they feel forced to look away. 
 2	be unpleasantly prominent or striking. 
-	noun an act of staring.","original_cleaning,numbered_senses"
+	noun an act of staring.","original_cleaning,numbered_senses,rejected_hit"
 51366,mturk_file_1.csv,777,calm,"1	not showing or feeling nervousness, anger, or other emotions. 
-2	(of a place) peaceful and undisturbed. (of weather or the sea) free from wind.","original_cleaning,numbered_senses"
+2	(of a place) peaceful and undisturbed. (of weather or the sea) free from wind.","original_cleaning,numbered_senses,rejected_hit"
+51367,mturk_file_1.csv,777,forgive,verb (past forgave; past participle forgiven) stop feeling angry or resentful towards (someone) for an offense or mistake. Excuse (an offense or mistake).,rejected_hit
 51368,mturk_file_1.csv,777,maid,"1	a female domestic servant. 
-2	archaic a girl or young woman. a virgin.","original_cleaning,numbered_senses"
+2	archaic a girl or young woman. a virgin.","original_cleaning,numbered_senses,rejected_hit"
 51369,mturk_file_1.csv,777,public,"1	of, concerning, or open to the people as a whole. involved in the affairs of the community, especially in government or entertainment: a public figure. 
 2	done, perceived, or existing in open view. 
-3	of or provided by the state rather than an independent commercial","original_cleaning,numbered_senses"
+3	of or provided by the state rather than an independent commercial","original_cleaning,numbered_senses,rejected_hit"
 51370,mturk_file_1.csv,777,stamp,"1	bring down (one's foot) heavily on the ground or an object. crush, flatten, or remove with a heavy blow from one's foot. crush or pulverize (ore). 
 2	walk with heavy, forceful steps. 
 3	(stamp something out) suppress or put an end to something. 
 4	impress a pattern or mark on with a stamp. impress (a pattern or mark). cut out using a die or mold. 
-5	fix a postage stamp to.","original_cleaning,numbered_senses"
+5	fix a postage stamp to.","original_cleaning,numbered_senses,rejected_hit"
 51383,mturk_file_1.csv,996,maid,"modern meaning: a person, often female but not always, who cleans homes or hotels, though generally not other buildings - people who clean office buildings, schools, etc, are generally called janitors or cleaning staff rather than maids.
 archaic meaning: synonym for virginal woman
 also survives in a few terms such as ""meter maid"" - a woman who checks parking meters and gives tickets to cars with expired meters",original_cleaning
@@ -1223,17 +1355,26 @@ adjective: available to, run by, or referring to the people as a whole - for exa
 51385,mturk_file_1.csv,996,stamp,"postal stamp: a small piece of paper, often highly decorated, put on envelopes and other mailed items to indicate that the proper postage fees have been paid
 non-postal stamp: a small item with a carving or relief on one surface, which is dipped in ink and pressed against paper to leave a distinctive mark, for decorative or official purposes
 verb: to make a mark with an abject as described above, or to figuratively affect some object or situation in a distinctive manner","original_cleaning,pos_tag"
+51391,mturk_file_1.csv,780,calm,"Now  keep  calm everyone, the police are on their way.",rejected_hit
+51392,mturk_file_1.csv,780,forgive,I don't think she's ever quite forgiven me  for  getting her name wrong that time.,rejected_hit
+51393,mturk_file_1.csv,780,maid,"In the beach resort, the apartments and villas have daily maid  service .",rejected_hit
+51394,mturk_file_1.csv,780,public,"relating to or involving people in general, rather than being limited to a particular group of people",rejected_hit
+51395,mturk_file_1.csv,780,stamp,I stuck a 50p stamp on the envelope.,rejected_hit
 51446,mturk_file_1.csv,823,calm,"equanimity, calm air, calm, calmness, composure",long_duplicate
 51448,mturk_file_1.csv,823,maid,"maiden, wet-nurse, maid, housemaid, amah, maidservant, wet nurse, wetnurse",long_duplicate
 51449,mturk_file_1.csv,823,public,"reality, world, humankind, public, human race, earthly concern, man, cosmos, globe, creation, macrocosm, universe, worldly concern, populace, humanity, human beings, mankind, existence, humans, earth, domain",long_duplicate
 51465,mturk_file_1.csv,831,calm,"Nearly or completely motionless; undisturbed: the calm surface of the lake.
-2. Not excited or agitated; composed",original_cleaning
+2. Not excited or agitated; composed","original_cleaning,rejected_hit"
 51466,mturk_file_1.csv,831,forgive,". To excuse for a fault or an offense; pardon.
 2. To renounce anger or resentment against.
 3. To absolve from payment of
-To accord forgiveness.",original_cleaning
+To accord forgiveness.","original_cleaning,rejected_hit"
 51467,mturk_file_1.csv,831,maid,".  maid, maidservant, housemaid, amah 
-a female domestic",original_cleaning
+a female domestic","original_cleaning,rejected_hit"
+51468,mturk_file_1.csv,831,public,"done, made, acting, etc., for the community as a whole:",rejected_hit
+51469,mturk_file_1.csv,831,stamp,"a token that postal fees have been paid
+2. the distinctive form in which a thing is made
+3. a type or class",rejected_hit
 51485,mturk_file_1.csv,808,calm,"Calm:Calm down,Staying calm,Natural calm,Stay calm tips,Opposite of calm",original_cleaning
 51488,mturk_file_1.csv,808,public,"Public:Public invasion,Public records,Public enemies,Public bank,Public storage
 Public relations",original_cleaning
@@ -1249,17 +1390,18 @@ b. A body of water controlled by such a barrier.",original_cleaning
 51648,mturk_file_1.csv,831,off,"3.
 away from a place: to run off; to look off toward the west.",original_cleaning
 51660,mturk_file_1.csv,777,anger,"noun a strong feeling of annoyance, displeasure, or hostility. 
-	verb provoke anger in (someone).",original_cleaning
+	verb provoke anger in (someone).","original_cleaning,rejected_hit"
+51661,mturk_file_1.csv,777,dam,"a barrier constructed to hold back water and raise its level, forming a reservoir or preventing flooding. a barrier of branches in a stream, constructed by a beaver to provide a deep pool and a lodge.",rejected_hit
 51662,mturk_file_1.csv,777,id,"1	Idaho (in official postal use). 
-2	identification or identity.","original_cleaning,numbered_senses"
+2	identification or identity.","original_cleaning,numbered_senses,rejected_hit"
 51663,mturk_file_1.csv,777,off,"1	away from the place in question. 
 2	so as to be removed or separated. 
 3	starting a journey or race. 
 4	so as to bring to an end or be discontinued. 
-5	(of an electrical appliance or power supply) not functioning or so as to cease to function.","original_cleaning,numbered_senses"
+5	(of an electrical appliance or power supply) not functioning or so as to cease to function.","original_cleaning,numbered_senses,rejected_hit"
 51664,mturk_file_1.csv,777,web,"1	a network of fine threads constructed by a spider from fluid secreted by its spinnerets, used to catch its prey. 
 2	a complex system of interconnected elements. (the Web) the World Wide Web. 
-3	a membrane between the toes of a swimming bird or other aquatic animal.","original_cleaning,numbered_senses"
+3	a membrane between the toes of a swimming bird or other aquatic animal.","original_cleaning,numbered_senses,rejected_hit"
 51695,mturk_file_1.csv,942,anger,A strong feeling of displeasure or hostility,long_duplicate
 51769,mturk_file_1.csv,806,web,something formed by or as if by weaving or interweaving,long_duplicate
 51805,mturk_file_1.csv,769,anger,a strong feeling of displeasure aroused by a wrong; wrath; ire; pain or smart; as of a sore; Obsolete . grief; trouble.,original_cleaning
@@ -1280,15 +1422,22 @@ a state in the Rocky Mountains",original_cleaning
 51880,mturk_file_1.csv,807,anger,"emotion,hatred,negative emotion",original_cleaning
 51885,mturk_file_1.csv,854,anger,"Hot displeasure, extreme or passionate displeasure, rage, fury, range, piqué , antagonism, irritation, outrage, vexation, painful, show feeling in rage",original_cleaning
 51912,mturk_file_1.csv,864,id,a card or badge used to identify the bearer,long_duplicate
+51920,mturk_file_1.csv,776,anger,gussa,rejected_hit
+51921,mturk_file_1.csv,776,dam,mad,rejected_hit
+51922,mturk_file_1.csv,776,id,identification,rejected_hit
+51923,mturk_file_1.csv,776,off,opposite to on,rejected_hit
+51924,mturk_file_1.csv,776,web,internet,rejected_hit
 51945,mturk_file_1.csv,777,beach,"noun: a pebbly or sandy shore at the edge of the sea or a lake. 
-	verb: bring on to a beach from the water. (with reference to a whale) become or cause to become stranded on a beach.","original_cleaning,pos_tag"
+	verb: bring on to a beach from the water. (with reference to a whale) become or cause to become stranded on a beach.","original_cleaning,pos_tag,rejected_hit"
+51946,mturk_file_1.csv,777,women,women plural form of woman.,rejected_hit
 51947,mturk_file_1.csv,777,important,"1	of great significance or value. 
-2	having high rank or status.","original_cleaning,numbered_senses"
+2	having high rank or status.","original_cleaning,numbered_senses,rejected_hit"
 51948,mturk_file_1.csv,777,period,"1	a length or portion of time. a major division of geological time that is a subdivision of an era and is itself subdivided into epochs. 
 2	each of the set divisions of the day in a school. 
 3	(also menstrual period) a monthly flow of blood and other material from the lining of the uterus, occurring in women of childbearing age when not pregnant. 
 4	North American a full stop. 
-5	Physics the interval of time between successive occurrences of the same state in an oscillatory or cyclic phenomenon.","original_cleaning,very_long,numbered_senses"
+5	Physics the interval of time between successive occurrences of the same state in an oscillatory or cyclic phenomenon.","original_cleaning,very_long,numbered_senses,rejected_hit"
+51949,mturk_file_1.csv,777,tears,"noun a page that can be removed from a magazine, book, etc. for use separately.",rejected_hit
 51950,mturk_file_1.csv,823,beach,"bank, beach, bound, brink, edge, margin, shore, border, brim, coast, marge, rim, strand",original_cleaning
 51999,mturk_file_1.csv,808,beach,"Beach:is Beach wallpapers,Orient beach,Tropical beach,Florida beaches,Beach scenes,Myrtle beach",original_cleaning
 52019,mturk_file_1.csv,801,beach,"consist of sand , shore and water:ocean , sea, large river",original_cleaning
@@ -1297,29 +1446,39 @@ a state in the Rocky Mountains",original_cleaning
 52193,mturk_file_1.csv,787,tears,this fluid appearing in or flowing from the eye,original_cleaning
 52199,mturk_file_1.csv,813,beach,an area of sand sloping down to the water of a sea or lake,long_duplicate
 52299,mturk_file_1.csv,769,builder,"noun 
-a person who builds; a person who constructs buildings under contract or as a speculation; a substance, as an abrasive or filler, added to soaps or other cleaning agents to increase their effectiveness; a person who builds, esp one who contracts for and supervises the construction or repair of buildings; a substance added to a soap or detergent as a filler or abrasive","original_cleaning,semicolon_definition"
-52302,mturk_file_1.csv,769,picture,"a visual representation of a person, object, or scene, as a painting, drawing, photograph, etc.: I carry a picture of my grandchild in my wallet; any visible image, however produced: pictures reflected in a pool of water; a mental image: a clear picture of how he had looked that day; a particular image or reality as portrayed in an account or description; depiction; version; a tableau, as in theatrical representation.",semicolon_definition
-52303,mturk_file_1.csv,769,weak,"not strong; liable to yield, break, or collapse under pressure or strain; fragile; frail: a weak fortress; a weak spot in armor; lacking in bodily strength or healthy vigor; as from age or sickness; feeble; infirm: a weak old man; weak eyes; not having much political strength, governing power, or authority: a weak nation; a weak ruler; lacking in force, potency, or efficacy; impotent, ineffectual, or inadequate: weak sunlight; a weak wind; cking in rhetorical or creative force or effectiveness: a weak reply to the charges; one of the author's weakest novels.",very_long
+a person who builds; a person who constructs buildings under contract or as a speculation; a substance, as an abrasive or filler, added to soaps or other cleaning agents to increase their effectiveness; a person who builds, esp one who contracts for and supervises the construction or repair of buildings; a substance added to a soap or detergent as a filler or abrasive","original_cleaning,semicolon_definition,rejected_hit"
+52300,mturk_file_1.csv,769,fad,"a temporary fashion, notion, manner of conduct, etc., especially one followed enthusiastically by a group, an intense but short-lived fashion; craze, a personal idiosyncrasy or whim.",rejected_hit
+52301,mturk_file_1.csv,769,loving,"feeling or showing love; warmly affectionate; fond: loving glances. feeling, showing, or indicating love and affection; sexual passion or desire.",rejected_hit
+52302,mturk_file_1.csv,769,picture,"a visual representation of a person, object, or scene, as a painting, drawing, photograph, etc.: I carry a picture of my grandchild in my wallet; any visible image, however produced: pictures reflected in a pool of water; a mental image: a clear picture of how he had looked that day; a particular image or reality as portrayed in an account or description; depiction; version; a tableau, as in theatrical representation.","semicolon_definition,rejected_hit"
+52303,mturk_file_1.csv,769,weak,"not strong; liable to yield, break, or collapse under pressure or strain; fragile; frail: a weak fortress; a weak spot in armor; lacking in bodily strength or healthy vigor; as from age or sickness; feeble; infirm: a weak old man; weak eyes; not having much political strength, governing power, or authority: a weak nation; a weak ruler; lacking in force, potency, or efficacy; impotent, ineffectual, or inadequate: weak sunlight; a weak wind; cking in rhetorical or creative force or effectiveness: a weak reply to the charges; one of the author's weakest novels.","very_long,rejected_hit"
+52334,mturk_file_1.csv,780,builder,a person whose job it is to make buildings,rejected_hit
+52335,mturk_file_1.csv,780,fad,There was a fad  for  wearing ripped jeans a few years ago.,rejected_hit
+52336,mturk_file_1.csv,780,loving,He's a very loving child.,rejected_hit
+52337,mturk_file_1.csv,780,picture,We can't get a clear picture.,rejected_hit
+52338,mturk_file_1.csv,780,weak,He gave the weakest of excuses when asked why he was late.,rejected_hit
 52370,mturk_file_1.csv,822,fad,A fad is something that people are interested in for a short period of time,long_duplicate
 52372,mturk_file_1.csv,822,picture,"A picture is a photo, drawing, painting or other image captured of a person, thing or scene",long_duplicate
 52389,mturk_file_1.csv,777,builder,"verb (past and past participle built) 
 1	construct by putting parts or materials together. (build something in/into) incorporate something as a permanent part of. 
-2	increase in size or intensity over time. (build on) use as a basis for further development.","original_cleaning,numbered_senses"
+2	increase in size or intensity over time. (build on) use as a basis for further development.","original_cleaning,numbered_senses,rejected_hit"
 52390,mturk_file_1.csv,777,fad,"1	a craze. 
-2	an arbitrary like or dislike.",original_cleaning
+2	an arbitrary like or dislike.","original_cleaning,rejected_hit"
+52391,mturk_file_1.csv,777,loving,adjective feeling or showing love or great care. [in combination] (-loving) enjoying the specified thing: a fun-loving girl.,rejected_hit
 52392,mturk_file_1.csv,777,picture,"1	a painting, drawing, or photograph. a portrait. an image on a television screen. 
-2	an impression formed from an account or description: a full picture of the disaster had not yet emerged. (often in phrase in (or out of) the picture) informal a state of being fully informed about or involved in something.","original_cleaning,numbered_senses"
+2	an impression formed from an account or description: a full picture of the disaster had not yet emerged. (often in phrase in (or out of) the picture) informal a state of being fully informed about or involved in something.","original_cleaning,numbered_senses,rejected_hit"
 52393,mturk_file_1.csv,777,weak,"1	lacking physical strength and energy. 
 2	liable to break or give way under pressure. not convincing or forceful. not secure, stable, or firmly established. (of prices or a market) having a downward tendency. 
-3	lacking power, influence, or ability. lacking intensity. (of a liquid or solution) heavily diluted. (of features) not strongly marked. (of a syllable) unstressed.","original_cleaning,numbered_senses"
+3	lacking power, influence, or ability. lacking intensity. (of a liquid or solution) heavily diluted. (of features) not strongly marked. (of a syllable) unstressed.","original_cleaning,numbered_senses,rejected_hit"
 52394,mturk_file_1.csv,831,builder,"One that builds, especially a person who contracts for and supervises the construction of a building.
-2. An abrasive or filler used in a soap or detergent.",original_cleaning
+2. An abrasive or filler used in a soap or detergent.","original_cleaning,rejected_hit"
+52395,mturk_file_1.csv,831,fad,A fashion that is taken up with great enthusiasm for a brief period of time; a craze.,rejected_hit
 52396,mturk_file_1.csv,831,loving,"Expressing love or kindness; as, loving words.
- Affectionate.",original_cleaning
+ Affectionate.","original_cleaning,rejected_hit"
+52397,mturk_file_1.csv,831,picture,". A visual representation or image painted, drawn, photographed, or otherwise rendered on a flat surface",rejected_hit
 52398,mturk_file_1.csv,831,weak,"Lacking physical strength, energy, or vigor; feeble.
 2. Likely to fail under pressure, stress, or strain; lacking resistance: a weak link in a chain.
 3. Lacking firmness of character or strength of will.
-4. Lacking the proper strength or amount of ingredients","original_cleaning,semicolon_definition"
+4. Lacking the proper strength or amount of ingredients","original_cleaning,semicolon_definition,rejected_hit"
 52434,mturk_file_1.csv,813,builder,"builder, detergent builder 
 a substance added to soaps or detergents to increase their cleansing action",original_cleaning
 52435,mturk_file_1.csv,813,fad,"fad, craze, furor, furore, cult, rage 
@@ -1356,27 +1515,37 @@ Bill (disambiguation)
 Billie (disambiguation)
 Bili (disambiguation)
 Will (disambiguation)
-William (disambiguation)",original_cleaning
-52685,mturk_file_2.csv,808,days,"Days:is A day is a unit of time, commonly defined as an interval equal to 24 hours.[1] It also can mean that portion of the full day during which a location is illuminated by the light of the sun. The period of time measured from local noon to the following local noon is called a solar day.",web_text
+William (disambiguation)","original_cleaning,rejected_hit"
+52685,mturk_file_2.csv,808,days,"Days:is A day is a unit of time, commonly defined as an interval equal to 24 hours.[1] It also can mean that portion of the full day during which a location is illuminated by the light of the sun. The period of time measured from local noon to the following local noon is called a solar day.","web_text,rejected_hit"
+52686,mturk_file_2.csv,808,mixture,"Mixture:Mixtures are the product of a mechanical blending or mixing of chemical substances like elements and compounds, without chemical bonding or other chemical change, so that each ingredient substance retains its own chemical properties and makeup",rejected_hit
 52687,mturk_file_2.csv,808,store,"Store: is a retail store,
 a place where things are stored, e.g. a ship's paint store
 expendables released from an aircraft, such as ordnance or countermeasures
-Štore, a town and a municipality in eastern Slovenia",original_cleaning
+Štore, a town and a municipality in eastern Slovenia","original_cleaning,rejected_hit"
+52688,mturk_file_2.csv,808,music,"Music:Music is an art form whose medium is sound and silence. Its common elements are pitch, rhythm ,dynamics, and the sonic qualities of timbre and texture.",rejected_hit
 52694,mturk_file_2.csv,864,billy,"meaning of the name billy ""Will, desire + helmet, protection""",original_cleaning
-52744,mturk_file_2.csv,777,billy,"noun: (plural billies) British a tin or enamel cooking pot with a lid and folding handle, used in camping.","original_cleaning,pos_tag"
+52744,mturk_file_2.csv,777,billy,"noun: (plural billies) British a tin or enamel cooking pot with a lid and folding handle, used in camping.","original_cleaning,pos_tag,rejected_hit"
+52745,mturk_file_2.csv,777,days,noun: British a small rucksack.,rejected_hit
+52746,mturk_file_2.csv,777,mixture,noun a substance made by mixing other substances together. the process of mixing or being mixed. (a mixture of) a combination of different things in which the components are individually distinct. the charge of gas or vapor mixed with air admitted to the cylinder of an internal-combustion engine.,rejected_hit
+52747,mturk_file_2.csv,777,store,"a quantity or supply kept for use as needed. (stores) supplies of equipment and food kept for use by members of an army, navy, or other institution.",rejected_hit
 52748,mturk_file_2.csv,777,music,"1	the art or science of combining vocal or instrumental sounds (or both) to produce beauty of form, harmony, and expression of emotion. the sound so produced. 
-2	the written or printed signs representing vocal or instrumental sound.","original_cleaning,numbered_senses"
-52830,mturk_file_2.csv,831,frame,"Full frame means the body has a sensor which is 35mm wide, the same width as a 35mm film negative which is rectangular. It's wider than shots from a sensor that is more square, called cropped sensors or cropped cameras and thus gives you a full frame rather than a cropped frame. The cropped cameras also change the focal lengths of the lenses you put on them, generally by a multiple of 1.6. That means more reach by almost twice, a factor in shooting wildlife, and many of those photographers prefer a cropped frame.",very_long
+2	the written or printed signs representing vocal or instrumental sound.","original_cleaning,numbered_senses,rejected_hit"
+52829,mturk_file_2.csv,831,cleaner,"A cleaner is a type of industrial or domestic worker who cleans homes or offices for payment. Unlike other servants, their primary task is cleaning.",rejected_hit
+52830,mturk_file_2.csv,831,frame,"Full frame means the body has a sensor which is 35mm wide, the same width as a 35mm film negative which is rectangular. It's wider than shots from a sensor that is more square, called cropped sensors or cropped cameras and thus gives you a full frame rather than a cropped frame. The cropped cameras also change the focal lengths of the lenses you put on them, generally by a multiple of 1.6. That means more reach by almost twice, a factor in shooting wildlife, and many of those photographers prefer a cropped frame.","very_long,rejected_hit"
 52831,mturk_file_2.csv,831,killer,"explanations in your case:
-1. It means your being nasty and mean with your words. In other words you are hurting her.",original_cleaning
+1. It means your being nasty and mean with your words. In other words you are hurting her.","original_cleaning,rejected_hit"
+52832,mturk_file_2.csv,831,stress,the action on a body of any system of balanced forces whereby strain or deformation results.,rejected_hit
 52833,mturk_file_2.csv,831,poetry,"Poetry is a way of communicating and expressing feelings, emotions and insights in a compact, concentrated manner.
-The use of similies, metaphors and other literary devices only make the poem more interesting and lovelier to the ear.",original_cleaning
+The use of similies, metaphors and other literary devices only make the poem more interesting and lovelier to the ear.","original_cleaning,rejected_hit"
+52854,mturk_file_2.csv,777,cleaner,noun a person or thing that cleans. (the cleaners) a shop where clothes and fabrics are dry-cleaned.,rejected_hit
+52855,mturk_file_2.csv,777,frame,"a rigid structure surrounding a picture, door, etc. (frames) a metal or plastic structure holding the lenses of a pair of glasses. the rigid supporting structure of a vehicle, aircraft, or other object. a box-like structure of glass or plastic in which seeds or young plants are grown.",rejected_hit
 52856,mturk_file_2.csv,777,killer,"1	a person or thing that kills. 
 2	informal a formidable person or thing. 
-3	informal a hilarious joke.","original_cleaning,numbered_senses"
+3	informal a hilarious joke.","original_cleaning,numbered_senses,rejected_hit"
 52857,mturk_file_2.csv,777,stress,"1	pressure or tension exerted on a material object. Physics the magnitude of this measured in units of force per unit area. 
 2	a state of mental, emotional, or other strain. 
-3	particular emphasis. emphasis given to a syllable or word in speech.","original_cleaning,numbered_senses"
+3	particular emphasis. emphasis given to a syllable or word in speech.","original_cleaning,numbered_senses,rejected_hit"
+52858,mturk_file_2.csv,777,poetry,noun poems collectively or as a genre of literature. a quality of beauty and intensity of emotion regarded as characteristic of poetry.,rejected_hit
 52869,mturk_file_2.csv,930,cleaner,"someone whose job is to clean the rooms in a building, a chemical substance used for cleaning things, a piece of equipment used for cleaning things, free from dirt, stain, or impurities, unsoiled, free from foreign matter or pollution,not infected, producing relatively little pollution, producing relatively little radioactive fallout or contamination, having no imperfections or blemishes, free from clumsiness, devoid of restrictions or encumbrances, thorough, having few alterations or corrections, blank, morally pure, having no marks of discredit or offense, fit for all readers, honest or fair",very_long
 52989,mturk_file_2.csv,813,cleaner,"cleansing agent, cleanser, cleaner 
 a preparation used in cleaning something",original_cleaning
@@ -1385,10 +1554,14 @@ a preparation used in cleaning something",original_cleaning
 the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",original_cleaning
 52993,mturk_file_2.csv,813,poetry,"poetry, poesy, verse 
 literature in metrical form",original_cleaning
+53029,mturk_file_2.csv,808,cleaner,"Cleaner:A cleaner is a type of industrial or domestic worker who cleans homes or offices for payment. Unlike other servants, their primary task is cleaning. Cleaners may specialise in cleaning particular things or places; window cleaners are an example. Cleaners often work when the people who otherwise occupy the space are not around. They may clean offices at night or houses during the workday.",rejected_hit
+53030,mturk_file_2.csv,808,frame,Frame:A frame is a structural system that supports other components of a physical construction.,rejected_hit
+53031,mturk_file_2.csv,808,killer,"Killer:A killer is someone or something that kills, such as a murderer.",rejected_hit
 53032,mturk_file_2.csv,808,stress,"Stress:Stress (mechanics), the average amount of force exerted per unit area
 Compressive stress, the stress applied to materials resulting in their compaction. It is the ability of a material to resist being crushed.
 Tensile stress  is the stress state leading to expansion
-Yield stress, the stress at which a material begins to deform plastically",original_cleaning
+Yield stress, the stress at which a material begins to deform plastically","original_cleaning,rejected_hit"
+53033,mturk_file_2.csv,808,poetry,"Poetry:is ""Poem"", ""Poems"", and ""Poetic"" redirect here. For other uses, see Poem (disambiguation), Poems (disambiguation), and Poetic (disambiguation).",rejected_hit
 53080,mturk_file_2.csv,850,frame,"Square in shape, Photo frame, Spectacles, Glass & Different in colors",long_duplicate
 53081,mturk_file_2.csv,850,killer,"Looks, Murdered, Mosquito Spray, Lovers Look",long_duplicate
 53082,mturk_file_2.csv,850,stress,"Work load, Tension, High blood pressure, Thinking of too much & Worrying",long_duplicate
@@ -1401,14 +1574,19 @@ Yield stress, the stress at which a material begins to deform plastically",origi
 53188,mturk_file_2.csv,813,phone,"sound, telephone, earphone, telephone set, phone, earpiece, headphone, telephony, speech sound",long_duplicate
 53203,mturk_file_2.csv,805,actor,"Tom criuser,film industry,entertainment,camera",original_cleaning
 53238,mturk_file_2.csv,777,actor,"1	a person whose profession is acting. 
-2	a participant in an action or process.","original_cleaning,numbered_senses"
+2	a participant in an action or process.","original_cleaning,numbered_senses,rejected_hit"
 53239,mturk_file_2.csv,777,coral,"1	a hard stony substance secreted by certain colonial marine animals as an external skeleton, typically forming large reefs. precious red coral, used in jewellery. 
-2	the pinkish-red color of red coral.","original_cleaning,numbered_senses"
+2	the pinkish-red color of red coral.","original_cleaning,numbered_senses,rejected_hit"
+53240,mturk_file_2.csv,777,groceries,noun a person who sells food and small household goods.,rejected_hit
 53241,mturk_file_2.csv,777,senate,"1	the smaller upper assembly in the US, US states, France, and other countries. the governing body of a university or college. 
-2	the state council of the ancient Roman republic and empire.","original_cleaning,numbered_senses"
+2	the state council of the ancient Roman republic and empire.","original_cleaning,numbered_senses,rejected_hit"
 53242,mturk_file_2.csv,777,phone,"1	a telephone. 
-2	(phones) informal headphones or earphones.","original_cleaning,numbered_senses"
-53243,mturk_file_2.csv,780,actor,"""Who's your favourite actor?""",original_cleaning
+2	(phones) informal headphones or earphones.","original_cleaning,numbered_senses,rejected_hit"
+53243,mturk_file_2.csv,780,actor,"""Who's your favourite actor?""","original_cleaning,rejected_hit"
+53244,mturk_file_2.csv,780,coral,See picture coral,rejected_hit
+53245,mturk_file_2.csv,780,groceries,old-fashioned      a grocer's,rejected_hit
+53246,mturk_file_2.csv,780,senate,The law has no chance of being passed by the Senate.,rejected_hit
+53247,mturk_file_2.csv,780,phone,"ust then, his mobile phone  rang .",rejected_hit
 53270,mturk_file_2.csv,808,groceries,"Groceries:is Usually,food and other commodities sold by a grocer,
 the business of a grocer.",original_cleaning
 53341,mturk_file_2.csv,817,senate,assembly possessing high legislative powers,long_duplicate
@@ -1420,38 +1598,65 @@ activities associated with sexual intercourse",original_cleaning
 the force of policemen and officers",original_cleaning
 53453,mturk_file_2.csv,777,then,"1	at that time. 
 2	after that; next. also. 
-3	therefore.",original_cleaning
+3	therefore.","original_cleaning,rejected_hit"
 53454,mturk_file_2.csv,777,towel,"n	noun a piece of thick absorbent cloth or paper used for drying. 
 n	verb (towels, toweling, toweled; United States towels, toweling, toweled) 
 1	dry with a towel. 
-2	informal, chiefly Australian/New Zealand thrash or beat.","original_cleaning,numbered_senses"
+2	informal, chiefly Australian/New Zealand thrash or beat.","original_cleaning,numbered_senses,rejected_hit"
+53455,mturk_file_2.csv,777,highway,noun chiefly North American a main road. (chiefly in official use) a public road.,rejected_hit
 53456,mturk_file_2.csv,777,sex,"1	either of the two main categories (male and female) into which humans and most other living things are divided on the basis of their reproductive functions. the fact of belonging to one of these categories. the group of all members of either sex. 
-2	sexual activity, specifically sexual intercourse. euphemistic a person's genitals.","original_cleaning,numbered_senses"
+2	sexual activity, specifically sexual intercourse. euphemistic a person's genitals.","original_cleaning,numbered_senses,rejected_hit"
 53457,mturk_file_2.csv,777,police,"noun [treated as plural] a civil force responsible for the prevention and detection of crime and the maintenance of public order. members of such a force. 
-	verb [often as noun policing] control and maintain law and order in (an area).",original_cleaning
+	verb [often as noun policing] control and maintain law and order in (an area).","original_cleaning,rejected_hit"
 53504,mturk_file_2.csv,770,towel,A piece of absorbent cloth or paper used for wiping or drying,long_duplicate
 53506,mturk_file_2.csv,770,sex,The property or quality by which organisms are classified as female or male on the basis of their reproductive organs and functions.,long_duplicate
 53508,mturk_file_2.csv,864,then,"At that time (referring to a time specified, either past or future).",long_duplicate
 53509,mturk_file_2.csv,864,towel,A piece of absorbent cloth or paper used for wiping or drying.,long_duplicate
 53510,mturk_file_2.csv,864,highway,"A main public road, especially one connecting towns and cities.",long_duplicate
+53513,mturk_file_2.csv,780,then,I was working in the city then.,rejected_hit
+53514,mturk_file_2.csv,780,towel,The school provides  paper  towels for the children to dry their hands on.,rejected_hit
+53515,mturk_file_2.csv,780,highway,a coastal/interstate highway,rejected_hit
+53516,mturk_file_2.csv,780,sex,What sex is your cat?,rejected_hit
+53517,mturk_file_2.csv,780,police,I think you should call  the  police.,rejected_hit
 53519,mturk_file_2.csv,831,towel,A piece of absorbent cloth or paper used for wiping or drying.,long_duplicate
 53522,mturk_file_2.csv,831,police,"The governmental department charged with the regulation and control of the affairs of a community, now chiefly the department established to maintain order, enforce the law, and prevent and detect crime.",long_duplicate
 53540,mturk_file_2.csv,779,highway,A major road for any form of motor transport,long_duplicate
+53578,mturk_file_2.csv,1021,then,Then whats going in T.V?,rejected_hit
+53579,mturk_file_2.csv,1021,towel,Towel is to clean our body.,rejected_hit
+53580,mturk_file_2.csv,1021,highway,This road is Highways.,rejected_hit
+53581,mturk_file_2.csv,1021,sex,Sex is whether male or female?,rejected_hit
+53582,mturk_file_2.csv,1021,police,Police is safety for us,rejected_hit
+53648,mturk_file_2.csv,777,control,"the power to influence people's behaviour or the course of events. the restriction of an activity, tendency, or phenomenon.",rejected_hit
 53649,mturk_file_2.csv,777,disease,"die1 
 n	verb (dies, dying, died) 
 1	stop living. (die out) become extinct. be forgotten. 
 2	(often die away/down) become less loud or strong. 
-3	informal used to emphasize strong desire, embarrassment, shock, etc.: I nearly died when I saw them. (be dying for/to do something) be very eager for something.","original_cleaning,numbered_senses"
+3	informal used to emphasize strong desire, embarrassment, shock, etc.: I nearly died when I saw them. (be dying for/to do something) be very eager for something.","original_cleaning,numbered_senses,rejected_hit"
+53650,mturk_file_2.csv,777,values,the regard that something is held to deserve; importance or worth. material or monetary worth. the worth of something compared,rejected_hit
+53651,mturk_file_2.csv,777,subtract,verb take away (a number or amount) from another to calculate the difference. remove (a part of something).,rejected_hit
+53652,mturk_file_2.csv,777,sand,"a loose granular substance, typically pale yellowish brown, resulting from the erosion of siliceous and other rocks and forming a major constituent of beaches, river beds, the seabed, and deserts. (sands) an expanse of sand. technical sediment whose particles are larger than silt.",rejected_hit
+53653,mturk_file_2.csv,780,control,"If you can't control your dog, put it on a lead!",rejected_hit
+53654,mturk_file_2.csv,780,disease,a contagious/infectious disease,rejected_hit
+53655,mturk_file_2.csv,780,values,"the value or price which is shown on, for example, a stamp, a coin or a bank note",rejected_hit
+53656,mturk_file_2.csv,780,subtract,the process of removing one number from another,rejected_hit
+53657,mturk_file_2.csv,780,sand,Mix one part sand to three parts cement.,rejected_hit
 53678,mturk_file_2.csv,831,control,"To exercise authoritative or dominating influence over; direct. See Synonyms at conduct.
-2. To adjust to a requirement; regulate:","original_cleaning,semicolon_definition"
-53680,mturk_file_2.csv,831,values,"An amount, as of goods, services, or money, considered to be a fair and suitable equivalent for something else; a fair price or return",long_duplicate
+2. To adjust to a requirement; regulate:","original_cleaning,semicolon_definition,rejected_hit"
+53679,mturk_file_2.csv,831,disease,To derange the vital functions of; to afflict with disease or sickness; to disorder; -- used almost exclusively in the participle diseased.,rejected_hit
+53680,mturk_file_2.csv,831,values,"An amount, as of goods, services, or money, considered to be a fair and suitable equivalent for something else; a fair price or return","rejected_hit,long_duplicate"
+53681,mturk_file_2.csv,831,subtract,To take away; deduct.,rejected_hit
 53682,mturk_file_2.csv,831,sand,"Small loose grains of worn or disintegrated rock.
-b. Geology A sedimentary material, finer than a granule and coarser than silt, with grains between 0.06 and 2.0 millimeters in diameter.",original_cleaning
+b. Geology A sedimentary material, finer than a granule and coarser than silt, with grains between 0.06 and 2.0 millimeters in diameter.","original_cleaning,rejected_hit"
 53713,mturk_file_2.csv,813,control,"control condition, control 
 a standard against which other conditions can be compared in a scientific experiment",original_cleaning
 53714,mturk_file_2.csv,813,disease,"disease, affection, disorder, indisposition, sickness, ailment, distemper, infirmity, unhealthiness, complaint, illness, malady, unsoundness",long_duplicate
 53715,mturk_file_2.csv,813,values,beliefs of a person or social group in which they have an emotional investment (either for or against something),long_duplicate
 53733,mturk_file_2.csv,814,control,"To adjust to a requirement; regulate: controlled trading,control Systems,control rooms,Robot control,to check, limit, curb, or regulate; restrain to control.",semicolon_definition
+53758,mturk_file_2.csv,1023,control,"I Control my life, control panel, delivery control, signal control,",rejected_hit
+53759,mturk_file_2.csv,1023,disease,"He is having a disease, viral disease, mental disease,",rejected_hit
+53760,mturk_file_2.csv,1023,values,"life is full of values, values are increasing,",rejected_hit
+53761,mturk_file_2.csv,1023,subtract,"Subtract the sum, Reducing,",rejected_hit
+53762,mturk_file_2.csv,1023,sand,"Sand is granular, sand is from riverbed, used for construction",rejected_hit
 53806,mturk_file_2.csv,806,subtract,"to take away something or a part, as from a whole",long_duplicate
 53807,mturk_file_2.csv,806,sand,"the more or less fine debris of rocks, consisting of small, loose grains, often of quartz.",long_duplicate
 53878,mturk_file_2.csv,813,chalk,"methamphetamine, methamphetamine hydrochloride, Methedrine, meth, deoxyephedrine, chalk, chicken feed, crank, glass, ice, shabu, trash",original_cleaning
@@ -1468,20 +1673,25 @@ leisure time away from work devoted to rest or pleasure",original_cleaning
 
 
 
-a type of soft white rock, or (a stick of) this rock or a similar substance used for writing or drawing",original_cleaning
+a type of soft white rock, or (a stick of) this rock or a similar substance used for writing or drawing","original_cleaning,rejected_hit"
+53974,mturk_file_2.csv,780,friend,He's a  family  friend/friend  of the family .,rejected_hit
+53975,mturk_file_2.csv,780,health,I had to give up drinking for health reasons.,rejected_hit
+53976,mturk_file_2.csv,780,holiday,a camping/skiing holiday,rejected_hit
+53977,mturk_file_2.csv,780,you,Have you decided where you're going  for  your holiday(s) this year?,rejected_hit
 53983,mturk_file_2.csv,872,chalk,"used to write, made from calcium carbonate,",original_cleaning
 53988,mturk_file_2.csv,820,chalk,"white soft limestone,small white stick,used for writing",original_cleaning
 53993,mturk_file_2.csv,823,chalk,"glass, methamphetamine hydrochloride, methamphetamine, trash, crank, ice, meth, chicken feed, shabu, deoxyephedrine",original_cleaning
 53994,mturk_file_2.csv,823,friend,"supporter, champion, acquaintance, ally, admirer, booster, protagonist",long_duplicate
-53998,mturk_file_2.csv,777,chalk,"noun a white soft earthy limestone (calcium carbonate) formed from the skeletal remains of sea creatures. a similar substance (calcium sulphate), made into sticks and used for drawing or writing.",original_cleaning
+53998,mturk_file_2.csv,777,chalk,"noun a white soft earthy limestone (calcium carbonate) formed from the skeletal remains of sea creatures. a similar substance (calcium sulphate), made into sticks and used for drawing or writing.","original_cleaning,rejected_hit"
 53999,mturk_file_2.csv,777,friend,"1	a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations. used in polite address to an acquaintance or stranger. 
 2	a familiar or helpful thing. 
-3	a person who supports a particular cause or organization: the Friends of the Welsh National Opera.","original_cleaning,numbered_senses"
+3	a person who supports a particular cause or organization: the Friends of the Welsh National Opera.","original_cleaning,numbered_senses,rejected_hit"
+54000,mturk_file_2.csv,777,health,noun the state of being free from illness or injury. a person's mental or physical condition.,rejected_hit
 54001,mturk_file_2.csv,777,holiday,"1	an extended period of recreation, especially away from home. 
 2	a day of festivity or recreation when no work is done. 
-3	[with modifier] a short period during which the payment of instalments, tax, etc. may be suspended.","original_cleaning,numbered_senses"
+3	[with modifier] a short period during which the payment of instalments, tax, etc. may be suspended.","original_cleaning,numbered_senses,rejected_hit"
 54002,mturk_file_2.csv,777,you,"1	used to refer to the person or people that the speaker is addressing. used to refer to the person being addressed together with other people regarded in the same class. 
-2	used to refer to any person in general.","original_cleaning,numbered_senses"
+2	used to refer to any person in general.","original_cleaning,numbered_senses,rejected_hit"
 54048,mturk_file_2.csv,822,chalk,"a white, gray, or yellowish limestone that is soft, porous, and easily pulverized, composed almost entirely of calcite from minute sea shells",original_cleaning
 54053,mturk_file_2.csv,770,chalk,"A soft compact calcite, CaCO3, with varying amounts of silica, quartz, feldspar, or other mineral impurities, generally gray-white or yellow-white and derived chiefly from fossil seashells.",original_cleaning
 54073,mturk_file_2.csv,818,chalk,"used for writing, made of calcium carbonate, white in colour, used for black board, in schools",original_cleaning
@@ -1503,14 +1713,24 @@ I've never been bored by anyone; I tend to find everyone interesting in some way
 
 So what is boring? Empty headed people that ramble on about nothing? Those who have nothing interesting to say? Or for you, is it people that aren't active enough? Do you need to constantly be doing something? Is it all about action? 
 
-I used to be very athletic, played softball, trained horses, rode a lot, had motorcycle meetups with friends, etc...... but now that I'm less active, I still view people the same and don't really find them boring. So I'm curious about how others feel.",very_long
-54155,mturk_file_3.csv,1029,tight,"Tight is used as an adverb following verbs that denote a process of closure or constriction, as squeeze, shut, close, tie, and hold. In this use it is subtly distinct from the adverb tightly. Tight denotes the state resulting from the process, whereas tightly denotes the manner of its application. As such, tight is more appropriate when the focus is on a state that endures for some time after the activity has ended. The sentence She closed up the house tight suggests preparation for an impending blizzard. By the same token, it is more natural to say The windows were frozen tight than The windows were frozen tightly, since in this case the tightness of the seal is not likely to be the result of the manner in which the windows were frozen. With a few verbs tight is used idiomatically as an intensive and is the only possible form: sleep tight; sit tight.",very_long
+I used to be very athletic, played softball, trained horses, rode a lot, had motorcycle meetups with friends, etc...... but now that I'm less active, I still view people the same and don't really find them boring. So I'm curious about how others feel.","very_long,rejected_hit"
+54154,mturk_file_3.csv,1029,english,It is an language.,rejected_hit
+54155,mturk_file_3.csv,1029,tight,"Tight is used as an adverb following verbs that denote a process of closure or constriction, as squeeze, shut, close, tie, and hold. In this use it is subtly distinct from the adverb tightly. Tight denotes the state resulting from the process, whereas tightly denotes the manner of its application. As such, tight is more appropriate when the focus is on a state that endures for some time after the activity has ended. The sentence She closed up the house tight suggests preparation for an impending blizzard. By the same token, it is more natural to say The windows were frozen tight than The windows were frozen tightly, since in this case the tightness of the seal is not likely to be the result of the manner in which the windows were frozen. With a few verbs tight is used idiomatically as an intensive and is the only possible form: sleep tight; sit tight.","very_long,rejected_hit"
+54156,mturk_file_3.csv,1029,spoiled,spoiled identity’ by Erving Goffman. This is a short(ish) book of 147 pages but I found myself needing to read it twice and still having some difficulty in getting to grips with it. I think possibly that this is because Goffman has a deep understanding of this subject and communicates it in a reflective style which is rich in interconnected concepts. This is probably a book which takes,rejected_hit
 54157,mturk_file_3.csv,1029,mother,"Mother is a person who will guide you all your life, she will always be there for you and love you no matter what. 
-Sometimes we don't realise how special a Mother is until we lose her. Mothers are Love!!",original_cleaning
-54218,mturk_file_3.csv,808,boring,"Boring: is an emotional state experienced when an individual is without any activity or is not interested in their surroundings. The first recorded use of the word boredom is in the novel Bleak House by Charles Dickens, written in 1852,[1] in which it appears six times, although the expression to be a bore had been used in the sense of ""to be tiresome or dull""  The French term for boredom, ennui, is sometimes used in English as well.","original_cleaning,web_text"
+Sometimes we don't realise how special a Mother is until we lose her. Mothers are Love!!","original_cleaning,rejected_hit"
+54188,mturk_file_3.csv,780,boring,The film was so boring I fell asleep.,rejected_hit
+54189,mturk_file_3.csv,780,english,Do you speak English?,rejected_hit
+54190,mturk_file_3.csv,780,tight,The people stood talking in tight groups.,rejected_hit
+54191,mturk_file_3.csv,780,spoiled,The oil spill has spoilt the whole beautiful coastline.,rejected_hit
+54192,mturk_file_3.csv,780,mother,My mother was 21 when she got married.,rejected_hit
+54218,mturk_file_3.csv,808,boring,"Boring: is an emotional state experienced when an individual is without any activity or is not interested in their surroundings. The first recorded use of the word boredom is in the novel Bleak House by Charles Dickens, written in 1852,[1] in which it appears six times, although the expression to be a bore had been used in the sense of ""to be tiresome or dull""  The French term for boredom, ennui, is sometimes used in English as well.","original_cleaning,web_text,rejected_hit"
+54219,mturk_file_3.csv,808,english,"English:it is from, or related to England, a country of the United Kingdom, especially: English language",rejected_hit
 54220,mturk_file_3.csv,808,tight,"Tight is Skin-tight garment, a garment that is held to the skin by elastic tension
 Tights, a type of leg coverings fabric extending from the waist to feet
-Tightlacing, the practice of wearing a tightly-laced corset.",original_cleaning
+Tightlacing, the practice of wearing a tightly-laced corset.","original_cleaning,rejected_hit"
+54221,mturk_file_3.csv,808,spoiled,"Spoiled: it is  Decomposition,grandiose, narcissistic,egocentric-regressed.A spoiled child (also called a spoiled brat) is a child that exhibits behavioral problems from overindulgence by his or her parents.",rejected_hit
+54222,mturk_file_3.csv,808,mother,"Mother: is mother, mum, mom, momma, or mama is a woman who has raised a child, given birth to a child, and/or supplied the ovum that grew into a child.",rejected_hit
 54228,mturk_file_3.csv,944,boring,"is a disambiguation,",original_cleaning
 54243,mturk_file_3.csv,777,boring,adjective not interesting; tedious.,original_cleaning
 54246,mturk_file_3.csv,777,spoiled,"a person or thing that spoils. a news story published to divert attention from a similar story published elsewhere. 
@@ -1518,52 +1738,71 @@ Tightlacing, the practice of wearing a tightly-laced corset.",original_cleaning
 54266,mturk_file_3.csv,812,spoiled,"despoilation, despoilment, despoliation, spoilation, spoliation, spoilage,",original_cleaning
 54328,mturk_file_3.csv,813,boring,"dull, dim, windy, wearisome, wordy, dense, muted, boring, verbose, dumb, leaden, tedious, slow, sluggish, obtuse, deadening, tiresome, muffled, ho-hum, long-winded, irksome, thudding, softened",original_cleaning
 54338,mturk_file_3.csv,803,boring,Boring: Not interesting; tedious,original_cleaning
+54428,mturk_file_3.csv,810,weird,weir,rejected_hit
+54429,mturk_file_3.csv,810,divide,cut part,rejected_hit
+54430,mturk_file_3.csv,810,grow,up,rejected_hit
+54431,mturk_file_3.csv,810,jogger,slow runner,rejected_hit
+54432,mturk_file_3.csv,810,quack,attack,rejected_hit
 54448,mturk_file_3.csv,813,weird,"preternatural, spiritual, uncanny, unearthly, weird, eldritch",long_duplicate
 54495,mturk_file_3.csv,808,grow,"Grow: is to increase by natural development, as any living organism , Grow game
 Grow questions,Grow magazine,Grow island",original_cleaning
 54499,mturk_file_3.csv,864,divide,"To separate into parts, sections, groups, or branches",long_duplicate
 54502,mturk_file_3.csv,864,quack,The characteristic sound uttered by a duck.,long_duplicate
 54506,mturk_file_3.csv,817,jogger,someone who runs a steady slow pace (usually for exercise),long_duplicate
+54508,mturk_file_3.csv,778,weird,were,rejected_hit
+54509,mturk_file_3.csv,778,divide,sliced,rejected_hit
+54510,mturk_file_3.csv,778,grow,up,rejected_hit
+54511,mturk_file_3.csv,778,jogger,slow runner,rejected_hit
+54512,mturk_file_3.csv,778,quack,fast,rejected_hit
 54524,mturk_file_3.csv,972,divide,"to split, to break into parts (verb)
 canyon, crevasse (noun)",original_cleaning
 54543,mturk_file_3.csv,777,weird,"1	suggesting something supernatural; uncanny. informal very strange; bizarre. 
-2	archaic connected with fate.","original_cleaning,numbered_senses"
+2	archaic connected with fate.","original_cleaning,numbered_senses,rejected_hit"
 54544,mturk_file_3.csv,777,divide,"1	separate or be separated into parts. (usually divide something between) separate into portions and share out. form a boundary between. 
 2	disagree or cause to disagree. 
-3	Mathematics find how many times (a number) contains another: 36 divided by 2 equals 18. (of a number) be susceptible of division without a remainder.","original_cleaning,numbered_senses"
+3	Mathematics find how many times (a number) contains another: 36 divided by 2 equals 18. (of a number) be susceptible of division without a remainder.","original_cleaning,numbered_senses,rejected_hit"
 54545,mturk_file_3.csv,777,grow,"1	(of a living thing) undergo natural development by increasing in size and changing physically. (grow up) progress to maturity or adulthood. (grow out of or into) become too large (or large enough) to wear. 
 2	come into existence and develop. (with reference to a plant) germinate or cause to germinate and develop. 
-3	become larger or greater over time; increase. develop or expand (an enterprise or business). become increasingly: we grew braver.","original_cleaning,numbered_senses"
+3	become larger or greater over time; increase. develop or expand (an enterprise or business). become increasingly: we grew braver.","original_cleaning,numbered_senses,rejected_hit"
 54546,mturk_file_3.csv,777,jogger,"1	a person who jogs. 
-2	(joggers) tracksuit trousers worn for jogging.","original_cleaning,numbered_senses"
+2	(joggers) tracksuit trousers worn for jogging.","original_cleaning,numbered_senses,rejected_hit"
 54547,mturk_file_3.csv,777,quack,"noun the characteristic harsh sound made by a duck. 
-	verb make this sound.",original_cleaning
+	verb make this sound.","original_cleaning,rejected_hit"
 54564,mturk_file_3.csv,831,divide,"1. Separated into parts or pieces.
 2. Being in a state of disagreement or disunity: a divided nation.
 3. Moved by conflicting interests, emotions, or activities","original_cleaning,numbered_senses"
 54567,mturk_file_3.csv,831,quack,"An untrained person who pretends to be a physician and dispenses medical advice and treatment,The characteristic sound uttered by a duck,
 A charlatan; a mountebank.",original_cleaning
 54585,mturk_file_3.csv,770,grow,"To increase in size by a natural process, To expand; gain",long_duplicate
-54618,mturk_file_3.csv,808,alcohol,"Alcohol:an alcohol is an organic compound in which the hydroxy functional group (-OH) is bound to a carbon atom. In particular, this carbon center should be saturated, having single bonds to three other atoms.",original_cleaning
+54618,mturk_file_3.csv,808,alcohol,"Alcohol:an alcohol is an organic compound in which the hydroxy functional group (-OH) is bound to a carbon atom. In particular, this carbon center should be saturated, having single bonds to three other atoms.","original_cleaning,rejected_hit"
 54619,mturk_file_3.csv,808,twelve,"Twelve:The Twelve (disambiguation)
 Quorum of the Twelve, a priesthood body established by Joseph Smith, Jr. as part of the Latter Day Saint movement
-December, the 12th month of a year",original_cleaning
+December, the 12th month of a year","original_cleaning,rejected_hit"
+54620,mturk_file_3.csv,808,subject,"Subject:A subject is an individual subjected to the rule by an elite, see feudalism
+subjects in medieval feudalism, see Commoners
+subjects in modern constitutional monarchies, such as the United Kingdom, see British subject",rejected_hit
+54621,mturk_file_3.csv,808,knight,"Knight:A knight was a member of a class of lower nobility in the High Middle Ages. By the Late Middle Ages, the rank had become associated with the ideals of chivalry, a code of conduct for the perfect courtly Christian warrior. Since the Early Modern period, the title of ""knight"" is purely honorific, usually bestowed by a monarch, as in the British honours system.",rejected_hit
 54622,mturk_file_3.csv,808,none,"None: None redirects here. For other uses, see None (disambiguation).
-Nothing is no thing, denoting the absence of something. Nothing is a pronoun associated with nothingness, is also an adjective, and an object as a concept in the Frege-Church ontology.",original_cleaning
+Nothing is no thing, denoting the absence of something. Nothing is a pronoun associated with nothingness, is also an adjective, and an object as a concept in the Frege-Church ontology.","original_cleaning,rejected_hit"
 54628,mturk_file_3.csv,801,alcohol,"a drink, colorless liquid, obtained by fermentation of sugars and starches",original_cleaning
+54633,mturk_file_3.csv,780,alcohol,I could smell the alcohol on his breath.,rejected_hit
+54634,mturk_file_3.csv,780,twelve,a twelve-seater minibus,rejected_hit
+54635,mturk_file_3.csv,780,subject,Our subject for discussion is homelessness.,rejected_hit
+54636,mturk_file_3.csv,780,knight,knights in black armour,rejected_hit
+54637,mturk_file_3.csv,780,none,She went to the shop to get some oranges but they had none.,rejected_hit
 54638,mturk_file_3.csv,803,alcohol,"Alcohol: A colorless volatile flammable liquid, C2H5OH, that is the intoxicating constituent of wine, beer, spirits, and other drinks",original_cleaning
 54663,mturk_file_3.csv,777,alcohol,"1	a colorless volatile flammable liquid which is the intoxicating constituent of wine, beer, spirits, etc. Also called ethanol, ethyl alcohol. [C2H5OH.] 
 2	drink containing alcohol. 
-3	Chemistry any organic compound containing a hydroxide group -OH: propyl alcohol.","original_cleaning,numbered_senses"
+3	Chemistry any organic compound containing a hydroxide group -OH: propyl alcohol.","original_cleaning,numbered_senses,rejected_hit"
 54664,mturk_file_3.csv,777,twelve,"1	equivalent to the product of three and four; two more than ten; 12. (Roman numeral: xii or XII.) 
 2	(the Twelve) the twelve Apostles. 
-3	(12) British (of a film) classified as suitable for people of 12 years and over.","original_cleaning,numbered_senses,semicolon_definition"
+3	(12) British (of a film) classified as suitable for people of 12 years and over.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 54665,mturk_file_3.csv,777,subject,"1	a person or thing that is being discussed or dealt with or that gives rise to something. Logic the part of a proposition about which a statement is made. a person who is the focus of scientific or medical attention or experiment. 
 2	a branch of knowledge studied or taught in a school, college, or university. 
-3	Grammar a noun or noun phrase about which the rest of the clause is predicated.","original_cleaning,numbered_senses"
-54666,mturk_file_3.csv,777,knight,1	(in the Middle Ages) a man raised to honorable military rank after service as a page and squire. (also knight of the shire) historical a gentleman representing a shire or county in Parliament. literary a man devoted to a cause or the service of a woman.,original_cleaning
+3	Grammar a noun or noun phrase about which the rest of the clause is predicated.","original_cleaning,numbered_senses,rejected_hit"
+54666,mturk_file_3.csv,777,knight,1	(in the Middle Ages) a man raised to honorable military rank after service as a page and squire. (also knight of the shire) historical a gentleman representing a shire or county in Parliament. literary a man devoted to a cause or the service of a woman.,"original_cleaning,rejected_hit"
 54667,mturk_file_3.csv,777,none,"pronoun not any. no person; no one. 
-	adverb (none the) [with comparative] by no amount; not at all.",original_cleaning
+	adverb (none the) [with comparative] by no amount; not at all.","original_cleaning,rejected_hit"
 54678,mturk_file_3.csv,770,alcohol,"A colorless volatile flammable liquid, C2H5OH, synthesized or obtained by fermentation of sugars and starches and widely used, either pure or denatured, as a solvent and in drugs, cleaning solutions",original_cleaning
 54703,mturk_file_3.csv,969,alcohol,"a colourless volatile flammable liquid which is the intoxicating constituent of wine, beer, spirits , and other drinks, and is also used as an industrial solvent and as fuel:it is an offence to drive if you have more than 80 mg of alcohol per 100 ml of bloodthe use of petrol containing alcohol",original_cleaning
 54705,mturk_file_3.csv,969,subject,"a person or thing that is being discussed, described, or dealt with:I’ve said all there is to be said on the subjecthe’s the subject of a major new biography
@@ -1575,32 +1814,43 @@ a person or circumstance giving rise to a specified feeling, response, or action
 the cardinal number that is the sum of eleven and one",original_cleaning
 54863,mturk_file_3.csv,813,cards,"card game, cards 
 a game played with playing cards",original_cleaning
+54868,mturk_file_3.csv,777,cards,noun a person who cheats at cards.,rejected_hit
 54869,mturk_file_3.csv,777,devil,"1	(usually the Devil) (in Christian and Jewish belief) the supreme spirit of evil; Satan. an evil spirit; a demon. 
 2	a very wicked or cruel person. a mischievously clever or self-willed person. 
 3	(the devil) fighting spirit; wildness: he was born with the devil in him. 
 4	(the devil) a thing that is very difficult or awkward to do or deal with. 
-5	informal a person with specified characteristics: you lucky devil.","original_cleaning,numbered_senses,semicolon_definition"
+5	informal a person with specified characteristics: you lucky devil.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 54870,mturk_file_3.csv,777,hunter,"1	a person or animal that hunts. a horse of a breed developed for stamina in fox-hunting. 
-2	a watch with a hinged cover protecting the glass.","original_cleaning,numbered_senses"
+2	a watch with a hinged cover protecting the glass.","original_cleaning,numbered_senses,rejected_hit"
 54871,mturk_file_3.csv,777,marker,"1	an object used to indicate a position, place, or route. a distinctive feature or characteristic indicative of a particular quality or condition. Genetics an allele used to identify a chromosome or to locate other genes on a genetic map. 
 2	a felt-tip pen with a broad tip. 
 3	British (in team games) a player who marks an opponent. 
 4	a person who marks a test or examination. a person who records the score in a game, especially in snooker or billiards. 
-5	North American informal a promissory note; an IOU.","original_cleaning,very_long,numbered_senses"
+5	North American informal a promissory note; an IOU.","original_cleaning,very_long,numbered_senses,rejected_hit"
 54872,mturk_file_3.csv,777,neat,"1	in good order; tidy or carefully arranged. 
 2	done with or demonstrating skill or efficiency. 
 3	(of a drink of spirits) not diluted or mixed with anything else. 
-4	North American informal excellent.","original_cleaning,numbered_senses"
+4	North American informal excellent.","original_cleaning,numbered_senses,rejected_hit"
 54924,mturk_file_3.csv,823,devil,"monster, daemon, heller, match, hellion, fiend, dickens, deuce, morning star, friction match, demon, daystar, ogre, daimon, the Tempter",long_duplicate
 54927,mturk_file_3.csv,823,neat,"slap-up, full-strength, straight, cracking, neat, clean, nifty, swell, orderly, keen, tasteful, bang-up, smashing, not bad(p), corking, groovy, refined, great, bully, dandy, peachy",long_duplicate
 54978,mturk_file_3.csv,858,cards,"pieces of thing cardboard used for playing games such as poker, black jack, etc.  
 decorative pieces of mail sent for holidays or special occasions",original_cleaning
+54998,mturk_file_3.csv,780,cards,a  credit card  that earns a small amount of money for a  charity  each time something is bought with it,rejected_hit
+54999,mturk_file_3.csv,780,devil,a powerful evil force and the enemy of God in Christianity and Judaism,rejected_hit
+55000,mturk_file_3.csv,780,hunter,a fox-hunter,rejected_hit
+55001,mturk_file_3.csv,780,marker,She reached the 500-metre marker in record time.,rejected_hit
+55002,mturk_file_3.csv,780,neat,She likes everything neat  and tidy .,rejected_hit
 55052,mturk_file_3.csv,866,nice,"Good but not great, 
 quality,
 in people: being courteous, polite, also kind;
 in an in-animated object: it looks good it feels good it smells good.",original_cleaning
 55053,mturk_file_3.csv,1047,blush,"Either a mix of red & white wine OR
 Color to the cheeks, caused by expanding blood vessels in the face.  Also, the lining of your stomach turns red when this happens",original_cleaning
+55088,mturk_file_3.csv,780,blush,I blush  to think  of what a fool I made of myself.,rejected_hit
+55089,mturk_file_3.csv,780,failure,The meeting was a  complete/total  failure.,rejected_hit
+55090,mturk_file_3.csv,780,human,The human  body  is composed of about 60% water.,rejected_hit
+55091,mturk_file_3.csv,780,job,a temporary/permanent job,rejected_hit
+55092,mturk_file_3.csv,780,nice,Have a nice day/time!,rejected_hit
 55118,mturk_file_3.csv,871,blush,"Blush:Develop a pink tinge in the face from embarrassment or shame: ""she blushed at the unexpected compliment"".",original_cleaning
 55128,mturk_file_3.csv,770,blush,"To become red in the face, especially from modesty, embarrassment, or shame; flush",original_cleaning
 55153,mturk_file_3.csv,813,blush,"outpouring, ruddiness, rush, bang, blooming, rose, thrill, kick, bloom of youth, blush, charge, blossom, gush, heyday, prime, hot flash, flower, bloom, efflorescence, peak, rosiness, flush, boot, salad days",original_cleaning
@@ -1608,19 +1858,19 @@ Color to the cheeks, caused by expanding blood vessels in the face.  Also, the l
 55166,mturk_file_3.csv,823,job,"occupation, job, line, chore, line of work, business, task, problem, caper, project, undertaking, labor",long_duplicate
 55173,mturk_file_3.csv,814,blush,"To become red in the face, embarrassment, shame; flush,blush of dawn,rosiness, flush, bloom.",original_cleaning
 55183,mturk_file_3.csv,777,blush,"1	become red in the face through shyness, embarrassment, or shame. 
-2	literary be or become pink or pale red.","original_cleaning,numbered_senses"
+2	literary be or become pink or pale red.","original_cleaning,numbered_senses,rejected_hit"
 55184,mturk_file_3.csv,777,failure,"1	lack of success. an unsuccessful person or thing. 
 2	the omission of expected or required action: their failure to comply with the rules. 
-3	the action of ceasing to function or the state of not functioning. a sudden cessation of power. the collapse of a business.","original_cleaning,numbered_senses"
+3	the action of ceasing to function or the state of not functioning. a sudden cessation of power. the collapse of a business.","original_cleaning,numbered_senses,rejected_hit"
 55185,mturk_file_3.csv,777,human,"adjective relating to or characteristic of humankind. of or characteristic of people as opposed to God or animals or machines: human error. showing the better qualities of humankind, such as sensitivity. 
-	noun a human being.",original_cleaning
+	noun a human being.","original_cleaning,rejected_hit"
 55186,mturk_file_3.csv,777,job,"1	a paid position of regular employment. 
 2	a task or piece of work. a responsibility or duty. informal a crime, especially a robbery. Computing an operation or group of operations treated as a distinct unit. 
 3	informal a procedure to improve the appearance of something: a nose job. 
-4	informal a thing of a specified nature: the car was a fast job.",numbered_senses
+4	informal a thing of a specified nature: the car was a fast job.","numbered_senses,rejected_hit"
 55187,mturk_file_3.csv,777,nice,"1	giving pleasure or satisfaction; agreeable. good-natured; kind. 
 2	fine or subtle: a nice distinction. requiring careful attention. 
-3	archaic fastidious.","original_cleaning,numbered_senses,semicolon_definition"
+3	archaic fastidious.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 55188,mturk_file_3.csv,816,blush,"Crush, Pink, Cheeks, Love, Affection.",original_cleaning
 55193,mturk_file_3.csv,817,blush,sudden reddening of the face (as from embarrassment or guilt or shame or modesty),original_cleaning
 55278,mturk_file_3.csv,1045,action,"it is awork, movement",original_cleaning
@@ -1628,37 +1878,47 @@ Color to the cheeks, caused by expanding blood vessels in the face.  Also, the l
 2	a thing done; an act. 
 3	the way in which something works or moves. 
 4	armed conflict. 
-5	a lawsuit or legal proceedings.","original_cleaning,numbered_senses"
+5	a lawsuit or legal proceedings.","original_cleaning,numbered_senses,rejected_hit"
 55349,mturk_file_3.csv,777,few,"1	(a few) a small number of. 
-2	not many.",original_cleaning
+2	not many.","original_cleaning,rejected_hit"
+55350,mturk_file_3.csv,777,higher,noun (in Scotland) the more advanced of the two main levels of the Scottish Certificate of Education. Compare with ordinary grade,rejected_hit
 55351,mturk_file_3.csv,777,kiss,"1	touch or caress with the lips as a sign of love, affection, or greeting. Billiards & Snooker (of a ball) lightly touch (another ball). 
 2	(kiss someone/thing off) North American informal dismiss someone rudely; end a relationship abruptly. 
-3	(kiss up to) North American informal behave obsequiously towards.","original_cleaning,numbered_senses"
+3	(kiss up to) North American informal behave obsequiously towards.","original_cleaning,numbered_senses,rejected_hit"
 55352,mturk_file_3.csv,777,sign,"1	an object, quality, or event whose presence or occurrence indicates the probable presence, occurrence, or advent of something else. Medicine an indication of a disease detectable by a medical practitioner even if not apparent to the patient. Compare with symptom. North American the trail of a wild animal. 
-2	a signal conveying information or an instruction. a gesture used in sign language.","original_cleaning,numbered_senses"
+2	a signal conveying information or an instruction. a gesture used in sign language.","original_cleaning,numbered_senses,rejected_hit"
 55376,mturk_file_3.csv,852,kiss,"i kissing on my baby ,kiss  gives frester",original_cleaning
+55413,mturk_file_3.csv,780,action,This problem calls for  swift/prompt  action from the government.,rejected_hit
+55414,mturk_file_3.csv,780,few,I need to get a few things in town.,rejected_hit
+55415,mturk_file_3.csv,780,higher,A greater proportion of people with first degrees are now going on to study for higher degrees.,rejected_hit
+55416,mturk_file_3.csv,780,kiss,She kissed him  on  the mouth.,rejected_hit
+55417,mturk_file_3.csv,780,sign,"Sign here, please.",rejected_hit
 55451,mturk_file_3.csv,770,kiss,"To touch or caress with the lips as an expression of affection, greeting, respect, or amorousness.",long_duplicate
 55452,mturk_file_3.csv,770,sign,"Something that suggests the presence or existence of a fact, condition, or quality",long_duplicate
 55471,mturk_file_3.csv,885,kiss,"To touch or caress with the lips as an expression of affection, greeting, respect, or amorousness.",long_duplicate
 55483,mturk_file_3.csv,864,cereal,"Of or pertaining to the grasses which are cultivated for their edible seeds (as wheat, maize, rice, etc.), or to their seeds or grain.",original_cleaning
 55518,mturk_file_3.csv,770,cereal,"A grass such as wheat, oats, or corn, the starchy grains of which are used as food, Any of several other plants or their edible seed or fruit, such as buckwheat or grain amaranth",original_cleaning
 55543,mturk_file_3.csv,777,cereal,"1	a grain used for food, for example wheat, maize, or rye. a grass producing such grain, grown as an agricultural crop. 
-2	a breakfast food made from a cereal grain or grains.","original_cleaning,numbered_senses"
+2	a breakfast food made from a cereal grain or grains.","original_cleaning,numbered_senses,rejected_hit"
+55544,mturk_file_3.csv,777,emotion,"noun a strong feeling, such as joy, anger, or sadness. instinctive or intuitive feeling as distinguished from reasoning or knowledge.",rejected_hit
+55545,mturk_file_3.csv,777,fries,noun British an animal of a black-and-white breed of dairy cattle originally from Fries land in the Netherlands.,rejected_hit
 55546,mturk_file_3.csv,777,steel,"1	a hard, strong grey or bluish-grey alloy of iron with carbon and usually other elements, used extensively as a structural and fabricating material. 
 2	a rod of roughened steel on which knives are sharpened. 
-3	strength and determination: nerves of steel.","original_cleaning,numbered_senses"
+3	strength and determination: nerves of steel.","original_cleaning,numbered_senses,rejected_hit"
 55547,mturk_file_3.csv,777,monkey,"1	a small to medium-sized primate typically having a long tail and living in trees in tropical countries. [Families Abidance and Theatricality (New World), and Australopithecus (Old World).] 
 2	a mischievous person, especially a child. 
 3	British informal a sum of £500. 
-4	(also monkey engine) a pile driving machine consisting of a heavy hammer or ram working vertically in a groove.","original_cleaning,numbered_senses"
+4	(also monkey engine) a pile driving machine consisting of a heavy hammer or ram working vertically in a groove.","original_cleaning,numbered_senses,rejected_hit"
 55565,mturk_file_3.csv,813,fries,"french-fried potatoes, fries, chips, french fries",long_duplicate
 55583,mturk_file_3.csv,780,cereal,"plant which is grown to produce grain 
   cereal crops",original_cleaning
-55598,mturk_file_3.csv,808,cereal,"Cereal:Cereals are grasses (members of the monocot family Poaceae, also known as Gramineae)[1] cultivated for the edible components of their grain (botanically, a type of fruit called a caryopsis), composed of the endosperm, germ, and bran. Cereal grains are grown in greater quantities and provide more food energy worldwide than any other type of crop[citation needed]; they are therefore staple crops.","original_cleaning,web_text"
-55599,mturk_file_3.csv,808,emotion,"Emotion:Emotion is a complex psychophysiological experience of an individual's state of mind as interacting with biochemical (internal) and environmental (external) influences. In humans, emotion fundamentally involves ""physiological arousal, expressive behaviors, and conscious experience.""[1] Emotion is associated with mood, temperament, personality, disposition, and motivation. Motivations direct and energize behavior, while emotions provide the affective component to motivation, positive or negative.","very_long,web_text"
+55598,mturk_file_3.csv,808,cereal,"Cereal:Cereals are grasses (members of the monocot family Poaceae, also known as Gramineae)[1] cultivated for the edible components of their grain (botanically, a type of fruit called a caryopsis), composed of the endosperm, germ, and bran. Cereal grains are grown in greater quantities and provide more food energy worldwide than any other type of crop[citation needed]; they are therefore staple crops.","original_cleaning,web_text,rejected_hit"
+55599,mturk_file_3.csv,808,emotion,"Emotion:Emotion is a complex psychophysiological experience of an individual's state of mind as interacting with biochemical (internal) and environmental (external) influences. In humans, emotion fundamentally involves ""physiological arousal, expressive behaviors, and conscious experience.""[1] Emotion is associated with mood, temperament, personality, disposition, and motivation. Motivations direct and energize behavior, while emotions provide the affective component to motivation, positive or negative.","very_long,web_text,rejected_hit"
 55600,mturk_file_3.csv,808,fries,"Fries:Fries (surname), including list of people with the name
 Victor Fries, a DC Comics character, also known as Mr. Freeze
-Jacob Friedrich Fries, philosopher",original_cleaning
+Jacob Friedrich Fries, philosopher","original_cleaning,rejected_hit"
+55601,mturk_file_3.csv,808,steel,"Steel:Steel is an alloy that consists mostly of iron and has a carbon content between 0.2% and 2.1% by weight, depending on the grade. Carbon is the most common alloying material for iron, but various other alloying elements are used, such as manganese, chromium, vanadium, and tungsten",rejected_hit
+55602,mturk_file_3.csv,808,monkey,"Monkey:A monkey is a primate, either an Old World monkey or a New World monkey. There are about 260 known living species of monkey",rejected_hit
 55625,mturk_file_3.csv,884,fries,"Noun - chips, fried potato, thin or thick fries; fried in oil or grease; or could be the verb to fry.",pos_tag
 55627,mturk_file_3.csv,884,monkey,"Is an animal, climbs trees, swings from trees, eats bananas, could be seen in a zoo, lives in the jungle; many different kinds like capuchin monkeys; different from apes/gorillas.",semicolon_definition
 55698,mturk_file_3.csv,822,backpack,"a piece of equipment, as a radio transmitter, used while being carried on the back",original_cleaning
@@ -1676,22 +1936,26 @@ caboose
 cafe
 cafeteria
 camboose",original_cleaning
+55778,mturk_file_3.csv,780,backpack,We backpacked around Thailand.,rejected_hit
+55779,mturk_file_3.csv,780,elect,The Government is elected for a five-year term of office.,rejected_hit
+55780,mturk_file_3.csv,780,sympathetic,"He suffers from back trouble too, so he was very sympathetic  about  my problem.",rejected_hit
 55781,mturk_file_3.csv,780,kitchen,"We usually eat breakfast in the kitchen.   
-  the kitchen table",original_cleaning
+  the kitchen table","original_cleaning,rejected_hit"
+55782,mturk_file_3.csv,780,service,We hope to be  operating  a normal service as soon as possible.,rejected_hit
 55788,mturk_file_3.csv,812,backpack,"back pack, haversack, knapsack, packsack, rucksack, pack",original_cleaning
 55793,mturk_file_3.csv,777,backpack,"noun a rucksack. 
-	verb [usually as noun backpacking] travel or hike carrying one's belongings in a rucks",original_cleaning
+	verb [usually as noun backpacking] travel or hike carrying one's belongings in a rucks","original_cleaning,rejected_hit"
 55794,mturk_file_3.csv,777,elect,"1	choose (someone) to hold a position, especially public office, by voting. 
 2	opt for or choose to do something. 
-3	Christian Theology (of God) choose (someone) in preference to others for salvation.","original_cleaning,numbered_senses"
+3	Christian Theology (of God) choose (someone) in preference to others for salvation.","original_cleaning,numbered_senses,rejected_hit"
 55795,mturk_file_3.csv,777,sympathetic,"1	feeling, showing, or expressing sympathy. showing approval of an idea or action. 
 2	likeable. designed in a sensitive or fitting way. 
 3	Physiology relating to or denoting the part of the autonomic nervous system supplying the internal organs, blood vessels, and glands, and balancing the action of the parasympathetic nerves. 
-4	of or denoting an effect which arises in response to a similar action elsewhere.","original_cleaning,numbered_senses"
+4	of or denoting an effect which arises in response to a similar action elsewhere.","original_cleaning,numbered_senses,rejected_hit"
 55796,mturk_file_3.csv,777,kitchen,"1	a room where food is prepared and cooked. 
 2	informal the percussion section of an orchestra. 
-3	[as modifier] (of a language) in an uneducated or domestic form: kitchen Swahili.","original_cleaning,numbered_senses"
-55797,mturk_file_3.csv,777,service,1	the action or process of serving. an act of assistance. a period of employment with a company or organization: he retired after 40 years' service. (often in hrs in or out of service) use for a particular purpose. (often in phrase in service) employment as a servant.,original_cleaning
+3	[as modifier] (of a language) in an uneducated or domestic form: kitchen Swahili.","original_cleaning,numbered_senses,rejected_hit"
+55797,mturk_file_3.csv,777,service,1	the action or process of serving. an act of assistance. a period of employment with a company or organization: he retired after 40 years' service. (often in hrs in or out of service) use for a particular purpose. (often in phrase in service) employment as a servant.,"original_cleaning,rejected_hit"
 55798,mturk_file_3.csv,769,backpack,"a pack or knapsack, often of canvas or nylon, to be carried on one's back, sometimes supported on a lightweight metal frame strapped to the body; a piece of equipment designed to be used while being carried on the back. .  a rucksack or knapsack; a pack carried on the back of an astronaut, containing oxygen cylinders, essential supplies, etc. to travel about or go hiking with a backpack; to transport (food or equipment) by backpack","original_cleaning,semicolon_definition"
 55799,mturk_file_3.csv,769,elect,"to choose or select by vote, as for an office: to elect a mayor; to determine in favor of (a method, course of action, etc.). to pick out; choose: First-year students may elect French, Spanish, or German. Theology . (of God) to select for divine mercy or favor, especially for salvation; to choose (someone) to be (a representative or a public official) by voting: they elected him Mayor; to select; choose: to elect to die rather than surrender; to select or predestine for the grace of salvation; voted into office but not yet installed: the president elect; chosen or choice; selected or elite;  Christianity; selected or predestined by God to receive salvation;","very_long,semicolon_definition"
 55800,mturk_file_3.csv,769,sympathetic,"characterized by, proceeding from, exhibiting, or feeling sympathy; sympathizing; compassionate: a sympathetic listener; acting or affected by, of the nature of, or pertaining to a special affinity or mutual relationship; congenial: With their many similar tastes, he found her a most sympathetic companion; looking upon with favor (often followed by to  or toward ): She is sympathetic to the project; Anatomy,  Physiology; pertaining to that part of the autonomic nervous system consisting of nerves that arise from the thoracic and lumbar regions of the spinal cord, and functioning in opposition to the parasympathetic system, as in stimulating heartbeat, dilating the pupil of the eye, etc. 
@@ -1711,22 +1975,28 @@ b. Obsolete . pertaining to the autonomic nervous system in its entirety.
 55902,mturk_file_3.csv,813,service,"divine service, help, religious service, table service, serving, serve, military service, service of process, avail, inspection and repair, overhaul, servicing, armed service",long_duplicate
 55933,mturk_file_3.csv,777,brave,"adjective having or showing courage. 
 	noun dated an American Indian warrior. 
-	verb endure or face (unpleasant conditions) with courage.",original_cleaning
+	verb endure or face (unpleasant conditions) with courage.","original_cleaning,rejected_hit"
 55934,mturk_file_3.csv,777,value,"1	the regard that something is held to deserve; importance or worth. material or monetary worth. the worth of something compared to its price: at £12.50 the book is good value. 
 2	(values) principles or standards of behavior. 
 3	the numerical amount denoted by an algebraic term; a magnitude, quantity, or number. 
 4	Music the relative duration of the sound signified by a note. 
 5	Linguistics the meaning of a word or other linguistic unit. the sound represented by a letter or symbol. 
-6	the relative degree of lightness or darkness of a color.","very_long,numbered_senses,semicolon_definition"
+6	the relative degree of lightness or darkness of a color.","very_long,numbered_senses,semicolon_definition,rejected_hit"
 55935,mturk_file_3.csv,777,foot,"1	the lower extremity of the leg below the ankle, on which a person or animal stands or walks. literary manner or speed of walking or running: fleet of foot. [treated as plural] British infantry; foot soldiers. 
-2	a projecting part on which a piece of furniture or each of its legs stands.","original_cleaning,numbered_senses"
+2	a projecting part on which a piece of furniture or each of its legs stands.","original_cleaning,numbered_senses,rejected_hit"
 55936,mturk_file_3.csv,777,many,"determiner, pronoun, & adjective (more, most) a large number of. 
-	noun [as plural noun the many] the majority of people.",original_cleaning
+	noun [as plural noun the many] the majority of people.","original_cleaning,rejected_hit"
+55937,mturk_file_3.csv,777,prison,noun a building for the confinement of criminals or those awaiting trial.,rejected_hit
 55953,mturk_file_3.csv,770,brave,"Possessing or displaying courage; valiant,Making a fine display; impressive or showy",original_cleaning
 55963,mturk_file_3.csv,808,brave,"Brave:is making a fine appearance,Brave people,Being brave",original_cleaning
 55978,mturk_file_3.csv,804,brave,Brave:means able to face any danger quality of a person to endure disgrace or pain.,original_cleaning
 56043,mturk_file_3.csv,823,brave,"unfearing, venturous, intrepid, courageous, brave, bald-faced, bodacious, braw, unafraid(p), barefaced, brassy, stout, brazen-faced, gay, daring, sturdy, venturesome, insolent, stalwart, fearless, hardy, dauntless, audacious, brazen",original_cleaning
 56045,mturk_file_3.csv,823,foot,"fundament, understructure, base, foot, human foot, infantry, ft, foundation, metrical foot, groundwork, substructure, metrical unit, invertebrate foot, pes, animal foot",long_duplicate
+56063,mturk_file_3.csv,780,brave,It was a brave decision to quit her job and start her own business.,rejected_hit
+56064,mturk_file_3.csv,780,value,What is the value  of  the prize?,rejected_hit
+56065,mturk_file_3.csv,780,foot,I've got a blister on my left foot.,rejected_hit
+56066,mturk_file_3.csv,780,many,I don't have many clothes.,rejected_hit
+56067,mturk_file_3.csv,780,prison,She  went to/was sent to  prison for six months.,rejected_hit
 56073,mturk_file_3.csv,812,brave,"brave out, endure, weather, audacious, dauntless, fearless, hardy, intrepid, unfearing, courageous, braw, gay",original_cleaning
 56113,mturk_file_3.csv,864,brave,"Bold, courageous, daring, intrepid,",original_cleaning
 56117,mturk_file_3.csv,864,prison,"A place for the confinement of persons in lawful detention, especially persons convicted of crimes.",long_duplicate
@@ -1757,51 +2027,53 @@ Parking lot, for automobiles",original_cleaning
 1.
 having a relatively low temperature; having little or no warmth: cold water; a cold day.
 2.
-feeling an uncomfortable lack of warmth; chilled: The skaters were cold.","original_cleaning,numbered_senses,semicolon_definition"
+feeling an uncomfortable lack of warmth; chilled: The skaters were cold.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
+56433,mturk_file_3.csv,831,cop,"COP means ""Officer of the law"" or ""Close of Play""",rejected_hit
 56434,mturk_file_3.csv,831,gather,"To cause to come together; convene: The teacher gathered the students around the exhibit.
 2.
-a. To accumulate (something) gradually; amass:","original_cleaning,semicolon_definition"
+a. To accumulate (something) gradually; amass:","original_cleaning,semicolon_definition,rejected_hit"
 56435,mturk_file_3.csv,831,lot,"another word meaning lots is tons, millions, oodles or just lots. 
-Hope this",original_cleaning
-56436,mturk_file_3.csv,831,odd,"2. Being in excess of the indicated or approximate number, extent, or degree. Often used in combination.",original_cleaning
+Hope this","original_cleaning,rejected_hit"
+56436,mturk_file_3.csv,831,odd,"2. Being in excess of the indicated or approximate number, extent, or degree. Often used in combination.","original_cleaning,rejected_hit"
 56502,mturk_file_3.csv,777,cold,"1	of or at a low or relatively low temperature. 
 2	lacking affection or warmth of feeling; unemotional. not affected by emotion; objective. 
-3	(of a color) containing pale blue or grey and giving no impression of warmth.","original_cleaning,numbered_senses,semicolon_definition"
+3	(of a color) containing pale blue or grey and giving no impression of warmth.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 56503,mturk_file_3.csv,777,cop,"1	catch or arrest (an offender). 
 2	incur (something unwelcome). 
 3	(cop off) British have a sexual encounter. 
 4	(cop out) avoid doing something that one ought to do. 
 5	United States obtain (an illegal drug). 
 6	North American strike (an attitude or pose). 
-7	(cop to) United States accept or admit to.","original_cleaning,numbered_senses"
+7	(cop to) United States accept or admit to.","original_cleaning,numbered_senses,rejected_hit"
 56504,mturk_file_3.csv,777,gather,"1	come or bring together; assemble or accumulate. 
 2	bring together and take in from scattered places or sources harvest (a crop). collect plants, fruits, etc., for food: hunting and gathering. 
 3	develop a higher degree of: the Green movement is gathering pace. 
 4	infer; understand. 
-5	summon up (a mental or physical attribute): he gathered his thoughts together.","original_cleaning,numbered_senses,semicolon_definition"
+5	summon up (a mental or physical attribute): he gathered his thoughts together.","original_cleaning,numbered_senses,semicolon_definition,rejected_hit"
 56505,mturk_file_3.csv,777,lot,"1	[treated as singular or plural] informal a particular group or set of people or things. 
 2	an item or set of items for sale at an auction. 
 3	a method of deciding something by random selection, especially of one from a number of pieces of paper. the choice resulting from such a process. 
-4	a person's destiny, luck, or condition in life.","original_cleaning,numbered_senses"
+4	a person's destiny, luck, or condition in life.","original_cleaning,numbered_senses,rejected_hit"
 56506,mturk_file_3.csv,777,odd,"1	unusual or unexpected; strange. 
 2	(of whole numbers such as 3 and 5) having one left over as a remainder when divided by two. denoting a single goal by which one side defeats another in a game where three or more goals are scored. 
-3	[in combination] in the region of: fifty-odd years.","original_cleaning,numbered_senses"
+3	[in combination] in the region of: fifty-odd years.","original_cleaning,numbered_senses,rejected_hit"
 56508,mturk_file_3.csv,885,cop,"COP means ""Officer of the law"" or ""Close of Play"".",long_duplicate
 56510,mturk_file_3.csv,885,lot,"The part, or fate, which falls to one, as it were, by chance, or without his planning.",long_duplicate
 56518,mturk_file_3.csv,784,cop,policeofficer,original_cleaning
 56542,mturk_file_3.csv,776,cold,"cool feeling .shgujkok,,",original_cleaning
 56657,mturk_file_3.csv,777,wait,"1	stay where one is or delay action until a particular time or occurrence. be delayed or deferred. informal defer (a meal) until a person's arrival. [usually as noun waiting] park a vehicle for a short time at the side of a road. 
 2	(wait on/upon) act as an attendant to. archaic pay a respectful visit to. 
-3	act as a waiter or waitress.","original_cleaning,numbered_senses"
+3	act as a waiter or waitress.","original_cleaning,numbered_senses,rejected_hit"
 56658,mturk_file_3.csv,777,tonic,"1	a medicinal substance taken to give a feeling of vigor or well-being. 
 2	something with an invigorating effect. 
 3	(also tonic water) a carbonated soft drink with a bitter flavor, used as a mixer with gin or other spirits. 
-4	Music the first note in a scale which, in conventional harmony, provides the keynote of a piece of music.","original_cleaning,numbered_senses"
+4	Music the first note in a scale which, in conventional harmony, provides the keynote of a piece of music.","original_cleaning,numbered_senses,rejected_hit"
 56659,mturk_file_3.csv,777,her,"1	used as the object of a verb or preposition to refer to a female person or animal previously mentioned. referring to a ship, country, or other inanimate thing regarded as female. 
-2	archaic or North American dialect herself.","original_cleaning,numbered_senses"
+2	archaic or North American dialect herself.","original_cleaning,numbered_senses,rejected_hit"
 56660,mturk_file_3.csv,777,sorry,"1	feeling distress, especially through sympathy with someone Else's misfortune. (sorry for) filled with compassion for. 
 2	feeling regret or penitence. used to express apology. 
-3	in a poor or pitiful state. unpleasant and regrettable.",numbered_senses
+3	in a poor or pitiful state. unpleasant and regrettable.","numbered_senses,rejected_hit"
+56661,mturk_file_3.csv,777,restaurant,noun a place where people pay to sit and eat meals that are cooked and served on the premises.,rejected_hit
 56743,mturk_file_3.csv,770,tonic,"An agent, such as a medication, that restores or increases body tone",long_duplicate
 56751,mturk_file_3.csv,813,restaurant,"eatery, eating house, restaurant, eating place",long_duplicate
 56752,mturk_file_3.csv,999,wait,"bide one's time, kill time, pass time, anticipate something, serve tables,
@@ -1809,7 +2081,11 @@ look to the future,",original_cleaning
 56756,mturk_file_3.csv,999,restaurant,"diner, eating place, food place, buffet place, meal server, dining place, 
 nourishing place, food vendor, food business,",original_cleaning
 56760,mturk_file_3.csv,776,sorry,apolise,original_cleaning
-56781,mturk_file_3.csv,780,restaurant,a place where meals are prepared and served to customers,long_duplicate
+56777,mturk_file_3.csv,780,wait,"I waited  for  her in the corridor, while she went in to see the doctor.",rejected_hit
+56778,mturk_file_3.csv,780,tonic,The magazine is lively and interesting - the pictures alone are a tonic.,rejected_hit
+56779,mturk_file_3.csv,780,her,I don't know why she quit her job.,rejected_hit
+56780,mturk_file_3.csv,780,sorry,I  feel  so sorry  for  the children - it must be really hard for them.,rejected_hit
+56781,mturk_file_3.csv,780,restaurant,a place where meals are prepared and served to customers,"rejected_hit,long_duplicate"
 56964,mturk_file_4.csv,1087,oligarchy,n/a,original_cleaning
 56984,mturk_file_4.csv,1084,oligarchy,unknown,original_cleaning
 57048,mturk_file_4.csv,1097,strand,"Could be the section of beach where the water meets the land.
@@ -1829,6 +2105,11 @@ Choice words",original_cleaning
 57555,mturk_file_6.csv,1132,hike,"walk, trek, tramp, wilderness, nature, explore, 
 raise, increase, pull up,
 hand off the football",original_cleaning
+57702,mturk_file_6.csv,1140,romance,tasak,rejected_hit
+57703,mturk_file_6.csv,1140,effort,nekam ja,rejected_hit
+57704,mturk_file_6.csv,1140,dislike,ovca,rejected_hit
+57705,mturk_file_6.csv,1140,mousse,abe,rejected_hit
+57706,mturk_file_6.csv,1140,disguise,sakam ja,rejected_hit
 57867,mturk_file_7.csv,1076,swoon,To faint or lose consciousness.,original_cleaning
 57872,mturk_file_7.csv,1151,swoon,"to like emensely
 to fall at the feet of 
@@ -1866,6 +2147,11 @@ witty
 the ability to use information well",original_cleaning
 57963,mturk_file_7.csv,1159,frequency,"has multiple meanings, the first being the rate at which something occurs
 alternatively, frequency is sound, the highness or lowness of various sounds",original_cleaning
+57972,mturk_file_7.csv,1160,swoon,occurrence of fainting,rejected_hit
+57973,mturk_file_7.csv,1160,frequency,thr rate of recurrenence of a vibration,rejected_hit
+57974,mturk_file_7.csv,1160,copper,a matal,rejected_hit
+57975,mturk_file_7.csv,1160,predator,us for prodation,rejected_hit
+57976,mturk_file_7.csv,1160,clever,matal,rejected_hit
 58011,mturk_file_7.csv,1108,alter,"to change the properties of an item, to change something about oneself, to tailor a garment, change a routine or habit,",original_cleaning
 58054,mturk_file_7.csv,1166,britannica,"encyclopedia set, expensive, heavy, well-known, has existed for a long time, reputable source, made less useful by wikipedia than it has been in previous years",web_text
 58056,mturk_file_7.csv,1166,alter,"item found in church, denotes large table-like furnishing, may contain relics of saints, usually as old as the church it's housed in",original_cleaning
@@ -1894,11 +2180,11 @@ mean to customize an object to ones needs (i.e. making alterations to a suit)",o
 58148,mturk_file_7.csv,1153,pluto,"Used to be a planet but now considered a big asteroid or something; farthest from the sun in our solar system; very cold, dark, and tin; also the dog in Mickey Mouse with the lolling tongue",semicolon_definition
 58236,mturk_file_7.csv,1178,gentleman,"Saying ""Gentlemen"", can be greeting to a group of males.
 A gentlemen, is a man, who has chivalry, is polite, and respectful.",original_cleaning
-58347,mturk_file_7.csv,1188,boundary,WIKIPEDIA,web_text
-58348,mturk_file_7.csv,1188,scapegoat,WIKIPEDIA,web_text
-58349,mturk_file_7.csv,1188,another,WIKIPEDIA,web_text
-58350,mturk_file_7.csv,1188,husky,WIKIPEDIA,web_text
-58351,mturk_file_7.csv,1188,pronoun,WIKIPEDIA,web_text
+58347,mturk_file_7.csv,1188,boundary,WIKIPEDIA,"web_text,rejected_hit"
+58348,mturk_file_7.csv,1188,scapegoat,WIKIPEDIA,"web_text,rejected_hit"
+58349,mturk_file_7.csv,1188,another,WIKIPEDIA,"web_text,rejected_hit"
+58350,mturk_file_7.csv,1188,husky,WIKIPEDIA,"web_text,rejected_hit"
+58351,mturk_file_7.csv,1188,pronoun,WIKIPEDIA,"web_text,rejected_hit"
 58537,mturk_file_7.csv,1200,vent,"1. a hole to release something usually air
 2. to complain about something","original_cleaning,numbered_senses"
 58541,mturk_file_7.csv,1200,singer,"1. brand of sewing machine
@@ -2392,6 +2678,11 @@ c. Located on the left side of a person facing downstream: the left bank of a ri
 2. often Left Of or belonging to the political or intellectual left.
 n.",original_cleaning
 61165,mturk_file_8.csv,1263,looks,"To employ one's sight, especially in a given direction or on a given object.",long_duplicate
+61180,mturk_file_8.csv,1346,looks,brad pitt,rejected_hit
+61181,mturk_file_8.csv,1346,workout,my brother,rejected_hit
+61182,mturk_file_8.csv,1346,cheat,my friend,rejected_hit
+61183,mturk_file_8.csv,1346,father,great man,rejected_hit
+61184,mturk_file_8.csv,1346,queen,our national mother,rejected_hit
 61211,mturk_file_8.csv,983,workout,"To work at any thing,to work for ourselves,or for others, it is apart of job also,
 a child can workout for his studies.",original_cleaning
 61213,mturk_file_8.csv,983,father,"Father means  head of the family, look after his home, give orders, all follows
@@ -2520,6 +2811,11 @@ A man who adopts a child.
 A man who raises a child.",original_cleaning
 61419,mturk_file_8.csv,789,queen,"The wife or widow of a king.
 woman sovereign;A mature female cat",original_cleaning
+61425,mturk_file_8.csv,1294,looks,Looks,rejected_hit
+61426,mturk_file_8.csv,1294,workout,Workout,rejected_hit
+61427,mturk_file_8.csv,1294,cheat,Cheat,rejected_hit
+61428,mturk_file_8.csv,1294,father,Father,rejected_hit
+61429,mturk_file_8.csv,1294,queen,Queen,rejected_hit
 61445,mturk_file_8.csv,1332,looks,To direct the eyes for the purpose of seeing something; to direct the eyes toward an object; to observe with the eyes while ..,semicolon_definition
 61447,mturk_file_8.csv,1332,cheat,"To beguile. (v. i.) To practice fraud or trickery; as, to cheat at cards. (n.) One who cheats or deceives; an impostor; a deceiver; ...","original_cleaning,pos_tag"
 61448,mturk_file_8.csv,1332,father,"A respectful mode of address to an old man. (n.) A male ancestor more remote than a parent; a progenitor; especially, a first ... a. A male person whose sperm unites with an egg, resulting in the conception of a child. b. A man who adopts a child. c. A man who raises a child. 2. A male ...","semicolon_definition,pos_tag"
@@ -2764,6 +3060,11 @@ Excess bodily weight.",original_cleaning
 People who are homeless.",original_cleaning
 62137,mturk_file_8.csv,1288,system,"A group of independent but interrelated elements comprising a unified whole.
 A complex of methods or rules governing behavior.",original_cleaning
+62193,mturk_file_8.csv,1294,skin,Skin,rejected_hit
+62194,mturk_file_8.csv,1294,succeed,Succeed,rejected_hit
+62195,mturk_file_8.csv,1294,fat,Fat,rejected_hit
+62196,mturk_file_8.csv,1294,homeless,Homeless,rejected_hit
+62197,mturk_file_8.csv,1294,system,System,rejected_hit
 62203,mturk_file_8.csv,1286,skin,"The membranous tissue forming the external covering or integument of an animal and consisting in vertebrates of the epidermis and dermis,One's life or physical survival:",original_cleaning
 62204,mturk_file_8.csv,1286,succeed,"Obsolete To devolve upon a person by way of inheritance.
 replace another in an office or a position: manner desired",original_cleaning
@@ -2953,6 +3254,11 @@ Extreme emotional intensity.",original_cleaning
 62691,mturk_file_8.csv,957,bone,"something made of or resembling such a substance,such a structure from an edible animal, usually with meat adhering to it, as an article of food,
 one of the structures composing the skeleton of a vertebrate.",original_cleaning
 62696,mturk_file_8.csv,1277,bone,"One of the pieces or parts of an animal skeleton; as, a rib or a thigh bone; a bone of the arm or leg; also, any fragment of bony substance. (pl.) The frame or skeleton of the body",semicolon_definition
+62703,mturk_file_8.csv,1294,seller,seller,rejected_hit
+62704,mturk_file_8.csv,1294,verb,verb,rejected_hit
+62705,mturk_file_8.csv,1294,abandon,abandon,rejected_hit
+62706,mturk_file_8.csv,1294,bone,Bone,rejected_hit
+62707,mturk_file_8.csv,1294,george,George,rejected_hit
 62773,mturk_file_8.csv,831,seller,"1. a person who sells; salesperson or vender. 
 2. an article considered with reference to its sales: one of the poorest sellers.
 
@@ -3090,6 +3396,11 @@ confined to or intended only for the persons immediately concerned; confidential
 personal and not publicly expressed: one's private feelings.
 5.
 not holding public office or employment: private citizens.","original_cleaning,numbered_senses,semicolon_definition"
+63103,mturk_file_8.csv,1294,recipe,Recipe,rejected_hit
+63104,mturk_file_8.csv,1294,mom,Mom,rejected_hit
+63105,mturk_file_8.csv,1294,electric,Electric,rejected_hit
+63106,mturk_file_8.csv,1294,color,Color,rejected_hit
+63107,mturk_file_8.csv,1294,private,Private,rejected_hit
 63128,mturk_file_8.csv,1399,recipe,"a set of instructions for cooking or preparing a particular food
 Cooks, cuisine and cookery: Mrs Beeton, chef, cook, cookery, cooking, cooking, cordon bleu cuisine, culinary, foodie",original_cleaning
 63129,mturk_file_8.csv,1399,mom,"mom - informal terms for a mother  
@@ -3199,6 +3510,11 @@ Ex-He stood still, his heart thumping wildly.",original_cleaning
 b. The repository of one's deepest and sincerest feelings and beliefs.The seat of the intellect or imagination.",original_cleaning
 63485,mturk_file_8.csv,1286,hallway,A corridor in a building.An entrance hall.,long_duplicate
 63501,mturk_file_8.csv,814,characteristic,"A feature that helps to identify, tell apart, or describe recognizably; a distinguishing mark or trait,a distinguishing quality, attribute, or trait,the integral part of a common logarithm.",original_cleaning
+63503,mturk_file_8.csv,1294,test,Test,rejected_hit
+63504,mturk_file_8.csv,1294,danger,Danger,rejected_hit
+63505,mturk_file_8.csv,1294,hallway,Hallway,rejected_hit
+63506,mturk_file_8.csv,1294,characteristic,Characteristic,rejected_hit
+63507,mturk_file_8.csv,1294,heart,Heart,rejected_hit
 63543,mturk_file_8.csv,1263,test,"A procedure for critical evaluation; a means of determining the presence, quality, or truth of something; a trial.",long_duplicate
 63545,mturk_file_8.csv,1263,hallway,A corridor in a building.An entrance hall.,long_duplicate
 63546,mturk_file_8.csv,1263,characteristic,"Pertaining to, or serving to constitute, the character; showing the character, or distinctive qualities or traits, of a person or thing; peculiar; distinctive.",original_cleaning
@@ -3260,6 +3576,11 @@ chopped meat prepared in the same manner as a steak.","original_cleaning,numbere
 The precise location of something; a spatially limited location.",original_cleaning
 63671,mturk_file_8.csv,1288,bell,"A hollow device made of metal that makes a ringing sound when struck.
 A push button at an outer door.",original_cleaning
+63673,mturk_file_8.csv,1294,point,Point,rejected_hit
+63674,mturk_file_8.csv,1294,walkway,Walkway,rejected_hit
+63675,mturk_file_8.csv,1294,murderer,Murderer,rejected_hit
+63676,mturk_file_8.csv,1294,bell,Bell,rejected_hit
+63677,mturk_file_8.csv,1294,steak,Steak,rejected_hit
 63696,mturk_file_8.csv,823,bell,"Bell:-ring, ring around, ring back, ring binder, bell bottom, diving",original_cleaning
 63724,mturk_file_8.csv,1293,walkway,"n US English, a walkway is a composite or umbrella term for all engineered surfaces or structures which support the use of trails. These include sidewalks, footbridges, stiles, stairs, ramps, paseos or tunnels. Walkways can also be used by passengers to board or disembark from an aircraft to the terminal building.
 
@@ -3327,6 +3648,11 @@ tapering extremity, the points of the fingers,something having a sharp , taperin
 63950,mturk_file_8.csv,1334,bass,"type of fish, type of male voice in chorus, deep voice, musical stringed instrument",original_cleaning
 63970,mturk_file_8.csv,1419,bass,"bass: music, guitar, sounds, senses, creation, beauty, joy, natural",original_cleaning
 63973,mturk_file_8.csv,806,hospital,an institution in which sick or injured persons are given medical or surgical treatment.,long_duplicate
+63997,mturk_file_8.csv,1294,clue,Clue,rejected_hit
+63998,mturk_file_8.csv,1294,hospital,Hospital,rejected_hit
+63999,mturk_file_8.csv,1294,hundred,Hundred,rejected_hit
+64000,mturk_file_8.csv,1294,bass,Bass,rejected_hit
+64001,mturk_file_8.csv,1294,spill,Spill,rejected_hit
 64002,mturk_file_8.csv,1288,clue,"A slight indication.
 Evidence that helps to solve a problem.",original_cleaning
 64005,mturk_file_8.csv,1288,bass,"The lowest part of the musical range.
@@ -3394,6 +3720,11 @@ to cause to fall from a horse, vehicle, or the like: His horse spilled him.","or
 64170,mturk_file_8.csv,1263,bass,"A bass is a perciform fish, many species of which are popular for fishing and eating.",original_cleaning
 64173,mturk_file_8.csv,1277,hospital,an institution in which sick or injured persons are given medical or surgical treatment.,long_duplicate
 64175,mturk_file_8.csv,1277,bass,low in pitch; of the lowest pitch or range.,original_cleaning
+64216,mturk_file_8.csv,1294,fishing,fish,rejected_hit
+64217,mturk_file_8.csv,1294,cologne,Colog,rejected_hit
+64218,mturk_file_8.csv,1294,mail,mail,rejected_hit
+64219,mturk_file_8.csv,1294,act,act,rejected_hit
+64220,mturk_file_8.csv,1294,questions,questions,rejected_hit
 64230,mturk_file_8.csv,825,questions,"query, inquiry, problem",original_cleaning
 64231,mturk_file_8.csv,1310,fishing,"the act of catching fish.
 
@@ -3667,6 +3998,11 @@ Ex-I believe that he will come back from the war.",original_cleaning
 Ex-My son is farming in California",original_cleaning
 64750,mturk_file_8.csv,1377,republican,"Relating to or belonging to the Republican Party.
 Ex-The United States shall guarantee to every state in this union a republican form of government.",original_cleaning
+64758,mturk_file_8.csv,1294,believe,Believe,rejected_hit
+64759,mturk_file_8.csv,1294,farm,Farm,rejected_hit
+64760,mturk_file_8.csv,1294,republican,Republican,rejected_hit
+64761,mturk_file_8.csv,1294,ketchup,Ketchup,rejected_hit
+64762,mturk_file_8.csv,1294,creator,Creator,rejected_hit
 64793,mturk_file_8.csv,1433,busy,"This is hard work,no time ,no rest,tired ,like businessman",original_cleaning
 64798,mturk_file_8.csv,1317,busy,"occupied or engaged in work etc.with the attention concentrated ,full of activity or detail;fussy (a busy evening ;a picture busy with detail
 ).,employed continuously ;unresting ,middlesome;prying,esp.N Amer .(of telephoneline)engaged,keep busy occupy .","original_cleaning,semicolon_definition"
@@ -3753,6 +4089,11 @@ Sustaining much activity: a busy morning; a busy street.
 Meddlesome; prying.
 Being in use, as a telephone line",original_cleaning
 64901,mturk_file_8.csv,770,lunch,"A meal eaten at midday,The food provided for a midday meal",long_duplicate
+64923,mturk_file_8.csv,1294,busy,Busy,rejected_hit
+64924,mturk_file_8.csv,1294,city,City,rejected_hit
+64925,mturk_file_8.csv,1294,tool,Tool,rejected_hit
+64926,mturk_file_8.csv,1294,lunch,Lunch,rejected_hit
+64927,mturk_file_8.csv,1294,maker,Marker,rejected_hit
 64928,mturk_file_8.csv,1332,busy,hesaurus entry for this meaning of busy. a. a busy time is when you have a lot ...(a.) Engaged in some business; hard at work (either habitually or only for the time being); occupied with serious affairs; not idle nor ...,semicolon_definition
 64929,mturk_file_8.csv,1332,city,"city is distinguished from a town within general English language meanings, (n.) A large town. (n.) The collective body of citizens, or inhabitants of a city. (a.) Of or pertaining to a city. (n.) A corporate town; in ...",pos_tag
 64931,mturk_file_8.csv,1332,lunch,"a midday meal. Synonyms: eon, tiffin, dejeuner; [verb] take the midday meal; ""At what time are you lunching?"" [verb] provide a midday ...A luncheon; specifically, a light repast between breakfast and dinner.",semicolon_definition
@@ -3761,6 +4102,11 @@ Being in use, as a telephone line",original_cleaning
 64983,mturk_file_8.csv,853,busy,"engaged in activity,as work,sustaining much activity,meddlesome,keep busy with; ""She busies herself with her butterfly collection""
 Synonyms: occupy,actively or fully engaged or occupied; ""busy with her work""; ""a busy man""; ""too busy to eat lunch""; ""the line is busy""","original_cleaning,semicolon_definition"
 64984,mturk_file_8.csv,853,city,"A large town,The collective body of citizens, or inhabitants of a city,Of or pertaining to a city,A corporate town; in the United States, a town or collective body of inhabitants, incorporated and governed by a mayor and aldermen or a city council consisting of a board of aldermen and a common council; in Great Britain, a town corporate, which is or has been the seat of a bishop, or the capital of his see.",semicolon_definition
+64998,mturk_file_8.csv,1439,busy,student,rejected_hit
+64999,mturk_file_8.csv,1439,city,Kocani,rejected_hit
+65000,mturk_file_8.csv,1439,tool,Hand,rejected_hit
+65001,mturk_file_8.csv,1439,lunch,Meal,rejected_hit
+65002,mturk_file_8.csv,1439,maker,Things,rejected_hit
 65008,mturk_file_8.csv,823,busy,"Busy:-no time,related to time,busy. Engaged in some business; hard at work either habitually or only for the time",original_cleaning
 65035,mturk_file_8.csv,1263,tool,"A device, such as a saw, used to perform or facilitate manual or mechanical work.",long_duplicate
 65036,mturk_file_8.csv,1263,lunch,A meal eaten at midday. The food provided for a midday meal.,long_duplicate
@@ -4049,6 +4395,9 @@ a combination of circumstances, events, etc., operating by chance to bring good 
 4.
 some object on which good fortune is supposed to depend: This rabbit's foot is my luck.","original_cleaning,very_long,numbered_senses"
 65857,mturk_file_8.csv,822,below,in or to a lower place,original_cleaning
+65887,mturk_file_8.csv,899,below,a person below the proverty.,rejected_hit
+65888,mturk_file_8.csv,899,here,"i,am wating for you now.",rejected_hit
+65889,mturk_file_8.csv,899,luck,yesterday  i got luck because lottery is win,rejected_hit
 65890,mturk_file_8.csv,1310,below,"in or toward a lower place
 on, in, or toward a lower level, as a lower deck of a ship
 beneath the surface of the water
@@ -4066,6 +4415,11 @@ present",original_cleaning
 good fortune; advantage or success, considered as the result of chance
 a combination of circumstances, events, etc., operating by chance to bring good or ill to a person",original_cleaning
 65895,mturk_file_8.csv,770,below,"In or to a lower place; beneath., In a later part of a given text",original_cleaning
+65915,mturk_file_8.csv,1294,below,Below,rejected_hit
+65916,mturk_file_8.csv,1294,swamp,Swamp,rejected_hit
+65917,mturk_file_8.csv,1294,here,Here,rejected_hit
+65918,mturk_file_8.csv,1294,luck,Luck,rejected_hit
+65919,mturk_file_8.csv,1294,toothpaste,Toothpaste,rejected_hit
 65934,mturk_file_8.csv,1289,toothpaste,fg,original_cleaning
 65945,mturk_file_8.csv,1277,below,on earth: the fate of creatures here below.,original_cleaning
 65965,mturk_file_8.csv,1000,below,"is an adjective, is a direction, is downward, is beneath",original_cleaning
@@ -4206,6 +4560,11 @@ b. A person stationed in a given location as a spy or observer.
 c. A misleading piece of evidence placed so as to be discovered.
 d. A remark or action in a play or narrative that becomes important later.
 5. Slang A scheming trick; a swindle.","original_cleaning,very_long,semicolon_definition"
+66105,mturk_file_8.csv,1294,egg,Egg,rejected_hit
+66106,mturk_file_8.csv,1294,superman,Superman,rejected_hit
+66107,mturk_file_8.csv,1294,driver,Driver,rejected_hit
+66108,mturk_file_8.csv,1294,promise,Promise,rejected_hit
+66109,mturk_file_8.csv,1294,plant,Plant,rejected_hit
 66135,mturk_file_8.csv,1288,egg,"Oval reproductive body of a fowl.
 One of the two male reproductive glands.",original_cleaning
 66137,mturk_file_8.csv,1288,driver,"The operator of a motor vehicle.
@@ -4258,7 +4617,11 @@ a seedling or a growing slip, especially one ready for transplanting.
 the equipment, including the fixtures, machinery, tools, etc., and often the buildings, necessary to carry on any industrial business: a manufacturing plant.
 5.
 the complete equipment or apparatus for a particular mechanical process or operation: the heating plant for a home.","original_cleaning,very_long,numbered_senses"
-66151,mturk_file_8.csv,1289,superman,df,original_cleaning
+66150,mturk_file_8.csv,1289,egg,egg,rejected_hit
+66151,mturk_file_8.csv,1289,superman,df,"original_cleaning,rejected_hit"
+66152,mturk_file_8.csv,1289,driver,rider,rejected_hit
+66153,mturk_file_8.csv,1289,promise,peomise,rejected_hit
+66154,mturk_file_8.csv,1289,plant,tree,rejected_hit
 66227,mturk_file_8.csv,1286,driver,"One that drives, as the operator of a motor vehicle.  Computer Science A piece of software that enables a computer to communicate with a peripheral device.A tool,
 hammer.",original_cleaning
 66228,mturk_file_8.csv,1286,promise,"A declaration assuring that one will or will not do something;  Something promised
@@ -4294,6 +4657,11 @@ Synonyms: cogent evidence
 Synonyms: test copy, trial impression","original_cleaning,very_long"
 66371,mturk_file_8.csv,823,care,"care:-baby,pets,children,hospital,people,",original_cleaning
 66373,mturk_file_8.csv,823,bad,"bad:-drinking the alcohol,speaking bad words,scolding the other persons,smoking cigarette .",original_cleaning
+66390,mturk_file_8.csv,1010,winter,sex,rejected_hit
+66391,mturk_file_8.csv,1010,care,mother,rejected_hit
+66392,mturk_file_8.csv,1010,purse,girlfriend,rejected_hit
+66393,mturk_file_8.csv,1010,bad,wife,rejected_hit
+66394,mturk_file_8.csv,1010,proof,love,rejected_hit
 66411,mturk_file_8.csv,1293,care,"Care is a symbol and an integral part of a relationship between 12 or more living things. It symbolizes love, attention, feelings one can have towards a person one loves.",original_cleaning
 66414,mturk_file_8.csv,1293,proof,"A proof is sufficient evidence or argument for the truth of a proposition.[1][2][3][4]
 
@@ -5196,6 +5564,7 @@ Psychiatry . a state of apprehension and psychic tension occurring in some forms
 67402,mturk_file_9.csv,1482,high,peak,original_cleaning
 67410,mturk_file_9.csv,1360,hunger,"A strong desire or need for food, he discomfort, weakness, or pain caused by a prolonged lack of food, A strong desire or craving",original_cleaning
 67412,mturk_file_9.csv,1360,high,"Having a relatively great elevation; extending far upward, Being at or near the peak or culminating stage, Luxurious; extravagant, Of great importance",semicolon_definition
+67414,mturk_file_9.csv,1345,anxiety,Anxiety,rejected_hit
 67417,mturk_file_9.csv,806,beer,"an alcoholic beverage made by brewing and fermentation from cereals, usually malted barley, and flavored with hops and the like for a slightly bitter taste.",original_cleaning
 67420,mturk_file_9.csv,1475,medicine,any substance or substances used in treating disease or illness.,long_duplicate
 67422,mturk_file_9.csv,1475,beer,"an alcoholic beverage made by brewing and fermentation from cereals, usually malted barley, and flavored with hops and the like for a slightly bitter taste.","original_cleaning,long_duplicate"

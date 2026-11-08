@@ -45849,24 +45849,11 @@ row_id,subject_id,cue,answer_stopped,tokens
 46686,776,map,overall view,overall|overall|ADJ view|view|NOUN
 46687,776,plain,clear,clear|clear|ADV
 46688,776,town,area,area|area|NOUN
-46689,777,boxer,noun member fiercely nationalistic chinese secret society flourish nineteenth century,noun|noun|PROPN member|member|NOUN fiercely|fiercely|ADV nationalistic|nationalistic|ADJ chinese|chinese|ADJ secret|secret|ADJ society|society|NOUN flourished|flourish|VERB 19th|nineteenth|NUM century|century|NOUN
-46690,777,dancer,noun system aerobic exercise dance movement,noun|noun|PROPN system|system|NOUN aerobic|aerobic|ADJ exercise|exercise|NOUN dance|dance|NOUN movements|movement|NOUN
-46691,777,map,diagrammatic representation area land sea show physical feature city road etc,diagrammatic|diagrammatic|ADJ representation|representation|NOUN area|area|NOUN land|land|NOUN sea|sea|NOUN showing|show|VERB physical|physical|ADJ features|feature|NOUN cities|city|NOUN roads|road|NOUN etc|etc|X
-46692,777,plain,decorate elaborate simple ordinary without pattern one colour unmarked without identification envelope,decorated|decorate|VERB elaborate|elaborate|ADJ simple|simple|ADJ ordinary|ordinary|ADJ without|without|ADP pattern|pattern|NOUN one|one|NUM colour|colour|NOUN unmarked|unmarked|ADJ without|without|ADP identification|identification|NOUN envelope|envelope|NOUN
-46693,777,town,build area name define boundary local government large village small city øbritish date chief city region,built|build|VERB area|area|NOUN name|name|NOUN defined|define|VERB boundaries|boundary|NOUN local|local|ADJ government|government|NOUN larger|large|ADJ village|village|NOUN smaller|small|ADJ city|city|NOUN øbritish|øbritish|PROPN dated|date|VERB chief|chief|ADJ city|city|NOUN region|region|NOUN
-46694,778,dancer,dance,dancing|dance|VERB
-46695,778,map,world design,world|world|NOUN design|design|NOUN
-46696,778,plain,empty,empty|empty|ADJ
-46697,778,town,city,city|city|NOUN
 46698,779,boxer,sport fight fist,sport|sport|NOUN fighting|fight|VERB fists|fist|NOUN
 46699,779,dancer,move rhythmically music,move|move|VERB rhythmically|rhythmically|ADV music|music|NOUN
 46700,779,map,show correct direction place,shows|show|VERB correct|correct|ADJ direction|direction|NOUN place|place|NOUN
 46701,779,plain,area level,area|area|NOUN level|level|NOUN
 46702,779,town,human settlement large village small city,human|human|ADJ settlement|settlement|NOUN larger|large|ADJ village|village|NOUN smaller|small|ADJ city|city|NOUN
-46704,780,dancer,never know good,never|never|ADV knew|know|VERB good|good|ADJ
-46705,780,map,road,road|road|NOUN
-46706,780,plain,prefer food nothing fancy,prefers|prefer|VERB food|food|NOUN nothing|nothing|PRON fancy|fancy|ADJ
-46707,780,town,fishing mining,fishing|fishing|NOUN mining|mining|NOUN
 46708,781,boxer,fight money,fights|fight|VERB money|money|NOUN
 46709,781,dancer,dance music play different poster mudra hand leg,dances|dance|VERB music|music|NOUN played|play|VERB different|different|ADJ posters|poster|NOUN mudras|mudra|NOUN hands|hand|NOUN legs|leg|NOUN
 46710,781,map,diagrammatic representation area place,diagrammatic|diagrammatic|ADJ representation|representation|NOUN area|area|NOUN place|place|NOUN
@@ -46130,10 +46117,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 46970,784,kidnap,take control imprison person sly without permission,take|take|VERB control|control|NOUN imprison|imprison|VERB person|person|NOUN sly|sly|ADJ without|without|ADP permission|permission|NOUN
 46971,784,specific,exact,exact|exact|NOUN
 46972,784,time,total second minute hour fun fill experience,total|total|NOUN seconds|second|NOUN minutes|minute|NOUN hours|hour|NOUN fun|fun|NOUN filled|fill|VERB experience|experience|NOUN
-46973,831,april,day name appropriate french history series insurrection lyon fourth month year,days|day|NOUN name|name|NOUN appropriated|appropriate|VERB french|french|ADJ history|history|NOUN series|series|NOUN insurrections|insurrection|NOUN lyons|lyon|NOUN fourth|fourth|ADJ month|month|NOUN year|year|NOUN
-46974,831,first,come time,coming|come|VERB times|time|NOUN
-46975,831,kidnap,take force hold captive order obtain money release,take|take|VERB force|force|NOUN hold|hold|VERB captive|captive|ADJ order|order|NOUN obtain|obtain|VERB money|money|NOUN release|release|NOUN
-46977,831,time,period unlimited continued progress existence event past past future,period|period|NOUN unlimited|unlimited|ADJ continued|continued|ADJ progress|progress|NOUN existence|existence|NOUN events|event|NOUN past|past|NOUN past|past|ADJ future|future|NOUN
 46978,796,april,fourth month year,fourth|fourth|ADJ month|month|NOUN year|year|NOUN
 46979,796,first,come,coming|come|VERB
 46980,796,kidnap,take person away illegally force,take|take|VERB person|person|NOUN away|away|ADV illegally|illegally|ADV force|force|NOUN
@@ -46238,7 +46221,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 47080,822,kidnap,steal,steal|steal|VERB
 47081,822,specific,unique distinctive definite,unique|unique|ADJ distinctive|distinctive|ADJ definite|definite|ADJ
 47082,822,time,duration happen precise instant happen,duration|duration|NOUN happen|happen|VERB precise|precise|ADJ instant|instant|NOUN happens|happen|VERB
-47083,777,april,noun fourth month year,noun|noun|PROPN fourth|fourth|ADJ month|month|NOUN year|year|NOUN
 47088,820,april,"month fool,30 day","month|month|NOUN fool,30|fool,30|PROPN days|day|NOUN"
 47089,820,first,top number leader,top|top|ADJ number|number|NOUN leader|leader|NOUN
 47090,820,kidnap,illegal hurt,illegal|illegal|ADJ hurt|hurt|VERB
@@ -46326,11 +46308,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 47175,792,kidnap,seize unlawfully ransom,seize|seize|VERB unlawfully|unlawfully|ADV ransom|ransom|NOUN
 47176,792,specific,accurate,accurate|accurate|ADJ
 47177,792,time,interval,interval|interval|NOUN
-47178,780,april,one dry year,one|one|NUM driest|dry|ADJ years|year|NOUN
-47179,780,first,visit new york,visit|visit|NOUN new|new|PROPN york|york|PROPN
-47180,780,kidnap,wife businessman home surrey,wife|wife|NOUN businessman|businessman|NOUN home|home|NOUN surrey|surrey|NOUN
-47181,780,specific,virus attack cell brain,virus|virus|NOUN attacks|attack|VERB cells|cell|NOUN brain|brain|NOUN
-47182,780,time,want spend family,wants|want|VERB spend|spend|VERB family|family|NOUN
 47183,812,april,apr month,apr|apr|VERB month|month|NOUN
 47184,812,first,base gear low low gear class honours degree number one,base|base|NOUN gear|gear|NOUN low|low|ADJ low|low|ADJ gear|gear|NOUN class|class|NOUN honours|honours|ADJ degree|degree|NOUN number|number|NOUN 1|one|NUM
 47185,812,kidnap,abduct nobble snatch,abduct|abduct|NOUN nobble|nobble|ADJ snatch|snatch|VERB
@@ -46418,13 +46395,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 47270,854,monster,horrible look person extremely wicked person imaginary creature unhumanly cruel person large ugly misshapen animal huge beast giant dragon brute,horrible|horrible|ADJ looking|look|VERB person|person|NOUN extremely|extremely|ADV wicked|wicked|ADJ person|person|NOUN imaginary|imaginary|ADJ creature|creature|NOUN unhumanly|unhumanly|ADV cruel|cruel|ADJ person|person|NOUN large|large|ADJ ugly|ugly|ADJ misshapen|misshapen|ADJ animal|animal|NOUN huge|huge|ADJ beast|beast|NOUN giant|giant|ADJ dragon|dragon|NOUN brute|brute|ADJ
 47271,854,square,four equal side right angle honest fair large open space middle town product number multiply suit pay one owe,four|four|NUM equal|equal|ADJ sides|side|NOUN right|right|ADJ angles|angle|NOUN honest|honest|ADJ fair|fair|ADJ large|large|ADJ open|open|ADJ space|space|NOUN middle|middle|NOUN town|town|NOUN product|product|NOUN number|number|NOUN multiplied|multiply|VERB suit|suit|NOUN pay|pay|VERB one|one|NOUN owes|owe|VERB
 47272,854,stair,step series step ascending part building contain step incline block steep block move,step|step|NOUN series|series|NOUN steps|step|NOUN ascending|ascending|NOUN part|part|NOUN building|building|NOUN containing|contain|VERB steps|step|NOUN inclined|incline|VERB blocks|block|NOUN steep|steep|ADJ blocks|block|NOUN move|move|VERB
-47273,780,back,take scissors remember,take|take|VERB scissors|scissors|NOUN remember|remember|VERB
-47274,780,eggs,scramble toast,scrambled|scramble|VERB toast|toast|NOUN
-47275,780,monster,prehistoric,prehistoric|prehistoric|ADJ
-47276,780,square,first draw,first|first|ADV draw|draw|VERB
-47277,780,stair,stairs office right,stairs|stairs|NOUN office|office|NOUN right|right|NOUN
-47279,777,eggs,noun number plant yellow flower mark orange red brown supposedly suggestive bacon especially bird foot trefoil,noun|noun|PROPN number|number|NOUN plants|plant|NOUN yellow|yellow|ADJ flowers|flower|NOUN marked|mark|VERB orange|orange|ADJ red|red|ADJ brown|brown|ADJ supposedly|supposedly|ADV suggestive|suggestive|NOUN bacon|bacon|NOUN especially|especially|ADV bird|bird|NOUN foot|foot|NOUN trefoil|trefoil|NOUN
-47282,777,stair,noun set fix step stairs set step lead one floor building,noun|noun|PROPN set|set|NOUN fixed|fix|VERB steps|step|NOUN stairs|stairs|NOUN set|set|NOUN steps|step|NOUN leading|lead|VERB one|one|NUM floor|floor|NOUN building|building|NOUN
 47283,779,back,opposite front,opposite|opposite|ADV front|front|NOUN
 47284,779,eggs,lay bird,layed|lay|VERB birds|bird|NOUN
 47285,779,monster,unnatural size shape give fear,unnatural|unnatural|ADJ size|size|NOUN shape|shape|NOUN gives|give|VERB fear|fear|NOUN
@@ -46784,19 +46754,12 @@ row_id,subject_id,cue,answer_stopped,tokens
 47661,771,indoors,house office school outdoors,house|house|PROPN office|office|NOUN school|school|NOUN outdoors|outdoors|ADV
 47662,771,name,signature identification birth certificate,signature|signature|NOUN identification|identification|NOUN birth|birth|NOUN certificate|certificate|NOUN
 47663,771,tart,sour sweet pucker,sour|sour|ADJ sweet|sweet|ADJ pucker|pucker|NOUN
-47666,831,indoors,inside building inside building,inside|inside|ADP building|building|NOUN inside|inside|ADP building|building|NOUN
-47667,831,name,know,known|know|VERB
-47668,831,tart,spark acid taste sharp hurtful,spark|spark|NOUN acid|acid|NOUN taste|taste|NOUN sharp|sharp|ADJ hurtful|hurtful|ADJ
 47672,813,name,gens epithet public figure figure,gens|gens|PROPN epithet|epithet|NOUN public|public|ADJ figure|figure|NOUN figure|figure|VERB
 47674,773,clear,neatly,neatly|neatly|ADV
 47675,773,false,correct,correct|correct|ADJ
 47676,773,indoors,outdoors,outdoors|outdoors|ADV
 47677,773,name,identity,identity|identity|NOUN
 47678,773,tart,place,place|place|NOUN
-47679,769,clear,free darkness obscurity cloudiness light day transparent pellucid water without discoloration defect blemish complexion pane glass pure even color yellow silk see sharply define outline,free|free|ADJ darkness|darkness|NOUN obscurity|obscurity|NOUN cloudiness|cloudiness|NOUN light|light|NOUN day|day|NOUN transparent|transparent|NOUN pellucid|pellucid|NOUN water|water|NOUN without|without|ADP discoloration|discoloration|NOUN defect|defect|NOUN blemish|blemish|NOUN complexion|complexion|NOUN pane|pane|NOUN glass|glass|NOUN pure|pure|ADJ even|even|ADV color|color|NOUN yellow|yellow|NOUN silk|silk|NOUN seen|see|VERB sharply|sharply|ADV defined|define|VERB outline|outline|NOUN
-47680,769,false,true correct erroneous statement utter declare untrue witness faithful loyal treacherous friend tend deceive mislead deceptive impression genuine counterfeit,true|true|ADJ correct|correct|ADJ erroneous|erroneous|ADJ statement|statement|NOUN uttering|utter|VERB declaring|declare|VERB untrue|untrue|ADJ witness|witness|NOUN faithful|faithful|ADJ loyal|loyal|ADJ treacherous|treacherous|ADJ friend|friend|NOUN tending|tend|VERB deceive|deceive|VERB mislead|mislead|VERB deceptive|deceptive|ADJ impression|impression|NOUN genuine|genuine|ADJ counterfeit|counterfeit|ADJ
-47681,769,indoors,house building stay storminside house building,house|house|NOUN building|building|NOUN stayed|stay|VERB storm.inside|storminside|ADJ house|house|NOUN building|building|NOUN
-47683,769,tart,sharp taste sour acid apple good pie astringent acrid piquant sharp character spirit expression cut bite remark sarcastic barbed caustic acerbic acrimonious small pie fill cooked fruit sweeten preparation top crust cover pie contain fruit,sharp|sharp|ADJ taste|taste|NOUN sour|sour|ADJ acid|acid|NOUN apples|apple|NOUN best|good|ADJ pie|pie|NOUN astringent|astringent|ADJ acrid|acrid|ADJ piquant|piquant|NOUN sharp|sharp|ADJ character|character|NOUN spirit|spirit|NOUN expression|expression|NOUN cutting|cut|VERB biting|bite|VERB remark|remark|NOUN sarcastic|sarcastic|ADJ barbed|barbed|ADJ caustic|caustic|ADJ acerbic|acerbic|ADJ acrimonious|acrimonious|ADJ small|small|ADJ pie|pie|NOUN filled|fill|VERB cooked|cooked|ADJ fruit|fruit|NOUN sweetened|sweeten|VERB preparation|preparation|NOUN top|top|ADJ crust|crust|NOUN covered|cover|VERB pie|pie|NOUN containing|contain|VERB fruit|fruit|NOUN
 47684,873,clear,clean well define,clean|clean|ADJ well|well|ADV defined|define|VERB
 47685,873,false,untrue mistaken disloyal faithless manner,untrue|untrue|ADJ mistaken|mistaken|ADJ disloyal|disloyal|ADJ faithless|faithless|NOUN manner|manner|NOUN
 47686,873,indoors,within building inside,within|within|ADP building|building|NOUN inside|inside|ADV
@@ -46856,10 +46819,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 47740,792,indoors,inside house,inside|inside|ADP house|house|NOUN
 47741,792,name,,
 47742,792,tart,sharp,sharp|sharp|ADJ
-47743,808,clear,alaska unincorporated community denali borough alaska united states,alaska|alaska|PROPN unincorporated|unincorporated|ADJ community|community|NOUN denali|denali|NOUN borough|borough|PROPN alaska|alaska|PROPN united|united|PROPN states|states|PROPN
-47744,808,false,logic lie falsehood type deception form untruthful statement falsity falsehood law deceitfulness one party result damage falsie padding brassiere create appearance large breast programming language,logic|logic|NOUN lie|lie|NOUN falsehood|falsehood|NOUN type|type|NOUN deception|deception|NOUN form|form|NOUN untruthful|untruthful|ADJ statement|statement|NOUN falsity|falsity|NOUN falsehood|falsehood|NOUN law|law|NOUN deceitfulness|deceitfulness|ADJ one|one|NUM party|party|NOUN results|result|VERB damage|damage|NOUN falsies|falsie|NOUN padding|padding|NOUN brassiere|brassiere|NOUN create|create|VERB appearance|appearance|NOUN larger|large|ADJ breasts|breast|NOUN programming|programming|NOUN language|language|NOUN
-47746,808,name,term identification identify class category single uniquely within give context personal identify specific unique identifiable individual person include middle,term|term|NOUN identification|identification|NOUN identify|identify|VERB class|class|NOUN category|category|NOUN single|single|ADJ uniquely|uniquely|ADV within|within|ADP given|give|VERB context|context|NOUN personal|personal|ADJ identifies|identify|VERB specific|specific|ADJ unique|unique|ADJ identifiable|identifiable|ADJ individual|individual|ADJ person|person|NOUN include|include|VERB middle|middle|ADJ
-47747,808,tart,bake dish consist filling pastry base open top cover pastry pastry shortcrust pastry filling sweet savoury though modern fruit sometimes custard,baked|bake|VERB dish|dish|NOUN consisting|consist|VERB filling|filling|NOUN pastry|pastry|NOUN base|base|NOUN open|open|ADJ top|top|NOUN covered|cover|VERB pastry|pastry|NOUN pastry|pastry|NOUN shortcrust|shortcrust|ADJ pastry|pastry|NOUN filling|filling|NOUN sweet|sweet|ADJ savoury|savoury|VERB though|though|SCONJ modern|modern|ADJ fruit|fruit|NOUN sometimes|sometimes|ADV custard|custard|NOUN
 47748,784,clear,without stain without danger,without|without|ADP stain|stain|NOUN without|without|ADP danger|danger|NOUN
 47749,784,false,true incorrect error,true|true|ADJ incorrect|incorrect|ADJ error|error|NOUN
 47750,784,indoors,outdoors within building,outdoors|outdoors|ADV within|within|ADP building|building|NOUN
@@ -46959,7 +46918,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 47845,835,indoors,inside wall ceiling house building cave underground structure,inside|inside|ADV walls|wall|NOUN ceiling|ceiling|NOUN houses|house|NOUN buildings|building|NOUN caves|cave|NOUN underground|underground|ADJ structures|structure|NOUN
 47846,835,name,noun call variable,noun|noun|PROPN call|call|VERB variable|variable|ADJ
 47847,835,tart,fruit meat pastry woman girl makeup,fruit|fruit|NOUN meat|meat|NOUN pastry|pastry|NOUN woman|woman|NOUN girl|girl|NOUN makeup|makeup|NOUN
-47852,777,tart,noun open pastry case contain sweet savory filling,noun|noun|PROPN open|open|ADJ pastry|pastry|NOUN case|case|NOUN containing|contain|VERB sweet|sweet|ADJ savory|savory|ADJ filling|filling|NOUN
 47853,789,clear,clouds mist transparent blemish impurity,clouds|clouds|PROPN mist|mist|NOUN transparent|transparent|ADJ blemish|blemish|NOUN impurity|impurity|NOUN
 47854,789,false,mistake wrong incorrect real genuine,mistake|mistake|PROPN wrong|wrong|ADJ incorrect|incorrect|ADJ real|real|ADJ genuine|genuine|ADJ
 47855,789,indoors,within door within house domestic work,within|within|ADP doors|door|NOUN within|within|ADP house|house|NOUN domestic|domestic|ADJ work|work|NOUN
@@ -47343,7 +47301,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 48255,897,hands,one part human lift human two five finger write,one|one|NUM part|part|NOUN human|human|ADJ lift|lift|VERB human|human|ADJ 2|two|NUM 5|five|NUM fingers|finger|NOUN write|write|VERB
 48256,897,newton,scientist law great man roll model many scientist,scientist|scientist|NOUN law|law|NOUN great|great|ADJ man|man|NOUN roll|roll|NOUN model|model|NOUN many|many|ADJ scientist|scientist|NOUN
 48257,897,there,be a english word to point something its a speech example be a man,is|be|AUX a|a|DET english|english|ADJ word|word|NOUN to|to|PART point|point|VERB something|something|PRON its|its|PRON a|a|DET speech|speech|NOUN example|example|NOUN is|be|AUX a|a|DET man|man|NOUN
-48262,813,there,a location other than here that place,a|a|DET location|location|NOUN other|other|ADJ than|than|ADP here|here|ADV that|that|DET place|place|NOUN
 48263,792,club,heavy stick,heavy|heavy|ADJ stick|stick|NOUN
 48264,792,encourage,opposite discourage,opposite|opposite|ADV discourage|discourage|NOUN
 48265,792,hands,part body,part|part|NOUN body|body|NOUN
@@ -47423,11 +47380,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 48340,803,hands,end part person arm beyond wrist include palm finger thumb,end|end|NOUN part|part|NOUN person|person|NOUN arm|arm|NOUN beyond|beyond|ADP wrist|wrist|NOUN including|include|VERB palm|palm|NOUN fingers|finger|NOUN thumb|thumb|NOUN
 48341,803,newton,si unit force equal force give mass one kilogram acceleration one meter per second,si|si|NOUN unit|unit|NOUN force|force|NOUN equal|equal|ADJ force|force|NOUN give|give|VERB mass|mass|NOUN one|one|NUM kilogram|kilogram|NOUN acceleration|acceleration|NOUN one|one|NUM meter|meter|NOUN per|per|ADP second|second|ADJ
 48342,803,there,use to focus attention on something and express satisfaction or annoyance at it,used|use|VERB to|to|PART focus|focus|VERB attention|attention|NOUN on|on|ADP something|something|PRON and|and|CCONJ express|express|VERB satisfaction|satisfaction|NOUN or|or|CCONJ annoyance|annoyance|NOUN at|at|ADP it|it|PRON
-48343,852,club,member god country give self confidant,member|member|NOUN gods|god|NOUN country|country|NOUN gives|give|VERB self|self|NOUN confidant|confidant|NOUN
-48344,852,encourage,sister give small gift give motivate,sisters|sister|NOUN give|give|VERB small|small|ADJ gift|gift|NOUN gives|give|VERB motivate|motivate|VERB
-48345,852,hands,work,working|work|VERB
-48346,852,newton,famous scientist pawer,famous|famous|ADJ scientists|scientist|NOUN pawer|pawer|NOUN
-48347,852,there,be a man,is|be|AUX a|a|DET men|man|NOUN
 48348,898,club,establishment group people belong people interest wear certain uniform secret handshake phrase motto,establishment|establishment|NOUN group|group|NOUN people|people|NOUN belong|belong|VERB people|people|NOUN interest|interest|NOUN wear|wear|VERB certain|certain|ADJ uniform|uniform|NOUN secret|secret|ADJ handshake|handshake|NOUN phrase|phrase|NOUN motto|motto|NOUN
 48349,898,encourage,tell people person know well help continue,tell|tell|VERB people|people|NOUN person|person|NOUN know|know|VERB well|well|ADV helping|help|VERB continue|continue|VERB
 48350,898,hands,appendage end arm two five finger thumb pointer middle ring pinky receptor help feel cold heat pain pressure,appendages|appendage|NOUN end|end|NOUN arms|arm|NOUN two|two|NUM five|five|NUM fingers|finger|NOUN thumb|thumb|NOUN pointer|pointer|NOUN middle|middle|ADJ ring|ring|NOUN pinky|pinky|ADJ receptors|receptor|NOUN help|help|VERB feel|feel|VERB cold|cold|ADJ heat|heat|NOUN pain|pain|NOUN pressure|pressure|NOUN
@@ -47503,11 +47455,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 48420,796,hands,part body,part|part|NOUN body|body|NOUN
 48421,796,newton,unit measure force,unit|unit|NOUN measure|measure|VERB force|force|NOUN
 48422,796,there,that place,that|that|DET place|place|NOUN
-48423,808,club,association two people unite common interest goal service example exist voluntary charitable activity devote hobby sport social activity political religious forth,association|association|NOUN two|two|NUM people|people|NOUN united|unite|VERB common|common|ADJ interest|interest|NOUN goal|goal|NOUN service|service|NOUN example|example|NOUN exists|exist|VERB voluntary|voluntary|ADJ charitable|charitable|ADJ activities|activity|NOUN devoted|devote|VERB hobbies|hobby|NOUN sports|sport|NOUN social|social|ADJ activities|activity|NOUN political|political|ADJ religious|religious|ADJ forth|forth|ADV
-48424,808,encourage,courage international postulate christian ministry roman catholic church minister sex attraction,courage|courage|NOUN international|international|PROPN postulate|postulate|NOUN christian|christian|PROPN ministry|ministry|PROPN roman|roman|ADJ catholic|catholic|ADJ church|church|NOUN ministers|minister|VERB sex|sex|NOUN attractions|attraction|NOUN
-48425,808,hands,prehensile multi fingered extremity locate end arm forelimb primate human chimpanzee monkey lemur vertebrate koala two opposable thumb fingerprint remarkably human fingerprint often paw front limb,prehensile|prehensile|ADJ multi|multi|ADJ fingered|fingered|ADJ extremity|extremity|NOUN located|locate|VERB end|end|NOUN arm|arm|NOUN forelimb|forelimb|NOUN primates|primate|NOUN humans|human|NOUN chimpanzees|chimpanzee|NOUN monkeys|monkey|NOUN lemurs|lemur|NOUN vertebrates|vertebrate|NOUN koala|koala|NOUN two|two|NUM opposable|opposable|ADJ thumbs|thumb|NOUN fingerprints|fingerprint|NOUN remarkably|remarkably|ADV human|human|ADJ fingerprints|fingerprint|NOUN often|often|ADV paws|paw|NOUN front|front|ADJ limbs|limb|NOUN
-48426,808,newton,contraction new town name many place english speak country,contraction|contraction|NOUN new|new|ADJ town|town|NOUN name|name|NOUN many|many|ADJ places|place|NOUN english|english|NOUN speaking|speak|VERB countries|country|NOUN
-48427,808,there,film two thousand nine turkish film turkish title orada public figure alias of paul bird novel by marie louise fitzpatrick virtual world,film|film|NOUN 2009|two|NUM 2009|thousand|NUM 2009|nine|NUM turkish|turkish|ADJ film|film|NOUN turkish|turkish|ADJ title|title|NOUN orada|orada|PROPN public|public|ADJ figure|figure|NOUN alias|alias|NOUN of|of|ADP paul|paul|PROPN bird|bird|PROPN novel|novel|NOUN by|by|ADP marie|marie|PROPN louise|louise|PROPN fitzpatrick|fitzpatrick|NOUN virtual|virtual|ADJ world|world|NOUN
 48429,767,encourage,stimulate assistance approval etc,stimulate|stimulate|VERB assistance|assistance|NOUN approval|approval|NOUN etc|etc|X
 48430,767,hands,corresponding part forelimb high vertebrate,corresponding|corresponding|ADJ part|part|NOUN forelimb|forelimb|NOUN higher|high|ADJ vertebrates|vertebrate|NOUN
 48431,767,newton,si unit force,si|si|NOUN unit|unit|NOUN force|force|NOUN
@@ -47537,9 +47484,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 48455,878,hands,culprit presence matter,culprit|culprit|NOUN presence|presence|NOUN matter|matter|NOUN
 48456,878,newton,great scientist sir issac person name,great|great|ADJ scientist|scientist|NOUN sir|sir|PROPN issac|issac|PROPN person|person|NOUN name|name|NOUN
 48457,878,there,the thing you ask for be she be we can go particular place,the|the|DET thing|thing|NOUN you|you|PRON asked|ask|VERB for|for|ADP is|be|AUX she|she|PRON is|be|AUX we|we|PRON can|can|AUX go|go|VERB particular|particular|ADJ place|place|NOUN
-48459,777,encourage,verb give support confidence hope help stimulate development,verb|verb|PROPN give|give|VERB support|support|NOUN confidence|confidence|NOUN hope|hope|VERB help|help|VERB stimulate|stimulate|VERB development|development|NOUN
-48460,777,hands,noun verb variant spelling hansel,noun|noun|PROPN verb|verb|PROPN variant|variant|ADJ spelling|spelling|NOUN hansel|hansel|NOUN
-48461,777,newton,noun physics si unit force equal force give mass one kilogram acceleration one meter per second per second,noun|noun|PROPN physics|physics|PROPN si|si|NOUN unit|unit|NOUN force|force|NOUN equal|equal|ADJ force|force|NOUN give|give|VERB mass|mass|NOUN one|one|NUM kilogram|kilogram|NOUN acceleration|acceleration|NOUN one|one|NUM meter|meter|NOUN per|per|ADP second|second|NOUN per|per|ADP second|second|NOUN
 48463,827,club,heavy taper staff especially wood wield weapon,heavy|heavy|ADJ tapering|taper|VERB staff|staff|NOUN especially|especially|ADV wood|wood|NOUN wielded|wield|VERB weapon|weapon|NOUN
 48464,827,encourage,inspire courage spirit hope,inspire|inspire|VERB courage|courage|NOUN spirit|spirit|NOUN hope|hope|NOUN
 48465,827,hands,prehensile multi fingered extremity locate end arm forelimb primate human,prehensile|prehensile|ADJ multi|multi|ADJ fingered|fingered|ADJ extremity|extremity|NOUN located|locate|VERB end|end|NOUN arm|arm|NOUN forelimb|forelimb|NOUN primates|primate|NOUN humans|human|NOUN
@@ -47591,11 +47535,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 48515,823,life,sprightliness sentence lifetime story spirit time biography lifespan liveliness living history aliveness animation,sprightliness|sprightliness|NOUN sentence|sentence|NOUN lifetime|lifetime|NOUN story|story|NOUN spirit|spirit|NOUN time|time|NOUN biography|biography|NOUN lifespan|lifespan|NOUN liveliness|liveliness|NOUN living|living|NOUN history|history|NOUN aliveness|aliveness|NOUN animation|animation|NOUN
 48516,823,raw,meat cook process saute roasted stew pancake style ready cook wafer burn braise overdone lyonnaise barbecue,meat|meat|NOUN cooked|cook|VERB processed|process|VERB saute|saute|NOUN roasted|roasted|ADJ stewed|stew|VERB pancake|pancake|NOUN style|style|NOUN ready|ready|ADJ cooked|cook|VERB wafer|wafer|NOUN burnt|burn|VERB braised|braise|VERB overdone|overdone|NOUN lyonnaise|lyonnaise|NOUN barbecued|barbecue|VERB
 48517,823,unclear,unreadable undecipherable indecipherable ill define,unreadable|unreadable|ADJ undecipherable|undecipherable|ADJ indecipherable|indecipherable|ADJ ill|ill|ADV defined|define|VERB
-48518,780,cause,believe fair reason action,believe|believe|VERB fair|fair|ADJ reason|reason|NOUN action|action|NOUN
-48519,780,flowers,pick,pick|pick|VERB
-48520,780,life,short worry money,short|short|ADJ worry|worry|VERB money|money|NOUN
-48521,780,raw,fish,fish|fish|NOUN
-48522,780,unclear,wh ether arrive shot fire,wh|wh|X ether|ether|NOUN arrived|arrive|VERB shot|shot|NOUN fired|fire|VERB
 48523,812,cause,causal agency causal agent campaign crusade drive effort movement,causal|causal|ADJ agency|agency|NOUN causal|causal|ADJ agent|agent|NOUN campaign|campaign|NOUN crusade|crusade|NOUN drive|drive|NOUN effort|effort|NOUN movement|movement|NOUN
 48524,812,flowers,bloom blossom efflorescence flush heyday peak prime,bloom|bloom|NOUN blossom|blossom|NOUN efflorescence|efflorescence|ADJ flush|flush|ADJ heyday|heyday|NOUN peak|peak|NOUN prime|prime|ADJ
 48525,812,life,liveliness spirit sprightliness living biography history story,liveliness|liveliness|PROPN spirit|spirit|NOUN sprightliness|sprightliness|NOUN living|living|NOUN biography|biography|NOUN history|history|NOUN story|story|NOUN
@@ -47824,9 +47763,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 48750,806,life,corresponding state existence principle existence conceive belong soul,corresponding|corresponding|ADJ state|state|NOUN existence|existence|NOUN principle|principle|NOUN existence|existence|NOUN conceived|conceive|VERB belonging|belong|VERB soul|soul|NOUN
 48751,806,raw,uncooked article food,uncooked|uncooked|ADJ articles|article|NOUN food|food|NOUN
 48752,806,unclear,transparent,transparent|transparent|ADJ
-48753,777,cause,person give rise action phenomenon condition reasonable ground belief action,person|person|NOUN gives|give|VERB rise|rise|NOUN action|action|NOUN phenomenon|phenomenon|NOUN condition|condition|NOUN reasonable|reasonable|ADJ grounds|ground|NOUN belief|belief|NOUN action|action|NOUN
-48754,777,flowers,plural noun treat singular chemistry fine yellow powdered form sulphur produce sublimation,plural|plural|PROPN noun|noun|PROPN treated|treat|VERB singular|singular|NOUN chemistry|chemistry|NOUN fine|fine|ADJ yellow|yellow|ADJ powdered|powdered|ADJ form|form|NOUN sulphur|sulphur|PROPN produced|produce|VERB sublimation|sublimation|NOUN
-48755,777,life,condition distinguish animal plant inorganic matter include capacity growth functional activity continual change precede death live activity,condition|condition|NOUN distinguishes|distinguish|VERB animals|animal|NOUN plants|plant|NOUN inorganic|inorganic|ADJ matter|matter|NOUN including|include|VERB capacity|capacity|NOUN growth|growth|NOUN functional|functional|ADJ activity|activity|NOUN continual|continual|ADJ change|change|NOUN preceding|precede|VERB death|death|NOUN living|live|VERB activity|activity|NOUN
 48758,922,cause,necessity reason work,necessity|necessity|NOUN reason|reason|NOUN work|work|NOUN
 48759,922,flowers,grow tree,grows|grow|VERB trees|tree|NOUN
 48760,922,life,interval birth death,interval|interval|NOUN birth|birth|NOUN death|death|NOUN
@@ -48119,13 +48055,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49055,803,wife,man specified occupation faculty,man|man|NOUN specified|specified|ADJ occupation|occupation|NOUN faculty|faculty|NOUN
 49056,803,sexy,sexually attractive exciting,sexually|sexually|ADV attractive|attractive|ADJ exciting|exciting|ADJ
 49057,803,vanish,disappear suddenly completely mary without trace,disappear|disappear|VERB suddenly|suddenly|ADV completely|completely|ADV mary|mary|PROPN without|without|ADP trace|trace|NOUN
-49058,780,wool,blanket sheet cotton,blankets|blanket|NOUN sheets|sheet|NOUN cotton|cotton|NOUN
-49059,780,date,birth,birth|birth|NOUN
-49060,780,wife,meet greg first time,met|meet|VERB greg|greg|PROPN first|first|ADJ time|time|NOUN
-49061,780,sexy,,
-49062,780,vanish,child way home school,child|child|NOUN way|way|NOUN home|home|ADV school|school|NOUN
-49063,777,wool,noun fine soft curly wavy hair form coat sheep goat animal especially shorn cloth yarn soft underfur mammal metal mineral mass fine fibre lead,noun|noun|PROPN fine|fine|ADJ soft|soft|ADJ curly|curly|ADJ wavy|wavy|ADJ hair|hair|NOUN forming|form|VERB coat|coat|NOUN sheep|sheep|NOUN goat|goat|PROPN animal|animal|NOUN especially|especially|ADV shorn|shorn|VERB cloth|cloth|NOUN yarn|yarn|NOUN soft|soft|ADJ underfur|underfur|NOUN mammals|mammal|NOUN metal|metal|NOUN mineral|mineral|NOUN mass|mass|NOUN fine|fine|ADJ fibres|fibre|NOUN lead|lead|VERB
-49065,777,wife,noun plural married woman relation husband archaic dialect woman especially old uneducated one,noun|noun|PROPN plural|plural|ADJ married|married|ADJ woman|woman|NOUN relation|relation|NOUN husband|husband|NOUN archaic|archaic|ADJ dialect|dialect|VERB woman|woman|NOUN especially|especially|ADV old|old|ADJ uneducated|uneducated|ADJ one|one|NUM
 49068,934,wool,textile fiber obtain sheep certain animal include cashmere goat mohair goat qiviut muskoxen vicuna alpaca camel animal camel family angora rabbit,textile|textile|NOUN fiber|fiber|NOUN obtained|obtain|VERB sheep|sheep|NOUN certain|certain|ADJ animals|animal|NOUN including|include|VERB cashmere|cashmere|NOUN goats|goat|NOUN mohair|mohair|NOUN goats|goat|NOUN qiviut|qiviut|NOUN muskoxen|muskoxen|PROPN vicuna|vicuna|X alpaca|alpaca|NOUN camel|camel|NOUN animals|animal|NOUN camel|camel|NOUN family|family|NOUN angora|angora|PROPN rabbits|rabbit|NOUN
 49069,934,date,day calendar representation term class associate data element unix command display current time fruit palm,day|day|NOUN calendar|calendar|NOUN representation|representation|NOUN term|term|NOUN class|class|NOUN associated|associate|VERB data|data|NOUN element|element|NOUN unix|unix|NOUN command|command|NOUN displaying|display|VERB current|current|ADJ time|time|NOUN fruit|fruit|NOUN palm|palm|NOUN
 49070,934,wife,female partner marriage right obligation regard spouse status community law vary culture vary time,female|female|ADJ partner|partner|NOUN marriage|marriage|NOUN rights|right|NOUN obligations|obligation|NOUN regarding|regard|VERB spouse(s|spouse|NOUN status|status|NOUN community|community|NOUN law|law|NOUN varies|vary|VERB cultures|culture|NOUN varied|vary|VERB time|time|NOUN
@@ -48258,7 +48187,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49200,800,illegal,break law wrong unacceptable,breaking|break|VERB law|law|NOUN wrong|wrong|ADJ unacceptable|unacceptable|ADJ
 49201,800,white,colour race colourless light,colour|colour|NOUN race|race|NOUN colourless|colourless|ADJ light|light|ADJ
 49202,800,trick,halloween play joke funny con prank drug,halloween|halloween|PROPN play|play|VERB joke|joke|NOUN funny|funny|ADJ con|con|PROPN prank|prank|NOUN drugs|drug|NOUN
-49203,777,africa,noun person especially black person adjective relate african,noun|noun|PROPN person|person|NOUN especially|especially|ADV black|black|ADJ person|person|NOUN adjective|adjective|ADJ relating|relate|VERB africans|african|NOUN
 49208,767,africa,continent home sahara black people shin everywhere nelson mandela,continent|continent|NOUN home|home|NOUN sahara|sahara|ADJ black|black|ADJ peoples|people|NOUN shines|shin|VERB everywhere|everywhere|ADV nelson|nelson|PROPN mandela|mandela|PROPN
 49209,767,fiction,scientific rumour innovative idea,scientific|scientific|ADJ rumour|rumour|NOUN innovative|innovative|ADJ ideas|idea|NOUN
 49210,767,illegal,law punishable offence crime illicit,law|law|NOUN punishable|punishable|ADJ offence|offence|NOUN crime|crime|NOUN illicit|illicit|ADJ
@@ -48289,11 +48217,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49235,926,illegal,legal wrong approve law,legal|legal|ADJ wrong|wrong|ADJ approved|approve|VERB law|law|NOUN
 49236,926,white,blanco caucasian race,blanco|blanco|PROPN caucasian|caucasian|ADJ race|race|NOUN
 49237,926,trick,game fool,game|game|NOUN fool|fool|VERB
-49238,780,africa,,
-49239,780,fiction,writer child,writer|writer|NOUN children|child|NOUN
-49240,780,illegal,prostitution country,prostitution|prostitution|NOUN countries|country|NOUN
-49241,780,white,bread,bread|bread|NOUN
-49242,780,trick,bit photography look walk water,bit|bit|NOUN photography|photography|NOUN look|look|VERB walking|walk|VERB water|water|NOUN
 49243,864,africa,world second large second populous continent asia,world|world|NOUN second|second|ADV largest|large|ADJ second|second|ADV populous|populous|ADJ continent|continent|NOUN asia|asia|PROPN
 49245,864,illegal,prohibit official rule,prohibited|prohibit|VERB official|official|ADJ rules|rule|NOUN
 49246,864,white,color purity,color|color|NOUN purity|purity|NOUN
@@ -48537,10 +48460,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49494,947,manners,etiquitte attribute behaviour cod conduct,etiquittes|etiquitte|NOUN attributes|attribute|NOUN behaviour|behaviour|NOUN cod|cod|NOUN conduct|conduct|NOUN
 49495,947,stain,clothes spot washable water,clothes|clothes|NOUN spot|spot|NOUN washable|washable|ADJ water|water|NOUN
 49496,947,turn,see next item change position,see|see|VERB next|next|ADJ item|item|NOUN change|change|VERB position|position|NOUN
-49498,780,dictionary,check spell look,check|check|VERB spelt|spell|VERB look|look|VERB
-49499,780,manners,teach table school,teach|teach|VERB table|table|NOUN school|school|NOUN
-49500,780,stain,tomato sauce terribly really difficult clothes,tomato|tomato|NOUN sauce|sauce|NOUN terribly|terribly|ADV really|really|ADV difficult|difficult|ADJ clothes|clothes|NOUN
-49501,780,turn,steering wheel quickly,steering|steering|NOUN wheel|wheel|NOUN quickly|quickly|ADV
 49502,925,beef,meat cow buffalo edible red color,meat|meat|NOUN cow|cow|NOUN buffalo|buffalo|PROPN edible|edible|ADJ red|red|ADJ color|color|NOUN
 49503,925,dictionary,book meaning different language,book|book|NOUN meaning|meaning|NOUN different|different|ADJ languages|language|NOUN
 49504,925,manners,way say humble polite behaviour,way|way|NOUN saying|say|VERB humble|humble|ADJ polite|polite|ADJ behaviour|behaviour|NOUN
@@ -48621,7 +48540,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49579,799,manners,vogue,vogue|vogue|NOUN
 49580,799,stain,smear,smear|smear|VERB
 49581,799,turn,spin,spin|spin|NOUN
-49583,777,dictionary,noun plural book list language alphabetical order give meaning equivalent different language,noun|noun|PROPN plural|plural|NOUN book|book|NOUN lists|list|VERB language|language|NOUN alphabetical|alphabetical|ADJ order|order|NOUN gives|give|VERB meaning|meaning|NOUN equivalent|equivalent|NOUN different|different|ADJ language|language|NOUN
 49588,811,dictionary,useful tool look definition,useful|useful|ADJ tool|tool|NOUN look|look|VERB definition|definition|NOUN
 49589,811,manners,proper,proper|proper|ADJ
 49590,811,stain,stay clothes come wash coffee oil makeup blood,stays|stay|VERB clothes|clothes|NOUN come|come|VERB wash|wash|NOUN coffee|coffee|NOUN oil|oil|NOUN makeup|makeup|NOUN blood|blood|NOUN
@@ -48797,9 +48715,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49764,778,math,appear,appear|appear|VERB
 49765,778,shop,purchase,purchase|purchase|NOUN
 49766,778,suffocate,suff,suff|suff|PROPN
-49767,777,asia,noun strong flavor cow milk cheese northern italy,noun|noun|PROPN strong|strong|ADV flavored|flavor|VERB cow|cow|NOUN milk|milk|NOUN cheese|cheese|NOUN northern|northern|ADJ italy|italy|PROPN
-49769,777,math,noun north american mathematics,noun|noun|PROPN north|north|PROPN american|american|PROPN mathematics|mathematics|PROPN
-49771,777,suffocate,verb die cause die lack air inability breathe cause difficulty breathing,verb|verb|PROPN die|die|VERB cause|cause|VERB die|die|VERB lack|lack|NOUN air|air|NOUN inability|inability|NOUN breathe|breathe|VERB cause|cause|VERB difficulty|difficulty|NOUN breathing|breathing|NOUN
 49772,822,asia,large continent situate eastern hemisphere bound arctic pacific indian ocean separate n europe ural mountain,largest|large|ADJ continent|continent|NOUN situated|situate|VERB eastern|eastern|ADJ hemisphere|hemisphere|NOUN bounded|bound|VERB arctic|arctic|PROPN pacific|pacific|ADJ indian|indian|ADJ oceans|ocean|NOUN separated|separate|VERB n|n|PROPN europe|europe|PROPN ural|ural|ADJ mountains|mountain|NOUN
 49773,822,decay,rot lose strength deteriorate,rot|rot|VERB lose|lose|VERB strength|strength|NOUN deteriorate|deteriorate|VERB
 49774,822,math,mathematical,mathematical|mathematical|PROPN
@@ -48840,10 +48755,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49809,853,math,short form mathematical mathematician mathematics,short|short|ADJ form|form|NOUN mathematical|mathematical|ADJ mathematician|mathematician|ADJ mathematics|mathematics|NOUN
 49810,853,shop,store work area person tradelike local grocery store store retail store dry good store work,store|store|NOUN work|work|NOUN area|area|NOUN person|person|NOUN trade.like|tradelike|ADJ local|local|ADJ grocery|grocery|NOUN store|store|NOUN store|store|NOUN retail|retail|ADJ store|store|NOUN dry|dry|ADJ goods|good|NOUN store|store|NOUN work|work|NOUN
 49811,853,suffocate,kill cut supply oxygen lung strangle,kill|kill|VERB cutting|cut|VERB supply|supply|NOUN oxygen|oxygen|NOUN lungs|lung|NOUN strangle|strangle|VERB
-49813,770,decay,biology break component part destruction decomposition organic matter result bacterial fungal action,biology|biology|NOUN break|break|VERB component|component|ADJ parts|part|NOUN destruction|destruction|NOUN decomposition|decomposition|NOUN organic|organic|ADJ matter|matter|NOUN result|result|NOUN bacterial|bacterial|ADJ fungal|fungal|ADJ action|action|NOUN
-49814,770,math,mathematics canadian informal short mathematics brit equivalent,mathematics|mathematics|PROPN canadian|canadian|ADJ informal|informal|ADJ short|short|NOUN mathematics|mathematics|NOUN brit|brit|PROPN equivalent|equivalent|ADJ
-49815,770,shop,small retail store specialty department large store place manufacture repair good machinery,small|small|ADJ retail|retail|ADJ store|store|NOUN specialty|specialty|NOUN department|department|NOUN large|large|ADJ store|store|NOUN place|place|NOUN manufacturing|manufacture|VERB repairing|repair|VERB goods|good|NOUN machinery|machinery|NOUN
-49816,770,suffocate,kill destroy prevent access air oxygen impair respiration asphyxiate,kill|kill|VERB destroy|destroy|VERB preventing|prevent|VERB access|access|NOUN air|air|NOUN oxygen|oxygen|NOUN impair|impair|VERB respiration|respiration|NOUN asphyxiate|asphyxiate|NOUN
 49817,792,asia,continent,continent|continent|NOUN
 49818,792,decay,decomposition,decomposition|decomposition|NOUN
 49819,792,math,mathematics,mathematics|mathematics|PROPN
@@ -48944,10 +48855,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 49914,850,math,mathematics calculation calculator mobile sum,mathematics|mathematics|PROPN calculation|calculation|NOUN calculator|calculator|NOUN mobile|mobile|PROPN sums|sum|NOUN
 49915,850,shop,shopping accessory cloth sandal restaurant,shopping|shopping|NOUN accessories|accessory|NOUN cloths|cloth|NOUN sandals|sandal|NOUN restaurant|restaurant|NOUN
 49916,850,suffocate,closed room health problem,closed|closed|ADJ room|room|NOUN health|health|NOUN problems|problem|NOUN
-49917,871,asia,large world continent constitute nearly one third landmass lie entirely north equator except,largest|large|ADJ world|world|NOUN continents|continent|NOUN constituting|constitute|VERB nearly|nearly|ADV one|one|NUM third|third|NOUN landmass|landmass|NOUN lying|lie|VERB entirely|entirely|ADV north|north|ADV equator|equator|NOUN except|except|SCONJ
-49918,871,decay,organic matter rot decompose action bacteria fungus,organic|organic|ADJ matter|matter|NOUN rot|rot|VERB decompose|decompose|VERB action|action|NOUN bacteria|bacteria|NOUN fungi|fungus|NOUN
-49919,871,math,mathematics science group related science deal logic quantity shape arrangement,mathematics|mathematics|NOUN science|science|NOUN group|group|NOUN related|related|ADJ sciences|science|NOUN dealing|deal|VERB logic|logic|NOUN quantity|quantity|NOUN shape|shape|NOUN arrangement|arrangement|NOUN
-49921,871,suffocate,die cause die lack air inability breathe,die|die|VERB cause|cause|VERB die|die|VERB lack|lack|NOUN air|air|NOUN inability|inability|NOUN breathe|breathe|VERB
 49922,766,asia,continent powerful country,continent|continent|NOUN powerful|powerful|ADJ countries|country|NOUN
 49923,766,decay,infection disease bad adore polluted,infection|infection|NOUN disease|disease|NOUN bad|bad|ADJ adore|adore|NOUN polluted|polluted|ADJ
 49924,766,math,calculate type lesson alpha decimal subject,calculating|calculate|VERB type|type|NOUN lessons|lesson|NOUN alpha|alpha|NOUN decimals|decimal|NOUN subject|subject|ADJ
@@ -49177,9 +49084,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 50158,787,misunderstand,understand wrongly,understand|understand|VERB wrongly|wrongly|ADV
 50159,787,slut,dirty immoral woman,dirty|dirty|ADJ immoral|immoral|ADJ women|woman|NOUN
 50160,787,states,different part country,different|different|ADJ parts|part|NOUN country|country|NOUN
-50161,852,can't,work,work|work|NOUN
-50162,852,halloween,hallow,hallow|hallow|ADJ
-50163,852,states,kerala,kerala|kerala|NOUN
 50164,809,can't,unable deny,unable|unable|ADJ deny|deny|VERB
 50165,809,halloween,meaningless,meaningless|meaningless|ADJ
 50166,809,misunderstand,misjudgement dispute difference,misjudgement|misjudgement|NOUN dispute|dispute|NOUN difference|difference|NOUN
@@ -49350,10 +49254,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 50336,772,misunderstand,wrong opinion fail understand correctly wrong opinion correct person,wrong|wrong|ADJ opinion|opinion|NOUN fail|fail|VERB understand|understand|VERB correctly|correctly|ADV wrong|wrong|ADJ opinion|opinion|NOUN correct|correct|ADJ person|person|NOUN
 50337,772,slut,promiscuous woman obey condition honest person sacrifice mentality,promiscuous|promiscuous|ADJ women|woman|NOUN obey|obey|VERB conditions|condition|NOUN honest|honest|ADJ person|person|NOUN sacrificing|sacrifice|VERB mentality|mentality|NOUN
 50338,772,states,condition time government country position matter,conditions|condition|NOUN time|time|NOUN government|government|NOUN country|country|NOUN positions|position|NOUN matter|matter|NOUN
-50340,777,halloween,noun night thirty one october eve saint day,noun|noun|PROPN night|night|NOUN 31|thirty|NUM 31|one|NUM october|october|PROPN eve|eve|NOUN saints|saint|NOUN day|day|NOUN
-50341,777,misunderstand,verb past past participle misunderstood fail understand correctly,verb|verb|NOUN past|past|ADJ past|past|ADJ participle|participle|ADJ misunderstood|misunderstood|NOUN fail|fail|VERB understand|understand|VERB correctly|correctly|ADV
-50342,777,slut,noun slovenly promiscuous woman,noun|noun|PROPN slovenly|slovenly|ADJ promiscuous|promiscuous|ADJ woman|woman|NOUN
-50343,777,states,noun british school fund control,noun|noun|PROPN british|british|PROPN school|school|NOUN funded|fund|VERB controlled|control|VERB
 50344,936,can't,cannot unable able perform give task negative docent ability,cannot|cannot|INTJ unable|unable|ADJ able|able|ADJ perform|perform|VERB given|give|VERB task|task|NOUN negative|negative|ADJ docent|docent|NOUN ability|ability|NOUN
 50345,936,halloween,"yearly holiday celebrate world oct 31,the night saint day christian feast costume party bonfire play prank tell watch horror story","yearly|yearly|PROPN holiday|holiday|NOUN celebrated|celebrate|VERB world|world|NOUN oct|oct|PROPN 31,the|31,the|PROPN night|night|NOUN saints|saint|NOUN day|day|NOUN christian|christian|PROPN feast|feast|PROPN costume|costume|ADJ parties|party|NOUN bonfire|bonfire|VERB playing|play|VERB pranks|prank|NOUN telling|tell|VERB watching|watch|VERB horror|horror|NOUN stories|story|NOUN"
 50346,936,misunderstand,incorrect wrong understand incorrectly wrong sense past simple,incorrect|incorrect|ADJ wrong|wrong|ADJ understand|understand|VERB incorrectly|incorrectly|ADV wrong|wrong|ADJ sense|sense|NOUN past|past|ADP simple|simple|ADJ
@@ -49420,9 +49320,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 50411,809,major,chief ranking important,chief|chief|PROPN ranking|ranking|ADJ important|important|ADJ
 50412,809,sew,fasten thread needle,fasten|fasten|VERB thread|thread|NOUN needle|needle|NOUN
 50413,809,thaw,melt dissolve friendly,melt|melt|PROPN dissolve|dissolve|ADJ friendly|friendly|ADJ
-50415,831,condom,device latex avoid pregnancy sexually transmit disease gonorrhea syphili human immunodeficiency virus hiv also know prophylactic well popular slang term rubber male female version,device|device|NOUN latex|latex|NOUN avoid|avoid|VERB pregnancy|pregnancy|NOUN sexually|sexually|ADV transmitted|transmit|VERB diseases|disease|NOUN gonorrhea|gonorrhea|NOUN syphilis|syphili|NOUN human|human|ADJ immunodeficiency|immunodeficiency|NOUN virus|virus|NOUN hiv|hiv|PROPN also|also|ADV known|know|VERB prophylactics|prophylactic|NOUN well|well|ADV popular|popular|ADJ slang|slang|ADJ term|term|NOUN rubbers|rubber|NOUN male|male|ADJ female|female|ADJ versions|version|NOUN
-50417,831,sew,fasten attach join piece cloth material thread repeatedly insert needle draw tight,fasten|fasten|VERB attach|attach|VERB join|join|VERB pieces|piece|NOUN cloth|cloth|NOUN materials|material|NOUN thread|thread|NOUN repeatedly|repeatedly|ADV inserted|insert|VERB needle|needle|NOUN drawn|draw|VERB tight|tight|ADV
-50418,831,thaw,pass change frozen liquid semiliquid state melt,pass|pass|VERB change|change|VERB frozen|frozen|NOUN liquid|liquid|ADJ semiliquid|semiliquid|ADJ state|state|NOUN melt|melt|VERB
 50420,878,condom,safety article rubber,safety|safety|NOUN articles|article|NOUN rubber|rubber|NOUN
 50421,878,major,army navy majority head team,army|army|NOUN navy|navy|PROPN majority|majority|NOUN head|head|NOUN team|team|NOUN
 50422,878,sew,dress button attach dress close,dress|dress|NOUN button|button|NOUN attached|attach|VERB dress|dress|NOUN closed|close|VERB
@@ -49456,7 +49353,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 50451,971,major,sufficiently large size great big massive great meaning lasting effect,sufficiently|sufficiently|ADV large|large|ADJ size|size|NOUN great|great|ADJ big|big|ADJ massive|massive|ADJ great|great|ADJ meaning|meaning|NOUN lasting|lasting|ADJ effect|effect|NOUN
 50452,971,sew,stitch mend patch repair cobbler repair shoe embroidery,stitch|stitch|VERB mend|mend|VERB patch|patch|NOUN repair|repair|NOUN cobblers|cobbler|NOUN repair|repair|NOUN shoes|shoe|NOUN embroidery|embroidery|NOUN
 50453,971,thaw,deliquesce flux fuse melt run,deliquesce|deliquesce|PROPN flux|flux|NOUN fuse|fuse|NOUN melt|melt|VERB run|run|VERB
-50455,777,condom,noun thin rubber sheath wear penis sexual intercourse contraceptive protect infection,noun|noun|PROPN thin|thin|ADJ rubber|rubber|NOUN sheath|sheath|NOUN worn|wear|VERB penis|penis|NOUN sexual|sexual|ADJ intercourse|intercourse|NOUN contraceptive|contraceptive|NOUN protect|protect|VERB infection|infection|NOUN
 50460,843,condom,safe sex,safe|safe|ADJ sex|sex|NOUN
 50461,843,major,,
 50462,843,sew,stitch,stitch|stitch|VERB
@@ -49465,10 +49361,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 50466,883,major,army,army|army|NOUN
 50467,883,sew,cloth,cloth|cloth|NOUN
 50468,883,thaw,leaf,leaves|leaf|NOUN
-50470,972,condom,thin device blockade male genitalia prevent sperm enter female vagina,thin|thin|ADJ device|device|NOUN blockade|blockade|NOUN male|male|ADJ genitalia|genitalia|NOUN prevent|prevent|VERB sperm|sperm|NOUN entering|enter|VERB female|female|ADJ vagina|vagina|NOUN
-50471,972,major,main big item small,main|main|ADJ biggest|big|ADJ item|item|NOUN small|small|ADJ
-50472,972,sew,needle thread attach two item together stitch,needle|needle|NOUN thread|thread|NOUN attach|attach|VERB two|two|NUM items|item|NOUN together|together|ADV stitching|stitch|VERB
-50473,972,thaw,melt leave frozen item room temperature apply heat frozen item sudden appearance sun many day snow ice,melting|melt|VERB leaving|leave|VERB frozen|frozen|ADJ item|item|NOUN room|room|NOUN temperature|temperature|NOUN applying|apply|VERB heat|heat|NOUN frozen|frozen|ADJ item|item|NOUN sudden|sudden|ADJ appearance|appearance|NOUN sun|sun|NOUN many|many|ADJ days|day|NOUN snow|snow|NOUN ice|ice|NOUN
 50475,770,condom,flexible sheath thin rubber latex design cover penis sexual intercourse contraceptive purpose prevent sexually transmit disease,flexible|flexible|ADJ sheath|sheath|NOUN thin|thin|ADJ rubber|rubber|NOUN latex|latex|NOUN designed|design|VERB cover|cover|VERB penis|penis|NOUN sexual|sexual|ADJ intercourse|intercourse|NOUN contraceptive|contraceptive|ADJ purposes|purpose|NOUN preventing|prevent|VERB sexually|sexually|ADV transmitted|transmit|VERB diseases|disease|NOUN
 50476,770,major,great importance rank great scope effect,greater|great|ADJ importance|importance|NOUN rank|rank|NOUN great|great|ADJ scope|scope|NOUN effect|effect|NOUN
 50478,770,thaw,change frozen solid liquid gradual warming lose stiffness numbness impermeability warm,change|change|VERB frozen|frozen|ADJ solid|solid|ADJ liquid|liquid|NOUN gradual|gradual|ADJ warming|warming|NOUN lose|lose|VERB stiffness|stiffness|ADJ numbness|numbness|NOUN impermeability|impermeability|NOUN warmed|warm|VERB
@@ -49846,10 +49738,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 50862,837,frankenstein,scientist writer novel cartoon rock artist agency film,scientist|scientist|NOUN writer|writer|NOUN novel|novel|NOUN cartoon|cartoon|NOUN rock|rock|NOUN artist|artist|NOUN agency|agency|NOUN film|film|NOUN
 50863,837,irritating,disturb annoying vex troublesome bothering provoking repellent pricking bad feel uncomfortable,disturb|disturb|VERB annoying|annoying|ADJ vex|vex|NOUN troublesome|troublesome|ADJ bothering|bothering|NOUN provoking|provoking|NOUN repellent|repellent|ADJ pricking|pricking|ADJ bad|bad|ADJ feel|feel|VERB uncomfortable|uncomfortable|ADJ
 50864,837,record,information protect note save document mark evidence register account fossil preserve data know history collection indicate,information|information|NOUN protect|protect|VERB note|note|VERB save|save|VERB document|document|NOUN mark|mark|NOUN evidence|evidence|NOUN register|register|VERB account|account|NOUN fossil|fossil|NOUN preserve|preserve|VERB data|data|NOUN known|know|VERB history|history|NOUN collection|collection|NOUN indicate|indicate|VERB
-50866,780,center,centre,centre|centre|NOUN
-50867,780,frankenstein,destroy harm person people create,destroys|destroy|VERB harms|harm|VERB person|person|NOUN people|people|NOUN created|create|VERB
-50869,780,record,try phone recorded message say away weekend,tried|try|VERB phone|phone|VERB recorded|recorded|ADJ message|message|NOUN saying|say|VERB away|away|ADV weekend|weekend|NOUN
-50870,780,true,believe exam result reflection ability,believe|believe|VERB exam|exam|NOUN results|result|NOUN reflection|reflection|NOUN abilities|ability|NOUN
 50871,870,center,middle core,middle|middle|NOUN core|core|NOUN
 50872,870,frankenstein,manmade monster movie,manmade|manmade|NOUN monster|monster|NOUN movies|movie|NOUN
 50873,870,irritating,one nerve annoying,one|one|NUM nerves|nerve|NOUN annoying|annoying|ADJ
@@ -49967,9 +49855,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 50988,768,irritating,annoying,annoying|annoying|ADJ
 50989,768,record,documentation,documentation|documentation|NOUN
 50990,768,true,right,right|right|INTJ
-50991,831,center,centre one object centre instance wall stud sixteen inch centre centre one stud centre next stud sixteen inch,centre|centre|NOUN one|one|NUM object|object|NOUN centre|centre|NOUN instance|instance|NOUN wall|wall|PROPN studs|stud|NOUN 16|sixteen|NUM inches|inch|NOUN centre|centre|NOUN centre|centre|NOUN one|one|NUM stud|stud|NOUN centre|centre|NOUN next|next|ADJ stud|stud|NOUN 16|sixteen|NUM inches|inch|NOUN
-50993,831,irritating,rouse impatience anger annoy loud bossy voice listener see synonym annoy,rouse|rouse|NOUN impatience|impatience|NOUN anger|anger|NOUN annoy|annoy|VERB loud|loud|ADJ bossy|bossy|ADJ voice|voice|NOUN listeners|listener|NOUN see|see|VERB synonyms|synonym|NOUN annoy|annoy|NOUN
-50994,831,record,state state true document state ask repeat,stating|state|VERB stating|state|VERB true|true|ADJ documented|document|VERB stated|state|VERB asked|ask|VERB repeat|repeat|VERB
 50996,984,artist,write sing act paint picture freelancer,writes|write|VERB sings|sing|NOUN acts|act|NOUN paint|paint|NOUN pictures|picture|NOUN freelancer|freelancer|NOUN
 50997,984,death,end end life accidental natural,end|end|NOUN ending|end|VERB life|life|NOUN accidental|accidental|ADJ natural|natural|ADJ
 50998,984,laugh,smile happy joke enjoy loudly,smile|smile|NOUN happy|happy|ADJ joke|joke|NOUN enjoy|enjoy|VERB loudly|loudly|ADV
@@ -49980,10 +49865,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51003,883,laugh,show happiness,showing|show|VERB happiness|happiness|NOUN
 51004,883,poem,composition cool meaning,composition|composition|NOUN cool|cool|ADJ meaning|meaning|NOUN
 51005,883,stare,continue look,continues|continue|VERB looking|look|VERB
-51006,780,artist,paint draw sculpture monet one favourite,paints|paint|VERB draws|draw|VERB sculptures|sculpture|NOUN monet|monet|NOUN one|one|NUM favourite|favourite|ADJ
-51008,780,laugh,till cry,till|till|SCONJ cried|cry|VERB
-51009,780,poem,poet recite recent,poet|poet|NOUN recited|recite|VERB recent|recent|ADJ
-51010,780,stare,people rude,people|people|NOUN rude|rude|ADJ
 51011,839,artist,person skill,person|person|NOUN skills|skill|NOUN
 51012,839,death,end life,end|end|NOUN life|life|NOUN
 51013,839,laugh,expression happy movement,expression|expression|NOUN happy|happy|ADJ movement|movement|NOUN
@@ -50072,11 +49953,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51098,820,laugh,smile happy forget sorrow joy,smile|smile|VERB happy|happy|ADJ forgotten|forget|VERB sorrow|sorrow|NOUN joy|joy|NOUN
 51099,820,poem,imagination meaningful,imagination|imagination|NOUN meaningful|meaningful|ADJ
 51100,820,stare,star great concentration,staring|star|VERB great|great|ADJ concentration|concentration|NOUN
-51101,827,artist,article general concept art category different artistic discipline see art,article|article|NOUN general|general|ADJ concept|concept|NOUN art|art|NOUN categories|category|NOUN different|different|ADJ artistic|artistic|ADJ disciplines|discipline|NOUN see|see|VERB arts|art|NOUN
-51102,827,death,permanent termination biological function sustain living organism,permanent|permanent|ADJ termination|termination|NOUN biological|biological|ADJ functions|function|NOUN sustain|sustain|VERB living|living|NOUN organism|organism|NOUN
-51103,827,laugh,reaction certain stimulus fundamentally stress serve emotional balancing mechanism,reaction|reaction|NOUN certain|certain|ADJ stimuli|stimulus|NOUN fundamentally|fundamentally|ADV stress|stress|NOUN serves|serve|VERB emotional|emotional|ADJ balancing|balancing|NOUN mechanism|mechanism|NOUN
-51104,827,poem,form create art poetry form literary art language aesthetic,forming|form|VERB creating|create|VERB art|art|NOUN poetry|poetry|NOUN form|form|NOUN literary|literary|ADJ art|art|NOUN language|language|NOUN aesthetic|aesthetic|NOUN
-51105,827,stare,look fixedly often wide open eye,look|look|VERB fixedly|fixedly|ADV often|often|ADV wide|wide|ADV open|open|ADJ eyes|eye|NOUN
 51106,809,artist,expert master,expert|expert|PROPN master|master|NOUN
 51107,809,death,demise decease loss life,demise|demise|PROPN decease|decease|NOUN loss|loss|NOUN life|life|NOUN
 51108,809,laugh,express joy giggle,express|express|VERB joy|joy|NOUN giggle|giggle|NOUN
@@ -50247,7 +50123,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51278,771,laugh,giggle grin chuckle guffaw joke smile happy,giggle|giggle|PROPN grin|grin|NOUN chuckle|chuckle|ADJ guffaw|guffaw|NOUN joke|joke|NOUN smile|smile|NOUN happy|happy|ADJ
 51279,771,poem,story rhyme,story|story|PROPN rhyme|rhyme|NOUN
 51280,771,stare,gape eye focus gaze,gape|gape|PROPN eyes|eye|NOUN focus|focus|VERB gaze|gaze|NOUN
-51284,777,poem,noun literary composition give intensity attention diction sometimes involve rhyme rhythm imagery,noun|noun|PROPN literary|literary|ADJ composition|composition|NOUN given|give|VERB intensity|intensity|NOUN attention|attention|NOUN diction|diction|NOUN sometimes|sometimes|ADV involving|involve|VERB rhyme|rhyme|NOUN rhythm|rhythm|NOUN imagery|imagery|NOUN
 51286,792,artist,creator art,creator|creator|NOUN arts|art|NOUN
 51287,792,death,opposite birth,opposite|opposite|NOUN birth|birth|NOUN
 51288,792,laugh,opposite cry,opposite|opposite|ADJ cry|cry|NOUN
@@ -50328,7 +50203,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51363,995,maid,sexualize pornography medium halloween costume one perception slut hard work immigrant worker clean home dirty work house,sexualized|sexualize|VERB pornography|pornography|NOUN media|medium|NOUN halloween|halloween|NOUN costumes|costume|NOUN one|one|NUM perception|perception|NOUN slut|slut|NOUN hard|hard|ADV working|work|VERB immigrant|immigrant|NOUN worker|worker|NOUN cleaner|clean|ADJ homes|home|NOUN dirty|dirty|ADJ work|work|NOUN house|house|NOUN
 51364,995,public,anyone share space general mass people share common norm society even society without share norm,anyone|anyone|PRON shared|share|VERB space|space|NOUN general|general|ADJ mass|mass|NOUN people|people|NOUN share|share|VERB common|common|ADJ norms|norm|NOUN society|society|NOUN even|even|ADV society|society|NOUN without|without|ADP sharing|share|VERB norms|norm|NOUN
 51365,995,stamp,old antiquated useful old collection musty smell slight dankness indoor basement old man work sun peruse collection,old|old|ADJ antiquated|antiquated|ADJ useful|useful|ADJ old|old|ADJ collections|collection|NOUN musty|musty|NOUN smells|smell|VERB slight|slight|ADJ dankness|dankness|NOUN indoors|indoor|NOUN basement|basement|NOUN old|old|ADJ man|man|NOUN works|work|VERB sun|sun|NOUN perusing|peruse|VERB collection|collection|NOUN
-51367,777,forgive,verb past forgave past participle stop feel angry resentful towards offense mistake excuse offense mistake,verb|verb|PROPN past|past|ADJ forgave|forgave|NOUN past|past|ADJ participle|participle|NOUN stop|stop|VERB feeling|feel|VERB angry|angry|ADJ resentful|resentful|ADJ towards|towards|ADP offense|offense|NOUN mistake|mistake|NOUN excuse|excuse|PROPN offense|offense|NOUN mistake|mistake|NOUN
 51371,900,calm,quite relaxed collect ease still,quite|quite|ADV relaxed|relaxed|ADJ collected|collect|VERB ease|ease|NOUN still|still|ADV
 51372,900,forgive,accept understand keep open mind,accept|accept|VERB understand|understand|VERB keep|keep|VERB open|open|ADJ mind|mind|NOUN
 51373,900,maid,house keeper servant clean dress uniform,house|house|PROPN keeper|keeper|PROPN servant|servant|NOUN cleaner|clean|ADJ dressed|dress|VERB uniform|uniform|NOUN
@@ -50346,11 +50220,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51388,785,maid,asleep,asleep|asleep|ADJ
 51389,785,public,relate human begin opposite private secret,related|relate|VERB human|human|ADJ begins|begin|VERB opposite|opposite|ADJ private|private|ADJ secret|secret|ADJ
 51390,785,stamp,approval,approval|approval|NOUN
-51391,780,calm,keep police way,keep|keep|VERB police|police|NOUN way|way|NOUN
-51392,780,forgive,think ever quite name wrong time,think|think|VERB ever|ever|ADV quite|quite|ADV name|name|NOUN wrong|wrong|ADJ time|time|NOUN
-51393,780,maid,beach resort apartment villa daily service,beach|beach|NOUN resort|resort|NOUN apartments|apartment|NOUN villas|villa|NOUN daily|daily|ADV service|service|NOUN
-51394,780,public,relate involve people general rather limit group people,relating|relate|VERB involving|involve|VERB people|people|NOUN general|general|ADJ rather|rather|ADV limited|limit|VERB group|group|NOUN people|people|NOUN
-51395,780,stamp,stick 50p envelope,stuck|stick|VERB 50p|50p|NOUN envelope|envelope|NOUN
 51396,811,calm,tranquil,tranquil|tranquil|NOUN
 51397,811,forgive,accept person due bad situation happen,accepts|accept|VERB person|person|NOUN due|due|ADP bad|bad|ADJ situation|situation|NOUN happened|happen|VERB
 51398,811,maid,charge hospitality cleaning home,charge|charge|NOUN hospitality|hospitality|NOUN cleaning|cleaning|NOUN home|home|NOUN
@@ -50417,8 +50286,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51462,783,forgive,pardon,pardon|pardon|VERB
 51463,783,public,crowd,crowd|crowd|VERB
 51464,783,stamp,authorisation,authorisation|authorisation|NOUN
-51468,831,public,acting etc community whole,acting|acting|NOUN etc|etc|X community|community|NOUN whole|whole|NOUN
-51469,831,stamp,token postal fee pay two distinctive form three type class,token|token|ADJ postal|postal|ADJ fees|fee|NOUN paid|pay|VERB 2|two|NUM distinctive|distinctive|ADJ form|form|NOUN 3|three|NUM type|type|NOUN class|class|NOUN
 51470,825,calm,tranquil peaceful quiet,tranquil|tranquil|PROPN peaceful|peaceful|ADJ quiet|quiet|ADJ
 51471,825,forgive,pardon excuse,pardon|pardon|PROPN excuse|excuse|NOUN
 51472,825,maid,servant home,servant|servant|PROPN home|home|NOUN
@@ -50600,7 +50467,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51657,843,id,identity,identity|identity|NOUN
 51658,843,off,to leave,to|to|PART leave|leave|VERB
 51659,843,web,kind thread fluid come spider,kind|kind|NOUN thread|thread|NOUN fluid|fluid|NOUN coming|come|VERB spider|spider|NOUN
-51661,777,dam,barrier construct hold back water raise level form reservoir prevent flooding barrier branch stream construct beaver provide deep pool lodge,barrier|barrier|NOUN constructed|construct|VERB hold|hold|VERB back|back|ADP water|water|NOUN raise|raise|VERB level|level|NOUN forming|form|VERB reservoir|reservoir|ADJ preventing|prevent|VERB flooding|flooding|NOUN barrier|barrier|NOUN branches|branch|NOUN stream|stream|NOUN constructed|construct|VERB beaver|beaver|NOUN provide|provide|VERB deep|deep|ADJ pool|pool|NOUN lodge|lodge|NOUN
 51665,905,anger,negative emotion less form rage upset frustration,negative|negative|ADJ emotion|emotion|NOUN lesser|less|ADJ form|form|NOUN rage|rage|NOUN upset|upset|ADJ frustration|frustration|NOUN
 51666,905,dam,block water beaver build hoover one,blocks|block|VERB water|water|NOUN beavers|beaver|NOUN build|build|VERB hoover|hoover|ADJ one|one|NUM
 51667,905,id,subconscious perception self,subconscious|subconscious|ADJ perception|perception|NOUN self|self|NOUN
@@ -50837,11 +50703,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51917,799,id,proof,proof|proof|NOUN
 51918,799,off,stop,stop|stop|VERB
 51919,799,web,weave,weave|weave|VERB
-51920,776,anger,gussy,gussy|gussy|PROPN
-51921,776,dam,mad,mad|mad|ADJ
-51922,776,id,identification,identification|identification|NOUN
-51923,776,off,opposite to on,opposite|opposite|ADJ to|to|ADP on|on|ADP
-51924,776,web,internet,internet|internet|NOUN
 51925,822,anger,strong feeling dislike displeasure,strong|strong|ADJ feeling|feeling|NOUN dislike|dislike|NOUN displeasure|displeasure|NOUN
 51926,822,dam,barrier build hold back flow water,barrier|barrier|NOUN built|build|VERB hold|hold|VERB back|back|ADP flowing|flow|VERB water|water|NOUN
 51927,822,id,identification,identification|identification|NOUN
@@ -50862,8 +50723,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 51942,822,important,great significance consequence,great|great|ADJ significance|significance|NOUN consequence|consequence|VERB
 51943,822,period,space time two event portion time,space|space|NOUN time|time|NOUN two|two|NUM events|event|NOUN portion|portion|NOUN time|time|NOUN
 51944,822,tears,liquid flow eye cry,liquid|liquid|NOUN flows|flow|VERB eye|eye|NOUN crying|cry|VERB
-51946,777,women,plural form,plural|plural|ADJ form|form|NOUN
-51949,777,tears,noun page remove magazine book etc separately,noun|noun|PROPN page|page|NOUN removed|remove|VERB magazine|magazine|NOUN book|book|NOUN etc|etc|X separately|separately|ADV
 51951,823,women,donna dowager doxy fair sex female sex feme,donna|donna|PROPN dowager|dowager|NOUN doxy|doxy|ADJ fair|fair|ADJ sex|sex|NOUN female|female|ADJ sex|sex|NOUN feme|feme|NOUN
 51952,823,important,substantial significant meaning import pregnant authoritative crucial,substantial|substantial|ADJ significant|significant|ADJ meaning(a|meaning|PROPN import|import|NOUN pregnant|pregnant|ADJ authoritative|authoritative|ADJ crucial|crucial|ADJ
 51953,823,period,stop time catamenia menstruum menstruation geological full point time mense point flow full stop,stop|stop|VERB time|time|NOUN catamenia|catamenia|NOUN menstruum|menstruum|PROPN menstruation|menstruation|NOUN geological|geological|ADJ full|full|ADJ point|point|NOUN time|time|NOUN menses|mense|NOUN point|point|NOUN flow|flow|NOUN full|full|ADJ stop|stop|NOUN
@@ -51206,8 +51065,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 52296,820,loving,share feeling care,sharing|share|VERB feelings|feeling|NOUN care|care|VERB
 52297,820,picture,image photo pose pixel,image|image|NOUN photo|photo|NOUN pose|pose|NOUN pixel|pixel|VERB
 52298,820,weak,low strength suitable damage,low|low|ADJ strength|strength|NOUN suitable|suitable|ADJ damaged|damage|VERB
-52300,769,fad,temporary fashion notion manner conduct etc especially one follow enthusiastically group intense short live fashion craze personal idiosyncrasy whim,temporary|temporary|ADJ fashion|fashion|NOUN notion|notion|NOUN manner|manner|NOUN conduct|conduct|NOUN etc|etc|X especially|especially|ADV one|one|NUM followed|follow|VERB enthusiastically|enthusiastically|ADV group|group|NOUN intense|intense|ADJ short|short|ADV lived|live|VERB fashion|fashion|NOUN craze|craze|NOUN personal|personal|ADJ idiosyncrasy|idiosyncrasy|NOUN whim|whim|NOUN
-52301,769,loving,feel show warmly affectionate fond glance feel show indicate affection sexual passion desire,feeling|feel|VERB showing|show|VERB warmly|warmly|ADV affectionate|affectionate|ADJ fond|fond|ADJ glances|glance|NOUN feeling|feel|VERB showing|show|VERB indicating|indicate|VERB affection|affection|NOUN sexual|sexual|ADJ passion|passion|NOUN desire|desire|NOUN
 52304,823,builder,constructor detergent,constructor|constructor|PROPN detergent|detergent|NOUN
 52305,823,fad,cult fury frenzy rage furore madness craze delirium passion hysteria religious cult furor cultus,cult|cult|NOUN fury|fury|NOUN frenzy|frenzy|NOUN rage|rage|NOUN furore|furore|NOUN madness|madness|NOUN craze|craze|NOUN delirium|delirium|NOUN passion|passion|NOUN hysteria|hysteria|NOUN religious|religious|ADJ cult|cult|NOUN furor|furor|NOUN cultus|cultus|NOUN
 52306,823,loving,amiable agreeable engaging lovable pleasing attractive gentle lovely sweet benignant good nature win harm kind pleasant winsome,amiable|amiable|ADJ agreeable|agreeable|ADJ engaging|engaging|ADJ lovable|lovable|ADJ pleasing|pleasing|ADJ attractive|attractive|ADJ gentle|gentle|ADJ lovely|lovely|ADJ sweet|sweet|ADJ benignant|benignant|NOUN good|good|ADV natured|nature|VERB winning|win|VERB harming|harm|VERB kind|kind|ADJ pleasant|pleasant|NOUN winsome|winsome|ADJ
@@ -51238,11 +51095,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 52331,766,loving,near belove one affection,nearing|near|VERB beloved|belove|VERB one|one|NUM affection|affection|NOUN
 52332,766,picture,film movie figure draw,film|film|NOUN movie|movie|NOUN figure|figure|NOUN drawing|draw|VERB
 52333,766,weak,physically well strength need strength,physically|physically|ADV well|well|ADV strength|strength|NOUN need|need|VERB strength|strength|NOUN
-52334,780,builder,person whose job building,person|person|NOUN whose|whose|DET job|job|NOUN buildings|building|NOUN
-52335,780,fad,wear rip jeans year ago,wearing|wear|VERB ripped|rip|VERB jeans|jeans|NOUN years|year|NOUN ago|ago|ADV
-52336,780,loving,child,child|child|NOUN
-52337,780,picture,clear,clear|clear|ADJ
-52338,780,weak,give excuse ask late,gave|give|VERB excuses|excuse|NOUN asked|ask|VERB late|late|ADJ
 52339,830,builder,construction worker architect artisan constructor contractor craftsperson inventor maker manufacturer mason originator producer,construction|construction|NOUN worker|worker|NOUN architect|architect|NOUN artisan|artisan|PROPN constructor|constructor|NOUN contractor|contractor|NOUN craftsperson|craftsperson|PROPN inventor|inventor|NOUN maker|maker|NOUN manufacturer|manufacturer|NOUN mason|mason|NOUN originator|originator|NOUN producer|producer|NOUN
 52340,830,fad,craze affection amusement cry fantasy fashion hobby humor innovation passion style trend,craze|craze|PROPN affection|affection|NOUN amusement|amusement|NOUN cry|cry|NOUN fantasy|fantasy|NOUN fashion|fashion|NOUN hobby|hobby|NOUN humor|humor|NOUN innovation|innovation|NOUN passion|passion|NOUN style|style|NOUN trend|trend|NOUN
 52341,830,loving,adore admire crazy fascinate fond care cherish affectionate amiable kind loyal,adore|adore|PROPN admire|admire|NOUN crazy|crazy|ADJ fascinated|fascinate|VERB fond|fond|ADJ care|care|VERB cherish|cherish|ADJ affectionate|affectionate|ADJ amiable|amiable|ADJ kind|kind|ADJ loyal|loyal|ADJ
@@ -51291,9 +51143,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 52386,809,loving,regard warm feeling,regarding|regard|VERB warm|warm|ADJ feeling|feeling|NOUN
 52387,809,picture,drawing painting sketch,drawing|drawing|NOUN painting|painting|NOUN sketch|sketch|VERB
 52388,809,weak,lack strength unsteady powerless,lacking|lack|VERB strength|strength|NOUN unsteady|unsteady|ADJ powerless|powerless|ADJ
-52391,777,loving,adjective feeling show great care combination enjoy specified fun girl,adjective|adjective|ADJ feeling|feeling|NOUN showing|show|VERB great|great|ADJ care|care|NOUN combination|combination|NOUN enjoying|enjoy|VERB specified|specified|ADJ fun|fun|NOUN girl|girl|NOUN
-52395,831,fad,fashion take great enthusiasm brief period time craze,fashion|fashion|NOUN taken|take|VERB great|great|ADJ enthusiasm|enthusiasm|NOUN brief|brief|ADJ period|period|NOUN time|time|NOUN craze|craze|NOUN
-52397,831,picture,visual representation image paint draw photograph otherwise render flat surface,visual|visual|ADJ representation|representation|NOUN image|image|NOUN painted|paint|VERB drawn|draw|VERB photographed|photograph|VERB otherwise|otherwise|ADV rendered|render|VERB flat|flat|ADJ surface|surface|NOUN
 52399,1010,builder,build building,build|build|VERB building|building|NOUN
 52400,1010,fad,fashion,fashion|fashion|NOUN
 52401,1010,loving,mother,mother|mother|NOUN
@@ -51558,8 +51407,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 52681,785,mixture,combination,combination|combination|NOUN
 52682,785,store,collection,collection|collection|NOUN
 52683,785,music,represent feeling,represent|represent|VERB feelings|feeling|NOUN
-52686,808,mixture,product mechanical blending mixing chemical substance element compound without chemical bonding chemical change ingredient substance retain chemical property makeup,product|product|NOUN mechanical|mechanical|ADJ blending|blending|NOUN mixing|mixing|NOUN chemical|chemical|ADJ substances|substance|NOUN elements|element|NOUN compounds|compound|NOUN without|without|ADP chemical|chemical|ADJ bonding|bonding|NOUN chemical|chemical|NOUN change|change|NOUN ingredient|ingredient|NOUN substance|substance|NOUN retains|retain|VERB chemical|chemical|NOUN properties|property|NOUN makeup|makeup|NOUN
-52688,808,music,art form whose medium sound silence common element pitch rhythm dynamic sonic quality timbre texture,art|art|NOUN form|form|NOUN whose|whose|DET medium|medium|NOUN sound|sound|NOUN silence|silence|NOUN common|common|ADJ elements|element|NOUN pitch|pitch|ADJ rhythm|rhythm|NOUN dynamics|dynamic|NOUN sonic|sonic|ADJ qualities|quality|NOUN timbre|timbre|NOUN texture|texture|NOUN
 52689,773,billy,billion,billion|billion|NUM
 52690,773,days,sunday monday tuesday ect,sunday|sunday|PROPN monday|monday|PROPN tuesday|tuesday|PROPN ect|ect|NOUN
 52691,773,mixture,include item,including|include|VERB items|item|NOUN
@@ -51614,9 +51461,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 52741,825,mixture,combination mix blend,combination|combination|NOUN mix|mix|NOUN blend|blend|NOUN
 52742,825,store,amass stock accumulate,amass|amass|PROPN stock|stock|NOUN accumulate|accumulate|VERB
 52743,825,music,melody tune harmony,melody|melody|PROPN tune|tune|NOUN harmony|harmony|NOUN
-52745,777,days,noun british small rucksack,noun|noun|PROPN british|british|VERB small|small|ADJ rucksack|rucksack|NOUN
-52746,777,mixture,noun substance mix substance together process mix mixed combination different component individually distinct charge gas vapor mix air admit cylinder internal combustion engine,noun|noun|PROPN substance|substance|NOUN mixing|mix|VERB substances|substance|NOUN together|together|ADV process|process|NOUN mixing|mix|VERB mixed|mixed|ADJ combination|combination|NOUN different|different|ADJ components|component|NOUN individually|individually|ADV distinct|distinct|ADJ charge|charge|NOUN gas|gas|NOUN vapor|vapor|VERB mixed|mix|VERB air|air|NOUN admitted|admit|VERB cylinder|cylinder|NOUN internal|internal|ADJ combustion|combustion|NOUN engine|engine|NOUN
-52747,777,store,quantity supply keep need supply equipment food keep member army navy institution,quantity|quantity|NOUN supply|supply|NOUN kept|keep|VERB needed|need|VERB supplies|supply|NOUN equipment|equipment|NOUN food|food|NOUN kept|keep|VERB members|member|NOUN army|army|NOUN navy|navy|NOUN institution|institution|NOUN
 52749,770,billy,metal pot boiling water,metal|metal|NOUN pot|pot|NOUN boiling|boiling|NOUN water|water|NOUN
 52750,770,days,daytime,daytime|daytime|NOUN
 52751,770,mixture,act process mixing produce mix,act|act|NOUN process|process|NOUN mixing|mixing|NOUN produced|produce|VERB mixing|mix|VERB
@@ -51697,8 +51541,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 52826,830,killer,murderer butcher cut throat executioner gunman woman gunperson hit hunter poison toxin deadly chemical hit person knife,murderer|murderer|NOUN butcher|butcher|NOUN cut|cut|NOUN throat|throat|NOUN executioner|executioner|NOUN gunman|gunman|NOUN woman|woman|NOUN gunperson|gunperson|NOUN hit|hit|NOUN hunter|hunter|NOUN poison|poison|NOUN toxin|toxin|NOUN deadly|deadly|ADJ chemical|chemical|NOUN hit|hit|VERB person|person|NOUN knife|knife|NOUN
 52827,830,stress,emphasis importance significance urgency tense feature underline repeat strain stretch worry,emphasis|emphasis|NOUN importance|importance|NOUN significance|significance|NOUN urgency|urgency|NOUN tense|tense|ADJ feature|feature|NOUN underline|underline|ADJ repeat|repeat|NOUN strain|strain|NOUN stretch|stretch|NOUN worry|worry|VERB
 52828,830,poetry,expressive rhythmic poem rhyming rime rune song stanza verse versification tuneful epic epic poem lyric sonnet stanza poet,expressive|expressive|ADJ rhythmic|rhythmic|ADJ poems|poem|NOUN rhyming|rhyming|NOUN rime|rime|NOUN rune|rune|NOUN song|song|NOUN stanza|stanza|NOUN verse|verse|NOUN versification|versification|NOUN tuneful|tuneful|ADJ epic|epic|ADJ epic|epic|ADJ poem|poem|NOUN lyric|lyric|NOUN sonnet|sonnet|NOUN stanza|stanza|PROPN poet|poet|NOUN
-52829,831,cleaner,type industrial domestic worker clean home office payment unlike servant primary task clean,type|type|NOUN industrial|industrial|ADJ domestic|domestic|ADJ worker|worker|NOUN cleans|clean|VERB homes|home|NOUN offices|office|NOUN payment|payment|NOUN unlike|unlike|ADP servants|servant|NOUN primary|primary|ADJ task|task|NOUN cleaning|clean|VERB
-52832,831,stress,action body system balanced force whereby strain deformation result,action|action|NOUN body|body|NOUN system|system|NOUN balanced|balanced|ADJ forces|force|NOUN whereby|whereby|SCONJ strain|strain|VERB deformation|deformation|NOUN results|result|NOUN
 52834,771,cleaner,scrub dirty detergent,scrub|scrub|NOUN dirty|dirty|ADJ detergent|detergent|NOUN
 52835,771,frame,photo enclose picture,photos|photo|NOUN enclose|enclose|ADJ pictures|picture|NOUN
 52836,771,killer,murderer death,murderer|murderer|NOUN death|death|NOUN
@@ -51719,9 +51561,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 52851,801,killer,kill difficult deal person weapon,kills|kill|VERB difficult|difficult|ADJ deal|deal|VERB person|person|NOUN weapon|weapon|NOUN
 52852,801,stress,tense strained good mood,tensed|tense|VERB strained|strained|ADJ good|good|ADJ mood|mood|NOUN
 52853,801,poetry,imaginative thought art rhythmical composition,imaginative|imaginative|ADJ thoughts|thought|NOUN art|art|NOUN rhythmical|rhythmical|ADJ composition|composition|NOUN
-52854,777,cleaner,noun person clean shop clothes fabric dry clean,noun|noun|PROPN person|person|NOUN cleans|clean|VERB shop|shop|NOUN clothes|clothes|NOUN fabrics|fabric|NOUN dry|dry|ADV cleaned|clean|VERB
-52855,777,frame,rigid structure surround picture door etc metal plastic structure hold lens pair glasses rigid support structure vehicle aircraft object box structure glass plastic seed young plant grow,rigid|rigid|ADJ structure|structure|NOUN surrounding|surround|VERB picture|picture|NOUN door|door|NOUN etc|etc|X metal|metal|NOUN plastic|plastic|NOUN structure|structure|NOUN holding|hold|VERB lenses|lens|NOUN pair|pair|NOUN glasses|glasses|NOUN rigid|rigid|ADJ supporting|support|VERB structure|structure|NOUN vehicle|vehicle|NOUN aircraft|aircraft|NOUN object|object|NOUN box|box|NOUN structure|structure|NOUN glass|glass|NOUN plastic|plastic|NOUN seeds|seed|VERB young|young|ADJ plants|plant|NOUN grown|grow|VERB
-52858,777,poetry,noun poem collectively genre literature quality beauty intensity emotion regard characteristic,noun|noun|PROPN poems|poem|VERB collectively|collectively|ADV genre|genre|NOUN literature|literature|NOUN quality|quality|NOUN beauty|beauty|NOUN intensity|intensity|NOUN emotion|emotion|NOUN regarded|regard|VERB characteristic|characteristic|ADJ
 52859,825,cleaner,one clean,one|one|NUM cleans|clean|VERB
 52860,825,frame,border edge outline,border|border|NOUN edge|edge|NOUN outline|outline|NOUN
 52861,825,killer,murderer assassin executioner,murderer|murderer|NOUN assassin|assassin|NOUN executioner|executioner|NOUN
@@ -51887,10 +51726,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53026,789,killer,hunter soldier person kill powerful,hunter|hunter|PROPN soldier|soldier|NOUN person|person|NOUN kills|kill|VERB powerful|powerful|ADJ
 53027,789,stress,anxiety burden pressure worry,anxiety|anxiety|NOUN burden|burden|NOUN pressure|pressure|NOUN worry|worry|VERB
 53028,789,poetry,rhyme verse song literary work,rhyme|rhyme|PROPN verse|verse|NOUN song|song|NOUN literary|literary|ADJ work|work|NOUN
-53029,808,cleaner,type industrial domestic worker clean home office payment unlike servant primary task clean specialise clean place window example often work people otherwise occupy space clean office night house workday,type|type|NOUN industrial|industrial|ADJ domestic|domestic|ADJ worker|worker|NOUN cleans|clean|VERB homes|home|NOUN offices|office|NOUN payment|payment|NOUN unlike|unlike|ADP servants|servant|NOUN primary|primary|ADJ task|task|NOUN cleaning|clean|VERB specialise|specialise|VERB cleaning|clean|VERB places|place|NOUN window|window|NOUN example|example|NOUN often|often|ADV work|work|VERB people|people|NOUN otherwise|otherwise|ADV occupy|occupy|VERB space|space|NOUN clean|clean|VERB offices|office|NOUN night|night|NOUN houses|house|NOUN workday|workday|NOUN
-53030,808,frame,structural system support component physical construction,structural|structural|ADJ system|system|NOUN supports|support|VERB components|component|NOUN physical|physical|ADJ construction|construction|NOUN
-53031,808,killer,kill murderer,kills|kill|VERB murderer|murderer|NOUN
-53033,808,poetry,poem poem poetic redirect see poem disambiguation poem disambiguation poetic disambiguation,poem|poem|PROPN poems|poem|NOUN poetic|poetic|ADJ redirect|redirect|NOUN see|see|VERB poem|poem|NOUN disambiguation|disambiguation|NOUN poems|poem|NOUN disambiguation|disambiguation|NOUN poetic|poetic|ADJ disambiguation|disambiguation|NOUN
 53034,792,cleaner,one clean,one|one|NUM cleans|clean|VERB
 53035,792,frame,form,form|form|NOUN
 53036,792,killer,one kill,one|one|NUM killed|kill|VERB
@@ -52084,11 +51919,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53235,776,groceries,item,item|item|NOUN
 53236,776,senate,scenery,scenery|scenery|NOUN
 53237,776,phone,cell,cell|cell|NOUN
-53240,777,groceries,noun person sell food small household good,noun|noun|PROPN person|person|NOUN sells|sell|VERB food|food|NOUN small|small|ADJ household|household|NOUN goods|good|NOUN
-53244,780,coral,see picture,see|see|VERB picture|picture|NOUN
-53245,780,groceries,old fashioned grocer,old|old|ADJ fashioned|fashioned|ADJ grocer|grocer|NOUN
-53246,780,senate,law chance pass,law|law|NOUN chance|chance|NOUN passed|pass|VERB
-53247,780,phone,ust mobile rang,ust|ust|ADV mobile|mobile|ADJ rang|rang|NOUN
 53248,1018,actor,theater acting movie performer role playing audience costume script celebrity movie star,theater|theater|PROPN acting|acting|NOUN movie|movie|NOUN performer|performer|NOUN role|role|NOUN playing|playing|NOUN audience|audience|NOUN costume|costume|NOUN script|script|NOUN celebrity|celebrity|NOUN movie|movie|NOUN star|star|NOUN
 53249,1018,coral,sea ocean sea creature reef warm sea great barrier reef horny tentacle colorful,sea|sea|PROPN ocean|ocean|NOUN sea|sea|NOUN creature|creature|NOUN reef|reef|NOUN warm|warm|ADJ sea|sea|NOUN great|great|ADJ barrier|barrier|NOUN reef|reef|NOUN horny|horny|ADJ tentacles|tentacle|NOUN colorful|colorful|ADJ
 53250,1018,groceries,food produce deli meat seafood counter shopping cart household supply,food|food|NOUN produce|produce|VERB deli|deli|NOUN meat|meat|NOUN seafood|seafood|NOUN counters|counter|NOUN shopping|shopping|NOUN carts|cart|NOUN household|household|NOUN supplies|supply|NOUN
@@ -52289,7 +52119,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53450,942,highway,main public road especially one connect town city,main|main|ADJ public|public|ADJ road|road|NOUN especially|especially|ADV one|one|NUM connecting|connect|VERB towns|town|NOUN cities|city|NOUN
 53451,942,sex,property quality organism classify female male basis reproductive organ function,property|property|NOUN quality|quality|NOUN organisms|organism|NOUN classified|classify|VERB female|female|ADJ male|male|ADJ basis|basis|NOUN reproductive|reproductive|ADJ organs|organ|NOUN functions|function|NOUN
 53452,942,police,force government organization charge responsibility maintain law order,forces|force|NOUN government|government|NOUN organizations|organization|NOUN charged|charge|VERB responsibility|responsibility|NOUN maintaining|maintain|VERB law|law|NOUN order|order|NOUN
-53455,777,highway,noun chiefly north american main road chiefly official public road,noun|noun|PROPN chiefly|chiefly|ADV north|north|PROPN american|american|PROPN main|main|ADJ road|road|NOUN chiefly|chiefly|ADV official|official|ADJ public|public|ADJ road|road|NOUN
 53458,771,then,if when time after,if|if|SCONJ when|when|SCONJ time|time|NOUN after|after|ADP
 53459,771,towel,terrycloth bath dish dry,terrycloth|terrycloth|VERB bath|bath|NOUN dish|dish|NOUN dry|dry|ADJ
 53460,771,highway,expressway road map toll drive travel,expressway|expressway|PROPN road|road|NOUN map|map|NOUN tolls|toll|NOUN drive|drive|NOUN travel|travel|NOUN
@@ -52340,11 +52169,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53507,770,police,governmental department charge regulation control affair community chiefly department establish maintain order enforce law prevent detect crime,governmental|governmental|ADJ department|department|NOUN charged|charge|VERB regulation|regulation|NOUN control|control|NOUN affairs|affair|NOUN community|community|NOUN chiefly|chiefly|ADV department|department|NOUN established|establish|VERB maintain|maintain|VERB order|order|NOUN enforce|enforce|VERB law|law|NOUN prevent|prevent|VERB detect|detect|VERB crime|crime|NOUN
 53511,864,sex,commonly act male penis enter female vagina purpose sexual pleasure reproduction,commonly|commonly|ADV act|act|NOUN male|male|ADJ penis|penis|NOUN enters|enter|VERB female|female|ADJ vagina|vagina|NOUN purposes|purpose|NOUN sexual|sexual|ADJ pleasure|pleasure|NOUN reproduction|reproduction|NOUN
 53512,864,police,organized body civil officer city town district whose duty preservation good order,organized|organized|ADJ body|body|NOUN civil|civil|ADJ officers|officer|NOUN city|city|NOUN town|town|NOUN district|district|NOUN whose|whose|DET duties|duty|NOUN preservation|preservation|NOUN good|good|ADJ order|order|NOUN
-53513,780,then,i be work in the city,i|i|PRON was|be|AUX working|work|VERB in|in|ADP the|the|DET city|city|NOUN
-53514,780,towel,school provide paper child dry hand,school|school|NOUN provides|provide|VERB paper|paper|NOUN children|child|NOUN dry|dry|VERB hands|hand|NOUN
-53515,780,highway,coastal interstate,coastal|coastal|ADJ interstate|interstate|NOUN
-53516,780,sex,cat,cat|cat|NOUN
-53517,780,police,think call,think|think|VERB call|call|VERB
 53518,831,then,immediately or soon afterward,immediately|immediately|ADV or|or|CCONJ soon|soon|ADV afterward|afterward|ADV
 53520,831,highway,main route form transport,main|main|ADJ route|route|NOUN form|form|NOUN transport|transport|NOUN
 53521,831,sex,male female division species especially differentiate reference reproductive function,male|male|ADJ female|female|ADJ division|division|NOUN species|species|NOUN especially|especially|ADV differentiated|differentiate|VERB reference|reference|NOUN reproductive|reproductive|ADJ functions|function|NOUN
@@ -52402,11 +52226,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53575,787,highway,long stretch road without sudden turn,long|long|ADJ stretch|stretch|NOUN road|road|NOUN without|without|ADP sudden|sudden|ADJ turns|turn|NOUN
 53576,787,sex,organ differentiate male female,organ|organ|NOUN differentiate|differentiate|VERB male|male|ADJ female|female|NOUN
 53577,787,police,organized civil force maintain discipline,organized|organized|ADJ civil|civil|ADJ force|force|NOUN maintaining|maintain|VERB discipline|discipline|NOUN
-53578,1021,then,what be go in tv,what|what|PRON is|be|AUX going|go|VERB in|in|ADP t.v|tv|PROPN
-53579,1021,towel,clean body,clean|clean|VERB body|body|NOUN
-53580,1021,highway,road,road|road|NOUN
-53581,1021,sex,whether male female,whether|whether|SCONJ male|male|ADJ female|female|NOUN
-53582,1021,police,safety,safety|safety|NOUN
 53583,812,then,and so and so,and|and|CCONJ so|so|ADV and|and|CCONJ so|so|ADV
 53584,812,towel,cloth bath wet,cloth|cloth|PROPN bath|bath|NOUN wet|wet|NOUN
 53585,812,highway,road big road vehicle,road|road|NOUN big|big|ADJ road|road|NOUN vehicle|vehicle|NOUN
@@ -52472,15 +52291,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53645,1018,values,belief standard important social ethical moral religion family,beliefs|belief|NOUN standards|standard|NOUN important|important|ADJ social|social|ADJ ethical|ethical|ADJ morals|moral|NOUN religions|religion|NOUN family|family|NOUN
 53646,1018,subtract,minus negative reduce take less deduct lose,minus|minus|ADP negative|negative|ADJ reduce|reduce|VERB take|take|VERB less|less|ADJ deduct|deduct|NOUN lost|lose|VERB
 53647,1018,sand,beach sea beige beach volleyball castle sunbathing bikini frisbee boomerang sun summer,beach|beach|PROPN sea|sea|PROPN beige|beige|ADJ beach|beach|NOUN volleyball|volleyball|NOUN castle|castle|NOUN sunbathing|sunbathing|NOUN bikini|bikini|PROPN frisbee|frisbee|PROPN boomerang|boomerang|PROPN sun|sun|NOUN summer|summer|NOUN
-53648,777,control,power influence people behaviour course event restriction activity tendency phenomenon,power|power|NOUN influence|influence|VERB people|people|NOUN behaviour|behaviour|NOUN course|course|NOUN events|event|NOUN restriction|restriction|NOUN activity|activity|NOUN tendency|tendency|NOUN phenomenon|phenomenon|NOUN
-53650,777,values,regard hold deserve importance worth material monetary worth worth compare,regard|regard|NOUN held|hold|VERB deserve|deserve|VERB importance|importance|NOUN worth|worth|ADJ material|material|NOUN monetary|monetary|ADJ worth|worth|NOUN worth|worth|NOUN compared|compare|VERB
-53651,777,subtract,verb take away number amount calculate difference remove part,verb|verb|PROPN take|take|VERB away|away|ADV number|number|NOUN amount|amount|NOUN calculate|calculate|VERB difference|difference|NOUN remove|remove|VERB part|part|NOUN
-53652,777,sand,loose granular substance pale yellowish brown result erosion siliceous rock form major constituent beach river bed seabed desert expanse technical sediment whose particle large silt,loose|loose|ADJ granular|granular|ADJ substance|substance|NOUN pale|pale|ADJ yellowish|yellowish|PROPN brown|brown|PROPN resulting|result|VERB erosion|erosion|NOUN siliceous|siliceous|ADJ rocks|rock|NOUN forming|form|VERB major|major|ADJ constituent|constituent|NOUN beaches|beach|NOUN river|river|NOUN beds|bed|NOUN seabed|seabed|NOUN deserts|desert|NOUN expanse|expanse|NOUN technical|technical|ADJ sediment|sediment|NOUN whose|whose|DET particles|particle|NOUN larger|large|ADJ silt|silt|ADJ
-53653,780,control,dog lead,dog|dog|NOUN lead|lead|NOUN
-53654,780,disease,contagious infectious,contagious|contagious|ADJ infectious|infectious|ADJ
-53655,780,values,price show example stamp coin bank note,price|price|NOUN shown|show|VERB example|example|NOUN stamp|stamp|NOUN coin|coin|NOUN bank|bank|NOUN note|note|NOUN
-53656,780,subtract,process remove one number,process|process|NOUN removing|remove|VERB one|one|NUM number|number|NOUN
-53657,780,sand,mix one part three part cement,mix|mix|VERB one|one|NUM part|part|NOUN three|three|NUM parts|part|NOUN cement|cement|NOUN
 53658,817,control,power direct determine,power|power|NOUN direct|direct|VERB determine|determine|VERB
 53659,817,disease,impairment health condition abnormal functioning,impairment|impairment|NOUN health|health|NOUN condition|condition|NOUN abnormal|abnormal|ADJ functioning|functioning|NOUN
 53660,817,values,belief person social group emotional investment,beliefs|belief|NOUN person|person|NOUN social|social|ADJ group|group|NOUN emotional|emotional|ADJ investment|investment|NOUN
@@ -52501,8 +52311,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53675,783,values,grade,grade|grade|NOUN
 53676,783,subtract,minus,minus|minus|CCONJ
 53677,783,sand,silica,silica|silica|PROPN
-53679,831,disease,derange vital function afflict sickness disorder almost exclusively participle,derange|derange|VERB vital|vital|ADJ functions|function|NOUN afflict|afflict|VERB sickness|sickness|NOUN disorder|disorder|VERB almost|almost|ADV exclusively|exclusively|ADV participle|participle|NOUN
-53681,831,subtract,take away deduct,take|take|VERB away|away|ADV deduct|deduct|NOUN
 53683,839,control,avoid,avoiding|avoid|VERB
 53684,839,disease,common symptom occur human body,common|common|ADJ symptoms|symptom|NOUN occurs|occur|VERB human|human|ADJ body|body|NOUN
 53685,839,values,worth product material,worth|worth|NOUN product|product|NOUN material|material|NOUN
@@ -52574,11 +52382,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53755,827,values,personal cultural absolute relative ethical assumption basis ethical action,personal|personal|ADJ cultural|cultural|ADJ absolute|absolute|ADJ relative|relative|ADJ ethical|ethical|ADJ assumption|assumption|NOUN basis|basis|NOUN ethical|ethical|ADJ action|action|NOUN
 53756,827,subtract,subtraction one four basic binary operation inverse addition,subtraction|subtraction|NOUN one|one|NUM four|four|NUM basic|basic|ADJ binary|binary|ADJ operations|operation|NOUN inverse|inverse|NOUN addition|addition|NOUN
 53757,827,sand,naturally occur granular material compose finely divide rock mineral particle,naturally|naturally|ADV occurring|occur|VERB granular|granular|ADJ material|material|NOUN composed|compose|VERB finely|finely|ADV divided|divide|VERB rock|rock|NOUN mineral|mineral|NOUN particles|particle|NOUN
-53758,1023,control,life panel delivery signal,life|life|NOUN panel|panel|NOUN delivery|delivery|NOUN signal|signal|NOUN
-53759,1023,disease,viral mental,viral|viral|ADJ mental|mental|ADJ
-53760,1023,values,life full increase,life|life|NOUN full|full|ADJ increasing|increase|VERB
-53761,1023,subtract,sum reduce,sum|sum|NOUN reducing|reduce|VERB
-53762,1023,sand,granular riverbed construction,granular|granular|ADJ riverbed|riverbed|NOUN construction|construction|NOUN
 53763,993,control,manage curb crack whip,manage|manage|VERB curb|curb|VERB crack|crack|VERB whip|whip|NOUN
 53764,993,disease,impairment health ailment sickness affliction,impairment|impairment|NOUN health|health|NOUN ailment|ailment|NOUN sickness|sickness|NOUN affliction|affliction|NOUN
 53765,993,values,principle ethics moral ideal integrity,principles|principle|NOUN ethics|ethics|NOUN morals|moral|NOUN ideals|ideal|NOUN integrity|integrity|NOUN
@@ -52779,10 +52582,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53970,857,health,constitution form euphoria energy,constitution|constitution|PROPN form|form|NOUN euphoria|euphoria|NOUN energy|energy|NOUN
 53971,857,holiday,vacation break celebration festival,vacation|vacation|NOUN break|break|NOUN celebration|celebration|NOUN festival|festival|NOUN
 53972,857,you,i,me|i|PRON
-53974,780,friend,family family,family|family|NOUN family|family|NOUN
-53975,780,health,give drink reason,give|give|VERB drinking|drink|VERB reasons|reason|NOUN
-53976,780,holiday,camping skiing,camping|camping|NOUN skiing|skiing|NOUN
-53977,780,you,have decide where be go for your holiday this year,have|have|AUX decided|decide|VERB where|where|SCONJ are|be|AUX going|go|VERB for|for|ADP your|your|PRON holiday(s|holiday|NOUN this|this|DET year|year|NOUN
 53978,786,chalk,write blackboard,writing|write|VERB blackboard|blackboard|NOUN
 53979,786,friend,companion share common thought,companion|companion|NOUN share|share|VERB common|common|ADJ thoughts|thought|NOUN
 53980,786,health,good state body mind well,good|good|ADJ state|state|NOUN body|body|NOUN mind|mind|NOUN well|well|ADV
@@ -52799,7 +52598,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 53995,823,health,wellness,wellness|wellness|PROPN
 53996,823,holiday,holidaymaker resort season,holidaymaker|holidaymaker|PROPN resort|resort|NOUN season|season|NOUN
 53997,823,you,i we i,i|i|PRON we|we|PRON me|i|PRON
-54000,777,health,noun state free illness injury person mental physical condition,noun|noun|PROPN state|state|NOUN free|free|ADJ illness|illness|NOUN injury|injury|NOUN person|person|NOUN mental|mental|ADJ physical|physical|ADJ condition|condition|NOUN
 54003,810,chalk,write,write|write|VERB
 54004,810,friend,love person,loving|love|VERB person|person|NOUN
 54005,810,health,body,body|body|NOUN
@@ -52938,8 +52736,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54150,783,tight,rigid,rigid|rigid|ADJ
 54151,783,spoiled,destroy,destroyed|destroy|VERB
 54152,783,mother,relationship,relationship|relationship|NOUN
-54154,1029,english,language,language|language|NOUN
-54156,1029,spoiled,identity erve goffman short ish book one hundred forty seven page find need read twice still difficulty grip think possibly goffman deep understanding subject communicate reflective style rich interconnect concept probably book take,identity|identity|NOUN erving|erve|VERB goffman|goffman|NOUN short(ish|short|ADJ short(ish|ish|ADJ book|book|NOUN 147|one|NUM 147|hundred|NUM 147|forty|NUM 147|seven|NUM pages|page|NOUN found|find|VERB needing|need|VERB read|read|VERB twice|twice|ADV still|still|ADV difficulty|difficulty|NOUN grips|grip|NOUN think|think|VERB possibly|possibly|ADV goffman|goffman|NOUN deep|deep|ADJ understanding|understanding|NOUN subject|subject|NOUN communicates|communicate|VERB reflective|reflective|ADJ style|style|NOUN rich|rich|ADJ interconnected|interconnect|VERB concepts|concept|NOUN probably|probably|ADV book|book|NOUN takes|take|VERB
 54158,825,boring,tedious dull unintereste,tedious|tedious|ADJ dull|dull|ADJ uninteresting|unintereste|VERB
 54159,825,english,language people uk,language|language|NOUN people|people|NOUN uk|uk|PROPN
 54160,825,tight,rigid firm strong,rigid|rigid|ADJ firm|firm|ADJ strong|strong|ADJ
@@ -52970,11 +52766,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54185,1030,tight,job,job|job|NOUN
 54186,1030,spoiled,girl boy life,girls|girl|NOUN boys|boy|NOUN life|life|NOUN
 54187,1030,mother,care child,caring|care|VERB child|child|NOUN
-54188,780,boring,film fall asleep,film|film|NOUN fell|fall|VERB asleep|asleep|ADJ
-54189,780,english,speak,speak|speak|VERB
-54190,780,tight,people stand talk group,people|people|NOUN stood|stand|VERB talking|talk|VERB groups|group|NOUN
-54191,780,spoiled,oil spill whole beautiful coastline,oil|oil|NOUN spill|spill|NOUN whole|whole|ADJ beautiful|beautiful|ADJ coastline|coastline|NOUN
-54192,780,mother,twenty one marry,21|twenty|NUM 21|one|NUM married|marry|VERB
 54193,1031,boring,irritate work example,irritate|irritate|VERB work|work|NOUN example|example|NOUN
 54194,1031,english,language speak many country day common language communicate region world,language|language|NOUN spoken|speak|VERB many|many|ADJ countries|country|NOUN days|day|NOUN common|common|ADJ language|language|NOUN communicate|communicate|VERB regions|region|NOUN world|world|NOUN
 54195,1031,tight,bit relax,bit|bit|NOUN relax|relax|VERB
@@ -53000,9 +52791,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54215,864,tight,fix fasten firmly place lid screw,fixed|fix|VERB fastened|fasten|VERB firmly|firmly|ADV place|place|NOUN lid|lid|ADJ screws|screw|NOUN
 54216,864,spoiled,damage irreparably ruin,damage|damage|VERB irreparably|irreparably|ADV ruin|ruin|NOUN
 54217,864,mother,female person pregnant give birth child,female|female|ADJ person|person|NOUN pregnant|pregnant|ADJ gives|give|VERB birth|birth|NOUN child|child|NOUN
-54219,808,english,relate england country united kingdom especially language,related|relate|VERB england|england|NOUN country|country|NOUN united|united|PROPN kingdom|kingdom|PROPN especially|especially|ADV language|language|NOUN
-54221,808,spoiled,decomposition grandiose narcissistic egocentric regresseda child also call brat child exhibit behavioral problem overindulgence parent,decomposition|decomposition|NOUN grandiose|grandiose|ADJ narcissistic|narcissistic|ADJ egocentric|egocentric|ADJ regressed.a|regresseda|PROPN child|child|NOUN also|also|ADV called|call|VERB brat|brat|NOUN child|child|NOUN exhibits|exhibit|VERB behavioral|behavioral|ADJ problems|problem|NOUN overindulgence|overindulgence|NOUN parents|parent|NOUN
-54222,808,mother,mum mom momma mama woman raise child give birth child supply ovum grow child,mum|mum|NOUN mom|mom|NOUN momma|momma|NOUN mama|mama|PROPN woman|woman|NOUN raised|raise|VERB child|child|NOUN given|give|VERB birth|birth|NOUN child|child|NOUN supplied|supply|VERB ovum|ovum|NOUN grew|grow|VERB child|child|NOUN
 54223,899,boring,candy feel tired,candy|candy|VERB feel|feel|VERB tired|tired|ADJ
 54224,899,english,international language communication,international|international|ADJ language|language|NOUN communication|communication|NOUN
 54225,899,tight,suitable wear,suitable|suitable|ADJ wear|wear|NOUN
@@ -53202,11 +52990,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54425,827,grow,increase size natural process,increase|increase|VERB size|size|NOUN natural|natural|ADJ process|process|NOUN
 54426,827,jogger,move shove bumping jerk,move|move|VERB shoving|shove|VERB bumping|bumping|NOUN jerking|jerk|VERB
 54427,827,quack,characteristic sound utter duck,characteristic|characteristic|ADJ sound|sound|NOUN uttered|utter|VERB duck|duck|NOUN
-54428,810,weird,weir,weir|weir|PROPN
-54429,810,divide,cut part,cut|cut|VERB part|part|NOUN
-54430,810,grow,,
-54431,810,jogger,slow runner,slow|slow|ADJ runner|runner|NOUN
-54432,810,quack,attack,attack|attack|NOUN
 54433,1034,weird,fate personify one three sister abnormal,fate|fate|PROPN personified|personify|VERB one|one|NUM three|three|NUM sisters|sister|NOUN abnormal|abnormal|ADJ
 54434,1034,divide,partition mathematical division barrier apart bisect,partition|partition|NOUN mathematical|mathematical|ADJ division|division|NOUN barrier|barrier|NOUN apart|apart|ADV bisect|bisect|NOUN
 54435,1034,grow,improve large great develop increase mature,improve|improve|VERB larger|large|ADJ greater|great|ADJ develop|develop|VERB increase|increase|NOUN mature|mature|ADJ
@@ -53277,11 +53060,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54504,817,divide,perform division,perform|perform|VERB division|division|NOUN
 54505,817,grow,large great big expand gain,larger|large|ADJ greater|great|ADJ bigger|big|ADJ expand|expand|VERB gain|gain|VERB
 54507,817,quack,harsh sound duck,harsh|harsh|VERB sound|sound|NOUN duck|duck|NOUN
-54508,778,weird,,
-54509,778,divide,slice,sliced|slice|VERB
-54510,778,grow,,
-54511,778,jogger,slow runner,slow|slow|ADJ runner|runner|NOUN
-54512,778,quack,fast,fast|fast|ADJ
 54513,776,weird,wire,wire|wire|NOUN
 54514,776,divide,apart,apart|apart|ADV
 54515,776,grow,growth,growth|growth|NOUN
@@ -53378,8 +53156,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54615,771,subject,title study person,title|title|PROPN study|study|NOUN person|person|NOUN
 54616,771,knight,armour horse soldier sword,armour|armour|NOUN horse|horse|NOUN soldier|soldier|NOUN sword|sword|NOUN
 54617,771,none,zero nada zilch nothing break empty,zero|zero|NUM nada|nada|PROPN zilch|zilch|PROPN nothing|nothing|PRON broke|break|VERB empty|empty|ADJ
-54620,808,subject,individual rule elite see feudalism medieval feudalism see commoner modern constitutional monarchy united kingdom see british,individual|individual|NOUN rule|rule|NOUN elite|elite|NOUN see|see|VERB feudalism|feudalism|NOUN medieval|medieval|ADJ feudalism|feudalism|NOUN see|see|VERB commoners|commoner|NOUN modern|modern|ADJ constitutional|constitutional|ADJ monarchies|monarchy|NOUN united|united|PROPN kingdom|kingdom|PROPN see|see|VERB british|british|ADJ
-54621,808,knight,member class low nobility high middle age late middle age rank associate ideal chivalry code conduct perfect courtly christian warrior since early modern period title purely honorific bestow monarch british honours system,member|member|NOUN class|class|NOUN lower|low|ADJ nobility|nobility|NOUN high|high|ADJ middle|middle|ADJ ages|age|NOUN late|late|ADJ middle|middle|ADJ ages|age|NOUN rank|rank|NOUN associated|associate|VERB ideals|ideal|NOUN chivalry|chivalry|NOUN code|code|NOUN conduct|conduct|NOUN perfect|perfect|ADJ courtly|courtly|ADV christian|christian|ADJ warrior|warrior|NOUN since|since|SCONJ early|early|ADJ modern|modern|ADJ period|period|NOUN title|title|NOUN purely|purely|ADV honorific|honorific|ADJ bestowed|bestow|VERB monarch|monarch|NOUN british|british|PROPN honours|honours|ADJ system|system|NOUN
 54623,864,alcohol,pure spirit wine,pure|pure|ADJ spirit|spirit|NOUN wine|wine|NOUN
 54624,864,twelve,number come eleven(11,number|number|NOUN comes|come|VERB eleven(11|eleven(11|NOUN
 54625,864,subject,dependent conditional shareholder approval,dependent|dependent|ADJ conditional|conditional|ADJ shareholder|shareholder|NOUN approval|approval|NOUN
@@ -53389,11 +53165,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54630,801,subject,branch position basic matter thought,branch|branch|NOUN position|position|NOUN basic|basic|ADJ matter|matter|NOUN thought|thought|NOUN
 54631,801,knight,mount soldier serve feudal superior middle age position,mounted|mount|VERB soldier|soldier|NOUN serving|serve|VERB feudal|feudal|ADJ superior|superior|ADJ middle|middle|ADJ ages|age|NOUN position|position|NOUN
 54632,801,none,one nothing,one|one|NOUN nothing|nothing|PRON
-54633,780,alcohol,smell breath,smell|smell|VERB breath|breath|NOUN
-54634,780,twelve,seater minibus,seater|seater|NOUN minibus|minibus|NOUN
-54635,780,subject,discussion homelessness,discussion|discussion|NOUN homelessness|homelessness|ADJ
-54636,780,knight,black armour,black|black|ADJ armour|armour|NOUN
-54637,780,none,shop orange,shop|shop|NOUN oranges|orange|NOUN
 54639,803,twelve,equivalent product three four two ten,equivalent|equivalent|ADJ product|product|NOUN three|three|NUM four|four|NUM two|two|NUM ten|ten|NUM
 54640,803,subject,person discuss deal,person|person|NOUN discussed|discuss|VERB dealt|deal|VERB
 54641,803,knight,man serve sovereign lord mount soldier armor,man|man|NOUN served|serve|VERB sovereign|sovereign|NOUN lord|lord|PROPN mounted|mount|VERB soldier|soldier|NOUN armor|armor|NOUN
@@ -53610,7 +53381,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54865,813,hunter,huntsman hunt watch,huntsman|huntsman|NOUN hunting|hunt|VERB watch|watch|NOUN
 54866,813,marker,mark mark,mark|mark|PROPN marking|mark|VERB
 54867,813,neat,slap full strength straight cracking clean nifty swell orderly keen tasteful bang smashing bad p cork groovy refined great bully dandy peachy,slap|slap|NOUN full|full|ADJ strength|strength|NOUN straight|straight|ADJ cracking|cracking|NOUN clean|clean|ADJ nifty|nifty|ADJ swell|swell|ADJ orderly|orderly|ADJ keen|keen|ADJ tasteful|tasteful|ADJ bang|bang|NOUN smashing|smashing|NOUN bad(p|bad|PROPN bad(p|p|PROPN corking|cork|VERB groovy|groovy|NOUN refined|refined|ADJ great|great|ADJ bully|bully|NOUN dandy|dandy|ADJ peachy|peachy|ADJ
-54868,777,cards,noun person cheat,noun|noun|PROPN person|person|NOUN cheats|cheat|VERB
 54873,1043,cards,poker heart club diamond spade come deck magic trick,poker|poker|NOUN hearts|heart|NOUN clubs|club|NOUN diamonds|diamond|NOUN spades|spade|NOUN come|come|VERB deck|deck|NOUN magic|magic|ADJ tricks|trick|NOUN
 54874,1043,devil,life hell torture sinner pitchfork embody evil also call satan buy soul detail,lives|life|NOUN hell|hell|NOUN tortures|torture|NOUN sinners|sinner|NOUN pitchfork|pitchfork|NOUN embodies|embody|VERB evil|evil|ADJ also|also|ADV called|call|VERB satan|satan|PROPN buys|buy|VERB souls|soul|NOUN details|detail|NOUN
 54875,1043,hunter,shoot animal crossbow rifle shade green sit duck blind,shoots|shoot|NOUN animals|animal|NOUN crossbow|crossbow|NOUN rifle|rifle|NOUN shade|shade|NOUN green|green|NOUN sits|sit|VERB duck|duck|NOUN blind|blind|ADJ
@@ -53733,11 +53503,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 54995,852,hunter,small house,small|small|PROPN house|house|PROPN
 54996,852,marker,judder give mark,judder|judder|NOUN gives|give|VERB mark|mark|NOUN
 54997,852,neat,clean please room,clean|clean|ADJ please|please|INTJ room|room|NOUN
-54998,780,cards,credit earn small amount money charity time buy,credit|credit|NOUN earns|earn|VERB small|small|ADJ amount|amount|NOUN money|money|NOUN charity|charity|NOUN time|time|NOUN bought|buy|VERB
-54999,780,devil,powerful evil force enemy god christianity judaism,powerful|powerful|ADJ evil|evil|ADJ force|force|NOUN enemy|enemy|NOUN god|god|PROPN christianity|christianity|PROPN judaism|judaism|NOUN
-55000,780,hunter,fox,fox|fox|NOUN
-55001,780,marker,reach five hundred metre record time,reached|reach|VERB 500|five|NUM 500|hundred|NUM metre|metre|NOUN record|record|NOUN time|time|NOUN
-55002,780,neat,tidy,tidy|tidy|ADJ
 55003,811,cards,sort occasion regard birthday example also collector item baseball,sorts|sort|NOUN occasions|occasion|NOUN regarding|regard|VERB birthday|birthday|NOUN example|example|NOUN also|also|ADV collectors|collector|NOUN item|item|NOUN baseball|baseball|NOUN
 55004,811,devil,relate satan,related|relate|VERB satan|satan|PROPN
 55005,811,hunter,animal human search,animal|animal|NOUN human|human|NOUN search|search|NOUN
@@ -53821,11 +53586,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 55085,783,human,home sapien,home|home|PROPN sapiens|sapien|NOUN
 55086,783,job,work,work|work|VERB
 55087,783,nice,good,good|good|ADJ
-55088,780,blush,think fool,think|think|VERB fool|fool|NOUN
-55089,780,failure,meeting complete total,meeting|meeting|NOUN complete|complete|ADJ total|total|NOUN
-55090,780,human,body compose sixty water,body|body|NOUN composed|compose|VERB 60|sixty|NUM water|water|NOUN
-55091,780,job,temporary permanent,temporary|temporary|ADJ permanent|permanent|ADJ
-55092,780,nice,day time,day|day|NOUN time|time|NOUN
 55093,787,blush,embarrassment shame,embarrassment|embarrassment|NOUN shame|shame|NOUN
 55094,787,failure,prove nonsuccessive,proving|prove|VERB nonsuccessive|nonsuccessive|ADJ
 55095,787,human,man evolve ape,man|man|NOUN evolved|evolve|VERB apes|ape|NOUN
@@ -54067,7 +53827,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 55345,813,higher,advance complexity elaboration,advanced|advance|VERB complexity|complexity|NOUN elaboration|elaboration|NOUN
 55346,813,kiss,buss osculation candy,buss|buss|ADJ osculation|osculation|NOUN candy|candy|NOUN
 55347,813,sign,mark signal augury mark sucker house bell ringer target crisscross preindication polarity fall guy star stigma score mansion brand grade planetary house chump signal zodiac mug signboard foretoken scratch home run gull patsy fool marker scrape cross print scar stain bull eye soft touch,marking|mark|VERB signaling|signal|VERB augury|augury|NOUN mark|mark|NOUN sucker|sucker|PROPN house|house|NOUN bell|bell|NOUN ringer|ringer|NOUN target|target|NOUN crisscross|crisscross|PROPN preindication|preindication|NOUN polarity|polarity|NOUN fall|fall|NOUN guy|guy|NOUN star|star|NOUN stigma|stigma|NOUN score|score|NOUN mansion|mansion|PROPN brand|brand|NOUN grade|grade|NOUN planetary|planetary|PROPN house|house|PROPN chump|chump|NOUN signal|signal|NOUN zodiac|zodiac|NOUN mug|mug|PROPN signboard|signboard|NOUN foretoken|foretoken|NOUN scratch|scratch|NOUN home|home|NOUN run|run|NOUN gull|gull|NOUN patsy|patsy|PROPN fool|fool|NOUN marker|marker|NOUN scrape|scrape|NOUN cross|cross|NOUN print|print|NOUN scar|scar|NOUN stain|stain|NOUN bull|bull|NOUN eye|eye|NOUN soft|soft|ADJ touch|touch|NOUN
-55350,777,higher,noun scotland advanced two main level scottish certificate education compare ordinary grade,noun|noun|PROPN scotland|scotland|PROPN advanced|advanced|ADJ two|two|NUM main|main|ADJ levels|level|NOUN scottish|scottish|ADJ certificate|certificate|NOUN education|education|NOUN compare|compare|VERB ordinary|ordinary|ADJ grade|grade|NOUN
 55353,808,action,movie game verb man,movies|movie|NOUN games|game|NOUN verbs|verb|NOUN man|man|NOUN
 55354,808,few,be several many big list of prefix sage,is|be|AUX several|several|ADJ many|many|ADJ big|big|ADJ list|list|NOUN of|of|ADP prefixes|prefix|NOUN sage|sage|NOUN
 55355,808,higher,education love band tail cruz creed,education|education|NOUN love|love|NOUN band|band|NOUN tail|tail|NOUN cruz|cruz|NOUN creed|creed|NOUN
@@ -54127,11 +53886,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 55410,783,higher,topper,topper|topper|NOUN
 55411,783,kiss,action romance,action|action|NOUN romancing|romance|VERB
 55412,783,sign,indication,indication|indication|NOUN
-55413,780,action,problem call swift prompt government,problem|problem|NOUN calls|call|VERB swift|swift|ADJ prompt|prompt|ADJ government|government|NOUN
-55414,780,few,i need to get a thing in town,i|i|PRON need|need|VERB to|to|PART get|get|VERB a|a|DET things|thing|NOUN in|in|ADP town|town|NOUN
-55415,780,higher,great proportion people first degree study degree,greater|great|ADJ proportion|proportion|NOUN people|people|NOUN first|first|ADJ degrees|degree|NOUN study|study|VERB degrees|degree|NOUN
-55416,780,kiss,mouth,mouth|mouth|NOUN
-55417,780,sign,please,please|please|INTJ
 55418,827,action,initiating proceeding court justice one demand enforce right,initiating|initiating|NOUN proceeding|proceeding|NOUN court|court|NOUN justice|justice|NOUN one|one|NUM demands|demand|NOUN enforces|enforce|NOUN right|right|ADV
 55419,827,few,not many person or thing,not|not|PART many|many|ADJ persons|person|NOUN or|or|CCONJ things|thing|NOUN
 55420,827,higher,large extension upward,large|large|ADJ extension|extension|NOUN upward|upward|ADV
@@ -54252,8 +54006,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 55540,792,fries,oil,oil|oil|NOUN
 55541,792,steel,alloy,alloy|alloy|NOUN
 55542,792,monkey,animal climb tree,animal|animal|NOUN climb|climb|VERB trees|tree|NOUN
-55544,777,emotion,noun strong feeling joy anger sadness instinctive intuitive feeling distinguish reasoning knowledge,noun|noun|PROPN strong|strong|ADJ feeling|feeling|NOUN joy|joy|NOUN anger|anger|NOUN sadness|sadness|NOUN instinctive|instinctive|ADJ intuitive|intuitive|ADJ feeling|feeling|NOUN distinguished|distinguish|VERB reasoning|reasoning|NOUN knowledge|knowledge|NOUN
-55545,777,fries,noun british animal black white breed dairy cattle originally land netherlands,noun|noun|PROPN british|british|PROPN animal|animal|NOUN black|black|ADJ white|white|ADJ breed|breed|NOUN dairy|dairy|NOUN cattle|cattle|NOUN originally|originally|ADV land|land|NOUN netherlands|netherlands|PROPN
 55548,771,cereal,kellogg bowl milk breakfast grain box granola,kellogg|kellogg|PROPN bowl|bowl|NOUN milk|milk|NOUN breakfast|breakfast|NOUN grains|grain|NOUN box|box|NOUN granola|granola|NOUN
 55549,771,emotion,expression cry heartfelt emo feeling,expressions|expression|NOUN cry|cry|VERB heartfelt|heartfelt|PROPN emo|emo|NOUN feelings|feeling|NOUN
 55550,771,fries,french oil mcdonald salt potato ketchup,french|french|PROPN oil|oil|NOUN mcdonald|mcdonald|NOUN salt|salt|NOUN potatoes|potato|NOUN ketchup|ketchup|NOUN
@@ -54302,8 +54054,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 55595,810,fries,dry food,dry|dry|ADJ food|food|NOUN
 55596,810,steel,hard ware,hard|hard|ADJ ware|ware|NOUN
 55597,810,monkey,animal,animal|animal|NOUN
-55601,808,steel,alloy consist mostly iron carbon content zero point two two point one weight depend grade carbon common alloying material iron alloy element manganese chromium vanadium tungsten,alloy|alloy|NOUN consists|consist|VERB mostly|mostly|ADV iron|iron|NOUN carbon|carbon|NOUN content|content|NOUN 0.2|zero|NUM 0.2|point|NUM 0.2|two|NUM 2.1|two|NUM 2.1|point|NUM 2.1|one|NUM weight|weight|NOUN depending|depend|VERB grade|grade|NOUN carbon|carbon|NOUN common|common|ADJ alloying|alloying|NOUN material|material|NOUN iron|iron|NOUN alloying|alloy|VERB elements|element|NOUN manganese|manganese|PROPN chromium|chromium|NOUN vanadium|vanadium|NOUN tungsten|tungsten|VERB
-55602,808,monkey,primate old world new world two hundred sixty known living species,primate|primate|NOUN old|old|ADJ world|world|NOUN new|new|ADJ world|world|NOUN 260|two|NUM 260|hundred|NUM 260|sixty|NUM known|known|ADJ living|living|NOUN species|species|NOUN
 55603,1055,cereal,food crunchy delicious serve milk,food|food|NOUN crunchy|crunchy|ADJ delicious|delicious|ADJ served|serve|VERB milk|milk|NOUN
 55604,1055,emotion,feeling happy sad excited angry,feelings|feeling|NOUN happy|happy|ADJ sad|sad|ADJ excited|excited|ADJ angry|angry|ADJ
 55605,1055,fries,fried potato fast food french,fried|fried|PROPN potato|potato|PROPN fast|fast|ADJ food|food|NOUN french|french|ADJ
@@ -54472,10 +54222,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 55774,823,elect,alternative choice election option pick preference resource,alternative|alternative|ADJ choice|choice|NOUN election|election|NOUN option|option|NOUN pick|pick|VERB preference|preference|NOUN resource|resource|NOUN
 55775,823,sympathetic,kindly benevolent likable likeable good hearted harmonic large hearted charitable appealing openhearte,kindly|kindly|ADV benevolent|benevolent|ADJ likable|likable|ADJ likeable|likeable|ADJ good|good|ADV hearted|hearted|ADJ harmonic|harmonic|ADJ large|large|ADJ hearted|hearted|ADJ charitable|charitable|ADJ appealing|appealing|ADJ openhearted|openhearte|VERB
 55777,823,service,divine help religious table serve serve military process avail inspection repair overhaul servicing armed,divine|divine|ADJ help|help|NOUN religious|religious|ADJ table|table|NOUN serving|serve|VERB serve|serve|NOUN military|military|ADJ process|process|NOUN avail|avail|NOUN inspection|inspection|NOUN repair|repair|NOUN overhaul|overhaul|NOUN servicing|servicing|NOUN armed|armed|ADJ
-55778,780,backpack,thailand,thailand|thailand|PROPN
-55779,780,elect,government five year term office,government|government|NOUN five|five|NUM year|year|NOUN term|term|NOUN office|office|NOUN
-55780,780,sympathetic,suffer back trouble problem,suffers|suffer|VERB back|back|ADJ trouble|trouble|NOUN problem|problem|NOUN
-55782,780,service,hope operate normal soon possible,hope|hope|VERB operating|operate|VERB normal|normal|ADJ soon|soon|ADV possible|possible|ADJ
 55783,802,backpack,hiking climb exercise walk excursion nature,hiking|hiking|NOUN climb|climb|NOUN exercise|exercise|NOUN walk|walk|NOUN excursion|excursion|NOUN nature|nature|NOUN
 55784,802,elect,choose vote representative candidate politics,choose|choose|VERB vote|vote|VERB representative|representative|ADJ candidate|candidate|NOUN politics|politics|NOUN
 55785,802,sympathetic,feel understand agree commiserate,feel|feel|VERB understand|understand|VERB agree|agree|VERB commiserate|commiserate|ADJ
@@ -54605,7 +54351,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 55930,796,foot,part body bottom leg,part|part|NOUN body|body|NOUN bottom|bottom|NOUN leg|leg|NOUN
 55931,796,many,large number,large|large|ADJ number|number|NOUN
 55932,796,prison,building criminal force live punishment,building|building|NOUN criminals|criminal|NOUN forced|force|VERB live|live|VERB punishment|punishment|NOUN
-55937,777,prison,noun building confinement criminal await trial,noun|noun|PROPN building|building|NOUN confinement|confinement|NOUN criminals|criminal|NOUN awaiting|await|VERB trial|trial|NOUN
 55938,872,brave,intelligent clever sign good human,intelligent|intelligent|ADJ clever|clever|ADJ sign|sign|NOUN good|good|ADJ human|human|NOUN
 55939,872,value,worth importance relate family issue,worth|worth|ADJ importance|importance|NOUN related|relate|VERB family|family|NOUN issues|issue|NOUN
 55940,872,foot,relate height part leg,related|relate|VERB height|height|NOUN part|part|NOUN leg|leg|NOUN
@@ -54726,11 +54471,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 56060,1022,foot,low part inferior part parade,lowest|low|ADJ part|part|NOUN inferior|inferior|ADJ part|part|NOUN parade|parade|VERB
 56061,1022,many,numerous majority indefinite number,numerous|numerous|ADJ majority|majority|NOUN indefinite|indefinite|ADJ number|number|NOUN
 56062,1022,prison,situation criminal captivity,situation|situation|NOUN criminals|criminal|NOUN captivity|captivity|NOUN
-56063,780,brave,decision quit job start business,decision|decision|NOUN quit|quit|VERB job|job|NOUN start|start|VERB business|business|NOUN
-56064,780,value,prize,prize|prize|NOUN
-56065,780,foot,blister left,blister|blister|NOUN left|left|ADJ
-56066,780,many,clothes,clothes|clothes|NOUN
-56067,780,prison,send six month,sent|send|VERB six|six|NUM months|month|NOUN
 56068,822,brave,courage,courage|courage|NOUN
 56069,822,value,worth good service money object person,worth|worth|NOUN goods|good|NOUN services|service|NOUN money|money|NOUN object|object|NOUN person|person|NOUN
 56070,822,foot,end last twelve inch,end|end|NOUN last|last|ADJ 12|twelve|NUM inches|inch|NOUN
@@ -55078,7 +54818,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 56429,773,gather,collect,collected|collect|VERB
 56430,773,lot,plenty,plenty|plenty|NOUN
 56431,773,odd,one,one|one|NUM
-56433,831,cop,officer law close play,officer|officer|NOUN law|law|NOUN close|close|ADJ play|play|NOUN
 56437,774,cold,weather temperature low winter season,weather|weather|NOUN temperature|temperature|NOUN low|low|ADJ winter|winter|NOUN season|season|NOUN
 56438,774,cop,policeman person enforcement law disciplinarian,policeman|policeman|PROPN person|person|NOUN enforcement|enforcement|NOUN law|law|NOUN disciplinarian|disciplinarian|NOUN
 56439,774,gather,together combine collect,together|together|ADV combine|combine|VERB collect|collect|VERB
@@ -55290,7 +55029,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 56654,827,her,to represent a woman or girl,to|to|PART represent|represent|VERB a|a|DET women|woman|NOUN or|or|CCONJ girl|girl|NOUN
 56655,827,sorry,feeling express sympathy pity regret,feeling|feeling|NOUN expressing|express|VERB sympathy|sympathy|NOUN pity|pity|NOUN regret|regret|VERB
 56656,827,restaurant,establishment prepare serve food drink customer return money,establishment|establishment|NOUN prepares|prepare|VERB serves|serve|VERB food|food|NOUN drink|drink|VERB customers|customer|NOUN return|return|NOUN money|money|NOUN
-56661,777,restaurant,noun place people pay sit eat meal cook serve premise,noun|noun|PROPN place|place|NOUN people|people|NOUN pay|pay|VERB sit|sit|VERB eat|eat|VERB meals|meal|NOUN cooked|cook|VERB served|serve|VERB premises|premise|NOUN
 56662,816,wait,time patience hold late,time|time|NOUN patience|patience|NOUN hold|hold|VERB late|late|ADV
 56663,816,tonic,medicine syrup health drink sweet bitter,medicine|medicine|NOUN syrup|syrup|NOUN health|health|NOUN drink|drink|NOUN sweet|sweet|ADJ bitter|bitter|ADJ
 56664,816,her,woman mother lady beauty,women|woman|NOUN mother|mother|NOUN lady|lady|NOUN beauty|beauty|NOUN
@@ -55401,10 +55139,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 56774,807,her,female own girl woman lady dress,female|female|NOUN owned|own|VERB girl|girl|NOUN women|woman|NOUN lady|lady|NOUN dress|dress|NOUN
 56775,807,sorry,confusion admit understand fault manner,confusion|confusion|NOUN admit|admit|VERB understanding|understand|VERB fault|fault|NOUN manners|manner|NOUN
 56776,807,restaurant,hotel food waiter table chair cook,hotel|hotel|NOUN food|food|NOUN waiter|waiter|NOUN table|table|NOUN chairs|chair|NOUN cook|cook|VERB
-56777,780,wait,corridor see doctor,corridor|corridor|NOUN see|see|VERB doctor|doctor|NOUN
-56778,780,tonic,magazine lively interesting picture alone,magazine|magazine|NOUN lively|lively|ADJ interesting|interesting|ADJ pictures|picture|NOUN alone|alone|ADV
-56779,780,her,i do not know why quit job,i|i|PRON do|do|AUX not|not|PART know|know|VERB why|why|SCONJ quit|quit|VERB job|job|NOUN
-56780,780,sorry,feel child really hard,feel|feel|VERB children|child|NOUN really|really|ADV hard|hard|ADJ
 56782,1063,shrub,bush plant,bush|bush|NOUN plant|plant|NOUN
 56783,1063,wallet,billfold pocket book leather,billfold|billfold|PROPN pocket|pocket|NOUN book|book|NOUN leather|leather|NOUN
 56784,1063,scold,yell lecture berate,yell|yell|VERB lecture|lecture|VERB berate|berate|VERB
@@ -56315,11 +56049,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 57699,1131,tangy,spice orange juice sour tarot lemon tingle splash flavor,spice|spice|PROPN orange|orange|PROPN juice|juice|PROPN sour|sour|ADJ tarot|tarot|NOUN lemon|lemon|NOUN tingles|tingle|NOUN splash|splash|VERB flavor|flavor|NOUN
 57700,1131,corporation,work business large company firm high end,work|work|NOUN business|business|NOUN large|large|ADJ company|company|NOUN firm|firm|ADJ high|high|ADJ end|end|NOUN
 57701,1131,repentance,regret sorrow sin wrong sorry past action,regret|regret|PROPN sorrow|sorrow|NOUN sins|sin|NOUN wrong|wrong|ADJ sorry|sorry|ADJ past|past|ADJ actions|action|NOUN
-57702,1140,romance,task,task|task|NOUN
-57703,1140,effort,nekam ja,nekam|nekam|PROPN ja|ja|PROPN
-57704,1140,dislike,orca,orca|orca|NOUN
-57705,1140,mousse,abe,abe|abe|ADJ
-57706,1140,disguise,sakai ja,sakai|sakai|PROPN ja|ja|PROPN
 57707,1102,romance,love attachment amore marriage dating courting passionate love,love|love|NOUN attachment|attachment|NOUN amore|amore|ADJ marriage|marriage|NOUN dating|dating|NOUN courting|courting|NOUN passionate|passionate|NOUN love|love|NOUN
 57708,1102,effort,force accomplishment achievement work exertion,force|force|NOUN accomplishment|accomplishment|NOUN achievement|achievement|NOUN work|work|NOUN exertion|exertion|NOUN
 57709,1102,dislike,opposite hate loathe aversion,opposite|opposite|ADV hate|hate|NOUN loathe|loathe|PROPN aversion|aversion|NOUN
@@ -56572,11 +56301,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 57969,1100,copper,metal plumb tube electric wire,metal|metal|NOUN plumbing|plumb|VERB tubes|tube|NOUN electric|electric|ADJ wire|wire|NOUN
 57970,1100,predator,enemy attacker hunter,enemy|enemy|NOUN attacker|attacker|NOUN hunter|hunter|NOUN
 57971,1100,clever,smart brilliant witty,smart|smart|ADJ brilliant|brilliant|ADJ witty|witty|ADJ
-57972,1160,swoon,occurrence fainting,occurrence|occurrence|NOUN fainting|fainting|NOUN
-57973,1160,frequency,thr rate recurrenence vibration,thr|thr|PROPN rate|rate|NOUN recurrenence|recurrenence|NOUN vibration|vibration|NOUN
-57974,1160,copper,metal,metal|metal|NOUN
-57975,1160,predator,probation,probation|probation|NOUN
-57976,1160,clever,metal,metal|metal|NOUN
 57977,1161,swoon,verb faint,verb|verb|NOUN faint|faint|VERB
 57978,1161,frequency,often occur,often|often|ADV occurs|occur|VERB
 57979,1161,copper,reddish color type metal,reddish|reddish|ADJ color|color|NOUN type|type|NOUN metal|metal|NOUN
@@ -59602,11 +59326,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 61177,1267,cheat,copys test steal item dost play rule,copys|copys|VERB test|test|NOUN steals|steal|VERB items|item|NOUN dost|dost|VERB play|play|NOUN rules|rule|NOUN
 61178,1267,father,man parent child,man|man|NOUN parent|parent|NOUN child|child|NOUN
 61179,1267,queen,ruler country,ruler|ruler|NOUN country|country|NOUN
-61180,1346,looks,brad pitt,brad|brad|PROPN pitt|pitt|VERB
-61181,1346,workout,brother,brother|brother|NOUN
-61182,1346,cheat,friend,friend|friend|NOUN
-61183,1346,father,great man,great|great|ADJ man|man|NOUN
-61184,1346,queen,national mother,national|national|ADJ mother|mother|NOUN
 61185,1265,looks,a glance or a gaze to appear or seem to the eye,a|a|DET glance|glance|NOUN or|or|CCONJ a|a|DET gaze|gaze|NOUN to|to|PART appear|appear|VERB or|or|CCONJ seem|seem|VERB to|to|ADP the|the|DET eye|eye|NOUN
 61186,1265,workout,exercise structured regime physical exercise,exercise|exercise|NOUN structured|structured|ADJ regime|regime|NOUN physical|physical|ADJ exercise|exercise|NOUN
 61187,1265,cheat,deceive fraud swindle elude,deceive|deceive|VERB fraud|fraud|NOUN swindle|swindle|NOUN elude|elude|VERB
@@ -59816,11 +59535,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 61422,806,cheat,deceive,deceive|deceive|VERB
 61423,806,father,male parent,male|male|ADJ parent|parent|NOUN
 61424,806,queen,female sovereign monarch,female|female|ADJ sovereign|sovereign|NOUN monarch|monarch|NOUN
-61425,1294,looks,,
-61426,1294,workout,,
-61427,1294,cheat,,
-61428,1294,father,,
-61429,1294,queen,,
 61430,973,looks,appearance see gaze stare seem assume impression,appearance|appearance|NOUN see|see|VERB gaze|gaze|NOUN stare|stare|NOUN seem|seem|VERB assume|assume|NOUN impression|impression|NOUN
 61431,973,workout,arrive think decide calculate drill exert compute presume plan schedule,arrive|arrive|VERB think|think|VERB decide|decide|VERB calculate|calculate|VERB drill|drill|NOUN exert|exert|PROPN compute|compute|ADJ presume|presume|ADJ plan|plan|NOUN schedule|schedule|NOUN
 61432,973,cheat,deceive trick con dupe swindle,deceive|deceive|ADJ trick|trick|NOUN con|con|NOUN dupe|dupe|NOUN swindle|swindle|NOUN
@@ -60521,11 +60235,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 62190,1336,fat,excess adipose tissue fleshy gross obese husky oversize cream overmuch surplus,excess|excess|ADJ adipose|adipose|ADJ tissue|tissue|NOUN fleshy|fleshy|ADJ gross|gross|ADJ obese|obese|PROPN husky|husky|ADJ oversize|oversize|NOUN cream|cream|NOUN overmuch|overmuch|ADJ surplus|surplus|NOUN
 62191,1336,homeless,home permanent place residence place abode,home|home|NOUN permanent|permanent|ADJ place|place|NOUN residence|residence|NOUN place|place|NOUN abode|abode|VERB
 62192,1336,system,organise establish procedure complex entity sum totality method plan mode,organised|organise|VERB established|establish|VERB procedure|procedure|NOUN complex|complex|ADJ entity|entity|NOUN sum|sum|NOUN totality|totality|NOUN method|method|NOUN plan|plan|NOUN mode|mode|NOUN
-62193,1294,skin,,
-62194,1294,succeed,,
-62195,1294,fat,,
-62196,1294,homeless,,
-62197,1294,system,,
 62198,994,skin,body complexion face part body sensitive outer layer graze beauty,body|body|NOUN complexion|complexion|NOUN face|face|NOUN part|part|NOUN body|body|NOUN sensitive|sensitive|ADJ outer|outer|ADJ layer|layer|NOUN graze|graze|NOUN beauty|beauty|NOUN
 62199,994,succeed,success wealth fame accomplishment prosperous rich race game,success|success|NOUN wealth|wealth|NOUN fame|fame|NOUN accomplishment|accomplishment|NOUN prosperous|prosperous|ADJ riches|rich|NOUN race|race|NOUN game|game|NOUN
 62200,994,fat,body weight meat plump fertile thick muscle oil,body|body|NOUN weight|weight|NOUN meat|meat|NOUN plump|plump|ADJ fertile|fertile|ADJ thick|thick|ADJ muscle|muscle|NOUN oil|oil|NOUN
@@ -60983,11 +60692,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 62700,792,abandon,give,give|give|VERB
 62701,792,bone,skelton,skelton|skelton|PROPN
 62702,792,george,name,name|name|NOUN
-62703,1294,seller,,
-62704,1294,verb,,
-62705,1294,abandon,,
-62706,1294,bone,,
-62707,1294,george,,
 62708,799,seller,vendor,vendor|vendor|NOUN
 62709,799,verb,deponent,deponent|deponent|VERB
 62710,799,abandon,disregard,disregard|disregard|NOUN
@@ -61346,11 +61050,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 63100,903,electric,current work electricity generate current,current|current|ADJ worked|work|VERB electricity|electricity|NOUN generated|generate|VERB current|current|ADJ
 63101,903,color,colour red blue green black white etc,colour|colour|PROPN red|red|ADJ blue|blue|ADJ green|green|ADJ black|black|ADJ white|white|ADJ etc|etc|X
 63102,903,private,personal belong anyone personally public,personal|personal|ADJ belonging|belong|VERB anyone|anyone|PRON personally|personally|ADV public|public|ADJ
-63103,1294,recipe,,
-63104,1294,mom,,
-63105,1294,electric,,
-63106,1294,color,,
-63107,1294,private,,
 63108,806,recipe,medical prescription,medical|medical|ADJ prescription|prescription|NOUN
 63109,806,mom,mother,mother|mother|NOUN
 63110,806,electric,pertain derive produce involve electricity,pertaining|pertain|VERB derived|derive|VERB produced|produce|VERB involving|involve|VERB electricity|electricity|NOUN
@@ -61704,11 +61403,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 63499,814,danger,exposure vulnerability harm risk person cause injury pain critically ill hospital state vulnerable injury loss evil risk,exposure|exposure|NOUN vulnerability|vulnerability|NOUN harm|harm|NOUN risk|risk|NOUN person|person|NOUN cause|cause|VERB injury|injury|NOUN pain|pain|NOUN critically|critically|ADV ill|ill|ADJ hospital|hospital|NOUN state|state|NOUN vulnerable|vulnerable|ADJ injury|injury|NOUN loss|loss|NOUN evil|evil|ADJ risk|risk|NOUN
 63500,814,hallway,entrance hall corridor building interior passage corridor onto room open,entrance|entrance|NOUN hall|hall|NOUN corridor|corridor|NOUN building|building|NOUN interior|interior|ADJ passage|passage|NOUN corridor|corridor|NOUN onto|onto|ADP rooms|room|NOUN open|open|VERB
 63502,814,heart,chambered muscular organ vertebrate pump blood receive vein artery thereby maintain flow blood entire circulatory system vital center source emotion sensibility love affection emotional constitution basic disposition character,chambered|chambered|ADJ muscular|muscular|ADJ organ|organ|NOUN vertebrates|vertebrate|NOUN pumps|pump|VERB blood|blood|NOUN received|receive|VERB veins|vein|NOUN arteries|artery|NOUN thereby|thereby|ADV maintaining|maintain|VERB flow|flow|NOUN blood|blood|NOUN entire|entire|ADJ circulatory|circulatory|ADJ system|system|NOUN vital|vital|ADJ center|center|NOUN source|source|NOUN emotions|emotion|NOUN sensibilities|sensibility|NOUN love|love|VERB affection|affection|NOUN emotional|emotional|ADJ constitution|constitution|NOUN basic|basic|ADJ disposition|disposition|NOUN character|character|NOUN
-63503,1294,test,,
-63504,1294,danger,,
-63505,1294,hallway,,
-63506,1294,characteristic,,
-63507,1294,heart,,
 63508,1262,test,critical examination trial person quality,critical|critical|ADJ examination|examination|NOUN trial|trial|NOUN person|person|NOUN qualities|quality|NOUN
 63509,1262,danger,liability exposure harm,liability|liability|NOUN exposure|exposure|NOUN harm|harm|VERB
 63510,1262,hallway,meat animal kill accord muslim law,meat|meat|NOUN animal|animal|NOUN killed|kill|VERB according|accord|VERB muslim|muslim|ADJ law|law|NOUN
@@ -61851,11 +61545,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 63669,1288,walkway,path set aside walk,path|path|NOUN set|set|VERB aside|aside|ADV walking|walk|VERB
 63670,1288,murderer,criminal perform unlawful premeditated killing human,criminal|criminal|NOUN performs|perform|VERB unlawful|unlawful|ADJ premeditated|premeditated|ADJ killing|killing|NOUN human|human|ADJ
 63672,1288,steak,slice meat cut fleshy part animal large fish,slice|slice|NOUN meat|meat|NOUN cut|cut|VERB fleshy|fleshy|ADJ part|part|NOUN animal|animal|NOUN large|large|ADJ fish|fish|NOUN
-63673,1294,point,,
-63674,1294,walkway,,
-63675,1294,murderer,,
-63676,1294,bell,,
-63677,1294,steak,,
 63678,1281,point,show direction finger,show|show|VERB direction|direction|NOUN finger|finger|NOUN
 63679,1281,walkway,path area one location,path|path|NOUN area|area|NOUN one|one|NUM location|location|NOUN
 63680,1281,murderer,killer life taker sinner,killer|killer|PROPN life|life|NOUN taker|taker|NOUN sinner|sinner|NOUN
@@ -62141,11 +61830,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 63994,1421,hundred,number,number|number|NOUN
 63995,1421,bass,sound,sound|sound|VERB
 63996,1421,spill,water,water|water|NOUN
-63997,1294,clue,,
-63998,1294,hospital,,
-63999,1294,hundred,,
-64000,1294,bass,,
-64001,1294,spill,,
 64003,1288,hospital,health facility patient receive treatment,health|health|NOUN facility|facility|NOUN patients|patient|NOUN receive|receive|VERB treatment|treatment|NOUN
 64004,1288,hundred,ten ten ten ninety,ten|ten|NUM 10s|ten|NUM ten|ten|NUM ninety|ninety|NUM
 64007,1394,clue,investigator scientist evidence game,investigators|investigator|NOUN scientists|scientist|NOUN evidence|evidence|NOUN game|game|NOUN
@@ -62336,11 +62020,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 64213,1290,mail,paper bill stamp letter postage,paper|paper|PROPN bills|bill|NOUN stamps|stamp|NOUN letters|letter|NOUN postage|postage|NOUN
 64214,1290,act,action reaction,action|action|NOUN reaction|reaction|NOUN
 64215,1290,questions,ask know,asking|ask|VERB knowing|know|VERB
-64216,1294,fishing,fish,fish|fish|NOUN
-64217,1294,cologne,color,color|color|NOUN
-64218,1294,mail,,
-64219,1294,act,,
-64220,1294,questions,,
 64221,1282,fishing,outdoors try obtain answer dig recreation,outdoors|outdoors|ADV trying|try|VERB obtain|obtain|VERB answers|answer|NOUN digging|dig|VERB recreation|recreation|NOUN
 64222,1282,cologne,aroma perfume body spray scent,aroma|aroma|PROPN perfume|perfume|NOUN body|body|NOUN spray|spray|NOUN scent|scent|NOUN
 64223,1282,mail,letter postcard deliver send package,letters|letter|NOUN postcard|postcard|NOUN deliver|deliver|VERB send|send|VERB package|package|NOUN
@@ -62792,11 +62471,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 64755,1333,republican,government freedom,government|government|NOUN freedom|freedom|NOUN
 64756,1333,ketchup,fish sauce tomato sauce mushroom sauce,fish|fish|NOUN sauce|sauce|NOUN tomato|tomato|NOUN sauce|sauce|NOUN mushroom|mushroom|NOUN sauce|sauce|NOUN
 64757,1333,creator,producer manufacturer,producer|producer|PROPN manufacturer|manufacturer|NOUN
-64758,1294,believe,,
-64759,1294,farm,,
-64760,1294,republican,,
-64761,1294,ketchup,,
-64762,1294,creator,,
 64763,1290,believe,trust faith,trust|trust|PROPN faith|faith|NOUN
 64764,1290,farm,land cow animal,land|land|NOUN cows|cow|NOUN animals|animal|NOUN
 64765,1290,republican,politics opposite democrat political party,politics|politics|NOUN opposite|opposite|ADJ democrat|democrat|PROPN political|political|ADJ party|party|NOUN
@@ -62938,11 +62612,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 64920,874,tool,device mechanical work machine instrument hammer implement specific purpose,device|device|NOUN mechanical|mechanical|ADJ work|work|NOUN machine|machine|NOUN instrument|instrument|NOUN hammer|hammer|NOUN implement|implement|NOUN specific|specific|ADJ purpose|purpose|NOUN
 64921,874,lunch,midday meal tiffin light repast breakfast dinner,midday|midday|NOUN meal|meal|NOUN tiffin|tiffin|NOUN light|light|ADJ repast|repast|NOUN breakfast|breakfast|NOUN dinner|dinner|NOUN
 64922,874,maker,one manufacture willing title give god person,one|one|NOUN manufactures|manufacture|NOUN willing|willing|ADJ title|title|NOUN given|give|VERB god|god|PROPN person|person|NOUN
-64923,1294,busy,,
-64924,1294,city,,
-64925,1294,tool,,
-64926,1294,lunch,,
-64927,1294,maker,marker,marker|marker|NOUN
 64930,1332,tool,device saw perform facilitate manual mechanical work two machine lathe cut shape machine part slang page design explain meaning slang phrase acronym,device|device|NOUN saw|saw|NOUN perform|perform|VERB facilitate|facilitate|VERB manual|manual|NOUN mechanical|mechanical|ADJ work|work|NOUN 2|two|NUM machine|machine|NOUN lathe|lathe|NOUN cut|cut|VERB shape|shape|VERB machine|machine|NOUN parts|part|NOUN slang|slang|PROPN page|page|NOUN designed|design|VERB explain|explain|VERB meaning|meaning|NOUN slang|slang|PROPN phrase|phrase|NOUN acronym|acronym|NOUN
 64932,1332,maker,one manufacture often combination policymaker drug two law party sign promissory note three god often,one|one|NOUN manufactures|manufacture|NOUN often|often|ADV combination|combination|NOUN policymaker|policymaker|NOUN drug|drug|NOUN 2|two|NUM law|law|VERB party|party|NOUN signs|sign|VERB promissory|promissory|ADJ note|note|NOUN 3|three|NUM god|god|PROPN often|often|ADV
 64933,1438,busy,crazy run day keep work errand,crazy|crazy|ADJ run|run|VERB day|day|NOUN keep|keep|VERB work|work|NOUN errands|errand|VERB
@@ -63006,11 +62675,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 64995,1264,tool,help work easily,helps|help|VERB works|work|NOUN easily|easily|ADV
 64996,1264,lunch,food,food|food|NOUN
 64997,1264,maker,producer,producer|producer|NOUN
-64998,1439,busy,student,student|student|NOUN
-64999,1439,city,kocani,kocani|kocani|PROPN
-65000,1439,tool,hand,hand|hand|NOUN
-65001,1439,lunch,meal,meal|meal|NOUN
-65002,1439,maker,,
 65003,778,busy,time,time|time|NOUN
 65004,778,city,place,place|place|NOUN
 65005,778,tool,weapon,weapon|weapon|NOUN
@@ -63811,9 +63475,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 65884,1261,here,place position around location,place|place|NOUN position|position|NOUN around|around|ADV location|location|NOUN
 65885,1261,luck,jackpot advantage gain,jackpot|jackpot|PROPN advantage|advantage|NOUN gain|gain|NOUN
 65886,1261,toothpaste,clean dental protection polish,clean|clean|ADJ dental|dental|ADJ protection|protection|NOUN polish|polish|NOUN
-65887,899,below,a person the property,a|a|DET person|person|NOUN the|the|DET property|property|NOUN
-65888,899,here,i be wait for you now,i|i|PRON am|be|AUX waiting|wait|VERB for|for|ADP you|you|PRON now|now|ADV
-65889,899,luck,yesterday lottery win,yesterday|yesterday|NOUN lottery|lottery|NOUN win|win|NOUN
 65894,1310,toothpaste,dentifrice form paste,dentifrice|dentifrice|NOUN form|form|NOUN paste|paste|NOUN
 65896,770,swamp,seasonally flood bottomland woody plant marsh well drainage bog situation place fraught difficulty imponderable,seasonally|seasonally|ADV flooded|flood|VERB bottomland|bottomland|NOUN woody|woody|NOUN plants|plant|NOUN marsh|marsh|ADJ better|well|ADJ drainage|drainage|NOUN bog|bog|NOUN situation|situation|NOUN place|place|NOUN fraught|fraught|ADJ difficulties|difficulty|NOUN imponderables|imponderable|NOUN
 65897,770,here,at or in this place at this time,at|at|ADP or|or|CCONJ in|in|ADP this|this|DET place|place|NOUN at|at|ADP this|this|DET time|time|NOUN
@@ -63834,11 +63495,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 65912,1290,here,location not there a place,location|location|NOUN not|not|PART there|there|ADV a|a|DET place|place|NOUN
 65913,1290,luck,fortunate chance chance,fortunate|fortunate|VERB chance|chance|NOUN chance|chance|NOUN
 65914,1290,toothpaste,paste clean tooth taste hot,paste|paste|NOUN cleans|clean|VERB teeth|tooth|NOUN taste|taste|VERB hot|hot|ADJ
-65915,1294,below,,
-65916,1294,swamp,,
-65917,1294,here,,
-65918,1294,luck,,
-65919,1294,toothpaste,,
 65920,1305,below,under low in position or rank,under|under|ADV lower|low|ADJ in|in|ADP position|position|NOUN or|or|CCONJ ranking|rank|VERB
 65921,1305,swamp,seasonally flood land fill rainwater thick woody vegetation see water dry later,seasonally|seasonally|ADV flooded|flood|VERB land|land|NOUN filled|fill|VERB rainwater|rainwater|NOUN thick|thick|ADJ woody|woody|ADJ vegetation|vegetation|NOUN seen|see|VERB water|water|NOUN dries|dry|VERB later|later|ADV
 65922,1305,here,indicate the present or a particular position,indicates|indicate|VERB the|the|DET present|present|NOUN or|or|CCONJ a|a|DET particular|particular|ADJ position|position|NOUN
@@ -63994,11 +63650,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 66097,813,driver,device number one wood,device|device|NOUN number|number|NOUN one|one|NUM wood|wood|NOUN
 66098,813,promise,predict reassure ascertain control forebode assure guarantee call prognosticate anticipate check see foretell insure tell ensure secure see,predict|predict|VERB reassure|reassure|NOUN ascertain|ascertain|NOUN control|control|NOUN forebode|forebode|NOUN assure|assure|NOUN guarantee|guarantee|NOUN call|call|VERB prognosticate|prognosticate|ADJ anticipate|anticipate|VERB check|check|VERB see|see|VERB foretell|foretell|NOUN insure|insure|VERB tell|tell|VERB ensure|ensure|VERB secure|secure|ADJ see|see|VERB
 66099,813,plant,whole kit boodle whole kit caboodle whole shebang flora work industrial whole caboodle life whole work working full treatment deed whole kit kit caboodle kit boodle,whole|whole|ADJ kit|kit|NOUN boodle|boodle|ADJ whole|whole|ADJ kit|kit|NOUN caboodle|caboodle|NOUN whole|whole|ADJ shebang|shebang|NOUN flora|flora|PROPN works|work|NOUN industrial|industrial|ADJ whole|whole|ADJ caboodle|caboodle|NOUN life|life|NOUN whole|whole|ADJ works|work|NOUN workings|working|NOUN full|full|ADJ treatment|treatment|NOUN deeds|deed|NOUN whole|whole|ADJ kit|kit|NOUN kit|kit|NOUN caboodle|caboodle|NOUN kit|kit|NOUN boodle|boodle|VERB
-66105,1294,egg,,
-66106,1294,superman,,
-66107,1294,driver,,
-66108,1294,promise,,
-66109,1294,plant,,
 66110,1302,egg,hen bird mammal breakfast meal protein health,hen|hen|PROPN birds|bird|NOUN mammals|mammal|NOUN breakfast|breakfast|NOUN meal|meal|NOUN protein|protein|NOUN health|health|NOUN
 66111,1302,superman,hero savior survivor fiction character good helpful friendly,hero|hero|PROPN savior|savior|NOUN survivor|survivor|NOUN fiction|fiction|NOUN character|character|NOUN good|good|ADJ helpful|helpful|ADJ friendly|friendly|ADJ
 66112,1302,driver,car truck road long distance far away place,car|car|NOUN truck|truck|NOUN road|road|NOUN long|long|ADJ distance|distance|NOUN far|far|ADV away|away|ADV places|place|NOUN
@@ -64031,10 +63682,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 66142,864,driver,one drive operator motor vehicle,one|one|NOUN drives|drive|VERB operator|operator|NOUN motor|motor|NOUN vehicle|vehicle|NOUN
 66143,864,promise,general declaration write verbal one person bind person,general|general|ADJ declaration|declaration|NOUN written|write|VERB verbal|verbal|ADJ one|one|NUM person|person|NOUN binds|bind|VERB person|person|NOUN
 66144,864,plant,garden orchard forest,garden|garden|NOUN orchard|orchard|NOUN forest|forest|NOUN
-66150,1289,egg,,
-66152,1289,driver,rider,rider|rider|VERB
-66153,1289,promise,,
-66154,1289,plant,tree,tree|tree|NOUN
 66155,1265,egg,edible reddish produce female certain animal,edible|edible|ADJ reddish|reddish|ADJ produced|produce|VERB females|female|NOUN certain|certain|ADJ animals|animal|NOUN
 66156,1265,superman,person extraordinary ability,person|person|NOUN extraordinary|extraordinary|ADJ abilities|ability|NOUN
 66157,1265,driver,person drive vehicle ect,person|person|NOUN drives|drive|VERB vehicles|vehicle|NOUN ect|ect|NOUN
@@ -64255,11 +63902,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 66387,832,purse,woman bag wallet key holder,woman|woman|NOUN bag|bag|NOUN wallet|wallet|NOUN keys|key|NOUN holder|holder|NOUN
 66388,832,bad,good evil rotten poor quality gross awful,good|good|ADJ evil|evil|ADJ rotten|rotten|ADJ poor|poor|ADJ quality|quality|NOUN gross|gross|ADJ awful|awful|ADJ
 66389,832,proof,evidence copy argument authentication,evidence|evidence|NOUN copy|copy|NOUN argument|argument|NOUN authentication|authentication|NOUN
-66390,1010,winter,sex,sex|sex|NOUN
-66391,1010,care,mother,mother|mother|NOUN
-66392,1010,purse,girlfriend,girlfriend|girlfriend|VERB
-66393,1010,bad,wife,wife|wife|NOUN
-66394,1010,proof,love,love|love|NOUN
 66395,825,winter,wintry season cold climate chill wear sweater,wintry|wintry|PROPN season|season|NOUN cold|cold|ADJ climate|climate|NOUN chill|chill|NOUN wear|wear|VERB sweaters|sweater|NOUN
 66396,825,care,mind concern think bother,mind|mind|NOUN concerned|concern|VERB think|think|VERB bothered|bother|VERB
 66397,825,purse,wallet place keep belongings small bag,wallet|wallet|NOUN place|place|NOUN keep|keep|VERB belongings|belongings|NOUN small|small|ADJ bag|bag|NOUN
@@ -65156,7 +64798,6 @@ row_id,subject_id,cue,answer_stopped,tokens
 67409,1360,medicine,science diagnose treat prevent disease damage body mind practice n agent drug treat disease injury,science|science|NOUN diagnosing|diagnose|VERB treating|treat|VERB preventing|prevent|VERB disease|disease|NOUN damage|damage|NOUN body|body|NOUN mind|mind|NOUN practice|practice|NOUN n|n|CCONJ agent|agent|NOUN drug|drug|NOUN treat|treat|VERB disease|disease|NOUN injury|injury|NOUN
 67411,1360,beer,ferment alcoholic beverage brew malt flavor hop beverage extract root plant serving one beverage,fermented|ferment|VERB alcoholic|alcoholic|ADJ beverage|beverage|NOUN brewed|brew|VERB malt|malt|NOUN flavored|flavor|VERB hops|hop|NOUN beverage|beverage|NOUN extracts|extract|NOUN roots|root|NOUN plants|plant|NOUN serving|serving|NOUN one|one|NUM beverages|beverage|NOUN
 67413,1360,anxiety,feeling worry nervousness unease imminent event uncertain outcome desire accompany unease,feeling|feeling|NOUN worry|worry|NOUN nervousness|nervousness|NOUN unease|unease|NOUN imminent|imminent|ADJ event|event|NOUN uncertain|uncertain|ADJ outcome|outcome|NOUN desire|desire|VERB accompanied|accompany|VERB unease|unease|NOUN
-67414,1345,anxiety,,
 67415,806,medicine,substance substance treat disease illness,substance|substance|NOUN substances|substance|NOUN treating|treat|VERB disease|disease|NOUN illness|illness|NOUN
 67416,806,hunger,shortage food,shortage|shortage|NOUN food|food|NOUN
 67418,806,high,specify extent upward,specified|specify|VERB extent|extent|NOUN upward|upward|ADV

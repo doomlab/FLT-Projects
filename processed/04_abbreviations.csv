@@ -45849,24 +45849,11 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 46686,776,map,overall view,overall view
 46687,776,plain,clear,clear
 46688,776,town,area,area
-46689,777,boxer,noun a member of a fiercely nationalistic chinese secret society which flourished in the 19th century.,noun a member of a fiercely nationalistic chinese secret society which flourished in the 19th century.
-46690,777,dancer,noun a system of aerobic exercise using dance movements.,noun a system of aerobic exercise using dance movements.
-46691,777,map,"a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.","a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc."
-46692,777,plain,not decorated or elaborate; simple or ordinary. without a pattern; in only one colour. unmarked; without identification: a plain envelope.,not decorated or elaborate; simple or ordinary. without a pattern; in only one colour. unmarked; without identification: a plain envelope.
-46693,777,town,"a built-up area with a name, defined boundaries, and local government, that is larger than a village and generally smaller than a city. øbritish dated the chief city or town of a region.","a built-up area with a name, defined boundaries, and local government, that is larger than a village and generally smaller than a city. øbritish dated the chief city or town of a region."
-46694,778,dancer,dancing,dancing
-46695,778,map,world design,world design
-46696,778,plain,empty,empty
-46697,778,town,city,city
 46698,779,boxer,sport of fighting with the fists.,sport of fighting with the fists.
 46699,779,dancer,move rhythmically usually to music.,move rhythmically usually to music.
 46700,779,map,which shows the correct direction for a place.,which shows the correct direction for a place.
 46701,779,plain,are area of level .,are area of level .
 46702,779,town,human settlement larger than a village but smaller than a city.,human settlement larger than a village but smaller than a city.
-46704,780,dancer,i never knew you were such a good dancer.,i never knew you were such a good dancer.
-46705,780,map,a road map,a road map
-46706,780,plain,he prefers plain food - nothing too fancy.,he prefers plain food - nothing too fancy.
-46707,780,town,a fishing/mining town,a fishing/mining town
 46708,781,boxer,"who fights for money,","who fights for money,"
 46709,781,dancer,"who dances for the music played, who puts different posters/mudras in hands and legs.","who dances for the music played, who puts different posters/mudras in hands and legs."
 46710,781,map,diagrammatic representation of an area or place.,diagrammatic representation of an area or place.
@@ -46130,10 +46117,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 46970,784,kidnap,take control and imprison a person on the sly and without their permission,take control and imprison a person on the sly and without their permission
 46971,784,specific,particular/exact,particular/exact
 46972,784,time,"the total of seconds, minutes, hours/a fun-filled experience","the total of seconds, minutes, hours/a fun-filled experience"
-46973,831,april,"the ""days of april"" is a name appropriated in french history to a series of insurrections at lyons .april is the fourth month of the year","the ""days of april"" is a name appropriated in french history to a series of insurrections at lyons .april is the fourth month of the year"
-46974,831,first,coming before all others in times,coming before all others in times
-46975,831,kidnap,take someone by force and hold them captive in order to obtain money for their release,take someone by force and hold them captive in order to obtain money for their release
-46977,831,time,"a period,the unlimited continued progress of existence and events in the past,past and future.","a period,the unlimited continued progress of existence and events in the past,past and future."
 46978,796,april,fourth month of the year,fourth month of the year
 46979,796,first,coming before all others,coming before all others
 46980,796,kidnap,take a person away illegally by force,take a person away illegally by force
@@ -46238,7 +46221,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 47080,822,kidnap,to steal,to steal
 47081,822,specific,"specific describes someone or something unique, distinctive or definite","specific describes someone or something unique, distinctive or definite"
 47082,822,time,time is the duration in which all things happen or a precise instant that something happens,time is the duration in which all things happen or a precise instant that something happens
-47083,777,april,noun the fourth month of the year.,noun the fourth month of the year.
 47088,820,april,"month,fool,30 days","month,fool,30 days"
 47089,820,first,"top,number,leader","top,number,leader"
 47090,820,kidnap,"illegal,hurt","illegal,hurt"
@@ -46326,11 +46308,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 47175,792,kidnap,seize unlawfully for ransom,seize unlawfully for ransom
 47176,792,specific,accurate,accurate
 47177,792,time,an interval,an interval
-47178,780,april,this has been one of the driest aprils for years.,this has been one of the driest aprils for years.
-47179,780,first,this is my first visit to new york,this is my first visit to new york
-47180,780,kidnap,the wife of a businessman has been kidnapped from her home in surrey,the wife of a businessman has been kidnapped from her home in surrey
-47181,780,specific,the virus attacks specific cells in the brain.,the virus attacks specific cells in the brain.
-47182,780,time,he wants to spend more time with his family.,he wants to spend more time with his family.
 47183,812,april,apr. month,apr. month
 47184,812,first,"first base, first gear, low, low gear, first-class honours degree, number 1,","first base, first gear, low, low gear, first-class honours degree, number 1,"
 47185,812,kidnap,"abduct, nobble, snatch","abduct, nobble, snatch"
@@ -46418,13 +46395,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 47270,854,monster,"a horrible looking person, an extremely wicked person, imaginary creature, unhumanly cruel person, large, usually, ugly or misshapen animal or thing, huge, beast, giant dragon,brute","a horrible looking person, an extremely wicked person, imaginary creature, unhumanly cruel person, large, usually, ugly or misshapen animal or thing, huge, beast, giant dragon,brute"
 47271,854,square,"having four equal sides and right angles, honest, fair, large open space in the middle of the town, product of a number multiplied by itself, suit pay what one owes,","having four equal sides and right angles, honest, fair, large open space in the middle of the town, product of a number multiplied by itself, suit pay what one owes,"
 47272,854,stair,"step or series of steps for ascending, part of a building containing steps, the inclined blocks or steep blocks used to move up and down","step or series of steps for ascending, part of a building containing steps, the inclined blocks or steep blocks used to move up and down"
-47273,780,back,"when you take the scissors, remember to put them back.","when you take the scissors, remember to put them back."
-47274,780,eggs,scrambled eggs on toast,scrambled eggs on toast
-47275,780,monster,prehistoric monsters,prehistoric monsters
-47276,780,square,first draw a square.,first draw a square.
-47277,780,stair,go up the stairs and her office is on the right.,go up the stairs and her office is on the right.
-47279,777,eggs,"noun any of a number of plants with yellow flowers marked with orange, red, or brown, supposedly suggestive of eggs and bacon, especially bird-foot trefoil.","noun any of a number of plants with yellow flowers marked with orange, red, or brown, supposedly suggestive of eggs and bacon, especially bird-foot trefoil."
-47282,777,stair,noun each of a set of fixed steps. (stairs) a set of such steps leading from one floor of a building to another.,noun each of a set of fixed steps. (stairs) a set of such steps leading from one floor of a building to another.
 47283,779,back,opposite of front.,opposite of front.
 47284,779,eggs,layed by birds,layed by birds
 47285,779,monster,unnatural size and shape which gives fear,unnatural size and shape which gives fear
@@ -46784,19 +46754,12 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 47661,771,indoors,"house, office, school, not outdoors","house, office, school, not outdoors"
 47662,771,name,"signature, identification, birth certificate","signature, identification, birth certificate"
 47663,771,tart,"sour, not sweet, pucker","sour, not sweet, pucker"
-47666,831,indoors,"used inside the building, into or inside the building.","used inside the building, into or inside the building."
-47667,831,name,word or words which someones or something is known.,word or words which someones or something is known.
-47668,831,tart,"spark or acid in taste,sharp or hurtful","spark or acid in taste,sharp or hurtful"
 47672,813,name,"gens, epithet, public figure, figure","gens, epithet, public figure, figure"
 47674,773,clear,neatly,neatly
 47675,773,false,not correct,not correct
 47676,773,indoors,not outdoors,not outdoors
 47677,773,name,identity,identity
 47678,773,tart,place,place
-47679,769,clear,"free from darkness, obscurity, or cloudiness; light: a clear day; transparent; pellucid: clear water; without discoloration, defect, or blemish: a clear complexion; a clear pane of glass; of a pure, even color: a clear yellow; silk seen; sharply defined: a clear outline.","free from darkness, obscurity, or cloudiness; light: a clear day; transparent; pellucid: clear water; without discoloration, defect, or blemish: a clear complexion; a clear pane of glass; of a pure, even color: a clear yellow; silk seen; sharply defined: a clear outline."
-47680,769,false,not true or correct; erroneous: a false statement; uttering or declaring what is untrue: a false witness; not faithful or loyal; treacherous: a false friend; tending to deceive or mislead; deceptive: a false impression; not genuine; counterfeit.,not true or correct; erroneous: a false statement; uttering or declaring what is untrue: a false witness; not faithful or loyal; treacherous: a false friend; tending to deceive or mislead; deceptive: a false impression; not genuine; counterfeit.
-47681,769,indoors,in or into a house or building: we stayed indoors during the storm.inside or into a house or other building,in or into a house or building: we stayed indoors during the storm.inside or into a house or other building
-47683,769,tart,"sharp to the taste; sour or acid: tart apples are best for pie; astringent, acrid, piquant; sharp in character, spirit, or expression; cutting; biting: a tart remark; sarcastic, barbed, caustic, acerbic, acrimonious; a small pie filled with cooked fruit or other sweetened preparation, usually having no top crust; a covered pie containing fruit or the like.","sharp to the taste; sour or acid: tart apples are best for pie; astringent, acrid, piquant; sharp in character, spirit, or expression; cutting; biting: a tart remark; sarcastic, barbed, caustic, acerbic, acrimonious; a small pie filled with cooked fruit or other sweetened preparation, usually having no top crust; a covered pie containing fruit or the like."
 47684,873,clear,"clean,well defined","clean,well defined"
 47685,873,false,"untrue,mistaken,disloyal and faithless manner","untrue,mistaken,disloyal and faithless manner"
 47686,873,indoors,"within a building,inside","within a building,inside"
@@ -46856,10 +46819,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 47740,792,indoors,inside the house,inside the house
 47741,792,name,a word which is used to describe,a word which is used to describe
 47742,792,tart,sharp,sharp
-47743,808,clear,"clear:clear, alaska is an unincorporated community in denali borough, alaska, united states","clear:clear, alaska is an unincorporated community in denali borough, alaska, united states"
-47744,808,false,"false:false (logic) lie or falsehood, a type of deception in the form of an untruthful statement falsity or falsehood, in law, deceitfulness by one party that results in damage to another falsies padding for use in a brassiere to create the appearance of larger breasts false, a programming language","false:false (logic) lie or falsehood, a type of deception in the form of an untruthful statement falsity or falsehood, in law, deceitfulness by one party that results in damage to another falsies padding for use in a brassiere to create the appearance of larger breasts false, a programming language"
-47746,808,name,"name:a name is a word or term used for identification. names can identify a class or category of things, or a single thing, either uniquely, or within a given context. a personal name identifies a specific unique and identifiable individual person, and may or may not include a middle name.","name:a name is a word or term used for identification. names can identify a class or category of things, or a single thing, either uniquely, or within a given context. a personal name identifies a specific unique and identifiable individual person, and may or may not include a middle name."
-47747,808,tart,"tart:a tart is a baked dish consisting of a filling over a pastry base with an open top not covered with pastry. the pastry is usually shortcrust pastry; the filling may be sweet or savoury, though modern tarts are usually fruit-based, sometimes with custard.","tart:a tart is a baked dish consisting of a filling over a pastry base with an open top not covered with pastry. the pastry is usually shortcrust pastry; the filling may be sweet or savoury, though modern tarts are usually fruit-based, sometimes with custard."
 47748,784,clear,without a stain/without danger,without a stain/without danger
 47749,784,false,not true/incorrect/error,not true/incorrect/error
 47750,784,indoors,not outdoors/within a building,not outdoors/within a building
@@ -46959,7 +46918,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 47845,835,indoors,"inside, walls, ceiling, houses, buildings, caves, underground structures","inside, walls, ceiling, houses, buildings, caves, underground structures"
 47846,835,name,"noun, what you call someone or something, variable","noun, what you call someone or something, variable"
 47847,835,tart,"fruit or meat pastry, woman or girl with too much makeup","fruit or meat pastry, woman or girl with too much makeup"
-47852,777,tart,noun an open pastry case containing a sweet or savory filling.,noun an open pastry case containing a sweet or savory filling.
 47853,789,clear,"clouds, mist, transparent, blemish, impurity","clouds, mist, transparent, blemish, impurity"
 47854,789,false,"mistake, wrong, incorrect, not real, not genuine","mistake, wrong, incorrect, not real, not genuine"
 47855,789,indoors,"within doors, within a house, domestic, indoor work","within doors, within a house, domestic, indoor work"
@@ -47343,7 +47301,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 48255,897,hands,"hands means - one part of human beings, used to lift any thing he/she can, usually human have 2 hands, each hand have 5 fingers, can write.","hands means - one part of human beings, used to lift any thing he/she can, usually human have 2 hands, each hand have 5 fingers, can write."
 48256,897,newton,"newton means - scientist, newtons law, great man, roll model for many scientist.","newton means - scientist, newtons law, great man, roll model for many scientist."
 48257,897,there,"""there"" is a english word to point something, its a speech, example:there is a man.","""there"" is a english word to point something, its a speech, example:there is a man."
-48262,813,there,a location other than here; that place,a location other than here; that place
 48263,792,club,a heavy stick,a heavy stick
 48264,792,encourage,opposite of discourage,opposite of discourage
 48265,792,hands,a part of body,a part of body
@@ -47423,11 +47380,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 48340,803,hands,"hands: the end part of a person arm beyond the wrist, including the palm, fingers, and thumb.","hands: the end part of a person arm beyond the wrist, including the palm, fingers, and thumb."
 48341,803,newton,newton: the si unit of force. it is equal to the force that would give a mass of one kilogram an acceleration of one meter per second,newton: the si unit of force. it is equal to the force that would give a mass of one kilogram an acceleration of one meter per second
 48342,803,there,there: used to focus attention on something and express satisfaction or annoyance at it,there: used to focus attention on something and express satisfaction or annoyance at it
-48343,852,club,"i am member on gods on country, the club gives self confidant","i am member on gods on country, the club gives self confidant"
-48344,852,encourage,"i am encourage on my sisters,i am give a small gift this gives encourage, motivate","i am encourage on my sisters,i am give a small gift this gives encourage, motivate"
-48345,852,hands,"this my hands, i am working on my hands","this my hands, i am working on my hands"
-48346,852,newton,"a famous scientists, newton pawer","a famous scientists, newton pawer"
-48347,852,there,"there is a men ,","there is a men ,"
 48348,898,club,"a club is an establishment that a group of people belong to, people that have similar interest, wear a certain uniform, have secret handshake, phrase, motto.","a club is an establishment that a group of people belong to, people that have similar interest, wear a certain uniform, have secret handshake, phrase, motto."
 48349,898,encourage,"to tell other people that they can do something, let another person know they are doing something well, helping them continue","to tell other people that they can do something, let another person know they are doing something well, helping them continue"
 48350,898,hands,"hands are the appendages at the end of your arms, you have two hands, five fingers on each hand, thumb, pointer, middle, ring, and pinky. hands have lots of receptors that help you feel, cold, heat, pain, pressure.","hands are the appendages at the end of your arms, you have two hands, five fingers on each hand, thumb, pointer, middle, ring, and pinky. hands have lots of receptors that help you feel, cold, heat, pain, pressure."
@@ -47503,11 +47455,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 48420,796,hands,a part of our body,a part of our body
 48421,796,newton,a unit used to measure force,a unit used to measure force
 48422,796,there,that place,that place
-48423,808,club,"club:a club is an association of two or more people united by a common interest or goal. a service club, for example, exists for voluntary or charitable activities; there are clubs devoted to hobbies and sports, social activities clubs, political and religious clubs, and so forth.","club:a club is an association of two or more people united by a common interest or goal. a service club, for example, exists for voluntary or charitable activities; there are clubs devoted to hobbies and sports, social activities clubs, political and religious clubs, and so forth."
-48424,808,encourage,"encourage:courage international is an postulate and christian ministry of the roman catholic church, which ministers to those with same-sex attractions.","encourage:courage international is an postulate and christian ministry of the roman catholic church, which ministers to those with same-sex attractions."
-48425,808,hands,"hands:is a prehensile, multi-fingered extremity located at the end of an arm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. a few other vertebrates such as the koala (which has two opposable thumbs on each ""hand"" and fingerprints remarkably similar to human fingerprints) are often described as having either ""hands"" or ""paws"" on their front limbs.","hands:is a prehensile, multi-fingered extremity located at the end of an arm or forelimb of primates such as humans, chimpanzees, monkeys, and lemurs. a few other vertebrates such as the koala (which has two opposable thumbs on each ""hand"" and fingerprints remarkably similar to human fingerprints) are often described as having either ""hands"" or ""paws"" on their front limbs."
-48426,808,newton,"newton:newton is a contraction of ""new town"", the name of many places in english-speaking countries.","newton:newton is a contraction of ""new town"", the name of many places in english-speaking countries."
-48427,808,there,"there: there (film), 2009 turkish film (turkish title: orada) there (public figure), alias of paul bird. there (novel), by marie-louise fitzpatrick there (virtual world)","there: there (film), 2009 turkish film (turkish title: orada) there (public figure), alias of paul bird. there (novel), by marie-louise fitzpatrick there (virtual world)"
 48429,767,encourage,"to stimulate by assistance,approval etc.","to stimulate by assistance,approval etc."
 48430,767,hands,the corresponding part of the forelimb in any of the higher vertebrates,the corresponding part of the forelimb in any of the higher vertebrates
 48431,767,newton,the si unit of force.,the si unit of force.
@@ -47537,9 +47484,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 48455,878,hands,hands - both hands. she is the culprit and my hand/presence is not in that matter.,hands - both hands. she is the culprit and my hand/presence is not in that matter.
 48456,878,newton,newton - great scientist sir issac newton. a person name,newton - great scientist sir issac newton. a person name
 48457,878,there,there - the thing you asked for is there. she is there. we can go there (particular place),there - the thing you asked for is there. she is there. we can go there (particular place)
-48459,777,encourage,"verb give support, confidence, or hope to. help or stimulate the development of.","verb give support, confidence, or hope to. help or stimulate the development of."
-48460,777,hands,noun & verb variant spelling of hansel.,noun & verb variant spelling of hansel.
-48461,777,newton,"noun physics the si unit of force, equal to the force that would give a mass of one kilogram an acceleration of one meter per second per second.","noun physics the si unit of force, equal to the force that would give a mass of one kilogram an acceleration of one meter per second per second."
 48463,827,club,a heavy usually tapering staff especially of wood wielded as a weapon,a heavy usually tapering staff especially of wood wielded as a weapon
 48464,827,encourage,"to inspire with courage, spirit or hope","to inspire with courage, spirit or hope"
 48465,827,hands,"a hand is a prehensile, multi-fingered extremity located at the end of an arm or forelimb of primates such as humans","a hand is a prehensile, multi-fingered extremity located at the end of an arm or forelimb of primates such as humans"
@@ -47591,11 +47535,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 48515,823,life,"sprightliness, life sentence, lifetime, life story, spirit, life-time, biography, lifespan, liveliness, living, life history, aliveness, animation","sprightliness, life sentence, lifetime, life story, spirit, life-time, biography, lifespan, liveliness, living, life history, aliveness, animation"
 48516,823,raw,"meat, cooked, processed, saute, roasted, stewed, pancake-style, ready-cooked, wafer-like, burnt, braised, overdone, lyonnaise, barbecued","meat, cooked, processed, saute, roasted, stewed, pancake-style, ready-cooked, wafer-like, burnt, braised, overdone, lyonnaise, barbecued"
 48517,823,unclear,"unreadable, undecipherable, indecipherable, ill-defined, unclear","unreadable, undecipherable, indecipherable, ill-defined, unclear"
-48518,780,cause,i believe we have/there is just cause (= a fair reason) for taking this action.,i believe we have/there is just cause (= a fair reason) for taking this action.
-48519,780,flowers,to pick flowers,to pick flowers
-48520,780,life,life too short to worry about money!,life too short to worry about money!
-48521,780,raw,raw fish,raw fish
-48522,780,unclear,it is unclear wh ether he arrived before or after the shot was fired.,it is unclear wh ether he arrived before or after the shot was fired.
 48523,812,cause,"causal agency, causal agent, campaign, crusade, drive, effort, movement,","causal agency, causal agent, campaign, crusade, drive, effort, movement,"
 48524,812,flowers,"bloom, blossom, efflorescence, flush, heyday, peak, prime","bloom, blossom, efflorescence, flush, heyday, peak, prime"
 48525,812,life,"liveliness, spirit, sprightliness, living, biography, life history, life story,","liveliness, spirit, sprightliness, living, biography, life history, life story,"
@@ -47824,9 +47763,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 48750,806,life,"a corresponding state, existence, or principle of existence conceived of as belonging to the soul","a corresponding state, existence, or principle of existence conceived of as belonging to the soul"
 48751,806,raw,"uncooked, as articles of food","uncooked, as articles of food"
 48752,806,unclear,transparent,transparent
-48753,777,cause,"a person or thing that gives rise to an action, phenomenon, or condition. reasonable grounds for a belief or action.","a person or thing that gives rise to an action, phenomenon, or condition. reasonable grounds for a belief or action."
-48754,777,flowers,plural noun [treated as singular] chemistry a fine yellow powdered form of sulphur produced by sublimation.,plural noun [treated as singular] chemistry a fine yellow powdered form of sulphur produced by sublimation.
-48755,777,life,"the condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, functional activity, and continual change preceding death. living things and their activity.","the condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, functional activity, and continual change preceding death. living things and their activity."
 48758,922,cause,"is an necessity, a reason to do work.","is an necessity, a reason to do work."
 48759,922,flowers,which grows on trees.,which grows on trees.
 48760,922,life,it is an interval between birth and death.,it is an interval between birth and death.
@@ -48119,13 +48055,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49055,803,wife,"wife: the wife of a man with a specified occupation: ""a faculty wife""","wife: the wife of a man with a specified occupation: ""a faculty wife"""
 49056,803,sexy,sexy: sexually attractive or exciting.,sexy: sexually attractive or exciting.
 49057,803,vanish,"vanish: disappear suddenly and completely: ""mary vanished without trace"".","vanish: disappear suddenly and completely: ""mary vanished without trace""."
-49058,780,wool,the blankets are made from wool and the sheets from cotton.,the blankets are made from wool and the sheets from cotton.
-49059,780,date,what is your date of birth ?,what is your date of birth ?
-49060,780,wife,i met greg wife for the first time.,i met greg wife for the first time.
-49061,780,sexy,he is very sexy.,he is very sexy.
-49062,780,vanish,the child vanished while on her way home from school.,the child vanished while on her way home from school.
-49063,777,wool,"noun the fine, soft curly or wavy hair forming the coat of a sheep, goat, or similar animal, especially when shorn and made into cloth or yarn. the soft underfur or down of some other mammals. a metal or mineral made into a mass of fine fibres: lead wool.","noun the fine, soft curly or wavy hair forming the coat of a sheep, goat, or similar animal, especially when shorn and made into cloth or yarn. the soft underfur or down of some other mammals. a metal or mineral made into a mass of fine fibres: lead wool."
-49065,777,wife,"noun (plural wives) a married woman considered in relation to her husband. archaic or dialect a woman, especially an old or uneducated one.","noun (plural wives) a married woman considered in relation to her husband. archaic or dialect a woman, especially an old or uneducated one."
 49068,934,wool,"wool is the textile fiber obtained from sheep and certain other animals, including cashmere from goats, mohair from goats, qiviut from muskoxen, vicuna, alpaca, camel from animals in the camel family, and angora from rabbits.","wool is the textile fiber obtained from sheep and certain other animals, including cashmere from goats, mohair from goats, qiviut from muskoxen, vicuna, alpaca, camel from animals in the camel family, and angora from rabbits."
 49069,934,date,"a day on a calendar ,a representation term or class associated with a data element,a unix command for displaying the current time and date,the fruit of the date palm","a day on a calendar ,a representation term or class associated with a data element,a unix command for displaying the current time and date,the fruit of the date palm"
 49070,934,wife,"a wife is a female partner in a marriage. the rights and obligations of the wife regarding her spouse(s) and others, and her status in the community and in law, varies between cultures and has varied over time.","a wife is a female partner in a marriage. the rights and obligations of the wife regarding her spouse(s) and others, and her status in the community and in law, varies between cultures and has varied over time."
@@ -48258,7 +48187,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49200,800,illegal,"breaking the law, wrong, unacceptable","breaking the law, wrong, unacceptable"
 49201,800,white,"colour, race, colourless, light","colour, race, colourless, light"
 49202,800,trick,"halloween, play a joke on someone, funny, con, prank, drugs","halloween, play a joke on someone, funny, con, prank, drugs"
-49203,777,africa,"noun a person from africa, especially a black person. adjective relating to africa or africans.","noun a person from africa, especially a black person. adjective relating to africa or africans."
 49208,767,africa,"a continent,home of sahara,black peoples shines everywhere,nelson mandela","a continent,home of sahara,black peoples shines everywhere,nelson mandela"
 49209,767,fiction,"scientific fiction,similar to rumour,innovative ideas,","scientific fiction,similar to rumour,innovative ideas,"
 49210,767,illegal,"against law ,punishable ,offence,crime,illicit,","against law ,punishable ,offence,crime,illicit,"
@@ -48289,11 +48217,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49235,926,illegal,"not legal, wrong, not approved of, against the law","not legal, wrong, not approved of, against the law"
 49236,926,white,"blanco, caucasian race","blanco, caucasian race"
 49237,926,trick,"game, fool someone","game, fool someone"
-49238,780,africa,someone from africa,someone from africa
-49239,780,fiction,a writer of children fiction,a writer of children fiction
-49240,780,illegal,prostitution is illegal in some countries.,prostitution is illegal in some countries.
-49241,780,white,white bread,white bread
-49242,780,trick,it is a bit of trick photography - she is meant to look like she is walking on water.,it is a bit of trick photography - she is meant to look like she is walking on water.
 49243,864,africa,"africa is the world second largest and second most populous continent, after asia","africa is the world second largest and second most populous continent, after asia"
 49245,864,illegal,prohibited by official rules,prohibited by official rules
 49246,864,white,white is the color of purity,white is the color of purity
@@ -48537,10 +48460,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49494,947,manners,"etiquittes, attributes, behaviour, cod of conduct","etiquittes, attributes, behaviour, cod of conduct"
 49495,947,stain,"clothes, spot, washable, water","clothes, spot, washable, water"
 49496,947,turn,"over, to see next item, another, to change position","over, to see next item, another, to change position"
-49498,780,dictionary,"to check how a word is spelt, look it up in a dictionary.","to check how a word is spelt, look it up in a dictionary."
-49499,780,manners,do not they teach you table manners at school?,do not they teach you table manners at school?
-49500,780,stain,tomato sauce stains terribly - it is really difficult to get it out of clothes.,tomato sauce stains terribly - it is really difficult to get it out of clothes.
-49501,780,turn,turn the steering wheel as quickly as you can.,turn the steering wheel as quickly as you can.
 49502,925,beef,"meat of cow, buffalo, edible, red in color","meat of cow, buffalo, edible, red in color"
 49503,925,dictionary,"a book for referring meaning of words, in different languages,","a book for referring meaning of words, in different languages,"
 49504,925,manners,"way of doing or saying things, humble or polite behaviour","way of doing or saying things, humble or polite behaviour"
@@ -48621,7 +48540,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49579,799,manners,vogue,vogue
 49580,799,stain,smear,smear
 49581,799,turn,spin,spin
-49583,777,dictionary,"noun (plural dictionaries) a book that lists the words of a language in alphabetical order and gives their meaning, or their equivalent in a different language.","noun (plural dictionaries) a book that lists the words of a language in alphabetical order and gives their meaning, or their equivalent in a different language."
 49588,811,dictionary,a useful tool to look up a definition of a word,a useful tool to look up a definition of a word
 49589,811,manners,to be proper,to be proper
 49590,811,stain,"when something stays on your clothes and does not come off during the wash such as coffee, oil, makeup, and blood","when something stays on your clothes and does not come off during the wash such as coffee, oil, makeup, and blood"
@@ -48797,9 +48715,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49764,778,math,appear,appear
 49765,778,shop,purchase,purchase
 49766,778,suffocate,suff,suff
-49767,777,asia,noun a strong-flavored cow milk cheese made in northern italy.,noun a strong-flavored cow milk cheese made in northern italy.
-49769,777,math,noun north american mathematics.,noun north american mathematics.
-49771,777,suffocate,verb die or cause to die from lack of air or inability to breathe. have or cause to have difficulty in breathing.,verb die or cause to die from lack of air or inability to breathe. have or cause to have difficulty in breathing.
 49772,822,asia,"largest continent, situated in the eastern hemisphere, bounded by the arctic, pacific, and indian oceans, and separated from n europe by the ural mountains","largest continent, situated in the eastern hemisphere, bounded by the arctic, pacific, and indian oceans, and separated from n europe by the ural mountains"
 49773,822,decay,"to decay is to rot, lose strength or deteriorate","to decay is to rot, lose strength or deteriorate"
 49774,822,math,mathematical,mathematical
@@ -48840,10 +48755,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49809,853,math,"short form of mathematical,mathematician,mathematics","short form of mathematical,mathematician,mathematics"
 49810,853,shop,"a shop is a store or work area of a person or trade.like local grocery store, store,retail store,dry goods store,work shop,","a shop is a store or work area of a person or trade.like local grocery store, store,retail store,dry goods store,work shop,"
 49811,853,suffocate,"to kill by cutting off the supply of oxygen to the lungs,strangle,","to kill by cutting off the supply of oxygen to the lungs,strangle,"
-49813,770,decay,"biology to break down into component parts,the destruction or decomposition of organic matter as a result of bacterial or fungal action","biology to break down into component parts,the destruction or decomposition of organic matter as a result of bacterial or fungal action"
-49814,770,math,(mathematics) us and canadian informal short for mathematics brit equivalent maths,(mathematics) us and canadian informal short for mathematics brit equivalent maths
-49815,770,shop,"a small retail store or a specialty department in a large store, a place for manufacturing or repairing goods or machinery","a small retail store or a specialty department in a large store, a place for manufacturing or repairing goods or machinery"
-49816,770,suffocate,"to kill or destroy by preventing access of air or oxygen,to impair the respiration of; asphyxiate","to kill or destroy by preventing access of air or oxygen,to impair the respiration of; asphyxiate"
 49817,792,asia,a continent,a continent
 49818,792,decay,decomposition,decomposition
 49819,792,math,mathematics,mathematics
@@ -48944,10 +48855,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 49914,850,math,"mathematics, calculation, calculator, mobile & sums","mathematics, calculation, calculator, mobile & sums"
 49915,850,shop,"shopping, accessories, cloths, sandals, restaurant","shopping, accessories, cloths, sandals, restaurant"
 49916,850,suffocate,"closed room, health problems,","closed room, health problems,"
-49917,871,asia,"asia: the largest of the world continents, constituting nearly one-third of the landmass, lying entirely north of the equator except for...","asia: the largest of the world continents, constituting nearly one-third of the landmass, lying entirely north of the equator except for..."
-49918,871,decay,decay:(of organic matter) rot or decompose through the action of bacteria and fungi.,decay:(of organic matter) rot or decompose through the action of bacteria and fungi.
-49919,871,math,math:mathematics: a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement,math:mathematics: a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement
-49921,871,suffocate,suffocate: die or cause to die from lack of air or inability to breathe.,suffocate: die or cause to die from lack of air or inability to breathe.
 49922,766,asia,"continent, powerful countries","continent, powerful countries"
 49923,766,decay,"infection, disease, bad adore things , polluted thing","infection, disease, bad adore things , polluted thing"
 49924,766,math,"calculating type lessons, alpha decimals, subject,","calculating type lessons, alpha decimals, subject,"
@@ -49177,9 +49084,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 50158,787,misunderstand,understand wrongly,understand wrongly
 50159,787,slut,"dirty,immoral women","dirty,immoral women"
 50160,787,states,different parts of a country,different parts of a country
-50161,852,can't,"can, i can not this work","can, i can not this work"
-50162,852,halloween,hallow,hallow
-50163,852,states,"this is a kerala state,","this is a kerala state,"
 50164,809,can't,"unable to do, deny to do","unable to do, deny to do"
 50165,809,halloween,meaningless,meaningless
 50166,809,misunderstand,"misjudgement, dispute, difference","misjudgement, dispute, difference"
@@ -49350,10 +49254,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 50336,772,misunderstand,"wrong opinion,fail to understand correctly,have wrong opinion about a correct person","wrong opinion,fail to understand correctly,have wrong opinion about a correct person"
 50337,772,slut,"promiscuous women,obey the conditions,honest person,sacrificing mentality","promiscuous women,obey the conditions,honest person,sacrificing mentality"
 50338,772,states,"conditions of something at a particular time,the government of a country,positions of the matter","conditions of something at a particular time,the government of a country,positions of the matter"
-50340,777,halloween,"noun the night of 31 october, the eve of all saints day.","noun the night of 31 october, the eve of all saints day."
-50341,777,misunderstand,verb: (past and past participle misunderstood ) fail to understand correctly.,verb: (past and past participle misunderstood ) fail to understand correctly.
-50342,777,slut,noun: a slovenly or promiscuous woman.,noun: a slovenly or promiscuous woman.
-50343,777,states,noun: british a school funded and controlled by the state.,noun: british a school funded and controlled by the state.
 50344,936,can't,"no,cannot,unable,will not be able to perform any given task,negative, docent have the ability to.","no,cannot,unable,will not be able to perform any given task,negative, docent have the ability to."
 50345,936,halloween,"yearly holiday,celebrated all around the world,oct 31,the night before all saints day,christian feast,costume parties,bonfire,playing pranks, telling and watching horror stories","yearly holiday,celebrated all around the world,oct 31,the night before all saints day,christian feast,costume parties,bonfire,playing pranks, telling and watching horror stories"
 50346,936,misunderstand,"incorrect,wrong,understand incorrectly,wrong sense,past simple","incorrect,wrong,understand incorrectly,wrong sense,past simple"
@@ -49420,9 +49320,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 50411,809,major,"chief, ranking, important","chief, ranking, important"
 50412,809,sew,fasten thread with needle,fasten thread with needle
 50413,809,thaw,"melt, dissolve, make friendly","melt, dissolve, make friendly"
-50415,831,condom,"a condom is a device, usually made of latex, used to avoid pregnancy and/or sexually transmitted diseases such as gonorrhea, syphilis, and human immunodeficiency virus (hiv). condoms are also known as prophylactics, as well as the popular slang term ""rubbers."" there are male and female versions of condoms.","a condom is a device, usually made of latex, used to avoid pregnancy and/or sexually transmitted diseases such as gonorrhea, syphilis, and human immunodeficiency virus (hiv). condoms are also known as prophylactics, as well as the popular slang term ""rubbers."" there are male and female versions of condoms."
-50417,831,sew,"sew - to fasten, attach or join (pieces of cloth or other materials) by using a thread repeatedly inserted by a needle and drawn tight","sew - to fasten, attach or join (pieces of cloth or other materials) by using a thread repeatedly inserted by a needle and drawn tight"
-50418,831,thaw,to pass or change from a frozen to a liquid or semiliquid state; melt,to pass or change from a frozen to a liquid or semiliquid state; melt
 50420,878,condom,condom - safety articles made from rubber,condom - safety articles made from rubber
 50421,878,major,"major - major from army/navy, majority, head of a team","major - major from army/navy, majority, head of a team"
 50422,878,sew,"sew - dress sewed, or a button attached with dress, something closed","sew - dress sewed, or a button attached with dress, something closed"
@@ -49456,7 +49353,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 50451,971,major,"sufficiently large in size,use word for great,big,massive things,having great meaning or lasting effect.","sufficiently large in size,use word for great,big,massive things,having great meaning or lasting effect."
 50452,971,sew,"to stitch,use to mend,patch,repair,cobblers sew to repair shoes,embroidery.","to stitch,use to mend,patch,repair,cobblers sew to repair shoes,embroidery."
 50453,971,thaw,"deliquesce, flux, fuse, melt, run, thaw","deliquesce, flux, fuse, melt, run, thaw"
-50455,777,condom,noun a thin rubber sheath worn on the penis during sexual intercourse as a contraceptive or to protect against infection.,noun a thin rubber sheath worn on the penis during sexual intercourse as a contraceptive or to protect against infection.
 50460,843,condom,it is used for safe sex,it is used for safe sex
 50461,843,major,more,more
 50462,843,sew,to stitch,to stitch
@@ -49465,10 +49361,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 50466,883,major,in army.,in army.
 50467,883,sew,the cloth.,the cloth.
 50468,883,thaw,leaves.,leaves.
-50470,972,condom,"a thin device used as a blockade, typically used on the male genitalia to prevent sperm from entering the female vagina","a thin device used as a blockade, typically used on the male genitalia to prevent sperm from entering the female vagina"
-50471,972,major,"the main thing, the biggest item, not small","the main thing, the biggest item, not small"
-50472,972,sew,"to use needle and thread to attach two items together, stitching","to use needle and thread to attach two items together, stitching"
-50473,972,thaw,"melting, leaving a frozen item at room temperature, applying heat to a frozen item, sudden appearance of sun after many days of snow and ice","melting, leaving a frozen item at room temperature, applying heat to a frozen item, sudden appearance of sun after many days of snow and ice"
 50475,770,condom,"a flexible sheath, usually made of thin rubber or latex, designed to cover the penis during sexual intercourse for contraceptive purposes or as a means of preventing sexually transmitted diseases.","a flexible sheath, usually made of thin rubber or latex, designed to cover the penis during sexual intercourse for contraceptive purposes or as a means of preventing sexually transmitted diseases."
 50476,770,major,"greater than others in importance or rank,great in scope or effect","greater than others in importance or rank,great in scope or effect"
 50478,770,thaw,"to change from a frozen solid to a liquid by gradual warming,to lose stiffness, numbness, or impermeability by being warmed","to change from a frozen solid to a liquid by gradual warming,to lose stiffness, numbness, or impermeability by being warmed"
@@ -49846,10 +49738,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 50862,837,frankenstein,"a scientist, a writer, a novel, a cartoon, a rock artist, an agency, a film","a scientist, a writer, a novel, a cartoon, a rock artist, an agency, a film"
 50863,837,irritating,"disturb, annoying, vex, troublesome, bothering, provoking, repellent,pricking, bad, feel uncomfortable,","disturb, annoying, vex, troublesome, bothering, provoking, repellent,pricking, bad, feel uncomfortable,"
 50864,837,record,"an information, to protect, to note, to save, a document, a mark, an evidence, to register, an account of, a fossil, to preserve a data, known history of, a collection of, to indicate","an information, to protect, to note, to save, a document, a mark, an evidence, to register, an account of, a fossil, to preserve a data, known history of, a collection of, to indicate"
-50866,780,center,us for centre,us for centre
-50867,780,frankenstein,something that destroys or harms the person or people who created it,something that destroys or harms the person or people who created it
-50869,780,record,"i tried to phone her, but all i got was a recorded message saying that she was away for the weekend.","i tried to phone her, but all i got was a recorded message saying that she was away for the weekend."
-50870,780,true,i do not believe these exam results are a true reflection of your abilities.,i do not believe these exam results are a true reflection of your abilities.
 50871,870,center,"in the middle, the core","in the middle, the core"
 50872,870,frankenstein,a manmade monster from the movies,a manmade monster from the movies
 50873,870,irritating,"getting on one nerves, annoying","getting on one nerves, annoying"
@@ -49967,9 +49855,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 50988,768,irritating,annoying,annoying
 50989,768,record,documentation,documentation
 50990,768,true,right,right
-50991,831,center,"it means from the centre of one object to the centre of another. for instance, wall studs are usually 16 inches on centre. so, from the centre of one stud to the centre of the next stud it is 16 inches","it means from the centre of one object to the centre of another. for instance, wall studs are usually 16 inches on centre. so, from the centre of one stud to the centre of the next stud it is 16 inches"
-50993,831,irritating,o rouse to impatience or anger; annoy: a loud bossy voice that irritates listeners. see synonyms at annoy.,o rouse to impatience or anger; annoy: a loud bossy voice that irritates listeners. see synonyms at annoy.
-50994,831,record,"the record means that you are stating something, re-stating something, and it is so true that it could be documented and recorded. and once stated, should not be asked again to repeat.","the record means that you are stating something, re-stating something, and it is so true that it could be documented and recorded. and once stated, should not be asked again to repeat."
 50996,984,artist,"writes, sings, acts, paint pictures, freelancer,","writes, sings, acts, paint pictures, freelancer,"
 50997,984,death,"end, ending of life, accidental death, natural death","end, ending of life, accidental death, natural death"
 50998,984,laugh,"smile, happy, joke, enjoy, laugh loudly","smile, happy, joke, enjoy, laugh loudly"
@@ -49980,10 +49865,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51003,883,laugh,showing happiness,showing happiness
 51004,883,poem,composition of words with cool meaning,composition of words with cool meaning
 51005,883,stare,continues looking,continues looking
-51006,780,artist,"someone who paints, draws or makes sculptures monet is one of my favourite artists.","someone who paints, draws or makes sculptures monet is one of my favourite artists."
-51008,780,laugh,i laughed till i cried .,i laughed till i cried .
-51009,780,poem,the poet recited some of her recent poems.,the poet recited some of her recent poems.
-51010,780,stare,"do not stare at people like that, it is rude.","do not stare at people like that, it is rude."
 51011,839,artist,a person who have some skills,a person who have some skills
 51012,839,death,end of the life,end of the life
 51013,839,laugh,expression of happy movement,expression of happy movement
@@ -50072,11 +49953,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51098,820,laugh,"smile,happy,forgotten sorrow,joy","smile,happy,forgotten sorrow,joy"
 51099,820,poem,"imagination,meaningful","imagination,meaningful"
 51100,820,stare,"staring,great concentration","staring,great concentration"
-51101,827,artist,this article is about the general concept of art. for the categories of different artistic disciplines see the arts.,this article is about the general concept of art. for the categories of different artistic disciplines see the arts.
-51102,827,death,death is the permanent termination of the biological functions that sustain a living organism.,death is the permanent termination of the biological functions that sustain a living organism.
-51103,827,laugh,"laughing is a reaction to certain stimuli, fundamentally stress and which serves as an emotional balancing mechanism.","laughing is a reaction to certain stimuli, fundamentally stress and which serves as an emotional balancing mechanism."
-51104,827,poem,poem a making or forming or creating or the art of poetry is a form of literary art in which language is used for its aesthetic.,poem a making or forming or creating or the art of poetry is a form of literary art in which language is used for its aesthetic.
-51105,827,stare,to look fixedly often with wide-open eyes,to look fixedly often with wide-open eyes
 51106,809,artist,"expert, master,","expert, master,"
 51107,809,death,"demise, decease, loss of life","demise, decease, loss of life"
 51108,809,laugh,"express joy, giggle","express joy, giggle"
@@ -50247,7 +50123,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51278,771,laugh,"giggle, grin, chuckle, guffaw, joke, smile, happy","giggle, grin, chuckle, guffaw, joke, smile, happy"
 51279,771,poem,"story, rhyme,","story, rhyme,"
 51280,771,stare,"gape, eyes,focus, gaze","gape, eyes,focus, gaze"
-51284,777,poem,"noun a literary composition that is given intensity by particular attention to diction (sometimes involving rhyme), rhythm, and imagery.","noun a literary composition that is given intensity by particular attention to diction (sometimes involving rhyme), rhythm, and imagery."
 51286,792,artist,creator of arts,creator of arts
 51287,792,death,opposite of birth,opposite of birth
 51288,792,laugh,opposite of cry,opposite of cry
@@ -50328,7 +50203,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51363,995,maid,"sexualized by pornography and the media and halloween costumes, there is one perception of a maid as a ""slut"" and the other as a hard working immigrant. worker, cleaner of homes, does the dirty work in a house.","sexualized by pornography and the media and halloween costumes, there is one perception of a maid as a ""slut"" and the other as a hard working immigrant. worker, cleaner of homes, does the dirty work in a house."
 51364,995,public,"where anyone can go, shared space, the general public, the mass of people who share common norms of a society, or even who are in a society without sharing the norms.","where anyone can go, shared space, the general public, the mass of people who share common norms of a society, or even who are in a society without sharing the norms."
 51365,995,stamp,"old, antiquated, used to be more useful, old collections, musty, smells of slight dankness, indoors, a basement where an old man works out of the sun perusing his collection.","old, antiquated, used to be more useful, old collections, musty, smells of slight dankness, indoors, a basement where an old man works out of the sun perusing his collection."
-51367,777,forgive,verb (past forgave; past participle forgiven) stop feeling angry or resentful towards (someone) for an offense or mistake. excuse (an offense or mistake).,verb (past forgave; past participle forgiven) stop feeling angry or resentful towards (someone) for an offense or mistake. excuse (an offense or mistake).
 51371,900,calm,"quite, relaxed, collected, at ease, still","quite, relaxed, collected, at ease, still"
 51372,900,forgive,"accept, understand, keep an open mind","accept, understand, keep an open mind"
 51373,900,maid,"house keeper, servant, cleaner, dressed in uniform","house keeper, servant, cleaner, dressed in uniform"
@@ -50346,11 +50220,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51388,785,maid,hows in asleep,hows in asleep
 51389,785,public,related to the human begins opposite to private with out secret,related to the human begins opposite to private with out secret
 51390,785,stamp,approval,approval
-51391,780,calm,"now keep calm everyone, the police are on their way.","now keep calm everyone, the police are on their way."
-51392,780,forgive,i do not think she is ever quite forgiven me for getting her name wrong that time.,i do not think she is ever quite forgiven me for getting her name wrong that time.
-51393,780,maid,"in the beach resort, the apartments and villas have daily maid service .","in the beach resort, the apartments and villas have daily maid service ."
-51394,780,public,"relating to or involving people in general, rather than being limited to a particular group of people","relating to or involving people in general, rather than being limited to a particular group of people"
-51395,780,stamp,i stuck a 50p stamp on the envelope.,i stuck a 50p stamp on the envelope.
 51396,811,calm,when someone is tranquil,when someone is tranquil
 51397,811,forgive,when someone accepts another person again due to a bad situation that happened between them.,when someone accepts another person again due to a bad situation that happened between them.
 51398,811,maid,someone who is in charge of hospitality or cleaning such as in a home,someone who is in charge of hospitality or cleaning such as in a home
@@ -50417,8 +50286,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51462,783,forgive,pardon,pardon
 51463,783,public,crowd,crowd
 51464,783,stamp,authorisation,authorisation
-51468,831,public,"done, made, acting, etc., for the community as a whole:","done, made, acting, etc., for the community as a whole:"
-51469,831,stamp,a token that postal fees have been paid 2. the distinctive form in which a thing is made 3. a type or class,a token that postal fees have been paid 2. the distinctive form in which a thing is made 3. a type or class
 51470,825,calm,"tranquil, peaceful, quiet","tranquil, peaceful, quiet"
 51471,825,forgive,"pardon, excuse, forgive","pardon, excuse, forgive"
 51472,825,maid,"servant, home maid","servant, home maid"
@@ -50600,7 +50467,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51657,843,id,means identity,means identity
 51658,843,off,to leave,to leave
 51659,843,web,a kind of thread like fluid coming out of spider,a kind of thread like fluid coming out of spider
-51661,777,dam,"a barrier constructed to hold back water and raise its level, forming a reservoir or preventing flooding. a barrier of branches in a stream, constructed by a beaver to provide a deep pool and a lodge.","a barrier constructed to hold back water and raise its level, forming a reservoir or preventing flooding. a barrier of branches in a stream, constructed by a beaver to provide a deep pool and a lodge."
 51665,905,anger,a negative emotion. a lesser form of rage. being upset with someone. frustration,a negative emotion. a lesser form of rage. being upset with someone. frustration
 51666,905,dam,something that blocks water. beavers build these. the hoover dam is one of these,something that blocks water. beavers build these. the hoover dam is one of these
 51667,905,id,subconscious perception of self.,subconscious perception of self.
@@ -50837,11 +50703,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51917,799,id,proof,proof
 51918,799,off,stop,stop
 51919,799,web,weave,weave
-51920,776,anger,gussy,gussy
-51921,776,dam,mad,mad
-51922,776,id,identification,identification
-51923,776,off,opposite to on,opposite to on
-51924,776,web,internet,internet
 51925,822,anger,anger is a strong feeling of dislike or displeasure,anger is a strong feeling of dislike or displeasure
 51926,822,dam,a barrier built to hold back flowing water,a barrier built to hold back flowing water
 51927,822,id,identification,identification
@@ -50862,8 +50723,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 51942,822,important,important means having great significance or consequence,important means having great significance or consequence
 51943,822,period,a period is a space of time between two events or a portion of time,a period is a space of time between two events or a portion of time
 51944,822,tears,tears is the liquid flows from eye when crying,tears is the liquid flows from eye when crying
-51946,777,women,women plural form of woman.,women plural form of woman.
-51949,777,tears,"noun a page that can be removed from a magazine, book, etc. for use separately.","noun a page that can be removed from a magazine, book, etc. for use separately."
 51951,823,women,"donna, dowager, doxy, fair sex, female sex, feme","donna, dowager, doxy, fair sex, female sex, feme"
 51952,823,important,"substantial, significant, meaning(a), of import, pregnant, important, authoritative, crucial","substantial, significant, meaning(a), of import, pregnant, important, authoritative, crucial"
 51953,823,period,"stop, period of time, catamenia, menstruum, menstruation, geological period, full point, time period, menses, point, flow, full stop","stop, period of time, catamenia, menstruum, menstruation, geological period, full point, time period, menses, point, flow, full stop"
@@ -51206,8 +51065,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 52296,820,loving,"love,sharing feelings,care","love,sharing feelings,care"
 52297,820,picture,"image,photo,pose,pixel","image,photo,pose,pixel"
 52298,820,weak,"very low strength,not suitable,damaged","very low strength,not suitable,damaged"
-52300,769,fad,"a temporary fashion, notion, manner of conduct, etc., especially one followed enthusiastically by a group, an intense but short-lived fashion; craze, a personal idiosyncrasy or whim.","a temporary fashion, notion, manner of conduct, etc., especially one followed enthusiastically by a group, an intense but short-lived fashion; craze, a personal idiosyncrasy or whim."
-52301,769,loving,"feeling or showing love; warmly affectionate; fond: loving glances. feeling, showing, or indicating love and affection; sexual passion or desire.","feeling or showing love; warmly affectionate; fond: loving glances. feeling, showing, or indicating love and affection; sexual passion or desire."
 52304,823,builder,"constructor, detergent builder","constructor, detergent builder"
 52305,823,fad,"cult, fury, frenzy, rage, furore, madness, craze, fad, delirium, passion, hysteria, religious cult, furor, cultus","cult, fury, frenzy, rage, furore, madness, craze, fad, delirium, passion, hysteria, religious cult, furor, cultus"
 52306,823,loving,"amiable, agreeable, engaging, lovable, pleasing, attractive, gentle, lovely, sweet, benignant, good-natured, loving, winning, harming, kind, pleasant, winsome","amiable, agreeable, engaging, lovable, pleasing, attractive, gentle, lovely, sweet, benignant, good-natured, loving, winning, harming, kind, pleasant, winsome"
@@ -51238,11 +51095,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 52331,766,loving,"nearing, beloved one, affection,","nearing, beloved one, affection,"
 52332,766,picture,"film,movie, figure, drawing","film,movie, figure, drawing"
 52333,766,weak,"physically not well, no strength, need more strength","physically not well, no strength, need more strength"
-52334,780,builder,a person whose job it is to make buildings,a person whose job it is to make buildings
-52335,780,fad,there was a fad for wearing ripped jeans a few years ago.,there was a fad for wearing ripped jeans a few years ago.
-52336,780,loving,he is a very loving child.,he is a very loving child.
-52337,780,picture,we can not get a clear picture.,we can not get a clear picture.
-52338,780,weak,he gave the weakest of excuses when asked why he was late.,he gave the weakest of excuses when asked why he was late.
 52339,830,builder,"construction worker,architect, artisan, constructor, contractor, craftsperson,inventor. maker, manufacturer, mason, originator, producer","construction worker,architect, artisan, constructor, contractor, craftsperson,inventor. maker, manufacturer, mason, originator, producer"
 52340,830,fad,"craze,affection,amusement, cry, fantasy, fashion, hobby, humor, innovation, passion, style, trend","craze,affection,amusement, cry, fantasy, fashion, hobby, humor, innovation, passion, style, trend"
 52341,830,loving,"adore, like very much, admire, be crazy about, be fascinated with, be fond of, care for, cherish, affectionate, amiable, kind, loyal","adore, like very much, admire, be crazy about, be fascinated with, be fond of, care for, cherish, affectionate, amiable, kind, loyal"
@@ -51291,9 +51143,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 52386,809,loving,"regarding, warm feeling,","regarding, warm feeling,"
 52387,809,picture,"drawing, painting, sketch","drawing, painting, sketch"
 52388,809,weak,"lacking strength, unsteady, powerless","lacking strength, unsteady, powerless"
-52391,777,loving,adjective feeling or showing love or great care. [in combination] (-loving) enjoying the specified thing: a fun-loving girl.,adjective feeling or showing love or great care. [in combination] (-loving) enjoying the specified thing: a fun-loving girl.
-52395,831,fad,a fashion that is taken up with great enthusiasm for a brief period of time; a craze.,a fashion that is taken up with great enthusiasm for a brief period of time; a craze.
-52397,831,picture,". a visual representation or image painted, drawn, photographed, or otherwise rendered on a flat surface",". a visual representation or image painted, drawn, photographed, or otherwise rendered on a flat surface"
 52399,1010,builder,build the building,build the building
 52400,1010,fad,fashion,fashion
 52401,1010,loving,mother,mother
@@ -51558,8 +51407,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 52681,785,mixture,combination,combination
 52682,785,store,collection of something,collection of something
 52683,785,music,how is used to represent there feelings,how is used to represent there feelings
-52686,808,mixture,"mixture:mixtures are the product of a mechanical blending or mixing of chemical substances like elements and compounds, without chemical bonding or other chemical change, so that each ingredient substance retains its own chemical properties and makeup","mixture:mixtures are the product of a mechanical blending or mixing of chemical substances like elements and compounds, without chemical bonding or other chemical change, so that each ingredient substance retains its own chemical properties and makeup"
-52688,808,music,"music:music is an art form whose medium is sound and silence. its common elements are pitch, rhythm ,dynamics, and the sonic qualities of timbre and texture.","music:music is an art form whose medium is sound and silence. its common elements are pitch, rhythm ,dynamics, and the sonic qualities of timbre and texture."
 52689,773,billy,billion,billion
 52690,773,days,"sunday,monday,tuesday ect","sunday,monday,tuesday ect"
 52691,773,mixture,including all the items,including all the items
@@ -51614,9 +51461,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 52741,825,mixture,"combination, mix, blend","combination, mix, blend"
 52742,825,store,"amass, stock, accumulate","amass, stock, accumulate"
 52743,825,music,"melody, tune, harmony","melody, tune, harmony"
-52745,777,days,noun: british a small rucksack.,noun: british a small rucksack.
-52746,777,mixture,noun a substance made by mixing other substances together. the process of mixing or being mixed. (a mixture of) a combination of different things in which the components are individually distinct. the charge of gas or vapor mixed with air admitted to the cylinder of an internal-combustion engine.,noun a substance made by mixing other substances together. the process of mixing or being mixed. (a mixture of) a combination of different things in which the components are individually distinct. the charge of gas or vapor mixed with air admitted to the cylinder of an internal-combustion engine.
-52747,777,store,"a quantity or supply kept for use as needed. (stores) supplies of equipment and food kept for use by members of an army, navy, or other institution.","a quantity or supply kept for use as needed. (stores) supplies of equipment and food kept for use by members of an army, navy, or other institution."
 52749,770,billy,a metal can or pot for boiling water,a metal can or pot for boiling water
 52750,770,days,during the daytime on every day or most days,during the daytime on every day or most days
 52751,770,mixture,"the act or process of mixing,something produced by mixing","the act or process of mixing,something produced by mixing"
@@ -51697,8 +51541,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 52826,830,killer,"murderer, butcher, cut-throat, executioner,gunman/woman, gunperson, hit, hunter, poison, toxin, deadly chemical, hit person, knife","murderer, butcher, cut-throat, executioner,gunman/woman, gunperson, hit, hunter, poison, toxin, deadly chemical, hit person, knife"
 52827,830,stress,"emphasis, importance, significance, urgency, tense, feature, underline, repeat, strain, stretch, worry","emphasis, importance, significance, urgency, tense, feature, underline, repeat, strain, stretch, worry"
 52828,830,poetry,"expressive,rhythmic ,poems, rhyming, rime, rune, song, stanza, verse, versification, tuneful, epic, epic poem, lyric, sonnet, stanza, poet","expressive,rhythmic ,poems, rhyming, rime, rune, song, stanza, verse, versification, tuneful, epic, epic poem, lyric, sonnet, stanza, poet"
-52829,831,cleaner,"a cleaner is a type of industrial or domestic worker who cleans homes or offices for payment. unlike other servants, their primary task is cleaning.","a cleaner is a type of industrial or domestic worker who cleans homes or offices for payment. unlike other servants, their primary task is cleaning."
-52832,831,stress,the action on a body of any system of balanced forces whereby strain or deformation results.,the action on a body of any system of balanced forces whereby strain or deformation results.
 52834,771,cleaner,"scrub, not dirty, detergent","scrub, not dirty, detergent"
 52835,771,frame,"photos, enclose, pictures","photos, enclose, pictures"
 52836,771,killer,"murderer, death","murderer, death"
@@ -51719,9 +51561,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 52851,801,killer,"who kills, difficult to deal with, a person or a weapon","who kills, difficult to deal with, a person or a weapon"
 52852,801,stress,"tensed, over strained, not in a good mood","tensed, over strained, not in a good mood"
 52853,801,poetry,"imaginative thoughts,the art of rhythmical composition","imaginative thoughts,the art of rhythmical composition"
-52854,777,cleaner,noun a person or thing that cleans. (the cleaners) a shop where clothes and fabrics are dry-cleaned.,noun a person or thing that cleans. (the cleaners) a shop where clothes and fabrics are dry-cleaned.
-52855,777,frame,"a rigid structure surrounding a picture, door, etc. (frames) a metal or plastic structure holding the lenses of a pair of glasses. the rigid supporting structure of a vehicle, aircraft, or other object. a box-like structure of glass or plastic in which seeds or young plants are grown.","a rigid structure surrounding a picture, door, etc. (frames) a metal or plastic structure holding the lenses of a pair of glasses. the rigid supporting structure of a vehicle, aircraft, or other object. a box-like structure of glass or plastic in which seeds or young plants are grown."
-52858,777,poetry,noun poems collectively or as a genre of literature. a quality of beauty and intensity of emotion regarded as characteristic of poetry.,noun poems collectively or as a genre of literature. a quality of beauty and intensity of emotion regarded as characteristic of poetry.
 52859,825,cleaner,"one who cleans,","one who cleans,"
 52860,825,frame,"border, edge, outline","border, edge, outline"
 52861,825,killer,"murderer, assassin, executioner","murderer, assassin, executioner"
@@ -51887,10 +51726,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53026,789,killer,"hunter, soldier, person who kills, powerful","hunter, soldier, person who kills, powerful"
 53027,789,stress,"anxiety, burden, pressure, worry","anxiety, burden, pressure, worry"
 53028,789,poetry,"rhyme,verse,song,literary work","rhyme,verse,song,literary work"
-53029,808,cleaner,"cleaner:a cleaner is a type of industrial or domestic worker who cleans homes or offices for payment. unlike other servants, their primary task is cleaning. cleaners may specialise in cleaning particular things or places; window cleaners are an example. cleaners often work when the people who otherwise occupy the space are not around. they may clean offices at night or houses during the workday.","cleaner:a cleaner is a type of industrial or domestic worker who cleans homes or offices for payment. unlike other servants, their primary task is cleaning. cleaners may specialise in cleaning particular things or places; window cleaners are an example. cleaners often work when the people who otherwise occupy the space are not around. they may clean offices at night or houses during the workday."
-53030,808,frame,frame:a frame is a structural system that supports other components of a physical construction.,frame:a frame is a structural system that supports other components of a physical construction.
-53031,808,killer,"killer:a killer is someone or something that kills, such as a murderer.","killer:a killer is someone or something that kills, such as a murderer."
-53033,808,poetry,"poetry:is ""poem"", ""poems"", and ""poetic"" redirect here. for other uses, see poem (disambiguation), poems (disambiguation), and poetic (disambiguation).","poetry:is ""poem"", ""poems"", and ""poetic"" redirect here. for other uses, see poem (disambiguation), poems (disambiguation), and poetic (disambiguation)."
 53034,792,cleaner,one who cleans,one who cleans
 53035,792,frame,to put into a form,to put into a form
 53036,792,killer,one who killed someone,one who killed someone
@@ -52084,11 +51919,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53235,776,groceries,item,item
 53236,776,senate,scenery,scenery
 53237,776,phone,cell,cell
-53240,777,groceries,noun a person who sells food and small household goods.,noun a person who sells food and small household goods.
-53244,780,coral,see picture coral,see picture coral
-53245,780,groceries,old-fashioned a grocer,old-fashioned a grocer
-53246,780,senate,the law has no chance of being passed by the senate.,the law has no chance of being passed by the senate.
-53247,780,phone,"ust then, his mobile phone rang .","ust then, his mobile phone rang ."
 53248,1018,actor,"theater, acting, movie, performer, role-playing, audience, costume, script, celebrity, movie star,","theater, acting, movie, performer, role-playing, audience, costume, script, celebrity, movie star,"
 53249,1018,coral,"sea, ocean, sea creature, reef, warm sea, great barrier reef, has horny tentacles, colorful,","sea, ocean, sea creature, reef, warm sea, great barrier reef, has horny tentacles, colorful,"
 53250,1018,groceries,"food, produce, deli, meat and seafood counters, shopping carts, household supplies,","food, produce, deli, meat and seafood counters, shopping carts, household supplies,"
@@ -52289,7 +52119,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53450,942,highway,"a main public road, especially one connecting towns and cities","a main public road, especially one connecting towns and cities"
 53451,942,sex,the property or quality by which organisms are classified as female or male on the basis of their reproductive organs and functions.,the property or quality by which organisms are classified as female or male on the basis of their reproductive organs and functions.
 53452,942,police,forces are government organizations charged with the responsibility of maintaining law and order,forces are government organizations charged with the responsibility of maintaining law and order
-53455,777,highway,noun chiefly north american a main road. (chiefly in official use) a public road.,noun chiefly north american a main road. (chiefly in official use) a public road.
 53458,771,then,"if, when, time, after","if, when, time, after"
 53459,771,towel,"terrycloth, bath, dish, dry","terrycloth, bath, dish, dry"
 53460,771,highway,"expressway, road, map, tolls, drive, travel","expressway, road, map, tolls, drive, travel"
@@ -52340,11 +52169,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53507,770,police,"the governmental department charged with the regulation and control of the affairs of a community, now chiefly the department established to maintain order, enforce the law, and prevent and detect crime.","the governmental department charged with the regulation and control of the affairs of a community, now chiefly the department established to maintain order, enforce the law, and prevent and detect crime."
 53511,864,sex,commonly refers to the act in which a male penis enters a female vagina for the purposes of sexual pleasure or reproduction.,commonly refers to the act in which a male penis enters a female vagina for the purposes of sexual pleasure or reproduction.
 53512,864,police,"the organized body of civil officers in a city, town, or district, whose particular duties are the preservation of good order","the organized body of civil officers in a city, town, or district, whose particular duties are the preservation of good order"
-53513,780,then,i was working in the city then.,i was working in the city then.
-53514,780,towel,the school provides paper towels for the children to dry their hands on.,the school provides paper towels for the children to dry their hands on.
-53515,780,highway,a coastal/interstate highway,a coastal/interstate highway
-53516,780,sex,what sex is your cat?,what sex is your cat?
-53517,780,police,i think you should call the police.,i think you should call the police.
 53518,831,then,immediately or soon afterward,immediately or soon afterward
 53520,831,highway,a main route for any form of transport,a main route for any form of transport
 53521,831,sex,"either the male or female division of a species, especially as differentiated with reference to the reproductive functions.","either the male or female division of a species, especially as differentiated with reference to the reproductive functions."
@@ -52402,11 +52226,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53575,787,highway,long stretch of road without any sudden turns,long stretch of road without any sudden turns
 53576,787,sex,the organ which differentiate male and female,the organ which differentiate male and female
 53577,787,police,an organized civil force for maintaining discipline,an organized civil force for maintaining discipline
-53578,1021,then,then what is going in t.v?,then what is going in t.v?
-53579,1021,towel,towel is to clean our body.,towel is to clean our body.
-53580,1021,highway,this road is highways.,this road is highways.
-53581,1021,sex,sex is whether male or female?,sex is whether male or female?
-53582,1021,police,police is safety for us,police is safety for us
 53583,812,then,"and so, and then, so","and so, and then, so"
 53584,812,towel,"cloth, bath, wet","cloth, bath, wet"
 53585,812,highway,"road, big road, lot vehicle","road, big road, lot vehicle"
@@ -52472,15 +52291,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53645,1018,values,"beliefs, standards, important, social, ethical, morals, religions, family,","beliefs, standards, important, social, ethical, morals, religions, family,"
 53646,1018,subtract,"minus, negative, reduce, to take off, less, deduct, lost","minus, negative, reduce, to take off, less, deduct, lost"
 53647,1018,sand,"beach, sea, beige, beach volleyball, sand castle, sunbathing, bikini, frisbee, boomerang, sun, summer,","beach, sea, beige, beach volleyball, sand castle, sunbathing, bikini, frisbee, boomerang, sun, summer,"
-53648,777,control,"the power to influence people behaviour or the course of events. the restriction of an activity, tendency, or phenomenon.","the power to influence people behaviour or the course of events. the restriction of an activity, tendency, or phenomenon."
-53650,777,values,the regard that something is held to deserve; importance or worth. material or monetary worth. the worth of something compared,the regard that something is held to deserve; importance or worth. material or monetary worth. the worth of something compared
-53651,777,subtract,verb take away (a number or amount) from another to calculate the difference. remove (a part of something).,verb take away (a number or amount) from another to calculate the difference. remove (a part of something).
-53652,777,sand,"a loose granular substance, typically pale yellowish brown, resulting from the erosion of siliceous and other rocks and forming a major constituent of beaches, river beds, the seabed, and deserts. (sands) an expanse of sand. technical sediment whose particles are larger than silt.","a loose granular substance, typically pale yellowish brown, resulting from the erosion of siliceous and other rocks and forming a major constituent of beaches, river beds, the seabed, and deserts. (sands) an expanse of sand. technical sediment whose particles are larger than silt."
-53653,780,control,"if you can not control your dog, put it on a lead!","if you can not control your dog, put it on a lead!"
-53654,780,disease,a contagious/infectious disease,a contagious/infectious disease
-53655,780,values,"the value or price which is shown on, for example, a stamp, a coin or a bank note","the value or price which is shown on, for example, a stamp, a coin or a bank note"
-53656,780,subtract,the process of removing one number from another,the process of removing one number from another
-53657,780,sand,mix one part sand to three parts cement.,mix one part sand to three parts cement.
 53658,817,control,power to direct or determine,power to direct or determine
 53659,817,disease,an impairment of health or a condition of abnormal functioning,an impairment of health or a condition of abnormal functioning
 53660,817,values,beliefs of a person or social group in which they have an emotional investment (either for or against something),beliefs of a person or social group in which they have an emotional investment (either for or against something)
@@ -52501,8 +52311,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53675,783,values,grade,grade
 53676,783,subtract,"to minus,","to minus,"
 53677,783,sand,silica,silica
-53679,831,disease,to derange the vital functions of; to afflict with disease or sickness; to disorder; -- used almost exclusively in the participle diseased.,to derange the vital functions of; to afflict with disease or sickness; to disorder; -- used almost exclusively in the participle diseased.
-53681,831,subtract,to take away; deduct.,to take away; deduct.
 53683,839,control,avoiding something,avoiding something
 53684,839,disease,common symptoms which occurs in human body,common symptoms which occurs in human body
 53685,839,values,worth of a product are a material,worth of a product are a material
@@ -52574,11 +52382,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53755,827,values,"a personal or cultural value is an absolute or relative ethical value, the assumption of which can be the basis for ethical action.","a personal or cultural value is an absolute or relative ethical value, the assumption of which can be the basis for ethical action."
 53756,827,subtract,"subtraction is one of the four basic binary operations, it is the inverse of addition.","subtraction is one of the four basic binary operations, it is the inverse of addition."
 53757,827,sand,sand is a naturally occurring granular material composed of finely divided rock and mineral particles.,sand is a naturally occurring granular material composed of finely divided rock and mineral particles.
-53758,1023,control,"i control my life, control panel, delivery control, signal control,","i control my life, control panel, delivery control, signal control,"
-53759,1023,disease,"he is having a disease, viral disease, mental disease,","he is having a disease, viral disease, mental disease,"
-53760,1023,values,"life is full of values, values are increasing,","life is full of values, values are increasing,"
-53761,1023,subtract,"subtract the sum, reducing,","subtract the sum, reducing,"
-53762,1023,sand,"sand is granular, sand is from riverbed, used for construction","sand is granular, sand is from riverbed, used for construction"
 53763,993,control,"to manage, curb, crack the whip,","to manage, curb, crack the whip,"
 53764,993,disease,"impairment of health, ailment, sickness, affliction","impairment of health, ailment, sickness, affliction"
 53765,993,values,"principles, ethics, morals, ideals, integrity","principles, ethics, morals, ideals, integrity"
@@ -52779,10 +52582,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53970,857,health,"constitution, form, euphoria, energy,","constitution, form, euphoria, energy,"
 53971,857,holiday,"vacation, break, celebration, festival","vacation, break, celebration, festival"
 53972,857,you,me,me
-53974,780,friend,he is a family friend/friend of the family .,he is a family friend/friend of the family .
-53975,780,health,i had to give up drinking for health reasons.,i had to give up drinking for health reasons.
-53976,780,holiday,a camping/skiing holiday,a camping/skiing holiday
-53977,780,you,have you decided where you are going for your holiday(s) this year?,have you decided where you are going for your holiday(s) this year?
 53978,786,chalk,used in writing in a blackboard,used in writing in a blackboard
 53979,786,friend,"companion, with whom you share common thoughts","companion, with whom you share common thoughts"
 53980,786,health,"in good state of body and mind, well-being","in good state of body and mind, well-being"
@@ -52799,7 +52598,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 53995,823,health,"wellness, health","wellness, health"
 53996,823,holiday,holidaymaker holiday resort holiday season,holidaymaker holiday resort holiday season
 53997,823,you,"i,we,me","i,we,me"
-54000,777,health,noun the state of being free from illness or injury. a person mental or physical condition.,noun the state of being free from illness or injury. a person mental or physical condition.
 54003,810,chalk,to write thing,to write thing
 54004,810,friend,loving person,loving person
 54005,810,health,body health,body health
@@ -52938,8 +52736,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54150,783,tight,rigid,rigid
 54151,783,spoiled,destroyed,destroyed
 54152,783,mother,relationship,relationship
-54154,1029,english,it is an language.,it is an language.
-54156,1029,spoiled,spoiled identity' by erving goffman. this is a short(ish) book of 147 pages but i found myself needing to read it twice and still having some difficulty in getting to grips with it. i think possibly that this is because goffman has a deep understanding of this subject and communicates it in a reflective style which is rich in interconnected concepts. this is probably a book which takes,spoiled identity' by erving goffman. this is a short(ish) book of 147 pages but i found myself needing to read it twice and still having some difficulty in getting to grips with it. i think possibly that this is because goffman has a deep understanding of this subject and communicates it in a reflective style which is rich in interconnected concepts. this is probably a book which takes
 54158,825,boring,"tedious, dull, uninteresting","tedious, dull, uninteresting"
 54159,825,english,"a language, people from uk","a language, people from uk"
 54160,825,tight,"rigid, firm, strong","rigid, firm, strong"
@@ -52970,11 +52766,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54185,1030,tight,i have tight job,i have tight job
 54186,1030,spoiled,girls will spoiled the boys life,girls will spoiled the boys life
 54187,1030,mother,caring child,caring child
-54188,780,boring,the film was so boring i fell asleep.,the film was so boring i fell asleep.
-54189,780,english,do you speak english?,do you speak english?
-54190,780,tight,the people stood talking in tight groups.,the people stood talking in tight groups.
-54191,780,spoiled,the oil spill has spoilt the whole beautiful coastline.,the oil spill has spoilt the whole beautiful coastline.
-54192,780,mother,my mother was 21 when she got married.,my mother was 21 when she got married.
 54193,1031,boring,"when something irritate you and you do not have any other work, it is example of boring.","when something irritate you and you do not have any other work, it is example of boring."
 54194,1031,english,english is a language which is spoken in so many countries and now-a-days its common language to communicate in all the regions in the world.,english is a language which is spoken in so many countries and now-a-days its common language to communicate in all the regions in the world.
 54195,1031,tight,when there is not a bit to relax,when there is not a bit to relax
@@ -53000,9 +52791,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54215,864,tight,"fixed or fastened firmly in place like a tight lid, tight screws","fixed or fastened firmly in place like a tight lid, tight screws"
 54216,864,spoiled,"to damage irreparably, ruin.","to damage irreparably, ruin."
 54217,864,mother,a female person who is pregnant with or gives birth to a child.,a female person who is pregnant with or gives birth to a child.
-54219,808,english,"english:it is from, or related to england, a country of the united kingdom, especially: english language","english:it is from, or related to england, a country of the united kingdom, especially: english language"
-54221,808,spoiled,"spoiled: it is decomposition,grandiose, narcissistic,egocentric-regressed.a spoiled child (also called a spoiled brat) is a child that exhibits behavioral problems from overindulgence by his or her parents.","spoiled: it is decomposition,grandiose, narcissistic,egocentric-regressed.a spoiled child (also called a spoiled brat) is a child that exhibits behavioral problems from overindulgence by his or her parents."
-54222,808,mother,"mother: is mother, mum, mom, momma, or mama is a woman who has raised a child, given birth to a child, and/or supplied the ovum that grew into a child.","mother: is mother, mum, mom, momma, or mama is a woman who has raised a child, given birth to a child, and/or supplied the ovum that grew into a child."
 54223,899,boring,its means that something we candy it feel it tired,its means that something we candy it feel it tired
 54224,899,english,english means that this international language for communication.,english means that this international language for communication.
 54225,899,tight,means that not suitable for wear or anythings,means that not suitable for wear or anythings
@@ -53202,11 +52990,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54425,827,grow,to increase in size by a natural process.,to increase in size by a natural process.
 54426,827,jogger,"to move by shoving, bumping, or jerking","to move by shoving, bumping, or jerking"
 54427,827,quack,the characteristic sound uttered by a duck.,the characteristic sound uttered by a duck.
-54428,810,weird,weir,weir
-54429,810,divide,cut part,cut part
-54430,810,grow,up,up
-54431,810,jogger,slow runner,slow runner
-54432,810,quack,attack,attack
 54433,1034,weird,"fate personified, any one of the three weird sisters , abnormal","fate personified, any one of the three weird sisters , abnormal"
 54434,1034,divide,"partition,mathematical division,barrier,apart, bisect.","partition,mathematical division,barrier,apart, bisect."
 54435,1034,grow,"improve, larger , greater, develop, increase, become mature.","improve, larger , greater, develop, increase, become mature."
@@ -53277,11 +53060,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54504,817,divide,perform a division,perform a division
 54505,817,grow,"become larger, greater, or bigger; expand or gain","become larger, greater, or bigger; expand or gain"
 54507,817,quack,he harsh sound of a duck,he harsh sound of a duck
-54508,778,weird,were,were
-54509,778,divide,sliced,sliced
-54510,778,grow,up,up
-54511,778,jogger,slow runner,slow runner
-54512,778,quack,fast,fast
 54513,776,weird,wire,wire
 54514,776,divide,apart,apart
 54515,776,grow,growth,growth
@@ -53378,8 +53156,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54615,771,subject,"title, study, person","title, study, person"
 54616,771,knight,"armour, horse, soldier, sword","armour, horse, soldier, sword"
 54617,771,none,"not any, zero, nada, zilch, nothing, broke, empty","not any, zero, nada, zilch, nothing, broke, empty"
-54620,808,subject,"subject:a subject is an individual subjected to the rule by an elite, see feudalism subjects in medieval feudalism, see commoners subjects in modern constitutional monarchies, such as the united kingdom, see british subject","subject:a subject is an individual subjected to the rule by an elite, see feudalism subjects in medieval feudalism, see commoners subjects in modern constitutional monarchies, such as the united kingdom, see british subject"
-54621,808,knight,"knight:a knight was a member of a class of lower nobility in the high middle ages. by the late middle ages, the rank had become associated with the ideals of chivalry, a code of conduct for the perfect courtly christian warrior. since the early modern period, the title of ""knight"" is purely honorific, usually bestowed by a monarch, as in the british honours system.","knight:a knight was a member of a class of lower nobility in the high middle ages. by the late middle ages, the rank had become associated with the ideals of chivalry, a code of conduct for the perfect courtly christian warrior. since the early modern period, the title of ""knight"" is purely honorific, usually bestowed by a monarch, as in the british honours system."
 54623,864,alcohol,pure spirit of wine,pure spirit of wine
 54624,864,twelve,its the number comes after eleven(11).,its the number comes after eleven(11).
 54625,864,subject,"being dependent or conditional upon something, as in subject to shareholder approval.","being dependent or conditional upon something, as in subject to shareholder approval."
@@ -53389,11 +53165,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54630,801,subject,"a branch, being in a position, a basic matter of thought","a branch, being in a position, a basic matter of thought"
 54631,801,knight,"a mounted soldier serving under a feudal superior in the middle ages, a position","a mounted soldier serving under a feudal superior in the middle ages, a position"
 54632,801,none,"no one, not any , nothing","no one, not any , nothing"
-54633,780,alcohol,i could smell the alcohol on his breath.,i could smell the alcohol on his breath.
-54634,780,twelve,a twelve-seater minibus,a twelve-seater minibus
-54635,780,subject,our subject for discussion is homelessness.,our subject for discussion is homelessness.
-54636,780,knight,knights in black armour,knights in black armour
-54637,780,none,she went to the shop to get some oranges but they had none.,she went to the shop to get some oranges but they had none.
 54639,803,twelve,twelve: equivalent to the product of three and four; two more than ten; 12.,twelve: equivalent to the product of three and four; two more than ten; 12.
 54640,803,subject,"subject: a person or thing that is being discussed, described, or dealt with.","subject: a person or thing that is being discussed, described, or dealt with."
 54641,803,knight,knight: a man who served his sovereign or lord as a mounted soldier in armor.,knight: a man who served his sovereign or lord as a mounted soldier in armor.
@@ -53610,7 +53381,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54865,813,hunter,"hunter, huntsman, hunting watch","hunter, huntsman, hunting watch"
 54866,813,marker,"mark, marking","mark, marking"
 54867,813,neat,"slap-up, full-strength, straight, cracking, neat, clean, nifty, swell, orderly, keen, tasteful, bang-up, smashing, not bad(p), corking, groovy, refined, great, bully, dandy, peachy","slap-up, full-strength, straight, cracking, neat, clean, nifty, swell, orderly, keen, tasteful, bang-up, smashing, not bad(p), corking, groovy, refined, great, bully, dandy, peachy"
-54868,777,cards,noun a person who cheats at cards.,noun a person who cheats at cards.
 54873,1043,cards,"are used for poker, have hearts and clubs, have diamonds and spades, come in a deck, are used in magic tricks","are used for poker, have hearts and clubs, have diamonds and spades, come in a deck, are used in magic tricks"
 54874,1043,devil,"lives in hell, tortures sinners, has a pitchfork, embodies evil, is also called satan, buys souls, made me do it, is in the details","lives in hell, tortures sinners, has a pitchfork, embodies evil, is also called satan, buys souls, made me do it, is in the details"
 54875,1043,hunter,"shoots animals, uses a crossbow, uses a rifle, is a shade of green, sits in a duck blind","shoots animals, uses a crossbow, uses a rifle, is a shade of green, sits in a duck blind"
@@ -53733,11 +53503,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 54995,852,hunter,"small house,","small house,"
 54996,852,marker,"judder, gives mark","judder, gives mark"
 54997,852,neat,"clean, please neat the room","clean, please neat the room"
-54998,780,cards,a credit card that earns a small amount of money for a charity each time something is bought with it,a credit card that earns a small amount of money for a charity each time something is bought with it
-54999,780,devil,a powerful evil force and the enemy of god in christianity and judaism,a powerful evil force and the enemy of god in christianity and judaism
-55000,780,hunter,a fox-hunter,a fox-hunter
-55001,780,marker,she reached the 500-metre marker in record time.,she reached the 500-metre marker in record time.
-55002,780,neat,she likes everything neat and tidy .,she likes everything neat and tidy .
 55003,811,cards,"these are used for all sorts of occasions regarding someones birthday, for example. it could also be like a collectors item such as a baseball card.","these are used for all sorts of occasions regarding someones birthday, for example. it could also be like a collectors item such as a baseball card."
 55004,811,devil,this is something that is related to satan.,this is something that is related to satan.
 55005,811,hunter,an animal or a human that is in search or someone or something,an animal or a human that is in search or someone or something
@@ -53821,11 +53586,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 55085,783,human,home sapiens,home sapiens
 55086,783,job,work,work
 55087,783,nice,good,good
-55088,780,blush,i blush to think of what a fool i made of myself.,i blush to think of what a fool i made of myself.
-55089,780,failure,the meeting was a complete/total failure.,the meeting was a complete/total failure.
-55090,780,human,the human body is composed of about 60% water.,the human body is composed of about 60% water.
-55091,780,job,a temporary/permanent job,a temporary/permanent job
-55092,780,nice,have a nice day/time!,have a nice day/time!
 55093,787,blush,embarrassment or shame,embarrassment or shame
 55094,787,failure,proving nonsuccessive,proving nonsuccessive
 55095,787,human,"man,evolved from apes","man,evolved from apes"
@@ -54067,7 +53827,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 55345,813,higher,advanced in complexity or elaboration,advanced in complexity or elaboration
 55346,813,kiss,"buss, kiss, osculation, candy kiss","buss, kiss, osculation, candy kiss"
 55347,813,sign,"marking, signaling, augury, mark, sucker, house, bell ringer, target, crisscross, preindication, polarity, fall guy, star sign, stigma, score, sign, mansion, brand, grade, planetary house, chump, signal, sign of the zodiac, mug, signboard, foretoken, scratch, home run, gull, patsy, fool, marker, scrape, cross, print, scar, stain, bull eye, soft touch","marking, signaling, augury, mark, sucker, house, bell ringer, target, crisscross, preindication, polarity, fall guy, star sign, stigma, score, sign, mansion, brand, grade, planetary house, chump, signal, sign of the zodiac, mug, signboard, foretoken, scratch, home run, gull, patsy, fool, marker, scrape, cross, print, scar, stain, bull eye, soft touch"
-55350,777,higher,noun (in scotland) the more advanced of the two main levels of the scottish certificate of education. compare with ordinary grade,noun (in scotland) the more advanced of the two main levels of the scottish certificate of education. compare with ordinary grade
 55353,808,action,"action:is action movies,action games,action verbs,a man of action.","action:is action movies,action games,action verbs,a man of action."
 55354,808,few,"few:is several,many,big,list of prefixes,sage","few:is several,many,big,list of prefixes,sage"
 55355,808,higher,"higher:is higher education,higher love,higher band,tail cruz,creed","higher:is higher education,higher love,higher band,tail cruz,creed"
@@ -54127,11 +53886,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 55410,783,higher,topper,topper
 55411,783,kiss,action of romancing,action of romancing
 55412,783,sign,indication,indication
-55413,780,action,this problem calls for swift/prompt action from the government.,this problem calls for swift/prompt action from the government.
-55414,780,few,i need to get a few things in town.,i need to get a few things in town.
-55415,780,higher,a greater proportion of people with first degrees are now going on to study for higher degrees.,a greater proportion of people with first degrees are now going on to study for higher degrees.
-55416,780,kiss,she kissed him on the mouth.,she kissed him on the mouth.
-55417,780,sign,"sign here, please.","sign here, please."
 55418,827,action,the initiating of a proceeding in a court of justice by which one demands or enforces  right,the initiating of a proceeding in a court of justice by which one demands or enforces  right
 55419,827,few,not many persons or things,not many persons or things
 55420,827,higher,having large extension upward,having large extension upward
@@ -54252,8 +54006,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 55540,792,fries,which are fried in oil,which are fried in oil
 55541,792,steel,an alloy,an alloy
 55542,792,monkey,animal which climb trees,animal which climb trees
-55544,777,emotion,"noun a strong feeling, such as joy, anger, or sadness. instinctive or intuitive feeling as distinguished from reasoning or knowledge.","noun a strong feeling, such as joy, anger, or sadness. instinctive or intuitive feeling as distinguished from reasoning or knowledge."
-55545,777,fries,noun british an animal of a black-and-white breed of dairy cattle originally from fries land in the netherlands.,noun british an animal of a black-and-white breed of dairy cattle originally from fries land in the netherlands.
 55548,771,cereal,"kellogg, bowl, milk, breakfast, grains, box, granola","kellogg, bowl, milk, breakfast, grains, box, granola"
 55549,771,emotion,"expressions, cry, heartfelt, emo, feelings","expressions, cry, heartfelt, emo, feelings"
 55550,771,fries,"french, oil, mcdonald, salt, potatoes, ketchup","french, oil, mcdonald, salt, potatoes, ketchup"
@@ -54302,8 +54054,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 55595,810,fries,dry food,dry food
 55596,810,steel,hard ware,hard ware
 55597,810,monkey,animal,animal
-55601,808,steel,"steel:steel is an alloy that consists mostly of iron and has a carbon content between 0.2% and 2.1% by weight, depending on the grade. carbon is the most common alloying material for iron, but various other alloying elements are used, such as manganese, chromium, vanadium, and tungsten","steel:steel is an alloy that consists mostly of iron and has a carbon content between 0.2% and 2.1% by weight, depending on the grade. carbon is the most common alloying material for iron, but various other alloying elements are used, such as manganese, chromium, vanadium, and tungsten"
-55602,808,monkey,"monkey:a monkey is a primate, either an old world monkey or a new world monkey. there are about 260 known living species of monkey","monkey:a monkey is a primate, either an old world monkey or a new world monkey. there are about 260 known living species of monkey"
 55603,1055,cereal,"is a food, crunchy, delicious, served with milk,","is a food, crunchy, delicious, served with milk,"
 55604,1055,emotion,"feelings, happy, sad, excited, angry","feelings, happy, sad, excited, angry"
 55605,1055,fries,"fried potato, fast food, french","fried potato, fast food, french"
@@ -54472,10 +54222,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 55774,823,elect,"alternative, choice, election, option, pick, preference, resource","alternative, choice, election, option, pick, preference, resource"
 55775,823,sympathetic,"kindly, benevolent, likable, likeable, good-hearted, harmonic, large-hearted, charitable, appealing, openhearted","kindly, benevolent, likable, likeable, good-hearted, harmonic, large-hearted, charitable, appealing, openhearted"
 55777,823,service,"divine service, help, religious service, table service, serving, serve, military service, service of process, avail, inspection and repair, overhaul, servicing, armed service","divine service, help, religious service, table service, serving, serve, military service, service of process, avail, inspection and repair, overhaul, servicing, armed service"
-55778,780,backpack,we backpacked around thailand.,we backpacked around thailand.
-55779,780,elect,the government is elected for a five-year term of office.,the government is elected for a five-year term of office.
-55780,780,sympathetic,"he suffers from back trouble too, so he was very sympathetic about my problem.","he suffers from back trouble too, so he was very sympathetic about my problem."
-55782,780,service,we hope to be operating a normal service as soon as possible.,we hope to be operating a normal service as soon as possible.
 55783,802,backpack,"hiking, climb, exercise, walk, excursion, nature","hiking, climb, exercise, walk, excursion, nature"
 55784,802,elect,"choose, vote for, representative, candidate, politics","choose, vote for, representative, candidate, politics"
 55785,802,sympathetic,"feel for, understand, agree with, commiserate","feel for, understand, agree with, commiserate"
@@ -54605,7 +54351,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 55930,796,foot,part of body at the bottom of leg,part of body at the bottom of leg
 55931,796,many,a large number,a large number
 55932,796,prison,a building where criminals are forced to live as punishment,a building where criminals are forced to live as punishment
-55937,777,prison,noun a building for the confinement of criminals or those awaiting trial.,noun a building for the confinement of criminals or those awaiting trial.
 55938,872,brave,"intelligent, clever, sign of good human being","intelligent, clever, sign of good human being"
 55939,872,value,"worth, importance, can be related to family issues.","worth, importance, can be related to family issues."
 55940,872,foot,"related to height, part of leg","related to height, part of leg"
@@ -54726,11 +54471,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 56060,1022,foot,"lowest part,inferior part,parade","lowest part,inferior part,parade"
 56061,1022,many,"numerous,majority,indefinite number","numerous,majority,indefinite number"
 56062,1022,prison,"situation,criminals,captivity","situation,criminals,captivity"
-56063,780,brave,it was a brave decision to quit her job and start her own business.,it was a brave decision to quit her job and start her own business.
-56064,780,value,what is the value of the prize?,what is the value of the prize?
-56065,780,foot,i have got a blister on my left foot.,i have got a blister on my left foot.
-56066,780,many,i do not have many clothes.,i do not have many clothes.
-56067,780,prison,she went to/was sent to prison for six months.,she went to/was sent to prison for six months.
 56068,822,brave,brave means having courage,brave means having courage
 56069,822,value,"value is the worth in goods, services or money of an object or person","value is the worth in goods, services or money of an object or person"
 56070,822,foot,a foot is the end or last of something or 12 inches,a foot is the end or last of something or 12 inches
@@ -55078,7 +54818,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 56429,773,gather,collected,collected
 56430,773,lot,plenty,plenty
 56431,773,odd,one,one
-56433,831,cop,"cop means ""officer of the law"" or ""close of play""","cop means ""officer of the law"" or ""close of play"""
 56437,774,cold,"a weather, temperature is low, winter season","a weather, temperature is low, winter season"
 56438,774,cop,"policeman, a person for enforcement of law, a disciplinarian","policeman, a person for enforcement of law, a disciplinarian"
 56439,774,gather,"to put together, to combine, to collect","to put together, to combine, to collect"
@@ -55290,7 +55029,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 56654,827,her,to represent a women or girl,to represent a women or girl
 56655,827,sorry,"it is a feeling or expressing sympathy, pity, or regret","it is a feeling or expressing sympathy, pity, or regret"
 56656,827,restaurant,a restaurant is an establishment which prepares and serves food and drink to customers in return for money.,a restaurant is an establishment which prepares and serves food and drink to customers in return for money.
-56661,777,restaurant,noun a place where people pay to sit and eat meals that are cooked and served on the premises.,noun a place where people pay to sit and eat meals that are cooked and served on the premises.
 56662,816,wait,"time, patience, hold on, late, someone.","time, patience, hold on, late, someone."
 56663,816,tonic,"medicine, syrup, health drink, sweet, bitter.","medicine, syrup, health drink, sweet, bitter."
 56664,816,her,"she, women, mother, lady, beauty.","she, women, mother, lady, beauty."
@@ -55401,10 +55139,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 56774,807,her,"female,owned,girl,women,lady,her dress","female,owned,girl,women,lady,her dress"
 56775,807,sorry,"confusion,admit,understanding the fault,manners","confusion,admit,understanding the fault,manners"
 56776,807,restaurant,"hotel,food,waiter,table,chairs,cook","hotel,food,waiter,table,chairs,cook"
-56777,780,wait,"i waited for her in the corridor, while she went in to see the doctor.","i waited for her in the corridor, while she went in to see the doctor."
-56778,780,tonic,the magazine is lively and interesting - the pictures alone are a tonic.,the magazine is lively and interesting - the pictures alone are a tonic.
-56779,780,her,i do not know why she quit her job.,i do not know why she quit her job.
-56780,780,sorry,i feel so sorry for the children - it must be really hard for them.,i feel so sorry for the children - it must be really hard for them.
 56782,1063,shrub,"is a bush, is a plant","is a bush, is a plant"
 56783,1063,wallet,"billfold, pocket book, is made of leather","billfold, pocket book, is made of leather"
 56784,1063,scold,"to yell at, to lecture, to berate","to yell at, to lecture, to berate"
@@ -56315,11 +56049,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 57699,1131,tangy,"spice, orange juice, sour, tarot, lemon,tingles, splash of flavor","spice, orange juice, sour, tarot, lemon,tingles, splash of flavor"
 57700,1131,corporation,"work, business, large company, firm, high end","work, business, large company, firm, high end"
 57701,1131,repentance,"regret, sorrow for ones sins,wrong doing, sorry for past actions","regret, sorrow for ones sins,wrong doing, sorry for past actions"
-57702,1140,romance,task,task
-57703,1140,effort,nekam ja,nekam ja
-57704,1140,dislike,orca,orca
-57705,1140,mousse,abe,abe
-57706,1140,disguise,sakai ja,sakai ja
 57707,1102,romance,"love, attachment, amore, marriage, dating, courting, passionate, love","love, attachment, amore, marriage, dating, courting, passionate, love"
 57708,1102,effort,"force, accomplishment, achievement, work, exertion","force, accomplishment, achievement, work, exertion"
 57709,1102,dislike,"opposite of like, hate, loathe, aversion","opposite of like, hate, loathe, aversion"
@@ -56572,11 +56301,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 57969,1100,copper,"a metal, plumbing tubes, or electric wire.","a metal, plumbing tubes, or electric wire."
 57970,1100,predator,"an enemy, and attacker, at hunter.","an enemy, and attacker, at hunter."
 57971,1100,clever,"smart, brilliant, witty.","smart, brilliant, witty."
-57972,1160,swoon,occurrence of fainting,occurrence of fainting
-57973,1160,frequency,thr rate of recurrenence of a vibration,thr rate of recurrenence of a vibration
-57974,1160,copper,a metal,a metal
-57975,1160,predator,us for probation,us for probation
-57976,1160,clever,metal,metal
 57977,1161,swoon,a verb that means to faint.,a verb that means to faint.
 57978,1161,frequency,how often something occurs,how often something occurs
 57979,1161,copper,a reddish color or a type of metal,a reddish color or a type of metal
@@ -59602,11 +59326,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 61177,1267,cheat,"its when someone copys a test, steals items, dost play by the rules.","its when someone copys a test, steals items, dost play by the rules."
 61178,1267,father,a father is a man who is a parent too a child.,a father is a man who is a parent too a child.
 61179,1267,queen,queen is a ruler of a country.,queen is a ruler of a country.
-61180,1346,looks,brad pitt,brad pitt
-61181,1346,workout,my brother,my brother
-61182,1346,cheat,my friend,my friend
-61183,1346,father,great man,great man
-61184,1346,queen,our national mother,our national mother
 61185,1265,looks,"a glance or a gaze, to appear or seem to the eye.","a glance or a gaze, to appear or seem to the eye."
 61186,1265,workout,"an exercise, a structured regime of physical exercise","an exercise, a structured regime of physical exercise"
 61187,1265,cheat,"to deceive, fraud, swindle, to elude","to deceive, fraud, swindle, to elude"
@@ -59816,11 +59535,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 61422,806,cheat,to deceive,to deceive
 61423,806,father,a male parent,a male parent
 61424,806,queen,a female sovereign or monarch,a female sovereign or monarch
-61425,1294,looks,looks,looks
-61426,1294,workout,workout,workout
-61427,1294,cheat,cheat,cheat
-61428,1294,father,father,father
-61429,1294,queen,queen,queen
 61430,973,looks,"appearance, see, gaze, stare, seem, assume, impression,","appearance, see, gaze, stare, seem, assume, impression,"
 61431,973,workout,"arrive at, think, decide, calculate, drill, exert, compute, presume, plan, schedule","arrive at, think, decide, calculate, drill, exert, compute, presume, plan, schedule"
 61432,973,cheat,"deceive, trick, con, dupe, swindle,","deceive, trick, con, dupe, swindle,"
@@ -60521,11 +60235,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 62190,1336,fat,"having excess adipose tissue,fleshy,gross,obese,husky,oversize,cream,overmuch,surplus.","having excess adipose tissue,fleshy,gross,obese,husky,oversize,cream,overmuch,surplus."
 62191,1336,homeless,"having no home,no permanent place of residence,no place to abode,","having no home,no permanent place of residence,no place to abode,"
 62192,1336,system,"organised or established procedure,complex,entity,sum,totality,method,plan,mode.","organised or established procedure,complex,entity,sum,totality,method,plan,mode."
-62193,1294,skin,skin,skin
-62194,1294,succeed,succeed,succeed
-62195,1294,fat,fat,fat
-62196,1294,homeless,homeless,homeless
-62197,1294,system,system,system
 62198,994,skin,"body, complexion, face, part of body, sensitive, outer layer, graze, beauty","body, complexion, face, part of body, sensitive, outer layer, graze, beauty"
 62199,994,succeed,"success, wealth, fame, accomplishment, prosperous, riches, race, game","success, wealth, fame, accomplishment, prosperous, riches, race, game"
 62200,994,fat,"body, weight, meat, plump, fertile, thick, muscle, oil,","body, weight, meat, plump, fertile, thick, muscle, oil,"
@@ -60983,11 +60692,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 62700,792,abandon,give up,give up
 62701,792,bone,skelton,skelton
 62702,792,george,a name,a name
-62703,1294,seller,seller,seller
-62704,1294,verb,verb,verb
-62705,1294,abandon,abandon,abandon
-62706,1294,bone,bone,bone
-62707,1294,george,george,george
 62708,799,seller,vendor,vendor
 62709,799,verb,deponent,deponent
 62710,799,abandon,disregard,disregard
@@ -61346,11 +61050,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 63100,903,electric,"current, worked by electricity, generated by current","current, worked by electricity, generated by current"
 63101,903,color,"colour,red,blue, green, black, white, etc","colour,red,blue, green, black, white, etc"
 63102,903,private,"ones own, personal,belonging to anyone personally,not public","ones own, personal,belonging to anyone personally,not public"
-63103,1294,recipe,recipe,recipe
-63104,1294,mom,mom,mom
-63105,1294,electric,electric,electric
-63106,1294,color,color,color
-63107,1294,private,private,private
 63108,806,recipe,a medical prescription,a medical prescription
 63109,806,mom,mother,mother
 63110,806,electric,"pertaining to, derived from, produced by, or involving electricity","pertaining to, derived from, produced by, or involving electricity"
@@ -61704,11 +61403,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 63499,814,danger,"exposure or vulnerability to harm or risk,a person or thing that may cause injury, pain,critically ill in hospital,the state of being vulnerable to injury, loss, or evil; risk.","exposure or vulnerability to harm or risk,a person or thing that may cause injury, pain,critically ill in hospital,the state of being vulnerable to injury, loss, or evil; risk."
 63500,814,hallway,"an entrance hall,a corridor in a building,an interior passage or corridor onto which rooms open;","an entrance hall,a corridor in a building,an interior passage or corridor onto which rooms open;"
 63502,814,heart,"the chambered muscular organ in vertebrates that pumps blood received from the veins into the arteries, thereby maintaining the flow of blood through the entire circulatory system,the vital center and source of  being, emotions, and sensibilities,love; affection,emotional constitution, basic disposition, or character.","the chambered muscular organ in vertebrates that pumps blood received from the veins into the arteries, thereby maintaining the flow of blood through the entire circulatory system,the vital center and source of  being, emotions, and sensibilities,love; affection,emotional constitution, basic disposition, or character."
-63503,1294,test,test,test
-63504,1294,danger,danger,danger
-63505,1294,hallway,hallway,hallway
-63506,1294,characteristic,characteristic,characteristic
-63507,1294,heart,heart,heart
 63508,1262,test,critical examination or trial of a person or thing qualities,critical examination or trial of a person or thing qualities
 63509,1262,danger,liability or exposure to harm,liability or exposure to harm
 63510,1262,hallway,meat from an animal killed according to muslim law,meat from an animal killed according to muslim law
@@ -61851,11 +61545,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 63669,1288,walkway,a path set aside for walking.,a path set aside for walking.
 63670,1288,murderer,a criminal who performs unlawful premeditated killing of a human being.,a criminal who performs unlawful premeditated killing of a human being.
 63672,1288,steak,a slice of meat cut from the fleshy part of an animal or large fish.,a slice of meat cut from the fleshy part of an animal or large fish.
-63673,1294,point,point,point
-63674,1294,walkway,walkway,walkway
-63675,1294,murderer,murderer,murderer
-63676,1294,bell,bell,bell
-63677,1294,steak,steak,steak
 63678,1281,point,"show a direction, point a finger,","show a direction, point a finger,"
 63679,1281,walkway,"path, area between one location and another,","path, area between one location and another,"
 63680,1281,murderer,"killer, life taker, sinner","killer, life taker, sinner"
@@ -62141,11 +61830,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 63994,1421,hundred,number,number
 63995,1421,bass,sound,sound
 63996,1421,spill,water,water
-63997,1294,clue,clue,clue
-63998,1294,hospital,hospital,hospital
-63999,1294,hundred,hundred,hundred
-64000,1294,bass,bass,bass
-64001,1294,spill,spill,spill
 64003,1288,hospital,a health facility where patients receive treatment.,a health facility where patients receive treatment.
 64004,1288,hundred,"ten 10s,being ten more than ninety","ten 10s,being ten more than ninety"
 64007,1394,clue,"used by investigators, something scientists use, evidence, a game","used by investigators, something scientists use, evidence, a game"
@@ -62336,11 +62020,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 64213,1290,mail,"paper, bills, stamps,letters, postage","paper, bills, stamps,letters, postage"
 64214,1290,act,"action, reaction, doing something","action, reaction, doing something"
 64215,1290,questions,"asking,knowing,","asking,knowing,"
-64216,1294,fishing,fish,fish
-64217,1294,cologne,color,color
-64218,1294,mail,mail,mail
-64219,1294,act,act,act
-64220,1294,questions,questions,questions
 64221,1282,fishing,"outdoors, trying to obtain answers, digging, recreation","outdoors, trying to obtain answers, digging, recreation"
 64222,1282,cologne,"aroma, perfume, body spray, scent","aroma, perfume, body spray, scent"
 64223,1282,mail,"letters, postcard, deliver, to send package","letters, postcard, deliver, to send package"
@@ -62792,11 +62471,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 64755,1333,republican,"government,freedom","government,freedom"
 64756,1333,ketchup,"fish sauce, tomato sauce, mushroom sauce","fish sauce, tomato sauce, mushroom sauce"
 64757,1333,creator,"producer, manufacturer","producer, manufacturer"
-64758,1294,believe,believe,believe
-64759,1294,farm,farm,farm
-64760,1294,republican,republican,republican
-64761,1294,ketchup,ketchup,ketchup
-64762,1294,creator,creator,creator
 64763,1290,believe,"trust, to be into, to have faith","trust, to be into, to have faith"
 64764,1290,farm,"land, cows, animals","land, cows, animals"
 64765,1290,republican,"politics, opposite of democrat, political party","politics, opposite of democrat, political party"
@@ -62938,11 +62612,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 64920,874,tool,"a device, used for a mechanical work, a machine, an instrument such as hammer, an implement used for a specific purpose.","a device, used for a mechanical work, a machine, an instrument such as hammer, an implement used for a specific purpose."
 64921,874,lunch,"a midday meal, tiffin, a light repast between breakfast and dinner.","a midday meal, tiffin, a light repast between breakfast and dinner."
 64922,874,maker,"one that makes or manufactures, willing, a title given to god, a person who make something,","one that makes or manufactures, willing, a title given to god, a person who make something,"
-64923,1294,busy,busy,busy
-64924,1294,city,city,city
-64925,1294,tool,tool,tool
-64926,1294,lunch,lunch,lunch
-64927,1294,maker,marker,marker
 64930,1332,tool,"a device, such as a saw, used to perform or facilitate manual or mechanical work. 2. a. a machine, such as a lathe, used to cut and shape machine parts or other ...his slang page is designed to explain what the meaning of tool is. the slang word / phrase / acronym tool means..","a device, such as a saw, used to perform or facilitate manual or mechanical work. 2. a. a machine, such as a lathe, used to cut and shape machine parts or other ...his slang page is designed to explain what the meaning of tool is. the slang word / phrase / acronym tool means.."
 64932,1332,maker,one that makes or manufactures. often used in combination: a policymaker; a drug maker. 2. law a party that signs a promissory note. 3. maker god. often used,one that makes or manufactures. often used in combination: a policymaker; a drug maker. 2. law a party that signs a promissory note. 3. maker god. often used
 64933,1438,busy,"crazy, run all day, keep it up, work, errands","crazy, run all day, keep it up, work, errands"
@@ -63006,11 +62675,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 64995,1264,tool,helps us to do works easily,helps us to do works easily
 64996,1264,lunch,food,food
 64997,1264,maker,producer,producer
-64998,1439,busy,student,student
-64999,1439,city,kocani,kocani
-65000,1439,tool,hand,hand
-65001,1439,lunch,meal,meal
-65002,1439,maker,things,things
 65003,778,busy,have no time,have no time
 65004,778,city,place,place
 65005,778,tool,weapon,weapon
@@ -63811,9 +63475,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 65884,1261,here,"place, position, around, location,","place, position, around, location,"
 65885,1261,luck,"jackpot, advantage, gain","jackpot, advantage, gain"
 65886,1261,toothpaste,"clean, dental protection, polish,","clean, dental protection, polish,"
-65887,899,below,a person below the property.,a person below the property.
-65888,899,here,"i,am waiting for you now.","i,am waiting for you now."
-65889,899,luck,yesterday i got luck because lottery is win,yesterday i got luck because lottery is win
 65894,1310,toothpaste,a dentifrice in the form of paste.,a dentifrice in the form of paste.
 65896,770,swamp,"a seasonally flooded bottomland with more woody plants than a marsh and better drainage than a bog,a situation or place fraught with difficulties and imponderables","a seasonally flooded bottomland with more woody plants than a marsh and better drainage than a bog,a situation or place fraught with difficulties and imponderables"
 65897,770,here,"at or in this place,at this time","at or in this place,at this time"
@@ -63834,11 +63495,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 65912,1290,here,"location, not there, a place","location, not there, a place"
 65913,1290,luck,"fortunate, by chance, chance","fortunate, by chance, chance"
 65914,1290,toothpaste,"paste, cleans teeth, taste hot","paste, cleans teeth, taste hot"
-65915,1294,below,below,below
-65916,1294,swamp,swamp,swamp
-65917,1294,here,here,here
-65918,1294,luck,luck,luck
-65919,1294,toothpaste,toothpaste,toothpaste
 65920,1305,below,"under, lower in position or ranking","under, lower in position or ranking"
 65921,1305,swamp,"seasonally flooded land, usually filled with rainwater, thick, woody vegetation is seen, water dries up later","seasonally flooded land, usually filled with rainwater, thick, woody vegetation is seen, water dries up later"
 65922,1305,here,indicates the present or a particular position,indicates the present or a particular position
@@ -63994,11 +63650,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 66097,813,driver,"device driver, number one wood","device driver, number one wood"
 66098,813,promise,"predict, reassure, ascertain, control, promise, forebode, assure, guarantee, call, prognosticate, anticipate, check, see to it, foretell, insure, tell, ensure, secure, see","predict, reassure, ascertain, control, promise, forebode, assure, guarantee, call, prognosticate, anticipate, check, see to it, foretell, insure, tell, ensure, secure, see"
 66099,813,plant,"whole kit and boodle, whole kit and caboodle, whole shebang, flora, plant, works, industrial plant, whole caboodle, plant life, whole works, workings, full treatment, deeds, whole kit, kit and caboodle, kit and boodle","whole kit and boodle, whole kit and caboodle, whole shebang, flora, plant, works, industrial plant, whole caboodle, plant life, whole works, workings, full treatment, deeds, whole kit, kit and caboodle, kit and boodle"
-66105,1294,egg,egg,egg
-66106,1294,superman,superman,superman
-66107,1294,driver,driver,driver
-66108,1294,promise,promise,promise
-66109,1294,plant,plant,plant
 66110,1302,egg,"hen,birds, mammals,breakfast,meal, protein,health","hen,birds, mammals,breakfast,meal, protein,health"
 66111,1302,superman,"hero, savior,survivor,fiction, character,good,helpful,friendly","hero, savior,survivor,fiction, character,good,helpful,friendly"
 66112,1302,driver,"car,truck,road,long distance,far away,places","car,truck,road,long distance,far away,places"
@@ -64031,10 +63682,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 66142,864,driver,"one that drives, as the operator of a motor vehicle","one that drives, as the operator of a motor vehicle"
 66143,864,promise,"in general, a declaration, written or verbal, made by one person to another, which binds the person who makes it to do.","in general, a declaration, written or verbal, made by one person to another, which binds the person who makes it to do."
 66144,864,plant,"as, to plant a garden, an orchard, or a forest.","as, to plant a garden, an orchard, or a forest."
-66150,1289,egg,egg,egg
-66152,1289,driver,rider,rider
-66153,1289,promise,promise,promise
-66154,1289,plant,tree,tree
 66155,1265,egg,"edible, reddish thing produced by the females of certain animals","edible, reddish thing produced by the females of certain animals"
 66156,1265,superman,a person with extraordinary abilities,a person with extraordinary abilities
 66157,1265,driver,"a person who drives, vehicles, ect.","a person who drives, vehicles, ect."
@@ -64255,11 +63902,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 66387,832,purse,"woman, bag, wallet, keys, holder","woman, bag, wallet, keys, holder"
 66388,832,bad,"not good, evil, rotten, poor quality, gross, awful","not good, evil, rotten, poor quality, gross, awful"
 66389,832,proof,"evidence, copy, argument, authentication","evidence, copy, argument, authentication"
-66390,1010,winter,sex,sex
-66391,1010,care,mother,mother
-66392,1010,purse,girlfriend,girlfriend
-66393,1010,bad,wife,wife
-66394,1010,proof,love,love
 66395,825,winter,"wintry season, cold climate, chill, wear sweaters","wintry season, cold climate, chill, wear sweaters"
 66396,825,care,"mind, concerned, think about, bothered","mind, concerned, think about, bothered"
 66397,825,purse,"takings, wallet, place to keep your belongings, small bag","takings, wallet, place to keep your belongings, small bag"
@@ -65156,7 +64798,6 @@ row_id,subject_id,cue,answer_spelled,answer_abbreviations
 67409,1360,medicine,"the science of diagnosing, treating, or preventing disease and other damage to the body or mind, the practice of medicine, n agent, such as a drug, used to treat disease or injury","the science of diagnosing, treating, or preventing disease and other damage to the body or mind, the practice of medicine, n agent, such as a drug, used to treat disease or injury"
 67411,1360,beer,"a fermented alcoholic beverage brewed from malt and flavored with hops, a beverage made from extracts of roots and plants, a serving of one of these beverages","a fermented alcoholic beverage brewed from malt and flavored with hops, a beverage made from extracts of roots and plants, a serving of one of these beverages"
 67413,1360,anxiety,"a feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome, desire to do something, typically accompanied by unease","a feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome, desire to do something, typically accompanied by unease"
-67414,1345,anxiety,anxiety,anxiety
 67415,806,medicine,any substance or substances used in treating disease or illness,any substance or substances used in treating disease or illness
 67416,806,hunger,a shortage of food,a shortage of food
 67418,806,high,having a specified extent upward,having a specified extent upward

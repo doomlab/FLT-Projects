@@ -6,7 +6,7 @@ We are doing things!
 
 ## Data notes (`raw_data_all/all_data.csv`)
 
-Built by `00_anonymize_create_ss.ipynb`. Columns: `subject_id` (globally unique), `file_subject_id` (ID within the source file), `source_file`, `word` (cue, lowercased), `answer`, plus `wiki_flag`, `wiki_method` and `wiki_rule` (below).
+Built by `00_anonymize_create_ss.ipynb`. Columns: `subject_id` (globally unique), `file_subject_id` (ID within the source file), `source_file`, `word` (cue, lowercased), `answer`, plus `assignment_status` (MTurk files only: Approved or Rejected), `wiki_flag`, `wiki_method` and `wiki_rule` (below).
 
 - `subject_id` is globally unique. In `mturk_file_1`–`9` it follows the hashed WorkerId, so a worker who appears in several MTurk files keeps one ID. `file_subject_id` is the ID within the source file (the hash for MTurk).
 - `word_list_5_long.csv` IDs come from MTurk rows without worker IDs, so each row (one person) gets its own ID. The same person may appear in more than one row, but that can't be determined.
@@ -24,7 +24,7 @@ Rows are never dropped for this; use the columns to exclude them in later steps.
 
 - `wiki_flag`: TRUE = the answer was removed by the original Word-Norms-2 cleaning (`0.5 raw words` vs `1 spell checked` vs `1.5 raw words no wiki/_fixed`); FALSE = kept. Answers with no original decision available (`wiki_method` = `answer_not_in_raw` or `cue_not_in_raw`) are set to FALSE, so there are no blanks.
 - `wiki_method`: how `wiki_flag` was determined. `exact`/`fuzzy` (line-by-line comparison; `fuzzy` when line counts differ), `aligned` (spell-checked and `_fixed` files lost their line breaks, so raw words were aligned to the kept text), `*_text_similar` (the answer matched the 2019 raw line only approximately, since those files were lightly cleaned), and `answer_not_in_raw` / `cue_not_in_raw` (no decision available).
-- `wiki_rule`: text patterns typical of pasted definitions (`numbered_senses`, `semicolon_definition`, `pos_tag`, `web_text`, `very_long` = over 500 characters, reviewed by hand, `long_duplicate` = the same answer of over 40 characters already appeared earlier in the same cue (later copies only; short repeated answers are kept), and `stray_cue` = the cue is not in the 2019 cue list, e.g. a wrapped line read as a cue; remove these). It is independent of `wiki_flag`.
+- `wiki_rule`: text patterns typical of pasted definitions (`numbered_senses`, `semicolon_definition`, `pos_tag`, `web_text`, `very_long` = over 500 characters, reviewed by hand, `long_duplicate` = the same answer of over 40 characters already appeared earlier in the same cue (later copies only; short repeated answers are kept), and `rejected_hit` = the answer is from an MTurk assignment that was rejected (`assignment_status` = Rejected), and `stray_cue` = the cue is not in the 2019 cue list, e.g. a wrapped line read as a cue; remove these). It is independent of `wiki_flag`.
 - `review/long_answers_over_500.csv` lists the answers covered by `very_long`.
 
 ## Processing steps

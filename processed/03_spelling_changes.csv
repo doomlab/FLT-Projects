@@ -23,7 +23,6 @@ acheivement,achievement,hand_dictionary,6
 wallstreet,wall street,hand_dictionary,6
 activites,activities,hand_dictionary,6
 athelete,athlete,hand_dictionary,6
-iam,i am,hand_dictionary,6
 worshipped,worshiped,hand_dictionary,6
 achievment,achievement,hand_dictionary,6
 aluminium,aluminum,hand_dictionary,5
@@ -32,6 +31,7 @@ amoung,among,hand_dictionary,5
 alveoli,alveolar,hand_dictionary,5
 agression,aggression,hand_dictionary,5
 waiste,waist,hand_dictionary,5
+iam,i am,hand_dictionary,5
 alchol,alcohol,hand_dictionary,5
 writen,written,hand_dictionary,5
 ambience,ambiance,hand_dictionary,5
@@ -365,7 +365,6 @@ oology,zoology,hand_dictionary,1
 acetose,acetone,hand_dictionary,1
 accerbic,acerbic,hand_dictionary,1
 allwork,all work,hand_dictionary,1
-apostolate,postulate,hand_dictionary,1
 animatio,animation,hand_dictionary,1
 raws,raw,hand_dictionary,1
 appoinment,appointment,hand_dictionary,1
@@ -1018,13 +1017,11 @@ boyscouts,boy scouts,hand_fix,3
 boyscout,boy scout,hand_fix,3
 lighning,lightning,hand_fix,3
 pompei,pompeii,hand_fix,3
-wating,waiting,hand_fix,3
 diety,deity,hand_fix,3
 feirce,fierce,hand_fix,3
 carying,carrying,hand_fix,3
 stovetop,stove top,hand_fix,3
 kinde,kind,hand_fix,3
-matal,metal,hand_fix,3
 savy,savvy,hand_fix,3
 niagra,niagara,hand_fix,3
 beginng,beginning,hand_fix,3
@@ -1065,11 +1062,13 @@ migrane,migraine,hand_fix,3
 inground,in ground,hand_fix,3
 intangeable,intangible,hand_fix,3
 raquets,racquets,hand_fix,3
+wating,waiting,hand_fix,2
+matal,metal,hand_fix,1
 dont,do not,no_apostrophe,249
 cant,can not,no_apostrophe,217
 doesnt,does not,no_apostrophe,91
 lets,let us,no_apostrophe,52
-whats,what is,no_apostrophe,52
+whats,what is,no_apostrophe,51
 thats,that is,no_apostrophe,39
 wont,will not,no_apostrophe,34
 isnt,is not,no_apostrophe,31
@@ -1378,7 +1377,6 @@ omlete,omelet,old_suggestion_close,1
 musfi,music,old_suggestion_close,1
 resposibelity,responsibility,old_suggestion_close,1
 recouge,recourse,old_suggestion_close,1
-confidancy,confidant,old_suggestion_close,1
 frangance,fragrance,old_suggestion_close,1
 indesipline,indiscipline,old_suggestion_close,1
 conjusted,conjugated,old_suggestion_close,1
@@ -1389,7 +1387,6 @@ odience,obedience,old_suggestion_close,1
 faul,fail,old_suggestion_close,1
 uncontroable,uncontrollable,old_suggestion_close,1
 unsuceesful,unsuccessful,old_suggestion_close,1
-gussa,gussy,old_suggestion_close,1
 exxagerated,exaggerated,old_suggestion_close,1
 crimals,criminals,old_suggestion_close,1
 uncontroll,uncontrolled,old_suggestion_close,1
@@ -3858,7 +3855,6 @@ partcular,particular,symspell_confirmed,1
 uderstand,understand,symspell_confirmed,1
 promiscous,promiscuous,symspell_confirmed,1
 cleanless,cleanness,symspell_confirmed,1
-usign,using,symspell_confirmed,1
 disapearing,disappearing,symspell_confirmed,1
 embrodiery,embroidery,symspell_confirmed,1
 contreceptive,contraceptive,symspell_confirmed,1
@@ -4094,7 +4090,6 @@ partialy,partial,symspell_confirmed,1
 florals,floral,symspell_confirmed,1
 brekfast,breakfast,symspell_confirmed,1
 makinf,making,symspell_confirmed,1
-peomise,promise,symspell_confirmed,1
 vessil,vessel,symspell_confirmed,1
 truthness,truthiness,symspell_confirmed,1
 empathatic,empathetic,symspell_confirmed,1
@@ -6569,7 +6564,6 @@ bilding,building,symspell_rare,1
 goost,ghost,symspell_rare,1
 ovul,oval,symspell_rare,1
 rverse,reverse,symspell_rare,1
-sily,silk,symspell_rare,1
 carrom,carrot,symspell_rare,1
 indiating,indicating,symspell_rare,1
 figre,figure,symspell_rare,1
@@ -6577,7 +6571,6 @@ cicle,cycle,symspell_rare,1
 wothy,worthy,symspell_rare,1
 mathematica,mathematics,symspell_rare,1
 benfit,benefit,symspell_rare,1
-scientiste,scientists,symspell_rare,1
 freshnes,freshness,symspell_rare,1
 banu,bank,symspell_rare,1
 prant,print,symspell_rare,1
@@ -6654,15 +6647,11 @@ pryamid,pyramid,symspell_rare,1
 vantange,vantage,symspell_rare,1
 somoene,someone,symspell_rare,1
 tartt,tarot,symspell_rare,1
-tasak,task,symspell_rare,1
-ovca,orca,symspell_rare,1
-sakam,sakai,symspell_rare,1
 atmospher,atmosphere,symspell_rare,1
 presious,previous,symspell_rare,1
 oftain,obtain,symspell_rare,1
 frquency,frequency,symspell_rare,1
 untrustworty,untrustworthy,symspell_rare,1
-prodation,probation,symspell_rare,1
 equiptment,equipment,symspell_rare,1
 enciclopedia,encyclopedia,symspell_rare,1
 pagen,page,symspell_rare,1
@@ -6738,7 +6727,6 @@ manegers,managers,symspell_rare,1
 stais,stars,symspell_rare,1
 vension,version,symspell_rare,1
 pooja,poona,symspell_rare,1
-colog,color,symspell_rare,1
 cologned,cologne,symspell_rare,1
 clein,clean,symspell_rare,1
 judeo,jude,symspell_rare,1
@@ -6749,7 +6737,6 @@ organisar,organiser,symspell_rare,1
 erosed,erased,symspell_rare,1
 suberb,superb,symspell_rare,1
 hiils,hills,symspell_rare,1
-proverty,property,symspell_rare,1
 cellules,cellule,symspell_rare,1
 inclused,included,symspell_rare,1
 fulness,fullness,symspell_rare,1
