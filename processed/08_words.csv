@@ -1,4 +1,4 @@
-row_id,subject_id,cue,position,word,original_word,pos,times_in_answer,n_took,n_final
+row_id,subject_id,cue,position,word,original_word,pos,times_in_answer,n_answered,n_final
 1,1,finger,1,food,foods,NOUN,1,390,361
 1,1,finger,2,paint,paint,NOUN,1,390,361
 1,1,finger,3,hand,hands,NOUN,1,390,361
