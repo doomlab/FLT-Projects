@@ -1,0 +1,14 @@
+,16% only,16% or top five (2019 rule)
+pairs with a cosine > 0 in the original,40107.0,40107.0
+pairs with a cosine > 0 in the new,17326.0,22411.0
+pairs in both,14161.0,17210.0
+pairs only in the original,25946.0,22897.0
+pairs only in the new,3165.0,5201.0
+"mean cosine, original (pairs in both)",0.362,0.36
+"mean cosine, new (pairs in both)",0.361,0.353
+"Pearson r, pairs in both",0.908,0.901
+"Spearman rho, pairs in both",0.91,0.901
+"mean absolute difference, pairs in both",0.052,0.052
+"Pearson r, all pairs (missing = 0)",0.436,0.452
+mean share of the original top-10 neighbours also in the new top 10,0.519,0.572
+cues in that comparison,2151.0,2329.0

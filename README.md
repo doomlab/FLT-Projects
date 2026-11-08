@@ -43,6 +43,7 @@ Run in order with the `flt-nlp` environment (`environment.yml`; then `python -m 
 | `07_stop_words.ipynb` | `07_stopwords.csv` | Tidies odd tokens, removes stop and filler words and the cue word. Cues that are themselves stop words (`on`, `above`, ...) keep theirs (`07_exempt_cues.csv`) |
 | `08_split_words.ipynb` | `08_words.csv` | One row per person, cue and word, with `position`; repeated words in an answer kept once |
 | `09_cue_feature_counts.ipynb` | `09_cue_feature_counts.csv` | Final summary: for every cue and word, how many people listed it (`count`, `prop_final`, `prop_answered`, `mean_position`); nothing is filtered out |
+| `10_compare_cosines.ipynb` | `10_cosine_comparison.csv`, `10_cosine_summary.csv`, `10_cosine_comparison.png` | Compares cue-cue cosines from the new processing (features at 16%, and 16% or top five) with the original 2019 root cosines |
 
 `row_id` (the row in `all_data.csv`) follows every answer through all steps.
 
