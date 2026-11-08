@@ -47,3 +47,5 @@ Run in order with the `flt-nlp` environment (`environment.yml`; then `python -m 
 
 
 `08_words.csv` also has `n_answered` (people who answered the cue, before any exclusions) and `n_final` (people who still have a word for it); `08_cue_counts.csv` has both for every cue. Use `n_final`, not the 2019 N values, for shares. Cues with a small `n_final` (for example `something`, `soda`, `cracker`, where workers pasted dictionary definitions) have very little usable data.
+
+**Worker IDs:** MTurk worker ids are hashed with SHA-256 and a secret salt (`raw_data_nosync/salt.txt`, not tracked). Keep a private copy of the salt; it is only needed to regenerate the same ids from the raw MTurk files, not to use the data.
