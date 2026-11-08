@@ -26,3 +26,22 @@ Rows are never dropped for this; use the columns to exclude them in later steps.
 - `wiki_method`: how `wiki_flag` was determined. `exact`/`fuzzy` (line-by-line comparison; `fuzzy` when line counts differ), `aligned` (spell-checked and `_fixed` files lost their line breaks, so raw words were aligned to the kept text), `*_text_similar` (the answer matched the 2019 raw line only approximately, since those files were lightly cleaned), and `answer_not_in_raw` / `cue_not_in_raw` (no decision available).
 - `wiki_rule`: text patterns typical of pasted definitions (`numbered_senses`, `semicolon_definition`, `pos_tag`, `web_text`, `very_long` = over 500 characters, reviewed by hand, `long_duplicate` = the same answer of over 40 characters already appeared earlier in the same cue (later copies only; short repeated answers are kept), and `stray_cue` = the cue is not in the 2019 cue list, e.g. a wrapped line read as a cue; remove these). It is independent of `wiki_flag`.
 - `review/long_answers_over_500.csv` lists the answers covered by `very_long`.
+
+## Processing steps
+
+Run in order with the `flt-nlp` environment (`environment.yml`; then `python -m spacy download en_core_web_sm`). Each notebook reads the previous file in `processed/` and writes the next one.
+
+| Notebook | Output | What it does |
+|---|---|---|
+| `00_anonymize_create_ss.ipynb` | `raw_data_all/all_data.csv` | Builds one long file from every source; adds `wiki_flag`, `wiki_method`, `wiki_rule` |
+| `01_filter_clean.ipynb` | `01_filtered.csv` | Removes flagged rows (`01_removed.csv`), cleans and lowercases text |
+| `02_expand_contractions.ipynb` | `02_contractions.csv` | "don't" to "do not" |
+| `03_spell_check.ipynb` | `03_spelling.csv` | Spelling; edit `output_data/spelling_hand_fixes.csv` to override; review `03_spelling_changes.csv` and `03_spelling_unresolved.csv` |
+| `04_expand_abbreviations.ipynb` | `04_abbreviations.csv` | "dr" to "doctor", "rd" to "road", etc. |
+| `05_lemmatize.ipynb` | `05_lemmatized.csv` | spaCy lemmas ("legs" to "leg") |
+| `06_spell_out_numbers.ipynb` | `06_numbers.csv` | "4" to "four" |
+| `07_stop_words.ipynb` | `07_stopwords.csv` | Tidies odd tokens, removes stop and filler words and the cue word. Cues that are themselves stop words (`on`, `above`, ...) keep theirs (`07_exempt_cues.csv`) |
+| `08_split_words.ipynb` | `08_words.csv` | One row per person, cue and word, with `position`; repeated words in an answer kept once |
+
+`row_id` (the row in `all_data.csv`) follows every answer through all steps.
+

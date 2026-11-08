@@ -7292,7 +7292,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 7386,125,whole,complete full nothing omit,complete|complete|ADJ full|full|ADJ nothing|nothing|PRON omitted|omit|VERB
 7387,125,fighter,opposite peaceful aggressive hurt determine give angry,opposite|opposite|ADJ peaceful|peaceful|ADJ aggressive|aggressive|ADJ hurt|hurt|VERB determined|determine|VERB give|give|VERB angry|angry|ADJ
 7388,125,muscle,human body protein different type bodybuilder look big increase strength opposite flab strong,human|human|ADJ body|body|NOUN proteins|protein|NOUN different|different|ADJ types|type|NOUN bodybuilder|bodybuilder|NOUN look|look|VERB big|big|ADJ increases|increase|VERB strength|strength|NOUN opposite|opposite|ADJ flab|flab|NOUN strong|strong|ADJ
-7389,125,penny,copper color thin nickel big dime 1 100th dollar president us currency worth coin,copper|copper|NOUN color|color|NOUN thinner|thin|ADJ nickel|nickel|NOUN bigger|big|ADJ dime|dime|NOUN 1/100th|1 100th|NUM dollar|dollar|NOUN president|president|NOUN us|us|PROPN currency|currency|NOUN worth|worth|ADJ coin|coin|NOUN
+7389,125,penny,copper color thin nickel big dime 1 100th dollar president us currency worth coin,copper|copper|NOUN color|color|NOUN thinner|thin|ADJ nickel|nickel|NOUN bigger|big|ADJ dime|dime|NOUN 1/100th|1|NUM 1/100th|100th|NUM dollar|dollar|NOUN president|president|NOUN us|us|PROPN currency|currency|NOUN worth|worth|ADJ coin|coin|NOUN
 7390,125,train,heavy mass transit engine push pull car might caboose loud flatten coin loud whistle mass smash car,heavy|heavy|ADJ mass|mass|NOUN transit|transit|NOUN engine|engine|NOUN push|push|VERB pull|pull|VERB cars|car|NOUN might|might|AUX caboose|caboose|NOUN loud|loud|ADJ flatten|flatten|VERB coin|coin|NOUN loud|loud|ADJ whistle|whistle|NOUN mass|mass|NOUN smash|smash|VERB car|car|NOUN
 7391,125,glasses,help person see rest nose give optical clarity find cupboard set dining table hold liquid delicate expensive give uv protection element style,help|help|VERB person|person|NOUN see|see|VERB rest|rest|VERB nose|nose|NOUN give|give|VERB optical|optical|ADJ clarity|clarity|NOUN found|find|VERB cupboard|cupboard|NOUN set|set|VERB dining|dining|NOUN table|table|NOUN hold|hold|VERB liquid|liquid|NOUN delicate|delicate|ADJ expensive|expensive|ADJ give|give|VERB uv|uv|ADP protection|protection|NOUN element|element|NOUN style|style|NOUN
 7392,125,nurse,male female doctor aide less education pay less doctor work hospital wear white outfit give patient care,male|male|ADJ female|female|ADJ doctor|doctor|NOUN aide|aide|NOUN less|less|ADJ education|education|NOUN pays|pay|VERB less|less|ADJ doctor|doctor|NOUN works|work|VERB hospital|hospital|NOUN wears|wear|VERB white|white|ADJ outfit|outfit|NOUN gives|give|VERB patient|patient|ADJ care|care|NOUN
@@ -40486,7 +40486,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 41191,676,answer,question knowledge,question|question|NOUN knowledge|knowledge|NOUN
 41192,676,confess,bad alibi jail blame lie,bad|bad|ADJ alibi|alibi|NOUN jail|jail|NOUN blame|blame|NOUN lie|lie|VERB
 41193,676,concert,fun loud musical relaxing energetic people light,fun|fun|PROPN loud|loud|ADJ musical|musical|ADJ relaxing|relaxing|NOUN energetic|energetic|ADJ people|people|NOUN lights|light|NOUN
-41195,676,quart,1 4th part whole,1/4th|1 4th|NUM part|part|NOUN whole|whole|NOUN
+41195,676,quart,1 4th part whole,1/4th|1|NUM 1/4th|4th|NUM part|part|NOUN whole|whole|NOUN
 41196,676,storage,space time long time short time trip,space|space|NOUN time|time|NOUN long|long|ADJ time|time|NOUN short|short|ADJ time|time|NOUN trip|trip|NOUN
 41197,676,catholic,religion god belief worship,religion|religion|NOUN god|god|PROPN belief|belief|NOUN worship|worship|NOUN
 41198,676,prisoner,jail capture captive ransom terrorist criminal,jail|jail|NOUN captured|capture|VERB captive|captive|ADJ ransom|ransom|NOUN terrorist|terrorist|ADJ criminal|criminal|ADJ
@@ -48152,7 +48152,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 49091,883,sexy,exotic,exotic|exotic|ADJ
 49092,883,vanish,clean tile,cleans|clean|VERB tiles|tile|NOUN
 49093,767,wool,soft curly hair form fleece sheep,soft|soft|ADJ curly|curly|ADJ hair|hair|NOUN forms|form|VERB fleece|fleece|NOUN sheep|sheep|NOUN
-49094,767,date,"day month,17 12 1989","day|day|NOUN month,17/12/1989|month,17 12 1989|NOUN"
+49094,767,date,"day month,17 12 1989","day|day|NOUN month,17/12/1989|month,17|NOUN month,17/12/1989|12|NOUN month,17/12/1989|1989|NOUN"
 49095,767,wife,unmarried life partner,unmarried|unmarried|ADJ life|life|NOUN partner|partner|NOUN
 49096,767,sexy,wish look,wish|wish|VERB look|look|VERB
 49097,767,vanish,disappear sight quickly,disappear|disappear|VERB sight|sight|NOUN quickly|quickly|ADV
@@ -62546,7 +62546,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 64449,1417,cologne,mildly perfume liquid,mildly|mildly|ADV perfumed|perfume|VERB liquid|liquid|NOUN
 64450,1417,mail,letter parcel etc deliver postal service system deliver send email monitor listen cb transmission flexible mirror,letters|letter|NOUN parcels|parcel|NOUN etc|etc|X delivered|deliver|VERB postal|postal|ADJ service|service|NOUN system|system|NOUN deliver|deliver|VERB send|send|VERB email|email|NOUN monitor|monitor|VERB listen|listen|VERB cb|cb|PROPN transmission|transmission|NOUN flexible|flexible|ADJ mirror|mirror|NOUN
 64451,1417,act,law decree division play behave pretend perform play movie behave manner appropriate one maturity,law|law|NOUN decree|decree|NOUN division|division|NOUN play|play|NOUN behave|behave|VERB pretend|pretend|VERB perform|perform|VERB play|play|NOUN movie|movie|NOUN behave|behave|VERB manner|manner|NOUN appropriate|appropriate|ADJ one|one|NUM maturity|maturity|NOUN
-64452,1417,questions,1 sentence form intend elicit information two matter discussion dispute three ask four doubt dispute,1.sentence|1 sentence|NUM form|form|NOUN intended|intend|VERB elicit|elicit|VERB information|information|NOUN 2|two|NUM matter|matter|NOUN discussion|discussion|NOUN dispute|dispute|NOUN 3|three|NUM ask|ask|VERB 4|four|NUM doubt|doubt|VERB dispute|dispute|VERB
+64452,1417,questions,1 sentence form intend elicit information two matter discussion dispute three ask four doubt dispute,1.sentence|1|NUM 1.sentence|sentence|NUM form|form|NOUN intended|intend|VERB elicit|elicit|VERB information|information|NOUN 2|two|NUM matter|matter|NOUN discussion|discussion|NOUN dispute|dispute|NOUN 3|three|NUM ask|ask|VERB 4|four|NUM doubt|doubt|VERB dispute|dispute|VERB
 64458,1322,fishing,sportfishing boat eagle gear license line expedition troubled water,sportfishing|sportfishing|ADJ boat|boat|NOUN eagle|eagle|NOUN gear|gear|NOUN license|license|NOUN line|line|NOUN expedition|expedition|NOUN troubled|troubled|ADJ waters|water|NOUN
 64459,1322,cologne,eau de water flattery water colombia colombian,eau|eau|PROPN de|de|PROPN water|water|NOUN flattery|flattery|NOUN water|water|PROPN colombia|colombia|PROPN colombian|colombian|PROPN
 64460,1322,mail,ring armor chain chain armor chain armour ring armour ring post service postal service billet berth military post,ring|ring|NOUN armor|armor|NOUN chain|chain|NOUN chain|chain|NOUN armor|armor|NOUN chain|chain|NOUN armour|armour|NOUN ring|ring|NOUN armour|armour|NOUN ring|ring|NOUN post|post|NOUN service|service|NOUN postal|postal|ADJ service|service|NOUN billet|billet|NOUN berth|berth|NOUN military|military|ADJ post|post|NOUN
@@ -62926,7 +62926,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 64908,1315,busy,work time free time,work|work|NOUN time|time|NOUN free|free|ADJ time|time|NOUN
 64909,1315,city,place form industry office educational institution situate trivandrum neyyattinkara differ district,place|place|NOUN forms|form|NOUN industry|industry|NOUN office|office|NOUN educational|educational|ADJ institution|institution|NOUN situated|situate|VERB trivandrum|trivandrum|PROPN neyyattinkara|neyyattinkara|PROPN differ|differ|VERB district|district|NOUN
 64910,1315,tool,kind mechanical instrument specific work drill machine screw driver blare etc,kinds|kind|NOUN mechanical|mechanical|ADJ instrument|instrument|NOUN specific|specific|ADJ work|work|NOUN drill|drill|NOUN machine|machine|NOUN screw|screw|PROPN driver|driver|NOUN blare|blare|VERB etc|etc|X
-64911,1315,lunch,eat twelve point zero zero pm 1 00pm mid day food eat type rich chapatti eat midday,eat|eat|VERB 12.00|twelve|NUM 12.00|point|NUM 12.00|zero|NUM 12.00|zero|NUM pm|pm|NOUN 1.00pm|1 00pm|NUM mid|mid|ADJ day|day|NOUN food|food|NOUN eat|eat|VERB types|type|NOUN rich|rich|ADJ chapatti|chapatti|PROPN eat|eat|VERB midday|midday|NOUN
+64911,1315,lunch,eat twelve point zero zero pm 1 00pm mid day food eat type rich chapatti eat midday,eat|eat|VERB 12.00|twelve|NUM 12.00|point|NUM 12.00|zero|NUM 12.00|zero|NUM pm|pm|NOUN 1.00pm|1|NUM 1.00pm|00pm|NUM mid|mid|ADJ day|day|NOUN food|food|NOUN eat|eat|VERB types|type|NOUN rich|rich|ADJ chapatti|chapatti|PROPN eat|eat|VERB midday|midday|NOUN
 64912,1315,maker,producer manufacturer introduce item find,producer|producer|NOUN manufacturer|manufacturer|NOUN introduce|introduce|VERB item|item|NOUN found|find|VERB
 64913,864,busy,engage business important work,engaged|engage|VERB business|business|NOUN important|important|ADJ work|work|NOUN
 64914,864,city,large town,large|large|ADJ town|town|NOUN
@@ -63309,7 +63309,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 65326,1300,superior,high quality person take great responsibility person great excellency,higher|high|ADJ quality|quality|NOUN person|person|NOUN takes|take|VERB greater|great|ADJ responsibility|responsibility|NOUN person|person|NOUN great|great|ADJ excellency|excellency|NOUN
 65327,970,mud,sand soil water red colour slippery,sand|sand|NOUN soil|soil|NOUN water|water|NOUN red|red|ADJ coloured|colour|VERB slippery|slippery|NOUN
 65328,970,indian,asian coffee brown colour medium figured knowledgeable person,asian|asian|ADJ coffee|coffee|NOUN brown|brown|NOUN coloured|colour|VERB medium|medium|NOUN figured|figured|ADJ knowledgeable|knowledgeable|ADJ person|person|NOUN
-65329,970,best,"superlative good class no 1,top rat","superlative|superlative|VERB good|good|ADJ class|class|NOUN no.1,top|no 1,top|ADV rated|rat|VERB"
+65329,970,best,"superlative good class 1,top rat","superlative|superlative|VERB good|good|ADJ class|class|NOUN no.1,top|1,top|ADV rated|rat|VERB"
 65330,970,mountains,hill chill slippery road hair pin bend,hills|hill|NOUN chilled|chill|VERB slippery|slippery|ADJ roads|road|NOUN hair|hair|NOUN pin|pin|NOUN bends|bend|NOUN
 65331,970,superior,degree lake mount mother,degree|degree|NOUN lake|lake|NOUN mount|mount|PROPN mother|mother|NOUN
 65332,832,mud,wet dirt brown muck,wet|wet|ADJ dirt|dirt|NOUN brown|brown|ADJ muck|muck|NOUN
@@ -66145,7 +66145,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 68726,818,noise,unwanted sound unbearable audible irritate,unwanted|unwanted|ADJ sound|sound|NOUN unbearable|unbearable|ADJ audible|audible|ADJ irritating|irritate|VERB
 68727,818,legend,great known person field expert famous respected,great|great|ADJ known|known|ADJ person|person|NOUN field|field|NOUN expert|expert|NOUN famous|famous|ADJ respected|respected|ADJ
 68729,970,in,inner allow to under a hide,inner|inner|ADJ allow|allow|VERB to|to|PART under|under|ADP a|a|DET hide|hide|NOUN
-68730,970,winner,"successor no 1,get gold medal leader sport","successor|successor|PROPN no.1,gets|no 1,get|NOUN gold|gold|NOUN medal|medal|NOUN leader|leader|NOUN sports|sport|NOUN"
+68730,970,winner,"successor 1,get gold medal leader sport","successor|successor|PROPN no.1,gets|1,get|NOUN gold|gold|NOUN medal|medal|NOUN leader|leader|NOUN sports|sport|NOUN"
 68731,970,noise,pollution count decimal heart beat higher,pollution|pollution|NOUN count|count|VERB decimals|decimal|NOUN heart|heart|NOUN beat|beat|VERB higher|higher|ADV
 68732,970,legend,relate history ancient miracle old story,related|relate|VERB history|history|NOUN ancient|ancient|ADJ miracles|miracle|NOUN older|old|ADJ stories|story|NOUN
 68734,1282,in,amid among cool hip inside enter,amid|amid|ADP among|among|ADP cool|cool|ADJ hip|hip|NOUN inside|inside|ADV enter|enter|VERB
@@ -90909,7 +90909,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 94221,3112,caboose,last car rear end backside,last|last|ADJ car|car|NOUN rear|rear|ADJ end|end|NOUN backside|backside|VERB
 94222,3112,caffeine,substance hyper soda energy drink etc,substance|substance|NOUN hyper|hyper|ADJ sodas|soda|NOUN energy|energy|NOUN drinks|drink|NOUN etc|etc|X
 94223,3112,champagne,bubbly wine drink,bubbly|bubbly|NOUN wine|wine|NOUN drink|drink|VERB
-94224,3112,century,one hundred year age 1 10th millennium,100|one|NUM 100|hundred|NUM years|year|NOUN age|age|NOUN 1/10th|1 10th|NUM millennium|millennium|NOUN
+94224,3112,century,one hundred year age 1 10th millennium,100|one|NUM 100|hundred|NUM years|year|NOUN age|age|NOUN 1/10th|1|NUM 1/10th|10th|NUM millennium|millennium|NOUN
 94225,3112,combine,together add take one substance mix stir together,together|together|ADV add|add|VERB take|take|VERB one|one|NUM substance|substance|NOUN mix|mix|VERB stir|stir|VERB together|together|ADV
 94226,3113,caboose,cabin car ship galley galley,cabin|cabin|NOUN car|car|NOUN ship|ship|NOUN galley|galley|NOUN galley|galley|NOUN
 94227,3113,caffeine,battery acid brew cafã cafã au last,battery|battery|NOUN acid|acid|NOUN brew|brew|NOUN cafã|cafã|VERB cafã|cafã|VERB au|au|INTJ last|last|ADV
@@ -108322,7 +108322,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 111896,6648,inlet,route waterway,route|route|NOUN waterway|waterway|NOUN
 111897,6648,latin,old language predecessor english long speak official language,old|old|ADJ language|language|NOUN predecessor|predecessor|NOUN english|english|PROPN longer|long|ADV spoken|speak|VERB official|official|ADJ language|language|NOUN
 111898,6649,instinct,gut feeling idea talent,gut|gut|VERB feeling|feeling|NOUN idea|idea|NOUN talent|talent|NOUN
-111899,6649,hour,time sixty minute 1 24th day,time|time|NOUN 60|sixty|NUM minutes|minute|NOUN 1/24th|1 24th|NUM day|day|NOUN
+111899,6649,hour,time sixty minute 1 24th day,time|time|NOUN 60|sixty|NUM minutes|minute|NOUN 1/24th|1|NUM 1/24th|24th|NUM day|day|NOUN
 111900,6649,interview,informative session series question answer,informative|informative|ADJ session|session|NOUN series|series|NOUN questions|question|NOUN answers|answer|NOUN
 111901,6649,inlet,passage place boat,passage|passage|NOUN place|place|NOUN boats|boat|NOUN
 111902,6649,latin,old language modern language also people america hispanic descent,old|old|ADJ language|language|NOUN modern|modern|ADJ languages|language|NOUN also|also|ADV people|people|NOUN america|america|PROPN hispanic|hispanic|ADJ descent|descent|NOUN
@@ -113916,7 +113916,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 117571,7784,mice,animal fur p,animal|animal|NOUN fur|fur|PRON pest|p|ADJ
 117572,7784,master,proficient certain task talente,proficient|proficient|ADJ certain|certain|ADJ task|task|NOUN talented|talente|VERB
 117573,7784,mummy,fake wrap dead,fake|fake|ADJ wrapped|wrap|VERB dead|dead|ADJ
-117574,7784,minutes,sixty second 1 60th hour measurement time,60|sixty|NUM seconds|second|NOUN 1/60th|1 60th|VERB hour|hour|NOUN measurement|measurement|NOUN time|time|NOUN
+117574,7784,minutes,sixty second 1 60th hour measurement time,60|sixty|NUM seconds|second|NOUN 1/60th|1|VERB 1/60th|60th|VERB hour|hour|NOUN measurement|measurement|NOUN time|time|NOUN
 117575,7784,mystery,unknown novel take reader end series clue,unknown|unknown|ADJ novel|novel|NOUN takes|take|VERB reader|reader|NOUN end|end|NOUN series|series|NOUN clues|clue|NOUN
 117576,7785,mice,small rodent,smaller|small|ADJ rodent|rodent|NOUN
 117577,7785,master,highly educate finish difficult task,highly|highly|ADV educated|educate|VERB finished|finish|VERB difficult|difficult|ADJ task|task|NOUN
@@ -115613,7 +115613,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 119288,8127,navigator,driver map reader planner,driver|driver|NOUN map|map|NOUN reader|reader|NOUN planner|planner|NOUN
 119289,8127,orchestra,band group play instrument,band|band|PROPN group|group|NOUN plays|play|VERB instruments|instrument|NOUN
 119290,8128,noon,twelve pm middle day lunchtime,12|twelve|NUM pm|pm|NOUN middle|middle|NOUN day|day|NOUN lunchtime|lunchtime|VERB
-119291,8128,nickel,money denote 1 20th dollar,money|money|NOUN denoting|denote|VERB 1/20th|1 20th|NUM dollar|dollar|NOUN
+119291,8128,nickel,money denote 1 20th dollar,money|money|NOUN denoting|denote|VERB 1/20th|1|NUM 1/20th|20th|NUM dollar|dollar|NOUN
 119292,8128,option,choice alternative selection,choice|choice|NOUN alternative|alternative|ADJ selection|selection|NOUN
 119293,8128,navigator,somebody tell direction boat gps map compass,somebody|somebody|PRON tells|tell|VERB directions|direction|NOUN boat|boat|NOUN gps|gps|NOUN map|map|VERB compass|compass|VERB
 119294,8128,orchestra,group symphonic musical instrument,group|group|NOUN symphonic|symphonic|ADJ musical|musical|ADJ instruments|instrument|NOUN
@@ -117002,7 +117002,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 120692,8408,ornament,christmas tree decorate,christmas|christmas|PROPN tree|tree|NOUN decorate|decorate|VERB
 120693,8408,parking,stop sit,stop|stop|VERB sit|sit|VERB
 120694,8409,paddy,place grow rice find china,place|place|NOUN grow|grow|VERB rice|rice|NOUN found|find|VERB china|china|PROPN
-120695,8409,ounce,unit weight 1 16th pound,unit|unit|NOUN weight|weight|NOUN 1/16th|1 16th|NUM pound|pound|NOUN
+120695,8409,ounce,unit weight 1 16th pound,unit|unit|NOUN weight|weight|NOUN 1/16th|1|NUM 1/16th|16th|NUM pound|pound|NOUN
 120696,8409,permit,allow happen,allow|allow|VERB happen|happen|VERB
 120697,8409,ornament,decorative antithesis utilitarian christmas gift package bow lace dress pretty colorful attractive,decorative|decorative|ADJ antithesis|antithesis|NOUN utilitarian|utilitarian|ADJ christmas|christmas|PROPN gift|gift|NOUN package|package|NOUN bow|bow|NOUN lace|lace|NOUN dress|dress|NOUN pretty|pretty|ADJ colorful|colorful|ADJ attractive|attractive|ADJ
 120698,8409,parking,stop car specific location teenager private area makeout,stopping|stop|VERB car|car|NOUN specific|specific|ADJ location|location|NOUN teenagers|teenager|NOUN private|private|ADJ area|area|NOUN makeout|makeout|ADP
@@ -117052,7 +117052,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 120742,8418,ornament,decoration adornment attractive shiny attention,decoration|decoration|NOUN adornment|adornment|NOUN attractive|attractive|ADJ shiny|shiny|ADJ attention|attention|NOUN
 120743,8418,parking,act car rest place leave car,act|act|NOUN car|car|NOUN rest|rest|VERB place|place|NOUN leave|leave|VERB car|car|NOUN
 120744,8419,paddy,pat pay add,pat|pat|PROPN pay|pay|NOUN add|add|VERB
-120745,8419,ounce,liquid measure 1 8th cup,liquid|liquid|ADJ measure|measure|NOUN 1/8th|1 8th|NUM cup|cup|NOUN
+120745,8419,ounce,liquid measure 1 8th cup,liquid|liquid|ADJ measure|measure|NOUN 1/8th|1|NUM 1/8th|8th|NUM cup|cup|NOUN
 120746,8419,permit,verb noun verb act allow happen noun license document,verb|verb|NOUN noun|noun|NOUN verb|verb|NOUN act|act|NOUN allowing|allow|VERB happen|happen|VERB noun|noun|NOUN license|license|NOUN document|document|NOUN
 120747,8419,ornament,decoration,decoration|decoration|NOUN
 120748,8419,parking,maneuver order position seat stand station store,maneuver|maneuver|NOUN order|order|NOUN position|position|NOUN seat|seat|NOUN stand|stand|VERB station|station|NOUN store|store|NOUN
@@ -163046,7 +163046,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 167467,12925,forever,never end,never|never|ADV ending|end|VERB
 167468,12926,forever,long time definite never end,long|long|ADJ time|time|NOUN definite|definite|ADJ never|never|ADV ending|end|VERB
 167469,12927,forever,friend family long time,friends|friend|NOUN family|family|NOUN long|long|ADJ time|time|NOUN
-167470,12928,forever,never end always continuous circle pie(3 14 property humanity non attainable abstract concept relate time love idea afterlife religion,never|never|ADV ending|end|VERB always|always|ADV continuous|continuous|ADJ circle|circle|NOUN pie(3.14|pie(3 14|NUM property|property|NOUN humanity|humanity|NOUN non|non|ADJ attainable|attainable|ADJ abstract|abstract|ADJ concept|concept|NOUN related|relate|VERB time|time|NOUN love|love|NOUN ideas|idea|NOUN afterlife|afterlife|NOUN religion|religion|NOUN
+167470,12928,forever,never end always continuous circle pie(3 14 property humanity non attainable abstract concept relate time love idea afterlife religion,never|never|ADV ending|end|VERB always|always|ADV continuous|continuous|ADJ circle|circle|NOUN pie(3.14|pie(3|NUM pie(3.14|14|NUM property|property|NOUN humanity|humanity|NOUN non|non|ADJ attainable|attainable|ADJ abstract|abstract|ADJ concept|concept|NOUN related|relate|VERB time|time|NOUN love|love|NOUN ideas|idea|NOUN afterlife|afterlife|NOUN religion|religion|NOUN
 167471,12833,heavy,weight gym large fat muscle hard pick carry,weights|weight|NOUN gym|gym|NOUN large|large|ADJ fat|fat|ADJ muscles|muscle|NOUN hard|hard|ADJ pick|pick|VERB carry|carry|VERB
 167472,12834,heavy,weighty object,weighty|weighty|ADJ object|object|NOUN
 167473,12835,heavy,strong hard hold carry rock boulder grocery sometimes,strong|strong|ADJ hard|hard|ADJ hold|hold|VERB carry|carry|VERB rocks|rock|NOUN boulders|boulder|NOUN groceries|grocery|NOUN sometimes|sometimes|ADV
@@ -172811,7 +172811,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 177301,13266,attic,store roof area always hot cold huge scary,storing|store|VERB roof|roof|NOUN area|area|NOUN always|always|ADV hot|hot|ADJ cold|cold|ADJ huge|huge|ADJ scary|scary|ADJ
 177302,13267,attic,upstairs scary dark dingy cobwebs rat storage ghost hot window,upstairs|upstairs|ADJ scary|scary|ADJ dark|dark|ADJ dingy|dingy|ADJ cobwebs|cobwebs|NOUN rats|rat|NOUN storage|storage|NOUN ghosts|ghost|NOUN hot|hot|ADJ windows|window|NOUN
 177303,13268,attic,damp dark storage hot itchy insulation sometimes bedroom bug bat,damp|damp|PROPN dark|dark|ADJ storage|storage|NOUN hot|hot|ADJ itchy|itchy|ADJ insulation|insulation|NOUN sometimes|sometimes|ADV bedroom|bedroom|NOUN bugs|bug|NOUN bats|bat|NOUN
-177304,13202,average,addition item divide number item ex two math score one seventy five one ninety eight two seventy five 98) 2= approximate answer need also say normal common,addition|addition|NOUN items|item|NOUN divided|divide|VERB number|number|NOUN items|item|NOUN ex|ex|NOUN two|two|NUM math|math|NOUN scores|score|NOUN one|one|NUM 75|seventy|NUM 75|five|NUM one|one|NUM 98|ninety|NUM 98|eight|NUM two|two|NUM 75|seventy|NUM 75|five|NUM 98)/2=|98) 2=|NUM approximate|approximate|ADJ answer|answer|NOUN needed|need|VERB also|also|ADV say|say|VERB normal|normal|ADJ common|common|ADJ
+177304,13202,average,addition item divide number item ex two math score one seventy five one ninety eight two seventy five 98) 2= approximate answer need also say normal common,addition|addition|NOUN items|item|NOUN divided|divide|VERB number|number|NOUN items|item|NOUN ex|ex|NOUN two|two|NUM math|math|NOUN scores|score|NOUN one|one|NUM 75|seventy|NUM 75|five|NUM one|one|NUM 98|ninety|NUM 98|eight|NUM two|two|NUM 75|seventy|NUM 75|five|NUM 98)/2=|98)|NUM 98)/2=|2=|NUM approximate|approximate|ADJ answer|answer|NOUN needed|need|VERB also|also|ADV say|say|VERB normal|normal|ADJ common|common|ADJ
 177305,13203,average,normal blend standard boring stand shy norm,normal|normal|ADJ blends|blend|NOUN standard|standard|NOUN boring|boring|ADJ stand|stand|VERB shy|shy|ADJ norm|norm|NOUN
 177306,13204,average,median norm majority people middle,median|median|PROPN norm|norm|NOUN majority|majority|NOUN people|people|NOUN middle|middle|ADJ
 177307,13205,average,letter grade c normal nothing special blend,letter|letter|NOUN grade|grade|NOUN c|c|NOUN normal|normal|ADJ nothing|nothing|PRON special|special|ADJ blending|blend|VERB
@@ -172869,7 +172869,7 @@ row_id,subject_id,cue,answer_stopped,tokens
 177359,13257,average,normal subpar,normal|normal|ADJ subpar|subpar|NOUN
 177360,13258,average,alright ok boring,alright|alright|ADJ ok|ok|ADJ boring|boring|ADJ
 177361,13259,average,basic simple plain mediocre,basic|basic|ADJ simple|simple|ADJ plain|plain|ADJ mediocre|mediocre|ADJ
-177362,13260,average,median middle good bad c grades 70,median|median|PROPN middle|middle|ADJ good|good|ADJ bad|bad|ADJ c|c|X grades/70|grades 70|PROPN
+177362,13260,average,median middle good bad c grades 70,median|median|PROPN middle|middle|ADJ good|good|ADJ bad|bad|ADJ c|c|X grades/70|grades|PROPN grades/70|70|PROPN
 177363,13261,average,basic score grade normal median minimum,basic|basic|ADJ score|score|NOUN grade|grade|NOUN normal|normal|ADJ median|median|NOUN minimum|minimum|ADJ
 177364,13262,average,middle,middle|middle|ADJ
 177365,13263,average,test score medium seventy c,test|test|NOUN score|score|NOUN medium|medium|ADJ 70|seventy|NUM c|c|NOUN
