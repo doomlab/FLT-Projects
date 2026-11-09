@@ -29,6 +29,7 @@ Run in order with the `flt-nlp` conda environment (`environment.yml`, then `pyth
 | `09_cue_feature_counts.ipynb` | `09_cue_feature_counts.csv` | Counts for every cue-word pair (`count`, `prop_final`, `prop_answered`, `mean_position`) |
 | `10_compare_cosines.ipynb` | `10_cosine_*.csv/png` | Compares cue-cue cosines with the original 2019 root cosines |
 | `11_split_half_ceiling.ipynb` | `11_split_half_ceiling.csv`, `11_split_half_summary.csv` | How well two random halves of the people agree for each cue (top-10 feature-mass coverage): the ceiling for any method scored against these norms |
+| `12_merge_inflections.ipynb` | `12_cue_feature_counts_merged.csv`, `dictionaries/lemma_merge.csv` | Merges inflected forms the lemmatizer left apart into their base word (`gambling` → `gamble`), checked against WordNet. Adds `lemma` and `frequency_lemma` columns next to the original `feature` and `frequency_feature`. Words to keep separate are listed in `dictionaries/lemma_keep_separate.csv` |
 
 ## Folders
 
