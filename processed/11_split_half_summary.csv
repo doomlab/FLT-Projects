@@ -1,0 +1,11 @@
+,split-half coverage
+count,3720.0
+mean,86.9
+std,10.8
+min,37.5
+25%,80.4
+50%,88.8
+75%,95.9
+max,100.0
+cues scored,3720.0
+cues skipped (fewer than 20 people),2.0

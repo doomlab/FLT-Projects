@@ -28,6 +28,7 @@ Run in order with the `flt-nlp` conda environment (`environment.yml`, then `pyth
 | `08_split_words.ipynb` | `08_words.csv`, `08_cue_counts.csv` | One row per person, cue and word; a repeated word in an answer is kept once |
 | `09_cue_feature_counts.ipynb` | `09_cue_feature_counts.csv` | Counts for every cue-word pair (`count`, `prop_final`, `prop_answered`, `mean_position`) |
 | `10_compare_cosines.ipynb` | `10_cosine_*.csv/png` | Compares cue-cue cosines with the original 2019 root cosines |
+| `11_split_half_ceiling.ipynb` | `11_split_half_ceiling.csv`, `11_split_half_summary.csv` | How well two random halves of the people agree for each cue (top-10 feature-mass coverage): the ceiling for any method scored against these norms |
 
 ## Folders
 
